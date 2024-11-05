@@ -1,0 +1,3 @@
+2024-09-11T20:30:03+08:00 Synology_NAS synomkflvd[8352]: synomkflvd.cpp:217 status: sleep model
+2024-09-11T20:30:03+08:00 Synology_NAS synomkthumbd[8351]: synomkthumbd.cpp:391 status: sleep model
+2024-09-11T20:32:53+08:00 Synology_NAS synoindexd[6538]: synoidx_ipc_core.cpp:112 [Error] connect server: /tmp/synoindexnotifyd_sock

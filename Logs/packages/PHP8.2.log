@@ -1,0 +1,74 @@
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin preinst
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End preinst ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/mkdir -p /volume1/@appstore/PHP8.2 -m 755
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/mkdir -p /volume1/@appstore/PHP8.2 -m 755 ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/rm -rf /volume1/@appstore/PHP8.2
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/rm -rf /volume1/@appstore/PHP8.2 ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/mv -f /volume1/@tmp/synopkg/install.cZLx3G/package /volume1/@appstore/PHP8.2
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/mv -f /volume1/@tmp/synopkg/install.cZLx3G/package /volume1/@appstore/PHP8.2 ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/rm -rf /var/packages/PHP8.2
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/rm -rf /var/packages/PHP8.2 ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/mkdir -p /var/packages/PHP8.2 -m 755
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/mkdir -p /var/packages/PHP8.2 -m 755 ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/touch /var/packages/PHP8.2/installing
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/touch /var/packages/PHP8.2/installing ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/mv -f /volume1/@tmp/synopkg/install.cZLx3G/INFO /var/packages/PHP8.2/INFO
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/mv -f /volume1/@tmp/synopkg/install.cZLx3G/INFO /var/packages/PHP8.2/INFO ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/rm -rf /var/packages/PHP8.2/scripts
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/rm -rf /var/packages/PHP8.2/scripts ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/mv -f /volume1/@tmp/synopkg/install.cZLx3G/scripts /var/packages/PHP8.2/scripts
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/mv -f /volume1/@tmp/synopkg/install.cZLx3G/scripts /var/packages/PHP8.2/scripts ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/rm -rf /var/packages/PHP8.2/conf
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/rm -rf /var/packages/PHP8.2/conf ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin /bin/mv -f /volume1/@tmp/synopkg/install.cZLx3G/conf /var/packages/PHP8.2/conf
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End /bin/mv -f /volume1/@tmp/synopkg/install.cZLx3G/conf /var/packages/PHP8.2/conf ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin postinst
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End postinst ret=[0]
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 Begin start-stop-status start
+2024/09/11 20:09:25	install PHP8.2 8.2.21-0104 End start-stop-status start ret=[0]
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 Begin start-stop-status stop
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 End start-stop-status stop ret=[0]
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 Begin preuninst
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 End preuninst ret=[0]
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 Begin /bin/rm -rf /volume1/@appstore/PHP8.2
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 End /bin/rm -rf /volume1/@appstore/PHP8.2 ret=[0]
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 Begin /bin/rm -rf /volume1/@apptemp/PHP8.2
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 End /bin/rm -rf /volume1/@apptemp/PHP8.2 ret=[0]
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 Begin postuninst
+2024/09/11 20:28:44	uninstall PHP8.2 8.2.21-0104 End postuninst ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin preinst
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End preinst ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/mkdir -p /volume1/@appstore/PHP8.2 -m 755
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/mkdir -p /volume1/@appstore/PHP8.2 -m 755 ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/rm -rf /volume1/@appstore/PHP8.2
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/rm -rf /volume1/@appstore/PHP8.2 ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/mv -f /volume1/@tmp/synopkg/install.8V8ANd/package /volume1/@appstore/PHP8.2
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/mv -f /volume1/@tmp/synopkg/install.8V8ANd/package /volume1/@appstore/PHP8.2 ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/rm -rf /var/packages/PHP8.2
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/rm -rf /var/packages/PHP8.2 ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/mkdir -p /var/packages/PHP8.2 -m 755
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/mkdir -p /var/packages/PHP8.2 -m 755 ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/touch /var/packages/PHP8.2/installing
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/touch /var/packages/PHP8.2/installing ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/mv -f /volume1/@tmp/synopkg/install.8V8ANd/INFO /var/packages/PHP8.2/INFO
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/mv -f /volume1/@tmp/synopkg/install.8V8ANd/INFO /var/packages/PHP8.2/INFO ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/rm -rf /var/packages/PHP8.2/scripts
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/rm -rf /var/packages/PHP8.2/scripts ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/mv -f /volume1/@tmp/synopkg/install.8V8ANd/scripts /var/packages/PHP8.2/scripts
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/mv -f /volume1/@tmp/synopkg/install.8V8ANd/scripts /var/packages/PHP8.2/scripts ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/rm -rf /var/packages/PHP8.2/conf
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/rm -rf /var/packages/PHP8.2/conf ret=[0]
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 Begin /bin/mv -f /volume1/@tmp/synopkg/install.8V8ANd/conf /var/packages/PHP8.2/conf
+2024/09/23 23:33:20	install PHP8.2 8.2.21-0104 End /bin/mv -f /volume1/@tmp/synopkg/install.8V8ANd/conf /var/packages/PHP8.2/conf ret=[0]
+2024/09/23 23:33:22	install PHP8.2 8.2.21-0104 Begin postinst
+2024/09/23 23:33:22	install PHP8.2 8.2.21-0104 End postinst ret=[0]
+2024/09/23 23:33:22	install PHP8.2 8.2.21-0104 Begin start-stop-status start
+2024/09/23 23:33:22	install PHP8.2 8.2.21-0104 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger PHP8.2 8.2.21-0104 Begin start-stop-status stop
+2024/10/09 04:28:33	(system) trigger PHP8.2 8.2.21-0104 End start-stop-status stop ret=[0]
+2024/10/09 04:33:37	(system) trigger PHP8.2 8.2.21-0104 Begin start-stop-status start
+2024/10/09 04:33:37	(system) trigger PHP8.2 8.2.21-0104 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger PHP8.2 8.2.21-0104 Begin start-stop-status stop
+2024/11/05 00:53:14	(system) trigger PHP8.2 8.2.21-0104 End start-stop-status stop ret=[0]
+2024/11/05 07:06:44	(system) trigger PHP8.2 8.2.21-0104 Begin start-stop-status start
+2024/11/05 07:06:44	(system) trigger PHP8.2 8.2.21-0104 End start-stop-status start ret=[0]

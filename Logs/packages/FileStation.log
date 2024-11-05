@@ -1,0 +1,170 @@
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin preinst
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End preinst ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/mkdir -p /usr/local/packages/@appstore/FileStation -m 755
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/mkdir -p /usr/local/packages/@appstore/FileStation -m 755 ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/rm -rf /usr/local/packages/@appstore/FileStation
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/rm -rf /usr/local/packages/@appstore/FileStation ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/mv -f /run/synopkg/tmp/install.2yveHp/package /usr/local/packages/@appstore/FileStation
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/mv -f /run/synopkg/tmp/install.2yveHp/package /usr/local/packages/@appstore/FileStation ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/rm -rf /var/packages/FileStation
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/rm -rf /var/packages/FileStation ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/mkdir -p /var/packages/FileStation -m 755
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/mkdir -p /var/packages/FileStation -m 755 ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/touch /var/packages/FileStation/installing
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/touch /var/packages/FileStation/installing ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/mv -f /run/synopkg/tmp/install.2yveHp/INFO /var/packages/FileStation/INFO
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/mv -f /run/synopkg/tmp/install.2yveHp/INFO /var/packages/FileStation/INFO ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/rm -rf /var/packages/FileStation/scripts
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/rm -rf /var/packages/FileStation/scripts ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/mv -f /run/synopkg/tmp/install.2yveHp/scripts /var/packages/FileStation/scripts
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/mv -f /run/synopkg/tmp/install.2yveHp/scripts /var/packages/FileStation/scripts ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/rm -rf /var/packages/FileStation/conf
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/rm -rf /var/packages/FileStation/conf ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin /bin/mv -f /run/synopkg/tmp/install.2yveHp/conf /var/packages/FileStation/conf
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 End /bin/mv -f /run/synopkg/tmp/install.2yveHp/conf /var/packages/FileStation/conf ret=[0]
+2024/09/08 17:17:02	install FileStation 1.4.1-1559 Begin postinst
+2024/09/08 17:17:03	install FileStation 1.4.1-1559 End postinst ret=[0]
+2024/09/08 17:17:08	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/08 17:17:12	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/09 08:24:43	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/09 08:24:45	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/10 07:08:28	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/10 07:08:32	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/11 19:57:35	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/11 19:57:37	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/11 20:05:44	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/11 20:05:48	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/12 00:26:20	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/12 00:26:23	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/12 00:30:36	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/12 00:30:40	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/14 22:42:42	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/14 22:42:44	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/14 23:17:03	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/14 23:17:08	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/15 00:49:58	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/15 00:50:00	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/15 01:14:28	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/15 01:14:33	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/15 01:22:14	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/15 01:22:19	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/15 01:31:09	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/15 01:31:15	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/15 05:06:29	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/15 05:06:35	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/15 05:09:39	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/15 05:09:41	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/15 05:15:34	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/15 05:15:46	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/16 05:35:16	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/16 05:35:17	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/16 05:39:50	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/16 05:39:55	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/16 19:28:24	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/16 19:28:26	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/16 19:33:12	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/16 19:33:17	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/17 04:54:16	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/17 04:54:17	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/17 04:58:53	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/17 04:58:57	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/17 05:46:13	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/17 05:46:14	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/17 05:51:00	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/17 05:51:05	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/17 10:41:29	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/17 10:41:31	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/17 10:46:17	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/17 10:46:22	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/20 07:36:31	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/20 07:36:33	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/20 07:51:36	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/20 07:51:41	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/09/20 11:28:39	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/09/20 11:28:40	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/09/20 11:34:56	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/09/20 11:35:00	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/10/05 07:46:01	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/10/05 07:46:03	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/10/05 07:49:24	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/10/05 07:49:30	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/10/09 04:28:35	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/10/09 04:33:42	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/10/09 04:33:47	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status stop
+[pkg-FileStation-synovfsd] stopped.
+[pkg-FileStation-thumbd] stopped.
+2024/11/05 00:53:15	(system) trigger FileStation 1.4.1-1559 End start-stop-status stop ret=[0]
+2024/11/05 07:06:52	(system) trigger FileStation 1.4.1-1559 Begin start-stop-status start
+cp: cannot stat '/var/packages/FileStation/target//usr/share/dbus-1/services/gvfs-daemon.service': No such file or directory
+[pkg-FileStation-thumbd] started.
+2024/11/05 07:06:58	(system) trigger FileStation 1.4.1-1559 End start-stop-status start ret=[0]

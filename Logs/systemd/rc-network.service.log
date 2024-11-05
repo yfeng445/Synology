@@ -1,0 +1,730 @@
+2024-09-08T17:15:21-07:00 SynologyNAS synochecknetworkcfg[7829]: synochecknetworkcfg: Not Pass
+2024-09-08T17:15:21-07:00 SynologyNAS rc.network[7844]: 0
+2024-09-08T17:15:21-07:00 SynologyNAS rc.network[7844]: 0
+2024-09-08T17:15:21-07:00 SynologyNAS rc.network[7844]: 0
+2024-09-08T17:15:22-07:00 SynologyNAS rc.network[7752]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on SynologyNAS
+2024-09-08T17:15:22-07:00 SynologyNAS rc.network[7844]: Cannot find device "eth2"
+2024-09-08T17:15:22-07:00 SynologyNAS rc.network[7844]: Cannot find device "eth3"
+2024-09-08T17:15:22-07:00 SynologyNAS rc.network[7844]: Cannot find device "eth4"
+2024-09-08T17:15:22-07:00 SynologyNAS rc.network[7844]: Cannot find device "eth5"
+2024-09-08T17:15:22-07:00 SynologyNAS rc.network[7844]: Cannot find device "eth6"
+2024-09-08T17:15:22-07:00 SynologyNAS rc.network[7844]: Cannot find device "eth7"
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: No Ethernet interface has link.
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: unknown
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: [dhclient@eth0.service] started.
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: unknown
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: [dhclient@eth1.service] started.
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: collisions:0 txqueuelen:1000
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: memory 0x80600000-806fffff
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: collisions:0 txqueuelen:1000
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: memory 0x80400000-804fffff
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: lo        Link encap:Local Loopback
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: inet6 addr: ::1/128 Scope:Host
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: collisions:0 txqueuelen:1000
+2024-09-08T17:15:27-07:00 SynologyNAS rc.network[7844]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-08T17:15:37-07:00 SynologyNAS rc.network[7844]: Error: any valid address is expected rather than "NULL".
+2024-09-10T07:07:23+08:00 Synology_NAS synochecknetworkcfg[7117]: synochecknetworkcfg: Pass
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: 0
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: 0
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: 0
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7079]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: Cannot find device "eth2"
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: Cannot find device "eth3"
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: Cannot find device "eth4"
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: Cannot find device "eth5"
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: Cannot find device "eth6"
+2024-09-10T07:07:24+08:00 Synology_NAS rc.network[7150]: Cannot find device "eth7"
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: eth0 has link.
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: unknown
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: [dhclient@eth0.service] started.
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: unknown
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: [dhclient@eth1.service] started.
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: RX packets:2 errors:0 dropped:0 overruns:0 frame:0
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: collisions:0 txqueuelen:1000
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: RX bytes:120 (120.0 B)  TX bytes:0 (0.0 B)
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: memory 0x80600000-806fffff
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: collisions:0 txqueuelen:1000
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: memory 0x80400000-804fffff
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: lo        Link encap:Local Loopback
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: inet6 addr: ::1/128 Scope:Host
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: collisions:0 txqueuelen:1000
+2024-09-10T07:07:27+08:00 Synology_NAS rc.network[7150]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-10T07:07:37+08:00 Synology_NAS rc.network[7150]: Error: any valid address is expected rather than "NULL".
+2024-09-11T20:04:07+08:00 Synology_NAS synochecknetworkcfg[7205]: synochecknetworkcfg: Pass
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: 0
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: 0
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: 0
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7168]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: Cannot find device "eth2"
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: Cannot find device "eth3"
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: Cannot find device "eth4"
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: Cannot find device "eth5"
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: Cannot find device "eth6"
+2024-09-11T20:04:08+08:00 Synology_NAS rc.network[7332]: Cannot find device "eth7"
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: eth0 has link.
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: unknown
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: [dhclient@eth0.service] started.
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: unknown
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: [dhclient@eth1.service] started.
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: RX packets:1 errors:0 dropped:0 overruns:0 frame:0
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: collisions:0 txqueuelen:1000
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: RX bytes:60 (60.0 B)  TX bytes:0 (0.0 B)
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: memory 0x80600000-806fffff
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: collisions:0 txqueuelen:1000
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: memory 0x80400000-804fffff
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: lo        Link encap:Local Loopback
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: inet6 addr: ::1/128 Scope:Host
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: collisions:0 txqueuelen:1000
+2024-09-11T20:04:11+08:00 Synology_NAS rc.network[7332]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-11T20:04:21+08:00 Synology_NAS rc.network[7332]: Error: any valid address is expected rather than "NULL".
+2024-09-12T00:28:52+08:00 Synology_NAS synochecknetworkcfg[7496]: synochecknetworkcfg: Pass
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: 0
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: 0
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: 0
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7442]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: Cannot find device "eth2"
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: Cannot find device "eth3"
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: Cannot find device "eth4"
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: Cannot find device "eth5"
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: Cannot find device "eth6"
+2024-09-12T00:28:53+08:00 Synology_NAS rc.network[7607]: Cannot find device "eth7"
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: eth0 has link.
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: unknown
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: [dhclient@eth0.service] started.
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: unknown
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: [dhclient@eth1.service] started.
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: RX packets:2 errors:0 dropped:0 overruns:0 frame:0
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: TX packets:1 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: collisions:0 txqueuelen:1000
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: RX bytes:234 (234.0 B)  TX bytes:342 (342.0 B)
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: memory 0x80600000-806fffff
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: collisions:0 txqueuelen:1000
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: memory 0x80400000-804fffff
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: lo        Link encap:Local Loopback
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: inet6 addr: ::1/128 Scope:Host
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: collisions:0 txqueuelen:1000
+2024-09-12T00:28:57+08:00 Synology_NAS rc.network[7607]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-12T00:29:07+08:00 Synology_NAS rc.network[7607]: Error: any valid address is expected rather than "NULL".
+2024-09-14T23:15:17+08:00 Synology_NAS synochecknetworkcfg[7469]: synochecknetworkcfg: Pass
+2024-09-14T23:15:18+08:00 Synology_NAS rc.network[7526]: 0
+2024-09-14T23:15:18+08:00 Synology_NAS rc.network[7526]: 0
+2024-09-14T23:15:18+08:00 Synology_NAS rc.network[7526]: 0
+2024-09-14T23:15:19+08:00 Synology_NAS rc.network[7433]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-14T23:15:19+08:00 Synology_NAS rc.network[7526]: Cannot find device "eth2"
+2024-09-14T23:15:19+08:00 Synology_NAS rc.network[7526]: Cannot find device "eth3"
+2024-09-14T23:15:19+08:00 Synology_NAS rc.network[7526]: Cannot find device "eth4"
+2024-09-14T23:15:19+08:00 Synology_NAS rc.network[7526]: Cannot find device "eth5"
+2024-09-14T23:15:19+08:00 Synology_NAS rc.network[7526]: Cannot find device "eth6"
+2024-09-14T23:15:19+08:00 Synology_NAS rc.network[7526]: Cannot find device "eth7"
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: eth0 has link.
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: unknown
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: [dhclient@eth0.service] started.
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: RX packets:1 errors:0 dropped:0 overruns:0 frame:0
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: collisions:0 txqueuelen:1000
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: RX bytes:60 (60.0 B)  TX bytes:0 (0.0 B)
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: memory 0x80600000-806fffff
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: collisions:0 txqueuelen:1000
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: memory 0x80400000-804fffff
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: lo        Link encap:Local Loopback
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: inet6 addr: ::1/128 Scope:Host
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: collisions:0 txqueuelen:1000
+2024-09-14T23:15:22+08:00 Synology_NAS rc.network[7526]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-14T23:15:32+08:00 Synology_NAS rc.network[7526]: Error: any valid address is expected rather than "NULL".
+2024-09-15T01:12:43+08:00 Synology_NAS synochecknetworkcfg[7525]: synochecknetworkcfg: Pass
+2024-09-15T01:12:44+08:00 Synology_NAS rc.network[7566]: 0
+2024-09-15T01:12:44+08:00 Synology_NAS rc.network[7566]: 0
+2024-09-15T01:12:44+08:00 Synology_NAS rc.network[7566]: 0
+2024-09-15T01:12:45+08:00 Synology_NAS rc.network[7474]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-15T01:12:45+08:00 Synology_NAS rc.network[7566]: Cannot find device "eth2"
+2024-09-15T01:12:45+08:00 Synology_NAS rc.network[7566]: Cannot find device "eth3"
+2024-09-15T01:12:45+08:00 Synology_NAS rc.network[7566]: Cannot find device "eth4"
+2024-09-15T01:12:45+08:00 Synology_NAS rc.network[7566]: Cannot find device "eth5"
+2024-09-15T01:12:45+08:00 Synology_NAS rc.network[7566]: Cannot find device "eth6"
+2024-09-15T01:12:45+08:00 Synology_NAS rc.network[7566]: Cannot find device "eth7"
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: eth0 has link.
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: unknown
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: [dhclient@eth0.service] started.
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: collisions:0 txqueuelen:1000
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: memory 0x80600000-806fffff
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: collisions:0 txqueuelen:1000
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: memory 0x80400000-804fffff
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: lo        Link encap:Local Loopback
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: inet6 addr: ::1/128 Scope:Host
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: collisions:0 txqueuelen:1000
+2024-09-15T01:12:47+08:00 Synology_NAS rc.network[7566]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:12:57+08:00 Synology_NAS rc.network[7566]: Error: any valid address is expected rather than "NULL".
+2024-09-15T01:17:48+08:00 Synology_NAS synochecknetworkcfg[7559]: synochecknetworkcfg: Pass
+2024-09-15T01:17:49+08:00 Synology_NAS rc.network[7572]: 0
+2024-09-15T01:17:49+08:00 Synology_NAS rc.network[7572]: 0
+2024-09-15T01:17:49+08:00 Synology_NAS rc.network[7572]: 0
+2024-09-15T01:20:31+08:00 Synology_NAS synochecknetworkcfg[7519]: synochecknetworkcfg: Pass
+2024-09-15T01:20:31+08:00 Synology_NAS rc.network[7541]: 0
+2024-09-15T01:20:31+08:00 Synology_NAS rc.network[7541]: 0
+2024-09-15T01:20:31+08:00 Synology_NAS rc.network[7541]: 0
+2024-09-15T01:20:33+08:00 Synology_NAS rc.network[7473]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-15T01:20:32+08:00 Synology_NAS rc.network[7541]: Cannot find device "eth2"
+2024-09-15T01:20:32+08:00 Synology_NAS rc.network[7541]: Cannot find device "eth3"
+2024-09-15T01:20:32+08:00 Synology_NAS rc.network[7541]: Cannot find device "eth4"
+2024-09-15T01:20:32+08:00 Synology_NAS rc.network[7541]: Cannot find device "eth5"
+2024-09-15T01:20:32+08:00 Synology_NAS rc.network[7541]: Cannot find device "eth6"
+2024-09-15T01:20:32+08:00 Synology_NAS rc.network[7541]: Cannot find device "eth7"
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: eth0 has link.
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: unknown
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: [dhclient@eth0.service] started.
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: collisions:0 txqueuelen:1000
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: memory 0x80600000-806fffff
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: collisions:0 txqueuelen:1000
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: memory 0x80400000-804fffff
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: lo        Link encap:Local Loopback
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: inet6 addr: ::1/128 Scope:Host
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: collisions:0 txqueuelen:1000
+2024-09-15T01:20:35+08:00 Synology_NAS rc.network[7541]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:20:45+08:00 Synology_NAS rc.network[7541]: Error: any valid address is expected rather than "NULL".
+2024-09-15T01:29:24+08:00 Synology_NAS synochecknetworkcfg[7510]: synochecknetworkcfg: Pass
+2024-09-15T01:29:25+08:00 Synology_NAS rc.network[7581]: 0
+2024-09-15T01:29:25+08:00 Synology_NAS rc.network[7581]: 0
+2024-09-15T01:29:25+08:00 Synology_NAS rc.network[7581]: 0
+2024-09-15T01:29:26+08:00 Synology_NAS rc.network[7472]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-15T01:29:26+08:00 Synology_NAS rc.network[7581]: Cannot find device "eth2"
+2024-09-15T01:29:26+08:00 Synology_NAS rc.network[7581]: Cannot find device "eth3"
+2024-09-15T01:29:26+08:00 Synology_NAS rc.network[7581]: Cannot find device "eth4"
+2024-09-15T01:29:26+08:00 Synology_NAS rc.network[7581]: Cannot find device "eth5"
+2024-09-15T01:29:26+08:00 Synology_NAS rc.network[7581]: Cannot find device "eth6"
+2024-09-15T01:29:26+08:00 Synology_NAS rc.network[7581]: Cannot find device "eth7"
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: eth0 has link.
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: unknown
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: [dhclient@eth0.service] started.
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: collisions:0 txqueuelen:1000
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: memory 0x80600000-806fffff
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: collisions:0 txqueuelen:1000
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: memory 0x80400000-804fffff
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: lo        Link encap:Local Loopback
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: inet6 addr: ::1/128 Scope:Host
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: collisions:0 txqueuelen:1000
+2024-09-15T01:29:28+08:00 Synology_NAS rc.network[7581]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T01:29:38+08:00 Synology_NAS rc.network[7581]: Error: any valid address is expected rather than "NULL".
+2024-09-15T05:04:36+08:00 Synology_NAS synochecknetworkcfg[7151]: synochecknetworkcfg: Pass
+2024-09-15T05:04:38+08:00 Synology_NAS rc.network[7179]: 0
+2024-09-15T05:04:38+08:00 Synology_NAS rc.network[7179]: 0
+2024-09-15T05:04:38+08:00 Synology_NAS rc.network[7179]: 0
+2024-09-15T05:04:39+08:00 Synology_NAS rc.network[7105]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-15T05:04:39+08:00 Synology_NAS rc.network[7179]: Cannot find device "eth2"
+2024-09-15T05:04:39+08:00 Synology_NAS rc.network[7179]: Cannot find device "eth3"
+2024-09-15T05:04:39+08:00 Synology_NAS rc.network[7179]: Cannot find device "eth4"
+2024-09-15T05:04:39+08:00 Synology_NAS rc.network[7179]: Cannot find device "eth5"
+2024-09-15T05:04:39+08:00 Synology_NAS rc.network[7179]: Cannot find device "eth6"
+2024-09-15T05:04:39+08:00 Synology_NAS rc.network[7179]: Cannot find device "eth7"
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: eth0 has link.
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: unknown
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: [dhclient@eth0.service] started.
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: RX packets:1 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: collisions:0 txqueuelen:1000
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: RX bytes:60 (60.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: memory 0x80600000-806fffff
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: collisions:0 txqueuelen:1000
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: memory 0x80400000-804fffff
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: lo        Link encap:Local Loopback
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: inet6 addr: ::1/128 Scope:Host
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: collisions:0 txqueuelen:1000
+2024-09-15T05:04:42+08:00 Synology_NAS rc.network[7179]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T05:04:52+08:00 Synology_NAS rc.network[7179]: Error: any valid address is expected rather than "NULL".
+2024-09-15T05:13:38+08:00 Synology_NAS synochecknetworkcfg[7462]: synochecknetworkcfg: Pass
+2024-09-15T05:13:39+08:00 Synology_NAS rc.network[7508]: 0
+2024-09-15T05:13:39+08:00 Synology_NAS rc.network[7508]: 0
+2024-09-15T05:13:39+08:00 Synology_NAS rc.network[7508]: 0
+2024-09-15T05:13:40+08:00 Synology_NAS rc.network[7420]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-15T05:13:40+08:00 Synology_NAS rc.network[7508]: Cannot find device "eth2"
+2024-09-15T05:13:40+08:00 Synology_NAS rc.network[7508]: Cannot find device "eth3"
+2024-09-15T05:13:40+08:00 Synology_NAS rc.network[7508]: Cannot find device "eth4"
+2024-09-15T05:13:40+08:00 Synology_NAS rc.network[7508]: Cannot find device "eth5"
+2024-09-15T05:13:40+08:00 Synology_NAS rc.network[7508]: Cannot find device "eth6"
+2024-09-15T05:13:41+08:00 Synology_NAS rc.network[7508]: Cannot find device "eth7"
+2024-09-15T05:13:43+08:00 Synology_NAS rc.network[7508]: eth0 has link.
+2024-09-15T05:13:43+08:00 Synology_NAS rc.network[7508]: unknown
+2024-09-15T05:13:43+08:00 Synology_NAS rc.network[7508]: [dhclient@eth0.service] started.
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: RX packets:1 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: collisions:0 txqueuelen:1000
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: RX bytes:60 (60.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: memory 0x80600000-806fffff
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: collisions:0 txqueuelen:1000
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: memory 0x80400000-804fffff
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: lo        Link encap:Local Loopback
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: inet6 addr: ::1/128 Scope:Host
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: collisions:0 txqueuelen:1000
+2024-09-15T05:13:44+08:00 Synology_NAS rc.network[7508]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-15T05:13:54+08:00 Synology_NAS rc.network[7508]: Error: any valid address is expected rather than "NULL".
+2024-09-16T05:38:05+08:00 Synology_NAS synochecknetworkcfg[7518]: synochecknetworkcfg: Pass
+2024-09-16T05:38:06+08:00 Synology_NAS rc.network[7568]: 0
+2024-09-16T05:38:06+08:00 Synology_NAS rc.network[7568]: 0
+2024-09-16T05:38:06+08:00 Synology_NAS rc.network[7568]: 0
+2024-09-16T05:38:07+08:00 Synology_NAS rc.network[7477]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-16T05:38:07+08:00 Synology_NAS rc.network[7568]: Cannot find device "eth2"
+2024-09-16T05:38:07+08:00 Synology_NAS rc.network[7568]: Cannot find device "eth3"
+2024-09-16T05:38:07+08:00 Synology_NAS rc.network[7568]: Cannot find device "eth4"
+2024-09-16T05:38:07+08:00 Synology_NAS rc.network[7568]: Cannot find device "eth5"
+2024-09-16T05:38:07+08:00 Synology_NAS rc.network[7568]: Cannot find device "eth6"
+2024-09-16T05:38:07+08:00 Synology_NAS rc.network[7568]: Cannot find device "eth7"
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: eth0 has link.
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: unknown
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: [dhclient@eth0.service] started.
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: collisions:0 txqueuelen:1000
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: memory 0x80600000-806fffff
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: collisions:0 txqueuelen:1000
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: memory 0x80400000-804fffff
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: lo        Link encap:Local Loopback
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: inet6 addr: ::1/128 Scope:Host
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: collisions:0 txqueuelen:1000
+2024-09-16T05:38:10+08:00 Synology_NAS rc.network[7568]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-16T05:38:20+08:00 Synology_NAS rc.network[7568]: Error: any valid address is expected rather than "NULL".
+2024-09-16T19:31:27+08:00 Synology_NAS synochecknetworkcfg[7518]: synochecknetworkcfg: Pass
+2024-09-16T19:31:28+08:00 Synology_NAS rc.network[7542]: 0
+2024-09-16T19:31:28+08:00 Synology_NAS rc.network[7542]: 0
+2024-09-16T19:31:28+08:00 Synology_NAS rc.network[7542]: 0
+2024-09-16T19:31:29+08:00 Synology_NAS rc.network[7479]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-16T19:31:29+08:00 Synology_NAS rc.network[7542]: Cannot find device "eth2"
+2024-09-16T19:31:29+08:00 Synology_NAS rc.network[7542]: Cannot find device "eth3"
+2024-09-16T19:31:29+08:00 Synology_NAS rc.network[7542]: Cannot find device "eth4"
+2024-09-16T19:31:29+08:00 Synology_NAS rc.network[7542]: Cannot find device "eth5"
+2024-09-16T19:31:29+08:00 Synology_NAS rc.network[7542]: Cannot find device "eth6"
+2024-09-16T19:31:29+08:00 Synology_NAS rc.network[7542]: Cannot find device "eth7"
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: eth0 has link.
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: unknown
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: [dhclient@eth0.service] started.
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: collisions:0 txqueuelen:1000
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: memory 0x80600000-806fffff
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: collisions:0 txqueuelen:1000
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: memory 0x80400000-804fffff
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: lo        Link encap:Local Loopback
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: inet6 addr: ::1/128 Scope:Host
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: collisions:0 txqueuelen:1000
+2024-09-16T19:31:31+08:00 Synology_NAS rc.network[7542]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-16T19:31:41+08:00 Synology_NAS rc.network[7542]: Error: any valid address is expected rather than "NULL".
+2024-09-17T04:57:06+08:00 Synology_NAS synochecknetworkcfg[7523]: synochecknetworkcfg: Pass
+2024-09-17T04:57:07+08:00 Synology_NAS rc.network[7537]: 0
+2024-09-17T04:57:07+08:00 Synology_NAS rc.network[7537]: 0
+2024-09-17T04:57:07+08:00 Synology_NAS rc.network[7537]: 0
+2024-09-17T04:57:08+08:00 Synology_NAS rc.network[7477]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-17T04:57:08+08:00 Synology_NAS rc.network[7537]: Cannot find device "eth2"
+2024-09-17T04:57:08+08:00 Synology_NAS rc.network[7537]: Cannot find device "eth3"
+2024-09-17T04:57:08+08:00 Synology_NAS rc.network[7537]: Cannot find device "eth4"
+2024-09-17T04:57:08+08:00 Synology_NAS rc.network[7537]: Cannot find device "eth5"
+2024-09-17T04:57:08+08:00 Synology_NAS rc.network[7537]: Cannot find device "eth6"
+2024-09-17T04:57:08+08:00 Synology_NAS rc.network[7537]: Cannot find device "eth7"
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: eth0 has link.
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: unknown
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: [dhclient@eth0.service] started.
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: RX packets:1 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: collisions:0 txqueuelen:1000
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: RX bytes:190 (190.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: memory 0x80600000-806fffff
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: collisions:0 txqueuelen:1000
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: memory 0x80400000-804fffff
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: lo        Link encap:Local Loopback
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: inet6 addr: ::1/128 Scope:Host
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: collisions:0 txqueuelen:1000
+2024-09-17T04:57:10+08:00 Synology_NAS rc.network[7537]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T04:57:20+08:00 Synology_NAS rc.network[7537]: Error: any valid address is expected rather than "NULL".
+2024-09-17T05:49:16+08:00 Synology_NAS synochecknetworkcfg[7517]: synochecknetworkcfg: Pass
+2024-09-17T05:49:17+08:00 Synology_NAS rc.network[7571]: 0
+2024-09-17T05:49:17+08:00 Synology_NAS rc.network[7571]: 0
+2024-09-17T05:49:17+08:00 Synology_NAS rc.network[7571]: 0
+2024-09-17T05:49:18+08:00 Synology_NAS rc.network[7480]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-17T05:49:18+08:00 Synology_NAS rc.network[7571]: Cannot find device "eth2"
+2024-09-17T05:49:18+08:00 Synology_NAS rc.network[7571]: Cannot find device "eth3"
+2024-09-17T05:49:18+08:00 Synology_NAS rc.network[7571]: Cannot find device "eth4"
+2024-09-17T05:49:18+08:00 Synology_NAS rc.network[7571]: Cannot find device "eth5"
+2024-09-17T05:49:18+08:00 Synology_NAS rc.network[7571]: Cannot find device "eth6"
+2024-09-17T05:49:18+08:00 Synology_NAS rc.network[7571]: Cannot find device "eth7"
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: eth0 has link.
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: unknown
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: [dhclient@eth0.service] started.
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: RX packets:2 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: collisions:0 txqueuelen:1000
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: RX bytes:120 (120.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: memory 0x80600000-806fffff
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: collisions:0 txqueuelen:1000
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: memory 0x80400000-804fffff
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: lo        Link encap:Local Loopback
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: inet6 addr: ::1/128 Scope:Host
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: collisions:0 txqueuelen:1000
+2024-09-17T05:49:21+08:00 Synology_NAS rc.network[7571]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T05:49:31+08:00 Synology_NAS rc.network[7571]: Error: any valid address is expected rather than "NULL".
+2024-09-17T10:44:31+08:00 Synology_NAS synochecknetworkcfg[7541]: synochecknetworkcfg: Pass
+2024-09-17T10:44:32+08:00 Synology_NAS rc.network[7572]: 0
+2024-09-17T10:44:32+08:00 Synology_NAS rc.network[7572]: 0
+2024-09-17T10:44:32+08:00 Synology_NAS rc.network[7572]: 0
+2024-09-17T10:44:33+08:00 Synology_NAS rc.network[7483]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-17T10:44:33+08:00 Synology_NAS rc.network[7572]: Cannot find device "eth2"
+2024-09-17T10:44:33+08:00 Synology_NAS rc.network[7572]: Cannot find device "eth3"
+2024-09-17T10:44:33+08:00 Synology_NAS rc.network[7572]: Cannot find device "eth4"
+2024-09-17T10:44:33+08:00 Synology_NAS rc.network[7572]: Cannot find device "eth5"
+2024-09-17T10:44:33+08:00 Synology_NAS rc.network[7572]: Cannot find device "eth6"
+2024-09-17T10:44:33+08:00 Synology_NAS rc.network[7572]: Cannot find device "eth7"
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: eth0 has link.
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: unknown
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: [dhclient@eth0.service] started.
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: RX packets:1 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: collisions:0 txqueuelen:1000
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: RX bytes:60 (60.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: memory 0x80600000-806fffff
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: collisions:0 txqueuelen:1000
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: memory 0x80400000-804fffff
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: lo        Link encap:Local Loopback
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: inet6 addr: ::1/128 Scope:Host
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: collisions:0 txqueuelen:1000
+2024-09-17T10:44:35+08:00 Synology_NAS rc.network[7572]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-17T10:44:45+08:00 Synology_NAS rc.network[7572]: Error: any valid address is expected rather than "NULL".
+2024-09-20T07:49:48+08:00 Synology_NAS synochecknetworkcfg[7608]: synochecknetworkcfg: Pass
+2024-09-20T07:49:49+08:00 Synology_NAS rc.network[7648]: 0
+2024-09-20T07:49:49+08:00 Synology_NAS rc.network[7648]: 0
+2024-09-20T07:49:49+08:00 Synology_NAS rc.network[7648]: 0
+2024-09-20T07:49:50+08:00 Synology_NAS rc.network[7568]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-20T07:49:50+08:00 Synology_NAS rc.network[7648]: Cannot find device "eth2"
+2024-09-20T07:49:50+08:00 Synology_NAS rc.network[7648]: Cannot find device "eth3"
+2024-09-20T07:49:50+08:00 Synology_NAS rc.network[7648]: Cannot find device "eth4"
+2024-09-20T07:49:50+08:00 Synology_NAS rc.network[7648]: Cannot find device "eth5"
+2024-09-20T07:49:50+08:00 Synology_NAS rc.network[7648]: Cannot find device "eth6"
+2024-09-20T07:49:50+08:00 Synology_NAS rc.network[7648]: Cannot find device "eth7"
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: eth0 has link.
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: unknown
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: [dhclient@eth0.service] started.
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: RX packets:2 errors:0 dropped:0 overruns:0 frame:0
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: collisions:0 txqueuelen:1000
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: RX bytes:120 (120.0 B)  TX bytes:0 (0.0 B)
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: memory 0x80600000-806fffff
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: collisions:0 txqueuelen:1000
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: memory 0x80400000-804fffff
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: lo        Link encap:Local Loopback
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: inet6 addr: ::1/128 Scope:Host
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: collisions:0 txqueuelen:1000
+2024-09-20T07:49:52+08:00 Synology_NAS rc.network[7648]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-20T07:50:02+08:00 Synology_NAS rc.network[7648]: Error: any valid address is expected rather than "NULL".
+2024-09-20T11:33:07+08:00 Synology_NAS synochecknetworkcfg[7650]: synochecknetworkcfg: Pass
+2024-09-20T11:33:08+08:00 Synology_NAS rc.network[7692]: 0
+2024-09-20T11:33:08+08:00 Synology_NAS rc.network[7692]: 0
+2024-09-20T11:33:08+08:00 Synology_NAS rc.network[7692]: 0
+2024-09-20T11:33:09+08:00 Synology_NAS rc.network[7605]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-20T11:33:09+08:00 Synology_NAS rc.network[7692]: Cannot find device "eth2"
+2024-09-20T11:33:09+08:00 Synology_NAS rc.network[7692]: Cannot find device "eth3"
+2024-09-20T11:33:09+08:00 Synology_NAS rc.network[7692]: Cannot find device "eth4"
+2024-09-20T11:33:09+08:00 Synology_NAS rc.network[7692]: Cannot find device "eth5"
+2024-09-20T11:33:09+08:00 Synology_NAS rc.network[7692]: Cannot find device "eth6"
+2024-09-20T11:33:09+08:00 Synology_NAS rc.network[7692]: Cannot find device "eth7"
+2024-09-20T11:33:11+08:00 Synology_NAS rc.network[7692]: eth0 has link.
+2024-09-20T11:33:11+08:00 Synology_NAS rc.network[7692]: unknown
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: [dhclient@eth0.service] started.
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: collisions:0 txqueuelen:1000
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: memory 0x80600000-806fffff
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: collisions:0 txqueuelen:1000
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: memory 0x80400000-804fffff
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: lo        Link encap:Local Loopback
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: inet6 addr: ::1/128 Scope:Host
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: collisions:0 txqueuelen:1000
+2024-09-20T11:33:12+08:00 Synology_NAS rc.network[7692]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-09-20T11:33:22+08:00 Synology_NAS rc.network[7692]: Error: any valid address is expected rather than "NULL".
+2024-10-09T04:31:50+08:00 Yasuraokaa_Site synochecknetworkcfg[7638]: synochecknetworkcfg: Pass
+2024-10-09T04:31:51+08:00 Yasuraokaa_Site rc.network[7656]: 0
+2024-10-09T04:31:51+08:00 Yasuraokaa_Site rc.network[7656]: 0
+2024-10-09T04:31:51+08:00 Yasuraokaa_Site rc.network[7656]: 0
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site rc.network[7601]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Yasuraokaa_Site
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site rc.network[7656]: Cannot find device "eth2"
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site rc.network[7656]: Cannot find device "eth3"
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site rc.network[7656]: Cannot find device "eth4"
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site rc.network[7656]: Cannot find device "eth5"
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site rc.network[7656]: Cannot find device "eth6"
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site rc.network[7656]: Cannot find device "eth7"
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: eth0 has link.
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: unknown
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: [dhclient@eth0.service] started.
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: RX packets:1 errors:0 dropped:0 overruns:0 frame:0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: collisions:0 txqueuelen:1000
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: RX bytes:60 (60.0 B)  TX bytes:0 (0.0 B)
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: memory 0x80600000-806fffff
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: collisions:0 txqueuelen:1000
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: memory 0x80400000-804fffff
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: lo        Link encap:Local Loopback
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: inet6 addr: ::1/128 Scope:Host
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: collisions:0 txqueuelen:1000
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site rc.network[7656]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-10-09T04:32:04+08:00 Yasuraokaa_Site rc.network[7656]: Error: any valid address is expected rather than "NULL".
+2024-11-05T07:05:08+08:00 Yasuraokaa_Site synochecknetworkcfg[7652]: synochecknetworkcfg: Pass
+2024-11-05T07:05:08+08:00 Yasuraokaa_Site rc.network[7664]: 0
+2024-11-05T07:05:08+08:00 Yasuraokaa_Site rc.network[7664]: 0
+2024-11-05T07:05:08+08:00 Yasuraokaa_Site rc.network[7664]: 0
+2024-11-05T07:05:10+08:00 Yasuraokaa_Site rc.network[7602]: SYSTEM:	Last message '0' repeated 3 times, suppressed by syslog-ng on Yasuraokaa_Site
+2024-11-05T07:05:09+08:00 Yasuraokaa_Site rc.network[7664]: Cannot find device "eth2"
+2024-11-05T07:05:09+08:00 Yasuraokaa_Site rc.network[7664]: Cannot find device "eth3"
+2024-11-05T07:05:09+08:00 Yasuraokaa_Site rc.network[7664]: Cannot find device "eth4"
+2024-11-05T07:05:09+08:00 Yasuraokaa_Site rc.network[7664]: Cannot find device "eth5"
+2024-11-05T07:05:09+08:00 Yasuraokaa_Site rc.network[7664]: Cannot find device "eth6"
+2024-11-05T07:05:09+08:00 Yasuraokaa_Site rc.network[7664]: Cannot find device "eth7"
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: eth0 has link.
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: unknown
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: [dhclient@eth0.service] started.
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: eth0      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F1
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: RX packets:1 errors:0 dropped:0 overruns:0 frame:0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: collisions:0 txqueuelen:1000
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: RX bytes:60 (60.0 B)  TX bytes:0 (0.0 B)
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: memory 0x80600000-806fffff
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: eth1      Link encap:Ethernet  HWaddr A8:B8:E0:03:1B:F2
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: inet addr:10.0.0.224  Bcast:10.0.255.255  Mask:255.255.0.0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: UP BROADCAST MULTICAST  MTU:1500  Metric:1
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: collisions:0 txqueuelen:1000
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: memory 0x80400000-804fffff
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: lo        Link encap:Local Loopback
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: inet addr:127.0.0.1  Mask:255.0.0.0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: inet6 addr: ::1/128 Scope:Host
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: UP LOOPBACK RUNNING  MTU:65536  Metric:1
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: collisions:0 txqueuelen:1000
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site rc.network[7664]: RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+2024-11-05T07:05:22+08:00 Yasuraokaa_Site rc.network[7664]: Error: any valid address is expected rather than "NULL".

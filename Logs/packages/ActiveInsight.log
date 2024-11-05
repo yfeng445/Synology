@@ -1,0 +1,144 @@
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin preinst
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End preinst ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/mkdir -p /usr/local/packages/@appstore/ActiveInsight -m 755
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/mkdir -p /usr/local/packages/@appstore/ActiveInsight -m 755 ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/rm -rf /usr/local/packages/@appstore/ActiveInsight
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/rm -rf /usr/local/packages/@appstore/ActiveInsight ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/mv -f /run/synopkg/tmp/install.EUUzcf/package /usr/local/packages/@appstore/ActiveInsight
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/mv -f /run/synopkg/tmp/install.EUUzcf/package /usr/local/packages/@appstore/ActiveInsight ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/rm -rf /var/packages/ActiveInsight
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/rm -rf /var/packages/ActiveInsight ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/mkdir -p /var/packages/ActiveInsight -m 755
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/mkdir -p /var/packages/ActiveInsight -m 755 ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/touch /var/packages/ActiveInsight/installing
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/touch /var/packages/ActiveInsight/installing ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/mv -f /run/synopkg/tmp/install.EUUzcf/INFO /var/packages/ActiveInsight/INFO
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/mv -f /run/synopkg/tmp/install.EUUzcf/INFO /var/packages/ActiveInsight/INFO ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/rm -rf /var/packages/ActiveInsight/scripts
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/rm -rf /var/packages/ActiveInsight/scripts ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/mv -f /run/synopkg/tmp/install.EUUzcf/scripts /var/packages/ActiveInsight/scripts
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/mv -f /run/synopkg/tmp/install.EUUzcf/scripts /var/packages/ActiveInsight/scripts ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/rm -rf /var/packages/ActiveInsight/WIZARD_UIFILES
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/rm -rf /var/packages/ActiveInsight/WIZARD_UIFILES ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/mv -f /run/synopkg/tmp/install.EUUzcf/WIZARD_UIFILES /var/packages/ActiveInsight/WIZARD_UIFILES
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/mv -f /run/synopkg/tmp/install.EUUzcf/WIZARD_UIFILES /var/packages/ActiveInsight/WIZARD_UIFILES ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/rm -rf /var/packages/ActiveInsight/conf
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/rm -rf /var/packages/ActiveInsight/conf ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin /bin/mv -f /run/synopkg/tmp/install.EUUzcf/conf /var/packages/ActiveInsight/conf
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End /bin/mv -f /run/synopkg/tmp/install.EUUzcf/conf /var/packages/ActiveInsight/conf ret=[0]
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 Begin postinst
+2024/09/08 17:16:54	install ActiveInsight 2.2.2-23120 End postinst ret=[0]
+2024/09/08 17:16:59	(system) trigger ActiveInsight 2.2.2-23120 Begin start-stop-status start
+2024/09/08 17:16:59	(system) trigger ActiveInsight 2.2.2-23120 End start-stop-status start ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 Begin start-stop-status stop
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 End start-stop-status stop ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 Begin preupgrade
+The service reason [volume-action-hook] of [pkg-mib-login-uploader] is removed.
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 End preupgrade ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 Begin preuninst
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 End preuninst ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 Begin /bin/rm -rf /usr/local/packages/@appstore/ActiveInsight
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 End /bin/rm -rf /usr/local/packages/@appstore/ActiveInsight ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 Begin /bin/rm -rf /usr/local/packages/@apptemp/ActiveInsight
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 End /bin/rm -rf /usr/local/packages/@apptemp/ActiveInsight ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 Begin postuninst
+/bin/rm: cannot remove '/usr/syno/etc/synomibclient.conf': No such file or directory
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.2-23120 End postuninst ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin preinst
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End preinst ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/mkdir -p /usr/local/packages/@appstore/ActiveInsight -m 755
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/mkdir -p /usr/local/packages/@appstore/ActiveInsight -m 755 ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/rm -rf /usr/local/packages/@appstore/ActiveInsight
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/rm -rf /usr/local/packages/@appstore/ActiveInsight ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/mv -f /run/synopkg/tmp/install.00yACU/package /usr/local/packages/@appstore/ActiveInsight
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/mv -f /run/synopkg/tmp/install.00yACU/package /usr/local/packages/@appstore/ActiveInsight ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/rm -rf /var/packages/ActiveInsight
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/rm -rf /var/packages/ActiveInsight ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/mkdir -p /var/packages/ActiveInsight -m 755
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/mkdir -p /var/packages/ActiveInsight -m 755 ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/touch /var/packages/ActiveInsight/installing
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/touch /var/packages/ActiveInsight/installing ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/mv -f /run/synopkg/tmp/install.00yACU/INFO /var/packages/ActiveInsight/INFO
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/mv -f /run/synopkg/tmp/install.00yACU/INFO /var/packages/ActiveInsight/INFO ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/rm -rf /var/packages/ActiveInsight/scripts
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/rm -rf /var/packages/ActiveInsight/scripts ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/mv -f /run/synopkg/tmp/install.00yACU/scripts /var/packages/ActiveInsight/scripts
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/mv -f /run/synopkg/tmp/install.00yACU/scripts /var/packages/ActiveInsight/scripts ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/rm -rf /var/packages/ActiveInsight/WIZARD_UIFILES
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/rm -rf /var/packages/ActiveInsight/WIZARD_UIFILES ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/mv -f /run/synopkg/tmp/install.00yACU/WIZARD_UIFILES /var/packages/ActiveInsight/WIZARD_UIFILES
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/mv -f /run/synopkg/tmp/install.00yACU/WIZARD_UIFILES /var/packages/ActiveInsight/WIZARD_UIFILES ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/rm -rf /var/packages/ActiveInsight/conf
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/rm -rf /var/packages/ActiveInsight/conf ret=[0]
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 Begin /bin/mv -f /run/synopkg/tmp/install.00yACU/conf /var/packages/ActiveInsight/conf
+2024/09/08 17:17:37	upgrade ActiveInsight 2.2.3-23123 End /bin/mv -f /run/synopkg/tmp/install.00yACU/conf /var/packages/ActiveInsight/conf ret=[0]
+2024/09/08 17:17:38	upgrade ActiveInsight 2.2.3-23123 Begin postinst
+2024/09/08 17:17:38	upgrade ActiveInsight 2.2.3-23123 End postinst ret=[0]
+2024/09/08 17:17:38	upgrade ActiveInsight 2.2.3-23123 Begin postupgrade
+2024/09/08 17:17:38	upgrade ActiveInsight 2.2.3-23123 End postupgrade ret=[0]
+2024/09/08 17:17:38	upgrade ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/08 17:17:38	upgrade ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/09 08:24:45	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/09 08:24:45	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/10 07:08:52	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/10 07:08:53	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/11 19:57:37	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/11 19:57:37	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/11 20:05:39	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/11 20:05:40	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/12 00:26:24	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/12 00:26:24	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/12 00:30:23	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/12 00:30:24	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/14 22:43:06	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/14 22:43:06	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/14 23:16:47	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/14 23:16:47	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/15 00:50:04	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/15 00:50:05	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/15 01:14:13	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/15 01:14:13	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/15 01:22:00	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/15 01:22:01	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/15 01:30:53	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/15 01:30:54	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/15 05:06:09	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/15 05:06:10	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/15 05:15:09	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/15 05:15:09	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/16 05:35:26	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/16 05:35:26	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/16 05:39:35	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/16 05:39:35	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/16 19:28:48	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/16 19:28:48	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/16 19:32:58	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/16 19:32:59	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/17 04:54:30	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/17 04:54:30	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/17 04:58:37	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/17 04:58:37	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/17 05:46:37	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/17 05:46:37	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/17 05:50:47	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/17 05:50:47	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/17 10:41:53	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/17 10:41:53	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/17 10:46:01	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/17 10:46:02	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/20 07:36:41	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/20 07:36:42	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/20 07:51:19	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/20 07:51:19	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/09/20 11:29:03	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/09/20 11:29:03	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/09/20 11:34:37	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/09/20 11:34:38	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/10/09 04:29:15	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/10/09 04:29:15	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/10/09 04:33:20	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/10/09 04:33:20	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]
+2024/11/05 00:53:46	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status stop
+2024/11/05 00:53:46	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status stop ret=[0]
+2024/11/05 07:06:36	(system) trigger ActiveInsight 2.2.3-23123 Begin start-stop-status start
+2024/11/05 07:06:37	(system) trigger ActiveInsight 2.2.3-23123 End start-stop-status start ret=[0]

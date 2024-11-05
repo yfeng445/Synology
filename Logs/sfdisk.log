@@ -1,0 +1,90 @@
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14453]: Device /dev/sata3 change partition.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14453]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14453]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14455]: Device /dev/sata3 change partition.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14455]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14455]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14456]: Device /dev/sata3 change partition.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14456]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14456]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-11T20:09:03+08:00 Synology_NAS sfdisk[14456]:    + [/dev/sata3 part 3] from 21241856 to 27344560127, length 27323318272.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[27928]: Device /dev/sata2 change partition.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[27933]: Device /dev/sata2 change partition.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[27933]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[27937]: Device /dev/sata2 change partition.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[27937]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[27937]:    + [/dev/sata2 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28051]: Device /dev/sata2 change partition.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28051]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28051]:    + [/dev/sata2 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28060]: Device /dev/sata2 change partition.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28060]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28060]:    + [/dev/sata2 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28061]: Device /dev/sata2 change partition.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28061]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28061]:    + [/dev/sata2 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-11T20:19:23+08:00 Synology_NAS sfdisk[28061]:    + [/dev/sata2 part 3] from 21241856 to 7813832351, length 7792590496.
+2024-09-12T00:30:22+08:00 Synology_NAS sfdisk[9727]: exception.c:159 Warning: The format of the GPT partition table is version 20000, which is newer than what Parted can recognise.  Please report this!
+2024-09-12T00:30:24+08:00 Synology_NAS sfdisk[10868]: exception.c:159 Warning: The format of the GPT partition table is version 20000, which is newer than what Parted can recognise.  Please report this!
+2024-09-12T00:30:32+08:00 Synology_NAS sfdisk[13578]: exception.c:159 Warning: The format of the GPT partition table is version 20000, which is newer than what Parted can recognise.  Please report this!
+2024-09-12T00:31:50+08:00 Synology_NAS sfdisk[15873]: exception.c:159 Warning: The format of the GPT partition table is version 20000, which is newer than what Parted can recognise.  Please report this!
+2024-09-12T00:31:54+08:00 Synology_NAS sfdisk[15891]: exception.c:159 Warning: The format of the GPT partition table is version 20000, which is newer than what Parted can recognise.  Please report this!
+2024-09-12T00:31:54+08:00 Synology_NAS sfdisk[15892]: exception.c:159 Warning: The format of the GPT partition table is version 20000, which is newer than what Parted can recognise.  Please report this!
+2024-09-12T00:31:54+08:00 Synology_NAS sfdisk[15892]: Device /dev/sata2 change partition.
+2024-09-12T00:31:54+08:00 Synology_NAS sfdisk[15900]: Device /dev/sata2 change partition.
+2024-09-12T00:31:54+08:00 Synology_NAS sfdisk[15900]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-12T00:31:54+08:00 Synology_NAS sfdisk[15904]: Device /dev/sata2 change partition.
+2024-09-12T00:31:54+08:00 Synology_NAS sfdisk[15904]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-12T00:31:54+08:00 Synology_NAS sfdisk[15904]:    + [/dev/sata2 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16048]: Device /dev/sata2 change partition.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16048]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16048]:    + [/dev/sata2 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16050]: Device /dev/sata2 change partition.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16050]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16050]:    + [/dev/sata2 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16051]: Device /dev/sata2 change partition.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16051]:    + [/dev/sata2 part 1] from 8192 to 16785407, length 16777216.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16051]:    + [/dev/sata2 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-12T00:31:55+08:00 Synology_NAS sfdisk[16051]:    + [/dev/sata2 part 3] from 21241856 to 1953320351, length 1932078496.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6660]: Device /dev/sata3 change partition.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6665]: Device /dev/sata3 change partition.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6665]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6669]: Device /dev/sata3 change partition.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6669]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6669]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6837]: Device /dev/sata3 change partition.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6837]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6837]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6839]: Device /dev/sata3 change partition.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6839]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6839]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6840]: Device /dev/sata3 change partition.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6840]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6840]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-15T00:00:22+08:00 Synology_NAS sfdisk[6840]:    + [/dev/sata3 part 3] from 21241856 to 27344560127, length 27323318272.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9639]: Device /dev/sata3 change partition.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9639]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9639]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9642]: Device /dev/sata3 change partition.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9642]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9642]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9643]: Device /dev/sata3 change partition.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9643]:    + [/dev/sata3 part 1] from 8192 to 16785407, length 16777216.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9643]:    + [/dev/sata3 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-15T00:03:46+08:00 Synology_NAS sfdisk[9643]:    + [/dev/sata3 part 3] from 21241856 to 27344560127, length 27323318272.
+2024-09-20T07:54:24+08:00 Synology_NAS sfdisk[21237]: Device /dev/sata4 change partition.
+2024-09-20T07:54:24+08:00 Synology_NAS sfdisk[21242]: Device /dev/sata4 change partition.
+2024-09-20T07:54:24+08:00 Synology_NAS sfdisk[21242]:    + [/dev/sata4 part 1] from 8192 to 16785407, length 16777216.
+2024-09-20T07:54:24+08:00 Synology_NAS sfdisk[21246]: Device /dev/sata4 change partition.
+2024-09-20T07:54:24+08:00 Synology_NAS sfdisk[21246]:    + [/dev/sata4 part 1] from 8192 to 16785407, length 16777216.
+2024-09-20T07:54:24+08:00 Synology_NAS sfdisk[21246]:    + [/dev/sata4 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21522]: Device /dev/sata4 change partition.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21522]:    + [/dev/sata4 part 1] from 8192 to 16785407, length 16777216.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21522]:    + [/dev/sata4 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21526]: Device /dev/sata4 change partition.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21526]:    + [/dev/sata4 part 1] from 8192 to 16785407, length 16777216.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21526]:    + [/dev/sata4 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21543]: Device /dev/sata4 change partition.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21543]:    + [/dev/sata4 part 1] from 8192 to 16785407, length 16777216.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21543]:    + [/dev/sata4 part 2] from 16785408 to 20979711, length 4194304.
+2024-09-20T07:54:26+08:00 Synology_NAS sfdisk[21543]:    + [/dev/sata4 part 3] from 21241856 to 31251554303, length 31230312448.

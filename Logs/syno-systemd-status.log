@@ -1,0 +1,344 @@
+[date] Wed Sep 11 20:28:50 CST 2024
+
+[list job]
+
+No jobs running.
+
+[failed job]
+
+numanod.service                                  loaded    failed failed NUMA Node Optimization Daemon
+pkg-synoffice-pgbouncer.service                  not-found failed failed pkg-synoffice-pgbouncer.service
+pkg-SynologyApplicationService-pgbouncer.service not-found failed failed pkg-SynologyApplicationService-pgbouncer.service
+syno-oob-check-status.service                    loaded    failed failed Out of Band Management Status Check
+SynoInitEth.service                              loaded    failed failed Adjust NIC sequence
+
+[ps]
+
+  PID TTY      STAT   TIME COMMAND
+    2 ?        S      0:00 [kthreadd]
+    3 ?        I<     0:00  \_ [rcu_gp]
+    4 ?        I<     0:00  \_ [rcu_par_gp]
+    6 ?        I<     0:00  \_ [kworker/0:0H-kblockd]
+    7 ?        I      0:00  \_ [kworker/u8:0-events_unbound]
+    8 ?        I<     0:00  \_ [mm_percpu_wq]
+    9 ?        S      0:00  \_ [rcu_tasks_rude_]
+   10 ?        S      0:00  \_ [rcu_tasks_trace]
+   11 ?        S      0:00  \_ [ksoftirqd/0]
+   12 ?        R      0:01  \_ [rcu_sched]
+   13 ?        S      0:00  \_ [migration/0]
+   14 ?        I      0:00  \_ [kworker/0:1-cgroup_pidlist_destroy]
+   15 ?        S      0:00  \_ [cpuhp/0]
+   16 ?        S      0:00  \_ [cpuhp/1]
+   17 ?        S      0:03  \_ [migration/1]
+   18 ?        S      0:00  \_ [ksoftirqd/1]
+   20 ?        I<     0:00  \_ [kworker/1:0H-kblockd]
+   21 ?        S      0:00  \_ [cpuhp/2]
+   22 ?        S      0:03  \_ [migration/2]
+   23 ?        S      0:00  \_ [ksoftirqd/2]
+   25 ?        I<     0:00  \_ [kworker/2:0H-events_highpri]
+   26 ?        S      0:00  \_ [cpuhp/3]
+   27 ?        S      0:03  \_ [migration/3]
+   28 ?        S      0:00  \_ [ksoftirqd/3]
+   30 ?        I<     0:00  \_ [kworker/3:0H-events_highpri]
+   31 ?        S      0:00  \_ [kdevtmpfs]
+   32 ?        I<     0:00  \_ [netns]
+   35 ?        I      0:00  \_ [kworker/1:1-cgroup_pidlist_destroy]
+   37 ?        S      0:00  \_ [kauditd]
+  270 ?        S      0:00  \_ [khungtaskd]
+  271 ?        S      0:00  \_ [oom_reaper]
+  272 ?        I<     0:00  \_ [writeback]
+  274 ?        S      0:00  \_ [kcompactd0]
+  275 ?        SN     0:00  \_ [ksmd]
+  290 ?        I<     0:00  \_ [kintegrityd]
+  292 ?        I<     0:00  \_ [kblockd]
+  768 ?        I<     0:00  \_ [ata_sff]
+  778 ?        I<     0:00  \_ [md]
+  781 ?        I<     0:00  \_ [edac-poller]
+  887 ?        I<     0:00  \_ [kworker/2:1H-kblockd]
+ 1025 ?        S<     0:00  \_ [kswapd0:0]
+ 3362 ?        I<     0:00  \_ [iscsi_eh]
+ 3390 ?        I<     0:00  \_ [iscsi_conn_clea]
+ 3474 ?        I<     0:00  \_ [kmpath_rdacd]
+ 3489 ?        I<     0:00  \_ [nvme-wq]
+ 3524 ?        I<     0:00  \_ [nvme-reset-wq]
+ 3551 ?        I<     0:00  \_ [nvme-delete-wq]
+ 3610 ?        S      0:00  \_ [scsi_eh_0]
+ 3615 ?        I<     0:00  \_ [scsi_tmf_0]
+ 3632 ?        S      0:00  \_ [scsi_eh_1]
+ 3637 ?        I<     0:00  \_ [scsi_tmf_1]
+ 3760 ?        S      0:00  \_ [scsi_eh_2]
+ 3837 ?        I<     0:00  \_ [scsi_tmf_2]
+ 3955 ?        S      0:00  \_ [scsi_eh_3]
+ 3970 ?        I<     0:00  \_ [scsi_tmf_3]
+ 4064 ?        S      0:00  \_ [scsi_eh_4]
+ 4065 ?        I<     0:00  \_ [scsi_tmf_4]
+ 4080 ?        S      0:00  \_ [scsi_eh_5]
+ 4081 ?        I<     0:00  \_ [scsi_tmf_5]
+ 4094 ?        S      0:00  \_ [scsi_eh_6]
+ 4095 ?        I<     0:00  \_ [scsi_tmf_6]
+ 4108 ?        S      0:00  \_ [scsi_eh_7]
+ 4109 ?        I<     0:00  \_ [scsi_tmf_7]
+ 4122 ?        S      0:00  \_ [scsi_eh_8]
+ 4123 ?        I<     0:00  \_ [scsi_tmf_8]
+ 4136 ?        S      0:00  \_ [scsi_eh_9]
+ 4137 ?        I<     0:00  \_ [scsi_tmf_9]
+ 4148 ?        S      0:00  \_ [scsi_eh_10]
+ 4151 ?        I<     0:00  \_ [scsi_tmf_10]
+ 4164 ?        S      0:00  \_ [scsi_eh_11]
+ 4165 ?        I<     0:00  \_ [scsi_tmf_11]
+ 4178 ?        S      0:00  \_ [scsi_eh_12]
+ 4179 ?        I<     0:00  \_ [scsi_tmf_12]
+ 4192 ?        S      0:00  \_ [scsi_eh_13]
+ 4193 ?        I<     0:00  \_ [scsi_tmf_13]
+ 4206 ?        S      0:00  \_ [scsi_eh_14]
+ 4207 ?        I<     0:00  \_ [scsi_tmf_14]
+ 4220 ?        S      0:00  \_ [scsi_eh_15]
+ 4221 ?        I<     0:00  \_ [scsi_tmf_15]
+ 4234 ?        S      0:00  \_ [scsi_eh_16]
+ 4235 ?        I<     0:00  \_ [scsi_tmf_16]
+ 4248 ?        S      0:00  \_ [scsi_eh_17]
+ 4249 ?        I<     0:00  \_ [scsi_tmf_17]
+ 4262 ?        S      0:00  \_ [scsi_eh_18]
+ 4263 ?        I<     0:00  \_ [scsi_tmf_18]
+ 4276 ?        S      0:00  \_ [scsi_eh_19]
+ 4277 ?        I<     0:00  \_ [scsi_tmf_19]
+ 4290 ?        S      0:00  \_ [scsi_eh_20]
+ 4291 ?        I<     0:00  \_ [scsi_tmf_20]
+ 4303 ?        S      0:00  \_ [scsi_eh_21]
+ 4304 ?        I<     0:00  \_ [scsi_tmf_21]
+ 4318 ?        S      0:00  \_ [scsi_eh_22]
+ 4319 ?        I<     0:00  \_ [scsi_tmf_22]
+ 4332 ?        S      0:00  \_ [scsi_eh_23]
+ 4333 ?        I<     0:00  \_ [scsi_tmf_23]
+ 4346 ?        S      0:00  \_ [scsi_eh_24]
+ 4347 ?        I<     0:00  \_ [scsi_tmf_24]
+ 4360 ?        S      0:00  \_ [scsi_eh_25]
+ 4365 ?        I<     0:00  \_ [scsi_tmf_25]
+ 4374 ?        S      0:00  \_ [scsi_eh_26]
+ 4375 ?        I<     0:00  \_ [scsi_tmf_26]
+ 4388 ?        S      0:00  \_ [scsi_eh_27]
+ 4389 ?        I<     0:00  \_ [scsi_tmf_27]
+ 4402 ?        S      0:00  \_ [scsi_eh_28]
+ 4403 ?        I<     0:00  \_ [scsi_tmf_28]
+ 4431 ?        S      0:00  \_ [scsi_eh_29]
+ 4432 ?        I<     0:00  \_ [scsi_tmf_29]
+ 4448 ?        S      0:00  \_ [scsi_eh_30]
+ 4449 ?        I<     0:00  \_ [scsi_tmf_30]
+ 4464 ?        S      0:00  \_ [scsi_eh_31]
+ 4465 ?        I<     0:00  \_ [scsi_tmf_31]
+ 4478 ?        S      0:00  \_ [scsi_eh_32]
+ 4479 ?        I<     0:00  \_ [scsi_tmf_32]
+ 4492 ?        S      0:00  \_ [scsi_eh_33]
+ 4493 ?        I<     0:00  \_ [scsi_tmf_33]
+ 4541 ?        I      0:00  \_ [kworker/u8:33-events_unbound]
+ 4574 ?        I<     0:00  \_ [kworker/3:1H-kblockd]
+ 4714 ?        I<     0:00  \_ [kworker/0:1H-kblockd]
+ 4791 ?        I<     0:00  \_ [kworker/u9:0-btrfs-syno_high_priorit]
+ 4960 ?        S      0:00  \_ [vuart/3-ttyS1]
+ 5341 ?        I<     0:00  \_ [acpi_thermal_pm]
+ 5342 ?        I<     0:00  \_ [ttm]
+ 5343 ?        S      0:00  \_ [card0-crtc0]
+ 5344 ?        S      0:00  \_ [card0-crtc1]
+ 5345 ?        S      0:00  \_ [card0-crtc2]
+ 5347 ?        I<     0:00  \_ [kworker/1:1H-kblockd]
+ 5828 ?        S      0:00  \_ [md0_raid1]
+ 6471 ?        D      0:00  \_ [jbd2/md0-8]
+ 6472 ?        I<     0:00  \_ [ext4-rsv-conver]
+ 6848 ?        I<     0:00  \_ [cryptd]
+ 6921 ?        S      0:00  \_ [md1_raid1]
+ 6961 ?        I<     0:00  \_ [kcopyd]
+ 6962 ?        I<     0:00  \_ [ssd-cache]
+ 6980 ?        I<     0:00  \_ [ipv6_addrconf]
+ 6999 ?        I<     0:00  \_ [dm_bufio_cache]
+ 7132 ?        I<     0:00  \_ [uas]
+ 7253 ?        I      0:00  \_ [kworker/3:3-events]
+11254 ?        S<     0:00  \_ [loop0]
+11256 ?        S      0:00  \_ [jbd2/loop0-8]
+11257 ?        I<     0:00  \_ [ext4-rsv-conver]
+11701 ?        S      0:00  \_ [RODSP_ODX_LOGIN]
+11702 ?        S      0:00  \_ [RODSP_VLUN_LOGI]
+11703 ?        S      0:00  \_ [RODSP_VDISK_LOG]
+11706 ?        I<     0:00  \_ [target_completi]
+11707 ?        I<     0:00  \_ [xcopy_wq]
+11740 ?        I<     0:00  \_ [fc_exch_workque]
+11741 ?        I<     0:00  \_ [fc_rport_eq]
+11743 ?        I<     0:00  \_ [nvme_fc_wq]
+14489 ?        S      0:00  \_ [md2_raid1]
+14528 ?        I<     0:00  \_ [kdmflush]
+14636 ?        I<     0:00  \_ [kdmflush]
+14677 ?        I<     0:00  \_ [kdmflush]
+14836 ?        I<     0:00  \_ [btrfs-worker]
+14837 ?        I<     0:00  \_ [btrfs-worker-hi]
+14838 ?        I<     0:00  \_ [btrfs-delalloc]
+14839 ?        I<     0:00  \_ [btrfs-flush_del]
+14840 ?        I<     0:00  \_ [btrfs-cache]
+14841 ?        I<     0:00  \_ [btrfs-fixup]
+14842 ?        I<     0:00  \_ [btrfs-endio]
+14843 ?        I<     0:00  \_ [btrfs-endio-met]
+14844 ?        I<     0:00  \_ [btrfs-endio_met]
+14845 ?        I<     0:00  \_ [btrfs-endio-met]
+14846 ?        I<     0:00  \_ [btrfs-endio-rai]
+14847 ?        I<     0:00  \_ [btrfs-rmw]
+14848 ?        I<     0:00  \_ [btrfs-endio-wri]
+14849 ?        I<     0:00  \_ [btrfs-freespace]
+14850 ?        I<     0:00  \_ [btrfs-delayed-m]
+14851 ?        I<     0:00  \_ [btrfs-readahead]
+14852 ?        I<     0:00  \_ [btrfs-qgroup-re]
+14853 ?        I<     0:00  \_ [btrfs-syno-mult]
+14854 ?        I<     0:00  \_ [btrfs-syno_cow_]
+14855 ?        I<     0:00  \_ [btrfs-syno_cow_]
+14856 ?        I<     0:00  \_ [btrfs-syno_cow]
+14857 ?        I<     0:00  \_ [btrfs-syno_noco]
+14858 ?        I<     0:00  \_ [btrfs-syno_high]
+14859 ?        I<     0:00  \_ [btrfs-syno_high]
+14860 ?        I<     0:00  \_ [btrfs-extent-re]
+14861 ?        I<     0:00  \_ [btrfs-syno-bg-c]
+14862 ?        S      0:00  \_ [btrfs-cleaner]
+14863 ?        S      0:00  \_ [btrfs-transacti]
+15627 ?        I      0:00  \_ [kworker/u8:6-events_unbound]
+16854 ?        I<     0:00  \_ [kworker/u9:1]
+19096 ?        I      0:00  \_ [kworker/0:4-events_freezable_power_]
+24238 ?        I      0:00  \_ [kworker/2:0-cgroup_pidlist_destroy]
+28083 ?        S      0:00  \_ [md3_raid1]
+28127 ?        I<     0:00  \_ [kdmflush]
+28207 ?        I      0:00  \_ [kworker/2:1-events]
+28301 ?        I      0:00  \_ [kworker/3:1-mm_percpu_wq]
+28573 ?        I      0:00  \_ [kworker/1:0-events]
+28574 ?        I      0:00  \_ [kworker/0:2-events]
+ 2206 ?        I      0:00  \_ [kworker/0:0-mm_percpu_wq]
+ 3865 ?        I      0:00  \_ [kworker/3:0-events]
+ 4071 ?        I      0:00  \_ [kworker/2:2-events]
+ 4369 ?        I      0:00  \_ [kworker/1:2-events]
+ 4982 ?        I      0:00  \_ [kworker/1:3]
+    1 ?        Ss     0:29 /sbin/init
+ 4990 ?        Ss     0:00 inetd
+ 5371 ?        Ss     0:00 inetd
+ 5712 ?        Ss     0:00 inetd
+ 6324 ?        Ss     0:00 inetd
+ 6719 ?        Ss     0:00 inetd
+ 6800 ?        Ss     0:00 /usr/syno/sbin/synoplugind
+ 5812 ?        Z<s    0:00  \_ [synoplugind] <defunct>
+ 6814 ?        S<s    0:01 /usr/lib/systemd/systemd-journald
+ 6886 ?        Ss     0:00 /sbin/dbus-daemon --session --fork --print-address
+ 6922 ?        Ss     0:00 /sbin/dbus-daemon --system --nopidfile
+ 6953 ?        Ssl    0:00 /usr/syno/sbin/synonetd
+ 6981 ?        Ss     0:00 /usr/syno/sbin/synoneteventd
+ 7168 ?        Ssl    0:01 /usr/bin/syslog-ng -Fe --worker-threads=4 -u system -g log
+ 7252 ?        Ss     0:00 /usr/lib/systemd/systemd-udevd
+ 8573 ttyS0    Ss+    0:00 /sbin/agetty --keep-baud 115200,38400,9600 ttyS0
+ 8574 ?        Ss     0:00 /usr/syno/bin/synotokenmgr
+ 8601 ?        S      0:00  \_ /usr/syno/bin/synotokenmgr
+ 8602 ?        S      0:00  \_ /usr/syno/bin/synotokenmgr
+ 8603 ?        S      0:00  \_ /usr/syno/bin/synotokenmgr
+ 8604 ?        S      0:00  \_ /usr/syno/bin/synotokenmgr
+ 8575 ?        Ss     0:00 /usr/syno/bin/synotaskmgr
+ 8606 ?        S      0:00  \_ /usr/syno/bin/synotaskmgr
+ 8607 ?        S      0:00  \_ /usr/syno/bin/synotaskmgr
+ 8608 ?        S      0:00  \_ /usr/syno/bin/synotaskmgr
+ 8609 ?        S      0:00  \_ /usr/syno/bin/synotaskmgr
+ 8704 ?        Ss     0:00 /usr/sbin/dhclient -4 -d -q -lf /tmp/dhcpv4.leases.eth0 -pf /tmp/dhcpcd-eth0.pid -cf /etc/dhclient/ipv4/dhclient.conf -sf /var/run/dhclient-script eth0
+ 8719 ?        Ss     0:00 /usr/sbin/dhclient -4 -d -q -lf /tmp/dhcpv4.leases.eth1 -pf /tmp/dhcpcd-eth1.pid -cf /etc/dhclient/ipv4/dhclient.conf -sf /var/run/dhclient-script eth1
+ 8928 ?        Ss     0:00 /usr/syno/bin/synobackupd
+ 8936 ?        Ss     0:00 /usr/syno/sbin/synologaccd -f
+ 8939 ?        Ss     0:00 /usr/syno/sbin/synoscheduled
+ 8949 ?        Ss     0:00 /usr/lib/systemd/systemd-logind
+ 9038 ?        S      0:00 /usr/sbin/chronyd -f /etc/chrony.conf
+ 9052 ?        Ssl    0:00 /usr/syno/sbin/synoconfd -D
+ 9095 ?        Ssl    0:01 /usr/bin/redis-server unixsocket:/run/synocached.sock
+ 9135 ?        Ss     0:00 /usr/syno/sbin/synoagentregisterd
+ 9151 ?        Ss     0:00 /usr/syno/bin/synologrotated
+ 9191 ?        S<s    0:00 synoscgi
+ 4386 ?        S      0:00  \_ synoscgi
+ 4387 ?        S      0:00  \_ synoscgi
+ 4944 ?        S      0:00  \_ synoscgi
+ 5331 ?        S      0:00  \_ synoscgi
+ 5444 ?        S      0:00  \_ synoscgi
+ 5445 ?        S      0:00  \_ synoscgi
+ 5446 ?        S      0:00  \_ synoscgi
+ 5447 ?        S      0:00  \_ synoscgi
+ 5723 ?        Ssl    0:00  \_ synoscgi
+ 9216 ?        S<Ls   0:00 /usr/syno/bin/findhostd
+ 9303 ?        S      0:00 avahi-daemon: running [Synology_NAS.local]
+ 9310 ?        Ss     0:00 /var/packages/SMBService/target/usr/sbin/nmbd -F --no-process-group
+ 9491 ?        S<sl   0:01 /usr/bin/synonode /usr/syno/sbin/synoscgi_socket.js
+ 9556 ?        Ssl    0:00 /usr/syno/sbin/synocachepinfiled --config-path /usr/syno/etc/flashcache_pin_file.conf
+ 9569 ?        Ss     0:01 /usr/bin/snmpd -fLn -c /etc/snmp/snmpd.conf -p /var/run/snmpd.pid udp:127.0.0.1:161,tcp:127.0.0.1:161
+ 9630 ?        Ss     0:00 /usr/syno/sbin/synocrond
+ 9702 ?        Ss     0:00 /usr/syno/sbin/syno_ip_conflict_detect --start
+ 9788 ?        Ss     0:00 /usr/syno/bin/recyclebind
+ 9844 ?        Ss     0:00 /usr/syno/sbin/hotplugd
+10331 ?        S<s    0:00 /usr/syno/sbin/synocgid -D
+10373 ?        Ss     0:00 synostoraged
+10374 ?        S      0:00  \_ synostgd-disk
+10375 ?        S      0:00  \_ synostgd-space
+10377 ?        S      0:00  \_ synostgd-cache
+10378 ?        S      0:00  \_ synostgd-volume
+10379 ?        S      0:00  \_ synostgd-external-volume
+10390 ?        SLs    0:00 /bin/vmtouch -ld /usr/syno/sbin/synocrond
+10455 ?        Ss     0:00 /var/packages/SMBService/target/usr/syno/bin/synowsdiscoveryd
+10999 ?        Ssl    0:00 /var/packages/SupportService/target/bin/synomibgrpcclient --conf /var/packages/SupportService/target/configs/synomibgrpcclient_conf.json
+11003 ?        Ssl    0:00 /var/packages/SupportService/target/bin/synomibactiononlineupdater --conf /var/packages/SupportService/target/configs/synomibonlineupdater_conf.json
+11112 ?        S<s    0:00 nginx: master process /usr/bin/nginx -c /etc/nginx/nginx.conf.run -g pid /run/nginx.pid; daemon on; master_process on;
+13141 ?        S<     0:01  \_ nginx: worker process is shutting down
+ 6069 ?        S<     0:00  \_ nginx: worker process
+ 6070 ?        S<     0:00  \_ nginx: worker process
+ 6071 ?        S<     0:00  \_ nginx: worker process
+ 6072 ?        S<     0:00  \_ nginx: worker process
+11123 ?        Ss     0:00 /var/packages/SMBService/target/usr/syno/bin/synowstransferd
+11195 ?        Ssl    0:00 /var/packages/SecureSignIn/target/invoked/invoked
+11234 ?        Ss     0:00 /usr/bin/minissdpd -i eth0 -i eth1
+11365 ?        S<s    0:02 /usr/syno/sbin/synosnmpcd
+11376 ?        Ss     0:00 /usr/syno/sbin/synoperfeventd
+11406 ?        Ss     0:00 /usr/sbin/crond -n
+11409 ?        Ss     0:00 /usr/sbin/acpid -f
+11748 ?        Ss     0:00 /var/packages/ScsiTarget/target/bin/synoscsitmonitor
+11749 ?        Ssl    0:00 /var/packages/ScsiTarget/target/bin/scsi_plugin_server
+11897 ?        Ss     0:00 synosmpkgd
+11950 ?        Ss     0:00 /usr/syno/bin/synodisklatencyd
+12048 ?        Ssl    0:02 /usr/syno/bin/scemd
+12972 ?        Ssl    0:01 /var/packages/SynoFinder/target/sbin/synoelasticd
+13085 ?        Ss     0:00 /var/packages/FileStation/target/sbin/thumbd
+13086 ?        S      0:00  \_ /var/packages/FileStation/target/sbin/thumbd
+24031 ?        SNs    0:00 /usr/syno/sbin/synomediaparserd
+24033 ?        SNs    0:00 /usr/syno/sbin/synoindexd
+30752 ?        Ss     0:00 /usr/local/packages/@appstore/SMBService/usr/sbin/smbd -F --no-process-group
+30764 ?        S      0:00  \_ /usr/local/packages/@appstore/SMBService/usr/sbin/smbd -F --no-process-group
+30765 ?        S      0:00  \_ /usr/local/packages/@appstore/SMBService/usr/sbin/smbd -F --no-process-group
+ 3806 ?        S<     0:00 synoscgi_SYNO.Storage.CGI.Volume_1_delete
+ 6103 ?        R<     0:00  \_ /usr/bin/systemctl list-unit-files --no-legend --root=/.
+ 5722 ?        SLs    0:00 /bin/vmtouch -l /usr/syno/bin/synoschedtask /usr/syno/bin/synoschedtool /usr/syno/bin/synoschedmultirun /bin/bash /usr/syno/etc/synoschedule.d/root/1.task /usr/syno/etc/synoschedule.d/root/2.task /usr/local/etc/synoschedule.d/*/*.task /etc/cron.d/synosched.spacereclaim.task.task
+ 6101 ?        S<     0:00 synoscgi_SYNO.Storage.CGI.Volume_1_delete
+ 6102 ?        S<     0:00  \_ /bin/sh /usr/syno/lib/systemd/scripts/syno-systemd-status-monitor.sh
+ 6104 ?        S<     0:00      \_ /bin/sh /usr/syno/lib/systemd/scripts/syno-systemd-status-monitor.sh
+ 6115 ?        R<     0:00          \_ /bin/ps afx
+
+[lslocks]
+
+
+COMMAND           PID  TYPE   SIZE MODE  M START END PATH
+smbd            30752 POSIX    12K READ  0     4   4 /var/cache/samba/names.tdb
+smbd            30752 POSIX   8.7K READ  0     4   4 /var/cache/samba/smbprofile.tdb
+smbd            30752 POSIX     6B WRITE 0     0   0 /run/samba/smbd.pid
+smbd            30752 POSIX    21B WRITE 0     0   0 /run/samba/msg.lock/30752
+smbd            30752 POSIX    24K READ  0     4   4 /var/cache/samba/smbXsrv_version_global.tdb
+smbd            30752 POSIX   8.7K READ  0     4   4 /var/cache/samba/smbXsrv_client_global.tdb
+smbd            30752 POSIX   8.7K READ  0     4   4 /var/cache/samba/smbXsrv_session_global.tdb
+smbd            30752 POSIX   8.7K READ  0     4   4 /run/samba/smbXsrv_tcon_global.tdb
+smbd            30752 POSIX 431.3K READ  0     4   4 /run/samba/brlock.tdb
+smbd            30752 POSIX 431.3K READ  0     4   4 /run/samba/locking.tdb
+smbd            30752 POSIX   8.7K READ  0     4   4 /var/cache/samba/leases.tdb
+smbd            30752 POSIX   444K READ  0     4   4 /run/samba/gencache.tdb
+smbd            30752 POSIX   8.7K READ  0     4   4 /run/samba/smbXsrv_open_global.tdb
+smbd            30752 POSIX    20K READ  0     4   4 /run/samba/printer_list.tdb
+crond           11406 FLOCK     6B WRITE 0     0   0 /run/crond.pid
+scsi_plugin_ser 11749 FLOCK     5B WRITE 0     0   0 /run/iscsi/plugin_server.pid
+synoelasticd    12972 FLOCK     6B WRITE 0     0   0 /run/synoelasticd.pid
+smbd-notifyd    30764 POSIX    21B WRITE 0     0   0 /run/samba/msg.lock/30764
+SYNO.Storage.CG  3806 FLOCK        WRITE 0     0   0 /run/synosystemd/locks/volume-unmount-action.lock
+SYNO.Storage.CG  3806 FLOCK        READ  0     0   0 /run/synosystemd/locks/isolate-and-volume-unmount-action.lock
+SYNO.Storage.CG  3806 FLOCK        READ  0     0   0 /run/synosystemd/status_monitor.exit.lock
+nmbd             9310 POSIX    12K READ  0     4   4 /var/cache/samba/names.tdb
+nmbd             9310 POSIX     5B WRITE 0     0   0 /run/samba/nmbd.pid
+nmbd             9310 POSIX    21B WRITE 0     0   0 /run/samba/msg.lock/9310
+cleanupd        30765 POSIX    20B WRITE 0     0   0 /run/samba/msg.lock/30765
+(unknown)        6105 FLOCK        WRITE 0     0   0 /run...

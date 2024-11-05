@@ -1,0 +1,2 @@
+2024-09-11T20:20:58+08:00 Synology_NAS synotifyd[23898]: daemon.cpp:618 In kill handler(15)
+2024-09-11T20:20:58+08:00 Synology_NAS synotifyd[23898]: synotify.cpp:156 synotify.cpp(156): select: Interrupted system call (4)

@@ -1,0 +1,324 @@
+2024/09/08 17:15:10	start smallupdate (update_files) to 69057-5
+2024/09/08 17:15:10	Small update archive installed
+2024/09/08 17:15:10	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-epyc7002_7.2-69057-s1.tar
+2024/09/08 17:15:10	  files in archive: 
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/lib/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/lib/libsynostoragecore.so.7
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/lib/libsynohtmlhandler.so.7
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/lib/libsynocgi.so.7
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/lib/modules/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/lib/modules/nfsd.ko
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/lib/modules/atlantic.ko
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/lib/modules/atlantic_v2.ko
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/bin/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/bin/configupdate.small
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/webman/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/webman/sds/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/webman/sds/dist/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/webman/sds/dist/dsm.common.bundle.js
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/webman/sds/dist/dsm.common.bundle.js.gz
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/webapi/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/webapi/lib/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s1: /usr/syno/synoman/webapi/lib/SYNO.API.Auth.so
+2024/09/08 17:15:10	Small update archive installed
+2024/09/08 17:15:10	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-sa6400_7.2-69057-s1.tar
+2024/09/08 17:15:10	  files in archive: 
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s1: /usr/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s1: /usr/syno/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s1: /usr/syno/selfcheck/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s1: /usr/syno/selfcheck/dsm.full.1.list
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s1: /usr/syno/selfcheck/dsm.full.1.list.asc
+2024/09/08 17:15:10	Small update archive installed
+2024/09/08 17:15:10	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-epyc7002_7.2-69057-s2.tar
+2024/09/08 17:15:10	  files in archive: 
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/lib/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/lib/libwebapi-DSM5.so
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/lib/libsynoinstallcpp.so
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/lib/libwebapi.so
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/lib/libesynoscheduler.so.7.2
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/lib/modules/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/lib/modules/btrfs.ko
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/lib/libsynosharesnapshot.so.7
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/bin/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/bin/configupdate.small
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/synoman/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/synoman/webman/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/synoman/webman/localData.html
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/synoman/webapi/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/synoman/webapi/lib/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/synoman/webapi/lib/SYNO.Core.EventScheduler.so
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /usr/syno/synoman/webapi/lib/SYNO.Core.TaskScheduler.so
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /etc.defaults/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /etc.defaults/logrotate.d/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /etc.defaults/logrotate.d/S2S
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /etc/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /etc/logrotate.d/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s2: /etc/logrotate.d/S2S
+2024/09/08 17:15:10	Small update archive installed
+2024/09/08 17:15:10	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-sa6400_7.2-69057-s2.tar
+2024/09/08 17:15:10	  files in archive: 
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/lib/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/lib/systemd/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/lib/systemd/system/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/lib/systemd/system/syno-oob-check-status.service
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/syno/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/syno/selfcheck/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/syno/selfcheck/dsm.full.2.list
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s2: /usr/syno/selfcheck/dsm.full.2.list.asc
+2024/09/08 17:15:10	Small update archive installed
+2024/09/08 17:15:10	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-epyc7002_7.2-69057-s3.tar
+2024/09/08 17:15:10	  files in archive: 
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s3: /usr/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s3: /usr/syno/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s3: /usr/syno/bin/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s3: /usr/syno/bin/configupdate.small
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s3: /usr/syno/synoman/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s3: /usr/syno/synoman/webapi/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s3: /usr/syno/synoman/webapi/lib/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s3: /usr/syno/synoman/webapi/lib/SYNO.Core.TaskScheduler.so
+2024/09/08 17:15:10	Small update archive installed
+2024/09/08 17:15:10	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-sa6400_7.2-69057-s3.tar
+2024/09/08 17:15:10	  files in archive: 
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s3: /usr/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s3: /usr/syno/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s3: /usr/syno/selfcheck/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s3: /usr/syno/selfcheck/dsm.full.3.list
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s3: /usr/syno/selfcheck/dsm.full.3.list.asc
+2024/09/08 17:15:10	Small update archive installed
+2024/09/08 17:15:10	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-epyc7002_7.2-69057-s4.tar
+2024/09/08 17:15:10	  files in archive: 
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/bin/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/bin/feasibilitycheck/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/bin/feasibilitycheck/poweroff.d/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/bin/feasibilitycheck/poweroff.d/pkgmgr_is_idle.sh
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/bin/configupdate.small
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/AdminCenter/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/AdminCenter/admin_center.js.gz
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/AdminCenter/admin_center.js
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/PkgManApp/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/PkgManApp/PkgManApp.js
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/PkgManApp/PkgManApp.js.gz
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/SecurityScan/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/SecurityScan/synosecurityscan.js.gz
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webman/modules/SecurityScan/synosecurityscan.js
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webapi/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webapi/lib/
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webapi/lib/SYNO.API.Auth.so
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webapi/lib/SYNO.Core.User.so
+2024/09/08 17:15:10	    - hda1-epyc7002_7.2-69057-s4: /usr/syno/synoman/webapi/lib/SYNO.Core.Group.so
+2024/09/08 17:15:10	Small update archive installed
+2024/09/08 17:15:10	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-sa6400_7.2-69057-s4.tar
+2024/09/08 17:15:10	  files in archive: 
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s4: /usr/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s4: /usr/syno/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s4: /usr/syno/selfcheck/
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s4: /usr/syno/selfcheck/dsm.full.4.list.asc
+2024/09/08 17:15:10	    - hda1-sa6400_7.2-69057-s4: /usr/syno/selfcheck/dsm.full.4.list
+2024/09/08 17:15:11	Small update archive installed
+2024/09/08 17:15:11	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-epyc7002_7.2-69057-s5.tar
+2024/09/08 17:15:11	  files in archive: 
+2024/09/08 17:15:11	    - hda1-epyc7002_7.2-69057-s5: /usr/
+2024/09/08 17:15:11	    - hda1-epyc7002_7.2-69057-s5: /usr/lib/
+2024/09/08 17:15:11	    - hda1-epyc7002_7.2-69057-s5: /usr/lib/libsynoinstallcpp.so
+2024/09/08 17:15:11	    - hda1-epyc7002_7.2-69057-s5: /usr/syno/
+2024/09/08 17:15:11	    - hda1-epyc7002_7.2-69057-s5: /usr/syno/bin/
+2024/09/08 17:15:11	    - hda1-epyc7002_7.2-69057-s5: /usr/syno/bin/configupdate.small
+2024/09/08 17:15:11	Small update archive installed
+2024/09/08 17:15:11	  archive: /.SynoUpgradeBootupSmallUpdateFiles/hda1-sa6400_7.2-69057-s5.tar
+2024/09/08 17:15:11	  files in archive: 
+2024/09/08 17:15:11	    - hda1-sa6400_7.2-69057-s5: /usr/
+2024/09/08 17:15:11	    - hda1-sa6400_7.2-69057-s5: /usr/syno/
+2024/09/08 17:15:11	    - hda1-sa6400_7.2-69057-s5: /usr/syno/selfcheck/
+2024/09/08 17:15:11	    - hda1-sa6400_7.2-69057-s5: /usr/syno/selfcheck/dsm.full.5.list.asc
+2024/09/08 17:15:11	    - hda1-sa6400_7.2-69057-s5: /usr/syno/selfcheck/dsm.full.5.list
+2024/09/08 17:15:11	start smallupdate (version) to 69057-5
+2024/09/08 17:15:11	Packed Bootup SmallUpdate HDA1 install successful
+2024/09/08 17:15:11	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/08 17:15:16	configupdate.small: event=[init_conf_migrate_upstart_to_systemd]
+2024/09/08 17:15:16	configupdate.small: event=[init_conf_migrate_systemd_to_systemd]
+2024/09/08 17:15:21	configupdate.small: event=[rootfs_ready]
+2024/09/08 17:16:50	configupdate.small: event=[volume_ready]
+2024/09/08 17:16:50	configupdate.small: event=[share_ready]
+2024/09/10 07:07:14	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/10 07:07:14	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/11 20:03:59	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/11 20:03:59	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/11 20:09:06	configupdate.volume: [start] on volume /volume1
+2024/09/11 20:09:06	configupdate.volume: [finish] on volume /volume1
+2024/09/11 20:29:55	configupdate.volume: [start] on volume /volume1
+2024/09/11 20:29:55	configupdate.volume: [finish] on volume /volume1
+2024/09/11 20:30:36	configupdate.volume: [start] on volume /volume2
+2024/09/11 20:30:36	configupdate.volume: [finish] on volume /volume2
+2024/09/12 00:28:44	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/12 00:28:44	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/12 00:30:26	configupdate.volume: [start] on volume /volume1
+2024/09/12 00:30:26	configupdate.volume: [finish] on volume /volume1
+2024/09/12 00:30:26	configupdate.volume: [start] on volume /volume2
+2024/09/12 00:30:26	configupdate.volume: [finish] on volume /volume2
+2024/09/12 00:32:18	configupdate.volume: [start] on volume /volume3
+2024/09/12 00:32:18	configupdate.volume: [finish] on volume /volume3
+2024/09/14 23:15:09	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/14 23:15:09	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/14 23:16:52	configupdate.volume: [start] on volume /volume3
+2024/09/14 23:16:52	configupdate.volume: [finish] on volume /volume3
+2024/09/14 23:16:52	configupdate.volume: [start] on volume /volume1
+2024/09/14 23:16:52	configupdate.volume: [start] on volume /volume2
+2024/09/14 23:16:52	configupdate.volume: [finish] on volume /volume1
+2024/09/14 23:16:52	configupdate.volume: [finish] on volume /volume2
+2024/09/15 00:04:08	configupdate.volume: [start] on volume /volume4
+2024/09/15 00:04:08	configupdate.volume: [finish] on volume /volume4
+2024/09/15 01:12:34	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/15 01:12:34	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/15 01:14:16	configupdate.volume: [start] on volume /volume4
+2024/09/15 01:14:17	configupdate.volume: [finish] on volume /volume4
+2024/09/15 01:14:17	configupdate.volume: [start] on volume /volume3
+2024/09/15 01:14:17	configupdate.volume: [start] on volume /volume1
+2024/09/15 01:14:17	configupdate.volume: [finish] on volume /volume3
+2024/09/15 01:14:17	configupdate.volume: [finish] on volume /volume1
+2024/09/15 01:14:17	configupdate.volume: [start] on volume /volume2
+2024/09/15 01:14:17	configupdate.volume: [finish] on volume /volume2
+2024/09/15 01:17:39	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/15 01:17:39	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/15 01:20:21	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/15 01:20:21	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/15 01:22:03	configupdate.volume: [start] on volume /volume4
+2024/09/15 01:22:03	configupdate.volume: [start] on volume /volume3
+2024/09/15 01:22:03	configupdate.volume: [finish] on volume /volume3
+2024/09/15 01:22:03	configupdate.volume: [finish] on volume /volume4
+2024/09/15 01:22:03	configupdate.volume: [start] on volume /volume1
+2024/09/15 01:22:04	configupdate.volume: [finish] on volume /volume1
+2024/09/15 01:22:04	configupdate.volume: [start] on volume /volume2
+2024/09/15 01:22:04	configupdate.volume: [finish] on volume /volume2
+2024/09/15 01:29:16	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/15 01:29:16	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/15 01:30:57	configupdate.volume: [start] on volume /volume4
+2024/09/15 01:30:58	configupdate.volume: [finish] on volume /volume4
+2024/09/15 01:30:58	configupdate.volume: [start] on volume /volume3
+2024/09/15 01:30:58	configupdate.volume: [finish] on volume /volume3
+2024/09/15 01:30:58	configupdate.volume: [start] on volume /volume1
+2024/09/15 01:30:58	configupdate.volume: [finish] on volume /volume1
+2024/09/15 01:30:58	configupdate.volume: [start] on volume /volume2
+2024/09/15 01:30:58	configupdate.volume: [finish] on volume /volume2
+2024/09/15 05:04:25	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/15 05:04:25	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/15 05:06:11	configupdate.volume: [start] on volume /volume3
+2024/09/15 05:06:11	configupdate.volume: [finish] on volume /volume3
+2024/09/15 05:13:26	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/15 05:13:26	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/15 05:15:15	configupdate.volume: [start] on volume /volume4
+2024/09/15 05:15:15	configupdate.volume: [finish] on volume /volume4
+2024/09/15 05:15:15	configupdate.volume: [start] on volume /volume1
+2024/09/15 05:15:16	configupdate.volume: [finish] on volume /volume1
+2024/09/15 05:15:16	configupdate.volume: [start] on volume /volume3
+2024/09/15 05:15:16	configupdate.volume: [start] on volume /volume2
+2024/09/15 05:15:16	configupdate.volume: [finish] on volume /volume3
+2024/09/15 05:15:16	configupdate.volume: [finish] on volume /volume2
+2024/09/16 05:37:56	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/16 05:37:56	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/16 05:39:40	configupdate.volume: [start] on volume /volume3
+2024/09/16 05:39:40	configupdate.volume: [start] on volume /volume2
+2024/09/16 05:39:40	configupdate.volume: [finish] on volume /volume3
+2024/09/16 05:39:40	configupdate.volume: [start] on volume /volume1
+2024/09/16 05:39:40	configupdate.volume: [finish] on volume /volume2
+2024/09/16 05:39:40	configupdate.volume: [finish] on volume /volume1
+2024/09/16 05:39:40	configupdate.volume: [start] on volume /volume4
+2024/09/16 05:39:40	configupdate.volume: [finish] on volume /volume4
+2024/09/16 19:31:19	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/16 19:31:19	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/16 19:33:01	configupdate.volume: [start] on volume /volume3
+2024/09/16 19:33:01	configupdate.volume: [finish] on volume /volume3
+2024/09/16 19:33:01	configupdate.volume: [start] on volume /volume1
+2024/09/16 19:33:01	configupdate.volume: [finish] on volume /volume1
+2024/09/16 19:33:01	configupdate.volume: [start] on volume /volume4
+2024/09/16 19:33:01	configupdate.volume: [finish] on volume /volume4
+2024/09/16 19:33:01	configupdate.volume: [start] on volume /volume2
+2024/09/16 19:33:01	configupdate.volume: [finish] on volume /volume2
+2024/09/17 04:56:58	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/17 04:56:58	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/17 04:58:41	configupdate.volume: [start] on volume /volume3
+2024/09/17 04:58:41	configupdate.volume: [start] on volume /volume1
+2024/09/17 04:58:41	configupdate.volume: [finish] on volume /volume3
+2024/09/17 04:58:41	configupdate.volume: [finish] on volume /volume1
+2024/09/17 04:58:41	configupdate.volume: [start] on volume /volume4
+2024/09/17 04:58:42	configupdate.volume: [finish] on volume /volume4
+2024/09/17 04:58:42	configupdate.volume: [start] on volume /volume2
+2024/09/17 04:58:42	configupdate.volume: [finish] on volume /volume2
+2024/09/17 05:49:08	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/17 05:49:08	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/17 05:50:50	configupdate.volume: [start] on volume /volume3
+2024/09/17 05:50:50	configupdate.volume: [start] on volume /volume1
+2024/09/17 05:50:50	configupdate.volume: [finish] on volume /volume3
+2024/09/17 05:50:50	configupdate.volume: [finish] on volume /volume1
+2024/09/17 05:50:51	configupdate.volume: [start] on volume /volume4
+2024/09/17 05:50:51	configupdate.volume: [finish] on volume /volume4
+2024/09/17 05:50:51	configupdate.volume: [start] on volume /volume2
+2024/09/17 05:50:51	configupdate.volume: [finish] on volume /volume2
+2024/09/17 10:44:23	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/17 10:44:23	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/17 10:46:05	configupdate.volume: [start] on volume /volume3
+2024/09/17 10:46:05	configupdate.volume: [finish] on volume /volume3
+2024/09/17 10:46:05	configupdate.volume: [start] on volume /volume4
+2024/09/17 10:46:05	configupdate.volume: [start] on volume /volume1
+2024/09/17 10:46:05	configupdate.volume: [finish] on volume /volume4
+2024/09/17 10:46:05	configupdate.volume: [finish] on volume /volume1
+2024/09/17 10:46:05	configupdate.volume: [start] on volume /volume2
+2024/09/17 10:46:05	configupdate.volume: [finish] on volume /volume2
+2024/09/20 07:49:40	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/20 07:49:40	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/20 07:51:21	configupdate.volume: [start] on volume /volume3
+2024/09/20 07:51:22	configupdate.volume: [finish] on volume /volume3
+2024/09/20 07:51:22	configupdate.volume: [start] on volume /volume2
+2024/09/20 07:51:22	configupdate.volume: [start] on volume /volume4
+2024/09/20 07:51:22	configupdate.volume: [finish] on volume /volume2
+2024/09/20 07:51:22	configupdate.volume: [finish] on volume /volume4
+2024/09/20 07:51:22	configupdate.volume: [start] on volume /volume1
+2024/09/20 07:51:22	configupdate.volume: [finish] on volume /volume1
+2024/09/20 07:55:03	configupdate.volume: [start] on volume /volume5
+2024/09/20 07:55:03	configupdate.volume: [finish] on volume /volume5
+2024/09/20 11:32:59	No patch exist. Skip Packed Bootup SmallUpdate
+2024/09/20 11:32:59	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/09/20 11:34:42	configupdate.volume: [start] on volume /volume5
+2024/09/20 11:34:42	configupdate.volume: [finish] on volume /volume5
+2024/09/20 11:34:42	configupdate.volume: [start] on volume /volume3
+2024/09/20 11:34:42	configupdate.volume: [finish] on volume /volume3
+2024/09/20 11:34:43	configupdate.volume: [start] on volume /volume4
+2024/09/20 11:34:43	configupdate.volume: [finish] on volume /volume4
+2024/09/20 11:34:43	configupdate.volume: [start] on volume /volume1
+2024/09/20 11:34:43	configupdate.volume: [finish] on volume /volume1
+2024/09/20 11:34:43	configupdate.volume: [start] on volume /volume2
+2024/09/20 11:34:43	configupdate.volume: [finish] on volume /volume2
+2024/10/09 04:31:41	No patch exist. Skip Packed Bootup SmallUpdate
+2024/10/09 04:31:41	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/10/09 04:33:24	configupdate.volume: [start] on volume /volume2
+2024/10/09 04:33:24	configupdate.volume: [start] on volume /volume3
+2024/10/09 04:33:24	configupdate.volume: [finish] on volume /volume2
+2024/10/09 04:33:24	configupdate.volume: [finish] on volume /volume3
+2024/10/09 04:33:24	configupdate.volume: [start] on volume /volume4
+2024/10/09 04:33:24	configupdate.volume: [finish] on volume /volume4
+2024/10/09 04:33:24	configupdate.volume: [start] on volume /volume5
+2024/10/09 04:33:24	configupdate.volume: [finish] on volume /volume5
+2024/10/09 04:33:25	configupdate.volume: [start] on volume /volume1
+2024/10/09 04:33:26	configupdate.volume: [finish] on volume /volume1
+2024/11/05 07:04:59	No patch exist. Skip Packed Bootup SmallUpdate
+2024/11/05 07:04:59	Sparse files don't exist. Skip Sparse Bootup SmallUpdate
+2024/11/05 07:06:32	configupdate.volume: [start] on volume /volume3
+2024/11/05 07:06:32	configupdate.volume: [start] on volume /volume2
+2024/11/05 07:06:32	configupdate.volume: [finish] on volume /volume3
+2024/11/05 07:06:32	configupdate.volume: [finish] on volume /volume2
+2024/11/05 07:06:32	configupdate.volume: [start] on volume /volume5
+2024/11/05 07:06:32	configupdate.volume: [finish] on volume /volume5
+2024/11/05 07:06:32	configupdate.volume: [start] on volume /volume4
+2024/11/05 07:06:32	configupdate.volume: [finish] on volume /volume4
+2024/11/05 07:06:34	configupdate.volume: [start] on volume /volume1
+2024/11/05 07:06:34	configupdate.volume: [finish] on volume /volume1

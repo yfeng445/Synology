@@ -1,0 +1,357 @@
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] service-ctrl.cpp.o(375): error when reading st (st) :stoi
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] service-ctrl.cpp.o(1636): Can't get database configuration /var/packages/SynologyDrive/etc/db-path.conf, error = No such file or directory
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [WARNING] service-ctrl.cpp.o(2512): failed to locate database
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] service-ctrl.cpp.o(2553): Removed cstn repo in all volume
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] service-ctrl.cpp.o(144): local home service is not enabled
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: fs_btrfs_cmd.c:222 SpaceCommand:command="/sbin/btrfs subvolume create /volume1/@synologydrive"
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] service-ctrl.cpp.o(628): btrfs subvolume created /volume1/@synologydrive
+2024-09-11T20:09:48+08:00 Synology_NAS updater-svr[20764]: (20764:98624) [INFO] updater-svr.cpp.o(673): Cleaning temp database
+2024-09-11T20:09:48+08:00 Synology_NAS updater-svr[20764]: (20764:98624) [INFO] updater-svr.cpp.o(675): Cleaning temp database done
+2024-09-11T20:09:48+08:00 Synology_NAS updater-svr[20764]: End updater, ret = 0
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] db-util.cpp.o(558): GetConfig failed
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] db-util.cpp.o(558): GetConfig failed
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [ERROR] service-ctrl.cpp.o(1382): first time installation, add default application privilege
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: plugin_action.c:76 synoplugin: [PRE][app_priv][app_privilege_set][MAIN] Plugin Action Start
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: plugin_action.c:76 synoplugin: [PRE][app_priv][app_privilege_set][MAIN] Runtime: 0.032s
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: plugin_action.c:76 synoplugin: [POST][app_priv][app_privilege_set][MAIN] Plugin Action Start
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: plugin_action.c:76 synoplugin: [POST][app_priv][app_privilege_set][MAIN] Runtime: 0.031s
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] daemon-control.cpp.o(118): Starting vmtouchd
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] starting ...
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-vmtouchd] started.
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] daemon-control.cpp.o(118): Starting redis
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-redis] starting ...
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-redis] started.
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] daemon-control.cpp.o(118): Starting authd
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-authd] starting ...
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-authd] started.
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] daemon-control.cpp.o(118): Starting clientd
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-clientd] starting ...
+2024-09-11T20:09:48+08:00 Synology_NAS synodrive-redis[20813]: Server initialized
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-clientd] started.
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] daemon-control.cpp.o(118): Starting syncd
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-syncd] starting ...
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-syncd] started.
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] daemon-control.cpp.o(118): Starting workerd
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-workerd] starting ...
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-workerd] started.
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] daemon-control.cpp.o(118): Starting apid
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-apid] starting ...
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-apid] started.
+2024-09-11T20:09:48+08:00 Synology_NAS cloud-control[20747]: (20747:94368) [INFO] daemon-control.cpp.o(135): all daemon started.
+2024-09-11T20:09:50+08:00 Synology_NAS clean-recycle-control[21055]: (21055:60256) [INFO] clean-recycle-control.cpp.o(476): No entry found in recyclebin_schedule_table
+2024-09-11T20:10:34+08:00 Synology_NAS syncd[20900]: share_name_path_get.c:273 Fail to parse share name from [/volume1]
+2024-09-11T20:10:36+08:00 Synology_NAS syno-cloud-clientd[20853]: systemd_start.cpp:16 synosystemd: [synotifyd] starting ...
+2024-09-11T20:10:36+08:00 Synology_NAS syno-cloud-clientd[20853]: systemd_start.cpp:20 synosystemd: [synotifyd] started.
+2024-09-11T20:13:47+08:00 Synology_NAS feasibility-check[25783]: (25783:64096) [INFO] feasibility-check.cpp.o(296): Ready to execute handler with type 'volume_delete_check'.
+2024-09-11T20:13:47+08:00 Synology_NAS feasibility-check[25783]: (25783:64096) [INFO] feasibility-check.cpp.o(204): matched volume: '/volume1'.
+2024-09-11T20:19:44+08:00 Synology_NAS feasibility-check[28628]: (28628:89696) [INFO] feasibility-check.cpp.o(296): Ready to execute handler with type 'volume_delete_check'.
+2024-09-11T20:19:44+08:00 Synology_NAS feasibility-check[28628]: (28628:89696) [INFO] feasibility-check.cpp.o(204): matched volume: '/volume1'.
+2024-09-11T20:20:43+08:00 Synology_NAS clean-recycle-control[30212]: (30212:86912) [INFO] clean-recycle-control.cpp.o(331): No entry found in recyclebin_schedule_table
+2024-09-11T20:20:43+08:00 Synology_NAS cloud-control[30213]: (30213:31744) [INFO] daemon-control.cpp.o(147): Stopping clientd
+2024-09-11T20:20:43+08:00 Synology_NAS cloud-control[30213]: (30213:31744) [INFO] daemon-control.cpp.o(147): Stopping syncd
+2024-09-11T20:20:43+08:00 Synology_NAS cloud-control[30213]: (30213:31744) [INFO] daemon-control.cpp.o(147): Stopping workerd
+2024-09-11T20:20:43+08:00 Synology_NAS cloud-control[30213]: (30213:31744) [INFO] daemon-control.cpp.o(147): Stopping apid
+2024-09-11T20:20:43+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-syncd] stopping ...
+2024-09-11T20:20:43+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-workerd] stopping ...
+2024-09-11T20:20:43+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-clientd] stopping ...
+2024-09-11T20:20:43+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-apid] stopping ...
+2024-09-11T20:20:44+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-workerd] stopped.
+2024-09-11T20:20:44+08:00 Synology_NAS synoscgi_SYNO.SynologyDriveShareSync.Connection_1_list[30190]: io_utils.cpp:58 Failed to read, Connection reset by peer
+2024-09-11T20:20:44+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Index_1_get_native_client_status[30047]: io_utils.cpp:58 Failed to read, Connection reset by peer
+2024-09-11T20:20:44+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Index_1_get_native_client_status[30047]: APIRunner.cpp:1558 (30047) Failed to recv data from socket: /run/SynologyDrive/synoapid.sock [err: Connection reset by peer]
+2024-09-11T20:20:44+08:00 Synology_NAS synoscgi_SYNO.SynologyDriveShareSync.Connection_1_list[30190]: APIRunner.cpp:1558 (30190) Failed to recv data from socket: /run/SynologyDrive/synoapid.sock [err: Connection reset by peer]
+2024-09-11T20:20:44+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-apid] stopped.
+2024-09-11T20:20:44+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-clientd] stopped.
+2024-09-11T20:20:49+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Index_1_get_native_client_status[30264]: (30264:73184) [ERROR] request-handler.cpp.o(625): Cloud Station is not ready (status = 'error')
+2024-09-11T20:20:54+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Index_1_get_native_client_status[30377]: (30377:73184) [ERROR] request-handler.cpp.o(625): Cloud Station is not ready (status = 'error')
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-syncd] stopped.
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: (30213:31744) [INFO] daemon-control.cpp.o(147): Stopping vmtouchd
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: (30213:31744) [INFO] daemon-control.cpp.o(147): Stopping redis
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: (30213:31744) [INFO] daemon-control.cpp.o(147): Stopping authd
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-redis] stopping ...
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] stopping ...
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-authd] stopping ...
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-authd] stopped.
+2024-09-11T20:20:55+08:00 Synology_NAS synodrive-redis[20813]: User requested shutdown...
+2024-09-11T20:20:55+08:00 Synology_NAS synodrive-redis[20813]: Redis is now ready to exit, bye bye...
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-redis] stopped.
+2024-09-11T20:20:55+08:00 Synology_NAS cloud-control[30213]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-vmtouchd] stopped.
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] service-ctrl.cpp.o(375): error when reading st (st) :stoi
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] service-ctrl.cpp.o(1636): Can't get database configuration /var/packages/SynologyDrive/etc/db-path.conf, error = No such file or directory
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [WARNING] service-ctrl.cpp.o(2512): failed to locate database
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] service-ctrl.cpp.o(2553): Removed cstn repo in all volume
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] service-ctrl.cpp.o(144): local home service is not enabled
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: fs_btrfs_cmd.c:222 SpaceCommand:command="/sbin/btrfs subvolume create /volume1/@synologydrive"
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] service-ctrl.cpp.o(628): btrfs subvolume created /volume1/@synologydrive
+2024-09-26T10:47:56+08:00 Synology_NAS updater-svr[21455]: (21455: 5248) [INFO] updater-svr.cpp.o(673): Cleaning temp database
+2024-09-26T10:47:56+08:00 Synology_NAS updater-svr[21455]: (21455: 5248) [INFO] updater-svr.cpp.o(675): Cleaning temp database done
+2024-09-26T10:47:56+08:00 Synology_NAS updater-svr[21455]: End updater, ret = 0
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] db-util.cpp.o(558): GetConfig failed
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] db-util.cpp.o(558): GetConfig failed
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(146): sqlite3_prepare_v2(SELECT key, value FROM config_table;): no such table: config_table (1)
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite-statement-manager.cpp.o(104): Failed to prepare 'SELECT key, value FROM config_table;'
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] sqlite_engine.cpp.o(327): sqlite3 step failed: 21
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] engine.cpp.o(148): statment: step failed
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [ERROR] service-ctrl.cpp.o(1382): first time installation, add default application privilege
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: plugin_action.c:76 synoplugin: [PRE][app_priv][app_privilege_set][MAIN] Plugin Action Start
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: plugin_action.c:76 synoplugin: [PRE][app_priv][app_privilege_set][MAIN] Runtime: 0.040s
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: plugin_action.c:76 synoplugin: [POST][app_priv][app_privilege_set][MAIN] Plugin Action Start
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: plugin_action.c:76 synoplugin: [POST][app_priv][app_privilege_set][MAIN] Runtime: 0.043s
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] daemon-control.cpp.o(118): Starting vmtouchd
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] starting ...
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-vmtouchd] started.
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] daemon-control.cpp.o(118): Starting redis
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-redis] starting ...
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-redis] started.
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] daemon-control.cpp.o(118): Starting authd
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-authd] starting ...
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-authd] started.
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] daemon-control.cpp.o(118): Starting clientd
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-clientd] starting ...
+2024-09-26T10:47:56+08:00 Synology_NAS synodrive-redis[21532]: Server initialized
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-clientd] started.
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] daemon-control.cpp.o(118): Starting syncd
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-syncd] starting ...
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-syncd] started.
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] daemon-control.cpp.o(118): Starting workerd
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-workerd] starting ...
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-workerd] started.
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] daemon-control.cpp.o(118): Starting apid
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-apid] starting ...
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-apid] started.
+2024-09-26T10:47:56+08:00 Synology_NAS cloud-control[21438]: (21438:28160) [INFO] daemon-control.cpp.o(135): all daemon started.
+2024-09-26T10:47:58+08:00 Synology_NAS clean-recycle-control[21755]: (21755: 6816) [INFO] clean-recycle-control.cpp.o(476): No entry found in recyclebin_schedule_table
+2024-09-26T10:49:13+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21675]: (21675:64256) [ERROR] get.cpp.o(86): GetFileInfo failed: protocol error, reason = 'home service is disabled' (-703)
+2024-09-26T10:49:13+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21675]: (21675:64256) [ERROR] request-handler.cpp.o(666): failed to handle API 'SYNO.SynologyDrive.Files.get'
+2024-09-26T10:49:13+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21675]: (21675:64256) [ERROR] request-handler.cpp.o(669): error code: 1027, error message: get file infomation failed, error line: 87.
+2024-09-26T10:49:13+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Authentication_1_authenticate_by_dsm[21674]: (21674:64256) [INFO] authenticate-by-dsm-handler.cpp.o(69): username 'Allen' has logined. session_id: 'a642f'
+2024-09-26T10:49:13+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Share_2_get_migrate_index_home_config[21674]: (21674:64256) [ERROR] share-cache.cpp.o(35): Failed to get share: homes, err=[0x1400]
+2024-09-26T10:49:13+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21675]: (21675:64256) [ERROR] get.cpp.o(86): GetFileInfo failed: protocol error, reason = 'home service is disabled' (-703)
+2024-09-26T10:49:13+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21675]: (21675:64256) [ERROR] request-handler.cpp.o(666): failed to handle API 'SYNO.SynologyDrive.Files.get'
+2024-09-26T10:49:13+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21675]: (21675:64256) [ERROR] request-handler.cpp.o(669): error code: 1027, error message: get file infomation failed, error line: 87.
+2024-09-26T10:49:38+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21674]: (21674:64256) [ERROR] get.cpp.o(86): GetFileInfo failed: protocol error, reason = 'home service is disabled' (-703)
+2024-09-26T10:49:38+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21674]: (21674:64256) [ERROR] request-handler.cpp.o(666): failed to handle API 'SYNO.SynologyDrive.Files.get'
+2024-09-26T10:49:38+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Files_7_get[21674]: (21674:64256) [ERROR] request-handler.cpp.o(669): error code: 1027, error message: get file infomation failed, error line: 87.
+2024-09-26T13:40:32+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive_1_get_extension[2929]: ( 2929:64256) [WARNING] get-extension.cpp.o(193): [View Status] User ('1028', 'tmp') have been disabled since user is has no privilege accessing drive
+2024-09-26T13:44:42+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive_1_get_extension[2931]: ( 2931:64256) [WARNING] get-extension.cpp.o(193): [View Status] User ('1028', 'tmp') have been disabled since user is has no privilege accessing drive
+2024-09-26T13:49:06+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive_1_get_extension[2929]: ( 2929:64256) [WARNING] get-extension.cpp.o(193): [View Status] User ('1028', 'tmp') have been disabled since user is has no privilege accessing drive
+2024-10-05T02:12:38+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Share_1_get_migrate_index_home_config[14304]: (14304:64256) [ERROR] share-cache.cpp.o(35): Failed to get share: homes, err=[0x1400]
+2024-10-05T03:46:57+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Connection_1_list[11110]: (11110:64256) [INFO] service-ctrl.cpp.o(2670): ServiceEnumClient, <<< {"cgi_action": "enum_client", "exclude_client_types": ["drive_mobile"], "is_admin": 1, "limit": 50, "sort_by": "last_auth_time", "sort_order": "ASC", "start": 0, "user": "365cent"}
+2024-10-05T03:47:01+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Share_1_get_migrate_index_home_config[11107]: (11107:64256) [ERROR] share-cache.cpp.o(35): Failed to get share: homes, err=[0x1400]
+2024-10-05T03:47:04+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive.Connection_1_list[11273]: (11273:64256) [INFO] service-ctrl.cpp.o(2670): ServiceEnumClient, <<< {"cgi_action": "enum_client", "is_admin": 1, "limit": 50, "sort_by": "last_auth_time", "sort_order": "DESC", "start": 0, "user": "365cent"}
+2024-10-05T07:46:02+08:00 Synology_NAS clean-recycle-control[4062]: ( 4062:36192) [INFO] clean-recycle-control.cpp.o(331): No entry found in recyclebin_schedule_table
+2024-10-05T07:46:03+08:00 Synology_NAS cloud-control[4204]: ( 4204:36960) [INFO] daemon-control.cpp.o(147): Stopping clientd
+2024-10-05T07:46:03+08:00 Synology_NAS cloud-control[4204]: ( 4204:36960) [INFO] daemon-control.cpp.o(147): Stopping syncd
+2024-10-05T07:46:03+08:00 Synology_NAS cloud-control[4204]: ( 4204:36960) [INFO] daemon-control.cpp.o(147): Stopping workerd
+2024-10-05T07:46:03+08:00 Synology_NAS cloud-control[4204]: ( 4204:36960) [INFO] daemon-control.cpp.o(147): Stopping apid
+2024-10-05T07:46:03+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-clientd] stopping ...
+2024-10-05T07:46:03+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-apid] stopping ...
+2024-10-05T07:46:03+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-syncd] stopping ...
+2024-10-05T07:46:03+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-workerd] stopping ...
+2024-10-05T07:46:03+08:00 Synology_NAS synodrive-redis[21532]: User requested shutdown...
+2024-10-05T07:46:03+08:00 Synology_NAS synodrive-redis[21532]: Redis is now ready to exit, bye bye...
+2024-10-05T07:46:04+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-apid] stopped.
+2024-10-05T07:46:04+08:00 Synology_NAS synodrive-redis[4355]: Server initialized
+2024-10-05T07:46:05+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-clientd] stopped.
+2024-10-05T07:46:05+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-workerd] stopped.
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-syncd] stopped.
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: ( 4204:36960) [INFO] daemon-control.cpp.o(147): Stopping vmtouchd
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: ( 4204:36960) [INFO] daemon-control.cpp.o(147): Stopping redis
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: ( 4204:36960) [INFO] daemon-control.cpp.o(147): Stopping authd
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-redis] stopping ...
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-authd] stopping ...
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] stopping ...
+2024-10-05T07:46:08+08:00 Synology_NAS synodrive-redis[4355]: User requested shutdown...
+2024-10-05T07:46:08+08:00 Synology_NAS synodrive-redis[4355]: Redis is now ready to exit, bye bye...
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-redis] stopped.
+2024-10-05T07:46:08+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-authd] stopped.
+2024-10-05T07:46:09+08:00 Synology_NAS cloud-control[4204]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-vmtouchd] stopped.
+2024-10-05T07:49:37+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [ERROR] service-ctrl.cpp.o(375): error when reading st (st) :stoi
+2024-10-05T07:49:38+08:00 Synology_NAS updater-svr[10970]: (10970:59264) [INFO] updater-svr.cpp.o(673): Cleaning temp database
+2024-10-05T07:49:38+08:00 Synology_NAS updater-svr[10970]: (10970:59264) [INFO] updater-svr.cpp.o(675): Cleaning temp database done
+2024-10-05T07:49:38+08:00 Synology_NAS updater-svr[10970]: End updater, ret = 0
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [ERROR] share-service.cpp(30): SYNOShareGet(homes): -1 Error code: 5120
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [WARNING] init-check.cpp.o(195): Failed to get homes share, may not exist ?
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] service-ctrl.cpp.o(1080): Can't access() .recovery_bootup, regard as we are not launching after DSM restore
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] daemon-control.cpp.o(118): Starting vmtouchd
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] starting ...
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-vmtouchd] started.
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] daemon-control.cpp.o(118): Starting redis
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-redis] starting ...
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-redis] started.
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] daemon-control.cpp.o(118): Starting authd
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-authd] starting ...
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-authd] started.
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] daemon-control.cpp.o(118): Starting clientd
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-clientd] starting ...
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-clientd] started.
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] daemon-control.cpp.o(118): Starting syncd
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-syncd] starting ...
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-syncd] started.
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] daemon-control.cpp.o(118): Starting workerd
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-workerd] starting ...
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-workerd] started.
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] daemon-control.cpp.o(118): Starting apid
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-apid] starting ...
+2024-10-05T07:49:38+08:00 Synology_NAS cloud-control[10934]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-apid] started.
+2024-10-05T07:49:38+08:00 Synology_NAS synodrive-redis[11060]: Server initialized
+2024-10-05T07:49:39+08:00 Synology_NAS cloud-control[10934]: (10934:63136) [INFO] daemon-control.cpp.o(135): all daemon started.
+2024-10-05T07:49:40+08:00 Synology_NAS clean-recycle-control[11296]: (11296:26400) [INFO] clean-recycle-control.cpp.o(476): No entry found in recyclebin_schedule_table
+2024-10-05T11:48:54+08:00 Synology_NAS synoscgi_SYNO.SynologyDrive_1_get_extension[24514]: (24514:78240) [WARNING] get-extension.cpp.o(193): [View Status] User ('1031', 'CZDDB') have been disabled since user is has no privilege accessing drive
+2024-10-07T11:49:25+08:00 Yasuraokaa_Site synoscgi_SYNO.SynologyDrive_1_get_extension[13092]: (13092:78240) [WARNING] get-extension.cpp.o(193): [View Status] User ('1032', 'homo') have been disabled since user is has no privilege accessing drive
+2024-10-07T23:09:34+08:00 Yasuraokaa_Site synoscgi_SYNO.SynologyDrive_1_get_extension[13094]: (13094:78240) [WARNING] get-extension.cpp.o(193): [View Status] User ('1032', 'homo') have been disabled since user is has no privilege accessing drive
+2024-10-09T04:28:33+08:00 Yasuraokaa_Site clean-recycle-control[734]: (  734:55840) [INFO] clean-recycle-control.cpp.o(331): No entry found in recyclebin_schedule_table
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: (  867:22848) [INFO] daemon-control.cpp.o(147): Stopping clientd
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: (  867:22848) [INFO] daemon-control.cpp.o(147): Stopping syncd
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: (  867:22848) [INFO] daemon-control.cpp.o(147): Stopping workerd
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: (  867:22848) [INFO] daemon-control.cpp.o(147): Stopping apid
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-clientd] stopping ...
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-apid] stopping ...
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-syncd] stopping ...
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-workerd] stopping ...
+2024-10-09T04:28:34+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-apid] stopped.
+2024-10-09T04:28:35+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-workerd] stopped.
+2024-10-09T04:28:36+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-clientd] stopped.
+2024-10-09T04:28:40+08:00 Yasuraokaa_Site syncd[11114]: scemd_connector/scemd_connector.c:202 Scemd isn't ready, so cannot get scemd status.
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-syncd] stopped.
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: (  867:22848) [INFO] daemon-control.cpp.o(147): Stopping vmtouchd
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: (  867:22848) [INFO] daemon-control.cpp.o(147): Stopping redis
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: (  867:22848) [INFO] daemon-control.cpp.o(147): Stopping authd
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-redis] stopping ...
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] stopping ...
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-authd] stopping ...
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site synodrive-redis[11060]: User requested shutdown...
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site synodrive-redis[11060]: Redis is now ready to exit, bye bye...
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-authd] stopped.
+2024-10-09T04:28:46+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-redis] stopped.
+2024-10-09T04:28:47+08:00 Yasuraokaa_Site cloud-control[867]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-vmtouchd] stopped.
+2024-10-09T04:34:19+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [ERROR] service-ctrl.cpp.o(375): error when reading st (st) :stoi
+2024-10-09T04:34:21+08:00 Yasuraokaa_Site updater-svr[25975]: (25975:25600) [INFO] updater-svr.cpp.o(673): Cleaning temp database
+2024-10-09T04:34:21+08:00 Yasuraokaa_Site updater-svr[25975]: (25975:25600) [INFO] updater-svr.cpp.o(675): Cleaning temp database done
+2024-10-09T04:34:21+08:00 Yasuraokaa_Site updater-svr[25975]: End updater, ret = 0
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [ERROR] share-service.cpp(30): SYNOShareGet(homes): -1 Error code: 5120
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [WARNING] init-check.cpp.o(195): Failed to get homes share, may not exist ?
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] service-ctrl.cpp.o(1080): Can't access() .recovery_bootup, regard as we are not launching after DSM restore
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] daemon-control.cpp.o(118): Starting vmtouchd
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] starting ...
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-vmtouchd] started.
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] daemon-control.cpp.o(118): Starting redis
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-redis] starting ...
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-redis] started.
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] daemon-control.cpp.o(118): Starting authd
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-authd] starting ...
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-authd] started.
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] daemon-control.cpp.o(118): Starting clientd
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-clientd] starting ...
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-clientd] started.
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] daemon-control.cpp.o(118): Starting syncd
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-syncd] starting ...
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-syncd] started.
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] daemon-control.cpp.o(118): Starting workerd
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-workerd] starting ...
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-workerd] started.
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] daemon-control.cpp.o(118): Starting apid
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-apid] starting ...
+2024-10-09T04:34:22+08:00 Yasuraokaa_Site cloud-control[25917]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-apid] started.
+2024-10-09T04:34:23+08:00 Yasuraokaa_Site synodrive-redis[26072]: Server initialized
+2024-10-09T04:34:26+08:00 Yasuraokaa_Site cloud-control[25917]: (25917:71904) [INFO] daemon-control.cpp.o(135): all daemon started.
+2024-10-09T04:34:31+08:00 Yasuraokaa_Site clean-recycle-control[26546]: (26546:94944) [INFO] clean-recycle-control.cpp.o(476): No entry found in recyclebin_schedule_table
+2024-11-05T00:53:15+08:00 Yasuraokaa_Site clean-recycle-control[22673]: (22673:41216) [INFO] clean-recycle-control.cpp.o(331): No entry found in recyclebin_schedule_table
+2024-11-05T00:53:15+08:00 Yasuraokaa_Site cloud-control[22783]: (22783:78560) [INFO] daemon-control.cpp.o(147): Stopping clientd
+2024-11-05T00:53:15+08:00 Yasuraokaa_Site cloud-control[22783]: (22783:78560) [INFO] daemon-control.cpp.o(147): Stopping syncd
+2024-11-05T00:53:15+08:00 Yasuraokaa_Site cloud-control[22783]: (22783:78560) [INFO] daemon-control.cpp.o(147): Stopping workerd
+2024-11-05T00:53:15+08:00 Yasuraokaa_Site cloud-control[22783]: (22783:78560) [INFO] daemon-control.cpp.o(147): Stopping apid
+2024-11-05T00:53:15+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-syncd] stopping ...
+2024-11-05T00:53:16+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-clientd] stopping ...
+2024-11-05T00:53:16+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-workerd] stopping ...
+2024-11-05T00:53:16+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-apid] stopping ...
+2024-11-05T00:53:17+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-workerd] stopped.
+2024-11-05T00:53:17+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-clientd] stopped.
+2024-11-05T00:53:17+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-apid] stopped.
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-syncd] stopped.
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: (22783:78560) [INFO] daemon-control.cpp.o(147): Stopping vmtouchd
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: (22783:78560) [INFO] daemon-control.cpp.o(147): Stopping redis
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: (22783:78560) [INFO] daemon-control.cpp.o(147): Stopping authd
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] stopping ...
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-authd] stopping ...
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:16 synosystemd: [pkg-synologydrive-redis] stopping ...
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-authd] stopped.
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site synodrive-redis[26072]: User requested shutdown...
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site synodrive-redis[26072]: Redis is now ready to exit, bye bye...
+2024-11-05T00:53:27+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-redis] stopped.
+2024-11-05T00:53:28+08:00 Yasuraokaa_Site cloud-control[22783]: systemd_stop.cpp:21 synosystemd: [pkg-synologydrive-vmtouchd] stopped.
+2024-11-05T07:07:41+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [ERROR] service-ctrl.cpp.o(375): error when reading st (st) :stoi
+2024-11-05T07:07:42+08:00 Yasuraokaa_Site updater-svr[23234]: (23234:92640) [INFO] updater-svr.cpp.o(673): Cleaning temp database
+2024-11-05T07:07:42+08:00 Yasuraokaa_Site updater-svr[23234]: (23234:92640) [INFO] updater-svr.cpp.o(675): Cleaning temp database done
+2024-11-05T07:07:42+08:00 Yasuraokaa_Site updater-svr[23234]: End updater, ret = 0
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [ERROR] share-service.cpp(30): SYNOShareGet(homes): -1 Error code: 5120
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [WARNING] init-check.cpp.o(195): Failed to get homes share, may not exist ?
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] service-ctrl.cpp.o(1080): Can't access() .recovery_bootup, regard as we are not launching after DSM restore
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] daemon-control.cpp.o(118): Starting vmtouchd
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-vmtouchd] starting ...
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-vmtouchd] started.
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] daemon-control.cpp.o(118): Starting redis
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-redis] starting ...
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-redis] started.
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] daemon-control.cpp.o(118): Starting authd
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-authd] starting ...
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-authd] started.
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] daemon-control.cpp.o(118): Starting clientd
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-clientd] starting ...
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-clientd] started.
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] daemon-control.cpp.o(118): Starting syncd
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-syncd] starting ...
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-syncd] started.
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] daemon-control.cpp.o(118): Starting workerd
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-workerd] starting ...
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-workerd] started.
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] daemon-control.cpp.o(118): Starting apid
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:16 synosystemd: [pkg-synologydrive-apid] starting ...
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site cloud-control[23184]: systemd_start.cpp:20 synosystemd: [pkg-synologydrive-apid] started.
+2024-11-05T07:07:43+08:00 Yasuraokaa_Site synodrive-redis[23351]: Server initialized
+2024-11-05T07:07:46+08:00 Yasuraokaa_Site cloud-control[23184]: (23184:99904) [INFO] daemon-control.cpp.o(135): all daemon started.
+2024-11-05T07:07:51+08:00 Yasuraokaa_Site clean-recycle-control[23739]: (23739:75264) [INFO] clean-recycle-control.cpp.o(476): No entry found in recyclebin_schedule_table

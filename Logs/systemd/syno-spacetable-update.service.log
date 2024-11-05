@@ -1,0 +1,38 @@
+2024-09-08T17:16:50-07:00 SynologyNAS synospace[9794]: No space found
+2024-09-08T17:16:50-07:00 SynologyNAS space.sh[9886]: successed to update space table without boot done check
+2024-09-10T07:08:53+08:00 Synology_NAS synospace[9826]: No space found
+2024-09-10T07:08:54+08:00 Synology_NAS space.sh[10189]: successed to update space table without boot done check
+2024-09-11T20:05:37+08:00 Synology_NAS synospace[9371]: No space found
+2024-09-11T20:05:38+08:00 Synology_NAS space.sh[9512]: successed to update space table without boot done check
+2024-09-12T00:30:25+08:00 Synology_NAS synospace[11130]: Success to dump space info into '/etc/space,/run/space'
+2024-09-12T00:30:26+08:00 Synology_NAS space.sh[11454]: successed to update space table without boot done check
+2024-09-14T23:16:51+08:00 Synology_NAS synospace[11884]: Success to dump space info into '/etc/space,/run/space'
+2024-09-14T23:16:52+08:00 Synology_NAS space.sh[12220]: successed to update space table without boot done check
+2024-09-15T01:14:17+08:00 Synology_NAS synospace[11629]: Success to dump space info into '/etc/space,/run/space'
+2024-09-15T01:14:17+08:00 Synology_NAS space.sh[11869]: successed to update space table without boot done check
+2024-09-15T01:22:03+08:00 Synology_NAS synospace[11670]: Success to dump space info into '/etc/space,/run/space'
+2024-09-15T01:22:04+08:00 Synology_NAS space.sh[12133]: successed to update space table without boot done check
+2024-09-15T01:30:57+08:00 Synology_NAS synospace[11899]: Success to dump space info into '/etc/space,/run/space'
+2024-09-15T01:30:58+08:00 Synology_NAS space.sh[12260]: successed to update space table without boot done check
+2024-09-15T05:06:09+08:00 Synology_NAS synospace[9429]: Success to dump space info into '/etc/space,/run/space'
+2024-09-15T05:06:12+08:00 Synology_NAS space.sh[10088]: successed to update space table without boot done check
+2024-09-15T05:15:14+08:00 Synology_NAS synospace[11592]: Success to dump space info into '/etc/space,/run/space'
+2024-09-15T05:15:17+08:00 Synology_NAS space.sh[11844]: successed to update space table without boot done check
+2024-09-16T05:39:39+08:00 Synology_NAS synospace[11649]: Success to dump space info into '/etc/space,/run/space'
+2024-09-16T05:39:39+08:00 Synology_NAS space.sh[11906]: successed to update space table without boot done check
+2024-09-16T19:33:00+08:00 Synology_NAS synospace[11631]: Success to dump space info into '/etc/space,/run/space'
+2024-09-16T19:33:01+08:00 Synology_NAS space.sh[12070]: successed to update space table without boot done check
+2024-09-17T04:58:40+08:00 Synology_NAS synospace[11695]: Success to dump space info into '/etc/space,/run/space'
+2024-09-17T04:58:42+08:00 Synology_NAS space.sh[12136]: successed to update space table without boot done check
+2024-09-17T05:50:49+08:00 Synology_NAS synospace[11636]: Success to dump space info into '/etc/space,/run/space'
+2024-09-17T05:50:50+08:00 Synology_NAS space.sh[12005]: successed to update space table without boot done check
+2024-09-17T10:46:04+08:00 Synology_NAS synospace[11638]: Success to dump space info into '/etc/space,/run/space'
+2024-09-17T10:46:05+08:00 Synology_NAS space.sh[11892]: successed to update space table without boot done check
+2024-09-20T07:51:22+08:00 Synology_NAS synospace[11802]: Success to dump space info into '/etc/space,/run/space'
+2024-09-20T07:51:23+08:00 Synology_NAS space.sh[12258]: successed to update space table without boot done check
+2024-09-20T11:34:42+08:00 Synology_NAS synospace[11964]: Success to dump space info into '/etc/space,/run/space'
+2024-09-20T11:34:43+08:00 Synology_NAS space.sh[12463]: successed to update space table without boot done check
+2024-10-09T04:33:23+08:00 Yasuraokaa_Site synospace[12104]: Success to dump space info into '/etc/space,/run/space'
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site space.sh[12568]: successed to update space table without boot done check
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synospace[12126]: Success to dump space info into '/etc/space,/run/space'
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site space.sh[12366]: successed to update space table without boot done check

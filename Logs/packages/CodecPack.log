@@ -1,0 +1,80 @@
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin preinst
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End preinst ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/mkdir -p /volume1/@appstore/CodecPack -m 755
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/mkdir -p /volume1/@appstore/CodecPack -m 755 ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/rm -rf /volume1/@appstore/CodecPack
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/rm -rf /volume1/@appstore/CodecPack ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/mv -f /volume1/@tmp/synopkg/install.nCtUTk/package /volume1/@appstore/CodecPack
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/mv -f /volume1/@tmp/synopkg/install.nCtUTk/package /volume1/@appstore/CodecPack ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/rm -rf /var/packages/CodecPack
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/rm -rf /var/packages/CodecPack ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/mkdir -p /var/packages/CodecPack -m 755
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/mkdir -p /var/packages/CodecPack -m 755 ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/touch /var/packages/CodecPack/installing
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/touch /var/packages/CodecPack/installing ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/mv -f /volume1/@tmp/synopkg/install.nCtUTk/INFO /var/packages/CodecPack/INFO
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/mv -f /volume1/@tmp/synopkg/install.nCtUTk/INFO /var/packages/CodecPack/INFO ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/rm -rf /var/packages/CodecPack/scripts
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/rm -rf /var/packages/CodecPack/scripts ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/mv -f /volume1/@tmp/synopkg/install.nCtUTk/scripts /var/packages/CodecPack/scripts
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/mv -f /volume1/@tmp/synopkg/install.nCtUTk/scripts /var/packages/CodecPack/scripts ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/rm -rf /var/packages/CodecPack/conf
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/rm -rf /var/packages/CodecPack/conf ret=[0]
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 Begin /bin/mv -f /volume1/@tmp/synopkg/install.nCtUTk/conf /var/packages/CodecPack/conf
+2024/09/14 06:49:45	install CodecPack 3.1.0-3005 End /bin/mv -f /volume1/@tmp/synopkg/install.nCtUTk/conf /var/packages/CodecPack/conf ret=[0]
+2024/09/14 06:49:46	install CodecPack 3.1.0-3005 Begin postinst
+2024/09/14 06:49:46	install CodecPack 3.1.0-3005 End postinst ret=[0]
+2024/09/14 06:49:48	install CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/14 06:49:48	install CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/14 22:42:42	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/14 22:42:42	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/14 23:17:01	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/14 23:17:02	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/15 00:49:58	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/15 00:49:58	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/15 01:14:26	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/15 01:14:26	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/15 01:22:12	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/15 01:22:12	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/15 01:31:07	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/15 01:31:07	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/15 05:06:24	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/15 05:06:24	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/15 05:15:27	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/15 05:15:28	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/16 05:35:16	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/16 05:35:16	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/16 05:39:49	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/16 05:39:49	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/16 19:28:24	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/16 19:28:24	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/16 19:33:10	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/16 19:33:10	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/17 04:54:16	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/17 04:54:16	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/17 04:58:51	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/17 04:58:51	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/17 05:46:13	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/17 05:46:13	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/17 05:50:59	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/17 05:50:59	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/17 10:41:29	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/17 10:41:29	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/17 10:46:13	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/17 10:46:13	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/20 07:36:31	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/20 07:36:31	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/20 07:51:32	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/20 07:51:32	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/09/20 11:28:39	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/09/20 11:28:39	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/09/20 11:34:53	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/09/20 11:34:53	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/10/09 04:28:33	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/10/09 04:33:37	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/10/09 04:33:37	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status stop
+2024/11/05 00:53:14	(system) trigger CodecPack 3.1.0-3005 End start-stop-status stop ret=[0]
+2024/11/05 07:06:44	(system) trigger CodecPack 3.1.0-3005 Begin start-stop-status start
+2024/11/05 07:06:44	(system) trigger CodecPack 3.1.0-3005 End start-stop-status start ret=[0]

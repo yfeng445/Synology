@@ -1,0 +1,351 @@
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: eth0
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: eth1
+2024-09-08T17:15:27-07:00 SynologyNAS syno-network-check.sh[9278]: Unready count: 2
+2024-09-08T17:15:28-07:00 SynologyNAS syno-network-check.sh[9278]: ==== next round 1 ====================================
+2024-09-08T17:15:28-07:00 SynologyNAS syno-network-check.sh[9278]: eth0	nolink
+2024-09-08T17:15:28-07:00 SynologyNAS syno-network-check.sh[9278]: eth1	nolink
+2024-09-08T17:15:28-07:00 SynologyNAS syno-network-check.sh[9278]: Unready count: 2
+2024-09-08T17:15:29-07:00 SynologyNAS syno-network-check.sh[9278]: ==== next round 2 ====================================
+2024-09-08T17:15:29-07:00 SynologyNAS syno-network-check.sh[9278]: eth0	link	10.0.0.223	IPv6_off
+2024-09-08T17:15:29-07:00 SynologyNAS syno-network-check.sh[9278]: eth1	nolink	169.254.89.82	IPv6_off
+2024-09-08T17:15:29-07:00 SynologyNAS syno-network-check.sh[9278]: Unready count: 0
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: eth0	link	10.0.0.223	IPv6_off
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: eth1
+2024-09-10T07:07:28+08:00 Synology_NAS syno-network-check.sh[8531]: Unready count: 1
+2024-09-10T07:07:29+08:00 Synology_NAS syno-network-check.sh[8531]: ==== next round 1 ====================================
+2024-09-10T07:07:29+08:00 Synology_NAS syno-network-check.sh[8531]: eth1	nolink
+2024-09-10T07:07:29+08:00 Synology_NAS syno-network-check.sh[8531]: Unready count: 1
+2024-09-10T07:07:30+08:00 Synology_NAS syno-network-check.sh[8531]: ==== next round 2 ====================================
+2024-09-10T07:07:30+08:00 Synology_NAS syno-network-check.sh[8531]: eth1	nolink	169.254.89.82	IPv6_off
+2024-09-10T07:07:30+08:00 Synology_NAS syno-network-check.sh[8531]: Unready count: 0
+2024-09-11T20:04:11+08:00 Synology_NAS syno-network-check.sh[8743]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: eth0	link	10.0.0.223	IPv6_off
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: eth1
+2024-09-11T20:04:12+08:00 Synology_NAS syno-network-check.sh[8743]: Unready count: 1
+2024-09-11T20:04:13+08:00 Synology_NAS syno-network-check.sh[8743]: ==== next round 1 ====================================
+2024-09-11T20:04:13+08:00 Synology_NAS syno-network-check.sh[8743]: eth1	nolink
+2024-09-11T20:04:13+08:00 Synology_NAS syno-network-check.sh[8743]: Unready count: 1
+2024-09-11T20:04:14+08:00 Synology_NAS syno-network-check.sh[8743]: ==== next round 2 ====================================
+2024-09-11T20:04:14+08:00 Synology_NAS syno-network-check.sh[8743]: eth1	nolink	169.254.89.82	IPv6_off
+2024-09-11T20:04:14+08:00 Synology_NAS syno-network-check.sh[8743]: Unready count: 0
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: eth0	link	10.0.0.223	IPv6_off
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: eth1
+2024-09-12T00:28:57+08:00 Synology_NAS syno-network-check.sh[9134]: Unready count: 1
+2024-09-12T00:28:58+08:00 Synology_NAS syno-network-check.sh[9134]: ==== next round 1 ====================================
+2024-09-12T00:28:58+08:00 Synology_NAS syno-network-check.sh[9134]: eth1	nolink
+2024-09-12T00:28:58+08:00 Synology_NAS syno-network-check.sh[9134]: Unready count: 1
+2024-09-12T00:28:59+08:00 Synology_NAS syno-network-check.sh[9134]: ==== next round 2 ====================================
+2024-09-12T00:28:59+08:00 Synology_NAS syno-network-check.sh[9134]: eth1	nolink	169.254.89.82	IPv6_off
+2024-09-12T00:28:59+08:00 Synology_NAS syno-network-check.sh[9134]: Unready count: 0
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: eth0	link	10.0.0.223	IPv6_off
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: eth1
+2024-09-14T23:15:22+08:00 Synology_NAS syno-network-check.sh[9311]: Unready count: 1
+2024-09-14T23:15:23+08:00 Synology_NAS syno-network-check.sh[9311]: ==== next round 1 ====================================
+2024-09-14T23:15:23+08:00 Synology_NAS syno-network-check.sh[9311]: eth1	link	10.0.0.224	IPv6_off
+2024-09-14T23:15:23+08:00 Synology_NAS syno-network-check.sh[9311]: Unready count: 0
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: eth0	link
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: eth1
+2024-09-15T01:12:47+08:00 Synology_NAS syno-network-check.sh[9345]: Unready count: 2
+2024-09-15T01:12:48+08:00 Synology_NAS syno-network-check.sh[9345]: ==== next round 1 ====================================
+2024-09-15T01:12:48+08:00 Synology_NAS syno-network-check.sh[9345]: eth0	link
+2024-09-15T01:12:48+08:00 Synology_NAS syno-network-check.sh[9345]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-15T01:12:48+08:00 Synology_NAS syno-network-check.sh[9345]: Unready count: 1
+2024-09-15T01:12:49+08:00 Synology_NAS syno-network-check.sh[9345]: ==== next round 2 ====================================
+2024-09-15T01:12:49+08:00 Synology_NAS syno-network-check.sh[9345]: eth0	link
+2024-09-15T01:12:49+08:00 Synology_NAS syno-network-check.sh[9345]: Unready count: 1
+2024-09-15T01:12:50+08:00 Synology_NAS syno-network-check.sh[9345]: ==== next round 3 ====================================
+2024-09-15T01:12:50+08:00 Synology_NAS syno-network-check.sh[9345]: eth0	link
+2024-09-15T01:12:50+08:00 Synology_NAS syno-network-check.sh[9345]: Unready count: 1
+2024-09-15T01:12:51+08:00 Synology_NAS syno-network-check.sh[9345]: ==== next round 4 ====================================
+2024-09-15T01:12:51+08:00 Synology_NAS syno-network-check.sh[9345]: eth0	link
+2024-09-15T01:12:51+08:00 Synology_NAS syno-network-check.sh[9345]: Unready count: 1
+2024-09-15T01:12:52+08:00 Synology_NAS syno-network-check.sh[9345]: ==== next round 5 ====================================
+2024-09-15T01:12:52+08:00 Synology_NAS syno-network-check.sh[9345]: eth0	link
+2024-09-15T01:12:52+08:00 Synology_NAS syno-network-check.sh[9345]: Unready count: 1
+2024-09-15T01:12:53+08:00 Synology_NAS syno-network-check.sh[9345]: ==== next round 6 ====================================
+2024-09-15T01:12:53+08:00 Synology_NAS syno-network-check.sh[9345]: eth0	link	10.0.0.224	IPv6_off
+2024-09-15T01:12:53+08:00 Synology_NAS syno-network-check.sh[9345]: Unready count: 0
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: eth0	link
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: eth1
+2024-09-15T01:20:35+08:00 Synology_NAS syno-network-check.sh[9378]: Unready count: 2
+2024-09-15T01:20:36+08:00 Synology_NAS syno-network-check.sh[9378]: ==== next round 1 ====================================
+2024-09-15T01:20:36+08:00 Synology_NAS syno-network-check.sh[9378]: eth0	link
+2024-09-15T01:20:36+08:00 Synology_NAS syno-network-check.sh[9378]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-15T01:20:36+08:00 Synology_NAS syno-network-check.sh[9378]: Unready count: 1
+2024-09-15T01:20:37+08:00 Synology_NAS syno-network-check.sh[9378]: ==== next round 2 ====================================
+2024-09-15T01:20:37+08:00 Synology_NAS syno-network-check.sh[9378]: eth0	link
+2024-09-15T01:20:37+08:00 Synology_NAS syno-network-check.sh[9378]: Unready count: 1
+2024-09-15T01:20:38+08:00 Synology_NAS syno-network-check.sh[9378]: ==== next round 3 ====================================
+2024-09-15T01:20:38+08:00 Synology_NAS syno-network-check.sh[9378]: eth0	link
+2024-09-15T01:20:38+08:00 Synology_NAS syno-network-check.sh[9378]: Unready count: 1
+2024-09-15T01:20:39+08:00 Synology_NAS syno-network-check.sh[9378]: ==== next round 4 ====================================
+2024-09-15T01:20:39+08:00 Synology_NAS syno-network-check.sh[9378]: eth0	link	10.0.0.224	IPv6_off
+2024-09-15T01:20:39+08:00 Synology_NAS syno-network-check.sh[9378]: Unready count: 0
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: eth0	link	10.0.0.224	IPv6_off
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: eth1
+2024-09-15T01:29:29+08:00 Synology_NAS syno-network-check.sh[9350]: Unready count: 1
+2024-09-15T01:29:30+08:00 Synology_NAS syno-network-check.sh[9350]: ==== next round 1 ====================================
+2024-09-15T01:29:30+08:00 Synology_NAS syno-network-check.sh[9350]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-15T01:29:30+08:00 Synology_NAS syno-network-check.sh[9350]: Unready count: 0
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: eth0	link	10.0.0.224	IPv6_off
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: eth1
+2024-09-15T05:04:42+08:00 Synology_NAS syno-network-check.sh[8634]: Unready count: 1
+2024-09-15T05:04:43+08:00 Synology_NAS syno-network-check.sh[8634]: ==== next round 1 ====================================
+2024-09-15T05:04:43+08:00 Synology_NAS syno-network-check.sh[8634]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-15T05:04:43+08:00 Synology_NAS syno-network-check.sh[8634]: Unready count: 0
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: eth0	link	10.0.0.224	IPv6_off
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: eth1
+2024-09-15T05:13:44+08:00 Synology_NAS syno-network-check.sh[9351]: Unready count: 1
+2024-09-15T05:13:45+08:00 Synology_NAS syno-network-check.sh[9351]: ==== next round 1 ====================================
+2024-09-15T05:13:45+08:00 Synology_NAS syno-network-check.sh[9351]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-15T05:13:45+08:00 Synology_NAS syno-network-check.sh[9351]: Unready count: 0
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: eth0	link	10.0.0.224	IPv6_off
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: eth1
+2024-09-16T05:38:10+08:00 Synology_NAS syno-network-check.sh[9387]: Unready count: 1
+2024-09-16T05:38:11+08:00 Synology_NAS syno-network-check.sh[9387]: ==== next round 1 ====================================
+2024-09-16T05:38:11+08:00 Synology_NAS syno-network-check.sh[9387]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-16T05:38:11+08:00 Synology_NAS syno-network-check.sh[9387]: Unready count: 0
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: eth0	link	10.0.0.224	IPv6_off
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: eth1
+2024-09-16T19:31:31+08:00 Synology_NAS syno-network-check.sh[9382]: Unready count: 1
+2024-09-16T19:31:32+08:00 Synology_NAS syno-network-check.sh[9382]: ==== next round 1 ====================================
+2024-09-16T19:31:32+08:00 Synology_NAS syno-network-check.sh[9382]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-16T19:31:32+08:00 Synology_NAS syno-network-check.sh[9382]: Unready count: 0
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: eth0	link	10.0.0.224	IPv6_off
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: eth1
+2024-09-17T04:57:10+08:00 Synology_NAS syno-network-check.sh[9373]: Unready count: 1
+2024-09-17T04:57:11+08:00 Synology_NAS syno-network-check.sh[9373]: ==== next round 1 ====================================
+2024-09-17T04:57:11+08:00 Synology_NAS syno-network-check.sh[9373]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-17T04:57:11+08:00 Synology_NAS syno-network-check.sh[9373]: Unready count: 0
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: eth0	link	10.0.0.224	IPv6_off
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: eth1
+2024-09-17T05:49:21+08:00 Synology_NAS syno-network-check.sh[9357]: Unready count: 1
+2024-09-17T05:49:22+08:00 Synology_NAS syno-network-check.sh[9357]: ==== next round 1 ====================================
+2024-09-17T05:49:22+08:00 Synology_NAS syno-network-check.sh[9357]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-17T05:49:22+08:00 Synology_NAS syno-network-check.sh[9357]: Unready count: 0
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: eth0	link	10.0.0.224	IPv6_off
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: eth1
+2024-09-17T10:44:36+08:00 Synology_NAS syno-network-check.sh[9377]: Unready count: 1
+2024-09-17T10:44:37+08:00 Synology_NAS syno-network-check.sh[9377]: ==== next round 1 ====================================
+2024-09-17T10:44:37+08:00 Synology_NAS syno-network-check.sh[9377]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-17T10:44:37+08:00 Synology_NAS syno-network-check.sh[9377]: Unready count: 0
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: eth0	link	10.0.0.224	IPv6_off
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: eth1
+2024-09-20T07:49:52+08:00 Synology_NAS syno-network-check.sh[9532]: Unready count: 1
+2024-09-20T07:49:53+08:00 Synology_NAS syno-network-check.sh[9532]: ==== next round 1 ====================================
+2024-09-20T07:49:53+08:00 Synology_NAS syno-network-check.sh[9532]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-20T07:49:53+08:00 Synology_NAS syno-network-check.sh[9532]: Unready count: 0
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: Perhaps iptables or your kernel needs to be upgraded.
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: eth0	link
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: eth1
+2024-09-20T11:33:12+08:00 Synology_NAS syno-network-check.sh[9584]: Unready count: 2
+2024-09-20T11:33:13+08:00 Synology_NAS syno-network-check.sh[9584]: ==== next round 1 ====================================
+2024-09-20T11:33:13+08:00 Synology_NAS syno-network-check.sh[9584]: eth0	link
+2024-09-20T11:33:13+08:00 Synology_NAS syno-network-check.sh[9584]: eth1	nolink	10.0.0.224	IPv6_off
+2024-09-20T11:33:13+08:00 Synology_NAS syno-network-check.sh[9584]: Unready count: 1
+2024-09-20T11:33:14+08:00 Synology_NAS syno-network-check.sh[9584]: ==== next round 2 ====================================
+2024-09-20T11:33:14+08:00 Synology_NAS syno-network-check.sh[9584]: eth0	link
+2024-09-20T11:33:14+08:00 Synology_NAS syno-network-check.sh[9584]: Unready count: 1
+2024-09-20T11:33:15+08:00 Synology_NAS syno-network-check.sh[9584]: ==== next round 3 ====================================
+2024-09-20T11:33:15+08:00 Synology_NAS syno-network-check.sh[9584]: eth0	link	10.0.0.224	IPv6_off
+2024-09-20T11:33:15+08:00 Synology_NAS syno-network-check.sh[9584]: Unready count: 0
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: iptables-save v1.8.3 (legacy): Cannot initialize: iptables who? (do you need to insmod?)
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Perhaps iptables or your kernel needs to be upgraded.
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: iptables v1.8.3 (legacy): can't initialize iptables table `filter': iptables who? (do you need to insmod?)
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Perhaps iptables or your kernel needs to be upgraded.
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: ip6tables v1.8.3 (legacy): can't initialize ip6tables table `filter': iptables who? (do you need to insmod?)
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Perhaps ip6tables or your kernel needs to be upgraded.
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: eth0	link
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: eth1
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Unready count: 2
+2024-10-09T04:31:55+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: ==== next round 1 ====================================
+2024-10-09T04:31:55+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: eth0	link
+2024-10-09T04:31:55+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: eth1	nolink	10.0.0.224	IPv6_off
+2024-10-09T04:31:55+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Unready count: 1
+2024-10-09T04:31:56+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: ==== next round 2 ====================================
+2024-10-09T04:31:56+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: eth0	link
+2024-10-09T04:31:56+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Unready count: 1
+2024-10-09T04:31:57+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: ==== next round 3 ====================================
+2024-10-09T04:31:57+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: eth0	link
+2024-10-09T04:31:57+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Unready count: 1
+2024-10-09T04:31:58+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: ==== next round 4 ====================================
+2024-10-09T04:31:58+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: eth0	link	10.0.0.224	IPv6_off
+2024-10-09T04:31:58+08:00 Yasuraokaa_Site syno-network-check.sh[9448]: Unready count: 0
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: success
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unloading kernel ipv6 netfilter modules...
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: success
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unloading kernel ipv4 netfilter common modules...
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unloading kernel ipv4 netfilter core modules...
+2024-11-05T07:05:13+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: eth0	link
+2024-11-05T07:05:13+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: eth1
+2024-11-05T07:05:13+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unready count: 2
+2024-11-05T07:05:14+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: ==== next round 1 ====================================
+2024-11-05T07:05:14+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: eth0	link
+2024-11-05T07:05:14+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: eth1	nolink	10.0.0.224	IPv6_off
+2024-11-05T07:05:14+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unready count: 1
+2024-11-05T07:05:15+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: ==== next round 2 ====================================
+2024-11-05T07:05:15+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: eth0	link
+2024-11-05T07:05:15+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unready count: 1
+2024-11-05T07:05:16+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: ==== next round 3 ====================================
+2024-11-05T07:05:16+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: eth0	link
+2024-11-05T07:05:16+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unready count: 1
+2024-11-05T07:05:17+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: ==== next round 4 ====================================
+2024-11-05T07:05:17+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: eth0	link
+2024-11-05T07:05:17+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unready count: 1
+2024-11-05T07:05:18+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: ==== next round 5 ====================================
+2024-11-05T07:05:18+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: eth0	link	10.0.0.224	IPv6_off
+2024-11-05T07:05:18+08:00 Yasuraokaa_Site syno-network-check.sh[9482]: Unready count: 0

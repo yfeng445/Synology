@@ -1,0 +1,35 @@
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: install /usr/local/packages/@appstore/SMBService/usr/lib/security/pam_winbind.so --> /usr/lib/security/pam_winbind.so
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: install /usr/local/packages/@appstore/SMBService/usr/etc/security/pam_winbind.conf --> /etc/security/pam_winbind.conf
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: install /usr/local/packages/@appstore/SMBService/resource/pam-config/samba.pam --> /etc/pam.d/samba
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: install /usr/local/packages/@appstore/SMBService/usr/lib/libnss_winbind.so.2 --> /usr/lib/libnss_winbind.so.2
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: install /usr/local/packages/@appstore/SMBService/usr/lib/libnss_wins.so.2 --> /usr/lib/libnss_wins.so.2
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: link /usr/lib/libnss_wins.so.2 --> /usr/lib/libnss_wins.so
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: link /usr/lib/libnss_winbind.so.2 --> /usr/lib/libnss_winbind.so
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: install /var/packages/SMBService/conf/smbinfo_default.conf
+2024-09-08T17:16:55-07:00 SynologyNAS samba-env.sh[11976]: [syslog-ng] reloaded.
+2024-09-08T17:17:43-07:00 SynologyNAS samba-env.sh[20307]: install /usr/local/packages/@appstore/SMBService/usr/lib/security/pam_winbind.so --> /usr/lib/security/pam_winbind.so
+2024-09-08T17:17:43-07:00 SynologyNAS samba-env.sh[20307]: install /usr/local/packages/@appstore/SMBService/usr/etc/security/pam_winbind.conf --> /etc/security/pam_winbind.conf
+2024-09-08T17:17:43-07:00 SynologyNAS samba-env.sh[20307]: install /usr/local/packages/@appstore/SMBService/resource/pam-config/samba.pam --> /etc/pam.d/samba
+2024-09-08T17:17:43-07:00 SynologyNAS samba-env.sh[20307]: install /usr/local/packages/@appstore/SMBService/usr/lib/libnss_winbind.so.2 --> /usr/lib/libnss_winbind.so.2
+2024-09-08T17:17:43-07:00 SynologyNAS samba-env.sh[20307]: install /usr/local/packages/@appstore/SMBService/usr/lib/libnss_wins.so.2 --> /usr/lib/libnss_wins.so.2
+2024-09-08T17:17:43-07:00 SynologyNAS samba-env.sh[20307]: link /usr/lib/libnss_wins.so.2 --> /usr/lib/libnss_wins.so
+2024-09-08T17:17:43-07:00 SynologyNAS samba-env.sh[20307]: link /usr/lib/libnss_winbind.so.2 --> /usr/lib/libnss_winbind.so
+2024-09-08T17:17:44-07:00 SynologyNAS samba-env.sh[20307]: [syslog-ng] reloaded.
+2024-09-10T07:08:51+08:00 Synology_NAS samba-env.sh[8710]: [syslog-ng] reloaded.
+2024-09-11T20:05:36+08:00 Synology_NAS samba-env.sh[8926]: [syslog-ng] reloaded.
+2024-09-12T00:30:21+08:00 Synology_NAS samba-env.sh[9313]: [syslog-ng] reloaded.
+2024-09-14T23:16:46+08:00 Synology_NAS samba-env.sh[9469]: [syslog-ng] reloaded.
+2024-09-15T01:14:12+08:00 Synology_NAS samba-env.sh[9530]: [syslog-ng] reloaded.
+2024-09-15T01:21:59+08:00 Synology_NAS samba-env.sh[9577]: [syslog-ng] reloaded.
+2024-09-15T01:30:53+08:00 Synology_NAS samba-env.sh[9851]: [syslog-ng] reloaded.
+2024-09-15T05:06:03+08:00 Synology_NAS samba-env.sh[8831]: [syslog-ng] reloaded.
+2024-09-15T05:15:06+08:00 Synology_NAS samba-env.sh[9521]: [syslog-ng] reloaded.
+2024-09-16T05:39:34+08:00 Synology_NAS samba-env.sh[9577]: [syslog-ng] reloaded.
+2024-09-16T19:32:56+08:00 Synology_NAS samba-env.sh[9585]: [syslog-ng] reloaded.
+2024-09-17T04:58:35+08:00 Synology_NAS samba-env.sh[9569]: [syslog-ng] reloaded.
+2024-09-17T05:50:45+08:00 Synology_NAS samba-env.sh[9546]: [syslog-ng] reloaded.
+2024-09-17T10:46:00+08:00 Synology_NAS samba-env.sh[9540]: [syslog-ng] reloaded.
+2024-09-20T07:51:17+08:00 Synology_NAS samba-env.sh[9735]: [syslog-ng] reloaded.
+2024-09-20T11:34:36+08:00 Synology_NAS samba-env.sh[9744]: [syslog-ng] reloaded.
+2024-10-09T04:33:19+08:00 Yasuraokaa_Site samba-env.sh[9834]: [syslog-ng] reloaded.
+2024-11-05T07:06:36+08:00 Yasuraokaa_Site samba-env.sh[9867]: [syslog-ng] reloaded.

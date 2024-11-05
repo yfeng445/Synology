@@ -1,0 +1,20 @@
+2024-09-08T17:15:22-07:00 SynologyNAS sha_update_pkg.sh[9100]: no
+2024-09-10T07:07:24+08:00 Synology_NAS sha_update_pkg.sh[8442]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-11T20:04:08+08:00 Synology_NAS sha_update_pkg.sh[8572]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-12T00:28:53+08:00 Synology_NAS sha_update_pkg.sh[9035]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-14T23:15:19+08:00 Synology_NAS sha_update_pkg.sh[9131]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-15T01:12:44+08:00 Synology_NAS sha_update_pkg.sh[9169]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-15T01:17:49+08:00 Synology_NAS sha_update_pkg.sh[9165]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-15T01:20:32+08:00 Synology_NAS sha_update_pkg.sh[9192]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-15T01:29:25+08:00 Synology_NAS sha_update_pkg.sh[9169]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-15T05:04:40+08:00 Synology_NAS sha_update_pkg.sh[8566]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-15T05:13:41+08:00 Synology_NAS sha_update_pkg.sh[9284]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-16T05:38:07+08:00 Synology_NAS sha_update_pkg.sh[9212]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-16T19:31:28+08:00 Synology_NAS sha_update_pkg.sh[9201]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-17T04:57:07+08:00 Synology_NAS sha_update_pkg.sh[9214]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-17T05:49:18+08:00 Synology_NAS sha_update_pkg.sh[9178]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-17T10:44:32+08:00 Synology_NAS sha_update_pkg.sh[9195]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-20T07:49:49+08:00 Synology_NAS sha_update_pkg.sh[9346]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-09-20T11:33:08+08:00 Synology_NAS sha_update_pkg.sh[9279]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site sha_update_pkg.sh[9361]: find: `/.SynoUpgradePackages/': No such file or directory
+2024-11-05T07:05:09+08:00 Yasuraokaa_Site sha_update_pkg.sh[9306]: find: `/.SynoUpgradePackages/': No such file or directory

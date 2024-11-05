@@ -1,0 +1,493 @@
+2024-09-10T19:56:34+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32095]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-10T19:56:34+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32095]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-10T19:56:35+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32095]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-10T19:56:35+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32095]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-10T19:56:35+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32095]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-11T08:29:42+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17043]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-11T08:29:42+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17043]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-11T08:29:43+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17043]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-11T08:29:43+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17043]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-11T08:29:43+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17043]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-12T11:55:29+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32261]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-12T11:55:29+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32261]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-12T11:55:30+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32261]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-12T11:55:30+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32261]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-12T11:55:30+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[32261]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-13T11:47:46+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[5734]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-09-13T11:47:46+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[5734]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-09-13T11:52:42+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6179]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-13T11:52:42+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6179]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-13T11:52:43+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6179]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-13T11:52:43+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6179]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-13T11:52:43+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6179]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-13T12:02:42+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[6510]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-09-13T12:02:43+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[6510]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-13T12:02:43+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[6510]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-13T12:02:43+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[6510]: disk/disk_db_update_util.c:327 Success download smart with version 167 and release 0.
+2024-09-13T12:02:43+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[6510]: disk/disk_db_update_util.c:327 Success download diskaction with version 279 and release 20240905.
+2024-09-13T12:02:43+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[6510]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-09-14T01:54:48+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[2116]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-14T01:54:48+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[2116]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-14T01:54:49+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[2116]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-14T01:54:49+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[2116]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-14T01:54:49+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[2116]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-14T02:45:49+08:00 Synology_NAS synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[3889]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-09-14T02:45:49+08:00 Synology_NAS synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[3889]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.0.0-4708 < server version 4.1.0-4751.
+2024-09-15T16:34:25+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1423]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-15T16:34:25+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1423]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-15T16:34:26+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1423]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-15T16:34:26+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1423]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-15T16:34:26+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1423]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-16T07:29:49+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[15460]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-16T07:29:49+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[15460]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-16T07:29:50+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[15460]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-16T07:29:50+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[15460]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-16T07:29:50+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[15460]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-16T08:10:34+08:00 Synology_NAS synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[4879]: update_control.cpp:83 Incorrect pack status. [PackStatus]: lost
+2024-09-16T08:10:34+08:00 Synology_NAS synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[4879]: check-license-and-update-pack-if-needed.cpp:35 Failed to create "UpdateControl"
+2024-09-16T08:18:44+08:00 Synology_NAS synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[9089]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-09-16T08:18:44+08:00 Synology_NAS synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[9089]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.1.0-4751 >= server version 4.1.0-4751.
+2024-09-17T01:34:19+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5830]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-17T01:34:19+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5830]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-17T01:34:20+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5830]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-17T01:34:20+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5830]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-17T01:34:20+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5830]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-18T03:48:26+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[4923]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-18T03:48:26+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[4923]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-18T03:48:27+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[4923]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-18T03:48:27+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[4923]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-18T03:48:27+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[4923]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-19T04:09:39+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[25685]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-19T04:09:39+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[25685]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-19T04:09:40+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[25685]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-19T04:09:40+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[25685]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-19T04:09:40+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[25685]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-20T02:37:06+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[5157]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-09-20T02:37:06+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[5157]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-09-20T02:46:49+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13277]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-20T02:46:49+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13277]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-20T02:46:50+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13277]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-20T02:46:50+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13277]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-20T02:46:50+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13277]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-20T02:56:50+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[20784]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-09-20T02:57:00+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[20784]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-20T02:57:00+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[20784]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-20T02:57:00+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[20784]: disk/disk_db_update_util.c:327 Success download diskaction with version 281 and release 20240918.
+2024-09-20T02:57:03+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[20784]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-09-21T20:01:19+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17870]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-21T20:01:19+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17870]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-21T20:01:20+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17870]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-21T20:01:20+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17870]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-21T20:01:20+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17870]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-22T08:40:26+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5667]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-22T08:40:26+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5667]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-22T08:40:27+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5667]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-22T08:40:27+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5667]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-22T08:40:27+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5667]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-23T09:35:41+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31325]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-23T09:35:41+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31325]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-23T09:35:42+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31325]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-23T09:35:42+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31325]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-23T09:35:42+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31325]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-24T05:21:05+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24487]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-24T05:21:05+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24487]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-24T05:21:06+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24487]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-24T05:21:06+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24487]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-24T05:21:06+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24487]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-25T08:53:31+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31683]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-25T08:53:31+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31683]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-25T08:53:32+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31683]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-25T08:53:32+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31683]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-25T08:53:32+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31683]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-25T09:34:17+08:00 Synology_NAS synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[2615]: update_control.cpp:83 Incorrect pack status. [PackStatus]: lost
+2024-09-25T09:34:17+08:00 Synology_NAS synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[2615]: check-license-and-update-pack-if-needed.cpp:35 Failed to create "UpdateControl"
+2024-09-25T09:42:26+08:00 Synology_NAS synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[3408]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-09-25T09:42:26+08:00 Synology_NAS synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[3408]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.1.0-4751 >= server version 4.1.0-4751.
+2024-09-26T14:34:59+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20781]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-26T14:34:59+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20781]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-26T14:35:00+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20781]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-26T14:35:00+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20781]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-26T14:35:00+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20781]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-27T05:50:07+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[14036]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-27T05:50:07+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[14036]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-27T05:50:08+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[14036]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-27T05:50:08+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[14036]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-27T05:50:08+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[14036]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-28T00:39:29+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[22037]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-09-28T00:39:29+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[22037]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-09-28T00:44:14+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[23963]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-28T00:44:14+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[23963]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-28T00:44:15+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[23963]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-28T00:44:15+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[23963]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-28T00:44:15+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[23963]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-28T00:54:14+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[26359]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-09-28T00:54:16+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[26359]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-28T00:54:16+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[26359]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-28T00:54:16+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[26359]: disk/disk_db_update_util.c:327 Success download opensource with version 116 and release 0.
+2024-09-28T00:54:16+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[26359]: disk/disk_db_update_util.c:327 Success download temperature with version 197 and release 0.
+2024-09-28T00:54:16+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[26359]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-09-29T11:15:39+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[28754]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-09-29T11:15:39+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[28754]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-09-29T11:20:28+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31078]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-29T11:20:28+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31078]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-29T11:20:29+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31078]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-29T11:20:29+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31078]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-29T11:20:29+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[31078]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-29T11:30:29+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-09-29T11:30:35+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-29T11:30:35+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-29T11:30:35+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_sa6400 with version 8029 and release 20240927.
+2024-09-29T11:30:35+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx410 with version 8037 and release 20240927.
+2024-09-29T11:30:36+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1213sas with version 8041 and release 20240927.
+2024-09-29T11:30:37+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1217rp with version 8043 and release 20240927.
+2024-09-29T11:30:37+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1211 with version 8036 and release 20240927.
+2024-09-29T11:30:37+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx1215ii with version 8042 and release 20240927.
+2024-09-29T11:30:38+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx213 with version 8043 and release 20240927.
+2024-09-29T11:30:38+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1217 with version 8043 and release 20240927.
+2024-09-29T11:30:38+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx1215 with version 8042 and release 20240927.
+2024-09-29T11:30:38+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx1211 with version 8036 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx5 with version 8036 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx513 with version 8043 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_fx2421 with version 8020 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1223rp with version 8032 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx1222 with version 8040 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx418 with version 8047 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx517 with version 8053 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1214rp with version 8037 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1214 with version 8039 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx4 with version 8036 and release 20240927.
+2024-09-29T11:30:39+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1217sas with version 8056 and release 20240927.
+2024-09-29T11:30:40+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1211rp with version 8036 and release 20240927.
+2024-09-29T11:30:40+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx2417sas with version 8023 and release 20240927.
+2024-09-29T11:30:40+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx6022sas with version 8040 and release 20240927.
+2024-09-29T11:30:40+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx510 with version 8037 and release 20240927.
+2024-09-29T11:30:41+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1222sas with version 8048 and release 20240927.
+2024-09-29T11:30:41+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1216sas with version 8047 and release 20240927.
+2024-09-29T11:30:42+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-09-29T11:30:42+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-29T11:30:42+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-29T11:30:42+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[3478]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-09-29T11:31:11+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[7605]: SYSTEM:	Last message 'sata_dev_port_check.' repeated 3 times, suppressed by syslog-ng on Synology_NAS
+2024-09-30T19:33:45+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18895]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-30T19:33:45+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18895]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-09-30T19:33:46+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18895]: oob/oob_tools.c:107 CMAC RESET error
+2024-09-30T19:33:46+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18895]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-09-30T19:33:46+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18895]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-01T15:15:56+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1158]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-01T15:15:56+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1158]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-01T15:15:57+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1158]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-01T15:15:57+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1158]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-01T15:15:57+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1158]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-02T02:52:02+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[27732]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-02T02:52:02+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[27732]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-02T02:52:03+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[27732]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-02T02:52:03+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[27732]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-02T02:52:03+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[27732]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-03T07:18:25+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[7894]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-03T07:18:25+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[7894]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-03T07:23:18+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[8635]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-03T07:23:18+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[8635]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-03T07:23:19+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[8635]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-03T07:23:19+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[8635]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-03T07:23:19+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[8635]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-03T07:33:18+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[9454]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-03T07:33:20+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[9454]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-03T07:33:20+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[9454]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-03T07:33:20+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[9454]: disk/disk_db_update_util.c:327 Success download drive_attribute with version 16 and release 0.
+2024-10-03T07:33:20+08:00 Synology_NAS synocrond-job-builtin-libsynostorage-syno_disk_db_update[9454]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-04T00:06:28+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26343]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-04T00:06:28+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26343]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-04T00:06:29+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26343]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-04T00:06:29+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26343]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-04T00:06:29+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26343]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-05T06:35:13+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[10379]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-05T06:35:13+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[10379]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-05T06:35:14+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[10379]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-05T06:35:14+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[10379]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-05T06:35:14+08:00 Synology_NAS synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[10379]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-05T07:12:43+08:00 Synology_NAS synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[25728]: update_control.cpp:83 Incorrect pack status. [PackStatus]: lost
+2024-10-05T07:12:43+08:00 Synology_NAS synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[25728]: check-license-and-update-pack-if-needed.cpp:35 Failed to create "UpdateControl"
+2024-10-05T07:20:14+08:00 Synology_NAS synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[27551]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-10-05T07:20:14+08:00 Synology_NAS synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[27551]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.1.0-4751 >= server version 4.1.0-4751.
+2024-10-06T23:27:29+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[18923]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-06T23:27:29+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[18923]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-06T23:32:18+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19718]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-06T23:32:18+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19718]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-06T23:32:19+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19718]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-06T23:32:19+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19718]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-06T23:32:19+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19718]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-06T23:42:18+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[20564]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-06T23:42:20+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[20564]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-06T23:42:20+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[20564]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-06T23:42:20+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[20564]: disk_db.cpp:598 [INFO] No need to update disk db [0]
+2024-10-06T23:42:20+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[20564]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-07T00:07:18+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24721]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-07T00:07:18+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24721]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-07T00:07:19+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24721]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-07T00:07:19+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24721]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-07T00:07:19+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[24721]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-08T18:51:38+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[22246]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-08T18:51:38+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[22246]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-08T18:51:39+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[22246]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-08T18:51:39+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[22246]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-08T18:51:39+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[22246]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-09T15:17:34+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[19373]: SYNOPKG: Systemd enable status: 1, pkg=[SupportService]
+2024-10-09T15:17:34+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[19373]: SYNOPKG: Package unit is in [active] status before upgrade, pkg=[SupportService]
+2024-10-09T15:27:26+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20837]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-09T15:27:26+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20837]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-09T15:27:27+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20837]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-09T15:27:27+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20837]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-09T15:27:27+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20837]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-10T09:34:35+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11376]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-10T09:34:35+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11376]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-10T09:34:36+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11376]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-10T09:34:36+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11376]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-10T09:34:36+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11376]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-11T11:54:00+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[10363]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-11T11:54:00+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[10363]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-11T11:58:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11108]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-11T11:58:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11108]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-11T11:58:52+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11108]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-11T11:58:52+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11108]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-11T11:58:52+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11108]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-11T12:08:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[11941]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-11T12:08:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[11941]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-11T12:08:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[11941]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-11T12:08:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[11941]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx6025sas with version 8001 and release 20241008.
+2024-10-11T12:08:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[11941]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-11T12:08:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[11941]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-11T12:08:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[11941]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-11T12:08:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[11941]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-11T12:09:23+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7601]: SYSTEM:	Last message 'sata_dev_port_check.' repeated 3 times, suppressed by syslog-ng on Yasuraokaa_Site
+2024-10-12T20:17:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[9667]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-12T20:17:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[9667]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-12T20:17:11+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[9667]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-12T20:17:11+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[9667]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-12T20:17:11+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[9667]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-13T23:57:34+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19547]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-13T23:57:34+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19547]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-13T23:57:35+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19547]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-13T23:57:35+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19547]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-13T23:57:35+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19547]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-14T00:38:19+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[25687]: update_control.cpp:83 Incorrect pack status. [PackStatus]: lost
+2024-10-14T00:38:19+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[25687]: check-license-and-update-pack-if-needed.cpp:35 Failed to create "UpdateControl"
+2024-10-14T00:46:29+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[26411]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-10-14T00:46:29+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[26411]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.1.0-4751 >= server version 4.1.0-4751.
+2024-10-14T09:05:42+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1007]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-14T09:05:42+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1007]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-14T09:05:43+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1007]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-14T09:05:43+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1007]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-14T09:05:43+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[1007]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-15T18:12:48+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3932]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-15T18:12:48+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3932]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-15T18:12:49+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3932]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-15T18:12:49+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3932]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-15T18:12:49+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3932]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-16T23:25:15+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17914]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-16T23:25:15+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17914]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-16T23:30:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18683]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-16T23:30:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18683]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-16T23:30:06+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18683]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-16T23:30:06+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18683]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-16T23:30:06+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18683]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-16T23:40:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19802]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-16T23:40:06+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19802]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-16T23:40:06+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19802]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-16T23:40:07+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19802]: disk/disk_db_update_util.c:327 Success download drive_attribute with version 17 and release 0.
+2024-10-16T23:40:07+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19802]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-17T05:44:09+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17624]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-17T05:44:09+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17624]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-17T05:44:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17624]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-17T05:44:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17624]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-17T05:44:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[17624]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-18T20:20:41+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[12629]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-18T20:20:41+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[12629]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-18T20:25:30+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13380]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-18T20:25:30+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13380]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-18T20:25:31+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13380]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-18T20:25:31+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13380]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-18T20:25:31+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[13380]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-18T20:35:30+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download smart with version 168 and release 0.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download opensource with version 118 and release 0.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download temperature with version 198 and release 0.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_sa6400 with version 8030 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download drive_attribute with version 19 and release 0.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx410 with version 8038 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1213sas with version 8042 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1217rp with version 8044 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1211 with version 8037 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx1215ii with version 8043 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx213 with version 8044 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1217 with version 8044 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx1215 with version 8043 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx1211 with version 8037 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx5 with version 8037 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx513 with version 8044 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_fx2421 with version 8021 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1223rp with version 8033 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx1222 with version 8041 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx418 with version 8048 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx517 with version 8054 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1214rp with version 8038 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1214 with version 8040 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx4 with version 8037 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1217sas with version 8057 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1211rp with version 8037 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx2417sas with version 8024 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx6022sas with version 8041 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_dx510 with version 8038 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1222sas with version 8049 and release 20241016.
+2024-10-18T20:35:32+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk/disk_db_update_util.c:327 Success download HCL_v7_rx1216sas with version 8048 and release 20241016.
+2024-10-18T20:35:33+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-18T20:35:33+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-18T20:35:33+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-18T20:35:33+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[14111]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-18T20:36:02+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7601]: SYSTEM:	Last message 'sata_dev_port_check.' repeated 3 times, suppressed by syslog-ng on Yasuraokaa_Site
+2024-10-19T03:57:04+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20325]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-19T03:57:04+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20325]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-19T03:57:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20325]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-19T03:57:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20325]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-19T03:57:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20325]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-19T04:34:34+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[25973]: update_control.cpp:83 Incorrect pack status. [PackStatus]: lost
+2024-10-19T04:34:34+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[25973]: check-license-and-update-pack-if-needed.cpp:35 Failed to create "UpdateControl"
+2024-10-19T04:42:05+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[26734]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-10-19T04:42:05+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[26734]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.1.0-4751 >= server version 4.1.0-4751.
+2024-10-20T19:16:06+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17859]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-20T19:16:06+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17859]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-20T19:20:56+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18616]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-20T19:20:56+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18616]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-20T19:20:57+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18616]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-20T19:20:57+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18616]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-20T19:20:57+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18616]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-20T19:30:57+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19392]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-20T19:30:58+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19392]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-20T19:30:58+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19392]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-20T19:30:58+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19392]: disk/disk_db_update_util.c:327 Success download diskaction with version 282 and release 20241017.
+2024-10-20T19:30:58+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19392]: disk/disk_db_update_util.c:327 Success download drive_attribute with version 20 and release 0.
+2024-10-20T19:30:58+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[19392]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-21T16:55:09+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26234]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-21T16:55:09+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26234]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-21T16:55:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26234]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-21T16:55:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26234]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-21T16:55:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[26234]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-22T13:09:21+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30927]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-22T13:09:21+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30927]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-22T13:09:22+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30927]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-22T13:09:22+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30927]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-22T13:09:22+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30927]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-23T06:38:30+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19810]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-23T06:38:30+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19810]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-23T06:38:31+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19810]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-23T06:38:31+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19810]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-23T06:38:31+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[19810]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-24T21:34:03+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[5588]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-24T21:34:03+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[5588]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-24T21:38:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6410]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-24T21:38:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6410]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-24T21:38:54+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6410]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-24T21:38:54+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6410]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-24T21:38:54+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6410]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-24T21:48:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7637]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-24T21:48:54+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7637]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-24T21:48:54+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7637]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-24T21:48:54+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7637]: disk_db.cpp:598 [INFO] No need to update disk db [0]
+2024-10-24T21:48:54+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7637]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-25T19:49:04+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20496]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-25T19:49:04+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20496]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-25T19:49:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20496]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-25T19:49:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20496]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-25T19:49:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[20496]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-26T14:16:25+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[6342]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-26T14:16:25+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[6342]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-26T14:24:23+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[7354]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-26T14:24:23+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[7354]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-26T14:24:24+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[7354]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-26T14:24:24+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[7354]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-26T14:24:24+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[7354]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-26T14:29:50+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7781]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-26T14:29:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7781]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-26T14:29:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7781]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-26T14:29:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7781]: disk/disk_db_update_util.c:327 Success download temperature with version 200 and release 0.
+2024-10-26T14:29:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7781]: disk/disk_db_update_util.c:327 Success download diskaction with version 283 and release 20241025.
+2024-10-26T14:29:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[7781]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-26T15:05:08+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[13655]: update_control.cpp:83 Incorrect pack status. [PackStatus]: lost
+2024-10-26T15:05:08+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[13655]: check-license-and-update-pack-if-needed.cpp:35 Failed to create "UpdateControl"
+2024-10-26T15:13:18+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[14327]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-10-26T15:13:18+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[14327]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.1.0-4751 >= server version 4.1.0-4751.
+2024-10-27T02:27:21+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5436]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-27T02:27:21+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5436]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-27T02:27:22+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5436]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-27T02:27:22+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5436]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-27T02:27:22+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5436]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-28T00:22:43+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17356]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-28T00:22:43+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17356]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-28T00:30:03+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18336]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-28T00:30:03+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18336]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-28T00:30:04+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18336]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-28T00:30:04+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18336]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-28T00:30:04+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[18336]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-28T00:35:04+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[18733]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-28T00:35:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[18733]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-28T00:35:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[18733]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-28T00:35:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[18733]: disk_db.cpp:598 [INFO] No need to update disk db [0]
+2024-10-28T00:35:05+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[18733]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-28T01:07:33+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[24497]: update_control.cpp:83 Incorrect pack status. [PackStatus]: lost
+2024-10-28T01:07:33+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[24497]: check-license-and-update-pack-if-needed.cpp:35 Failed to create "UpdateControl"
+2024-10-28T01:15:04+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[25095]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-10-28T01:15:04+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[25095]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.1.0-4751 >= server version 4.1.0-4751.
+2024-10-29T18:01:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6294]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-29T18:01:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6294]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-29T18:01:56+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6294]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-29T18:01:56+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6294]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-29T18:01:56+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[6294]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-30T19:51:19+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[3934]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-10-30T19:51:19+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[3934]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-10-30T20:01:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5099]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-30T20:01:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5099]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-30T20:01:11+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5099]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-30T20:01:11+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5099]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-30T20:01:11+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[5099]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-30T20:11:10+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[5856]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-10-30T20:11:11+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[5856]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-30T20:11:11+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[5856]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-10-30T20:11:12+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[5856]: disk_db.cpp:598 [INFO] No need to update disk db [0]
+2024-10-30T20:11:12+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[5856]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-10-31T00:44:12+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30167]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-31T00:44:12+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30167]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-10-31T00:44:13+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30167]: oob/oob_tools.c:107 CMAC RESET error
+2024-10-31T00:44:13+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30167]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-10-31T00:44:13+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[30167]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-01T06:20:28+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[21385]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-11-01T06:20:28+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[21385]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-01T06:20:29+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[21385]: oob/oob_tools.c:107 CMAC RESET error
+2024-11-01T06:20:29+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[21385]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-11-01T06:20:29+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[21385]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-02T23:02:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11505]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-11-02T23:02:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11505]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-02T23:02:52+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11505]: oob/oob_tools.c:107 CMAC RESET error
+2024-11-02T23:02:52+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11505]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-11-02T23:02:52+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[11505]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-03T02:50:53+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[16291]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-11-03T02:50:54+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[16291]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-03T02:50:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[16291]: oob/oob_tools.c:107 CMAC RESET error
+2024-11-03T02:50:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[16291]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-11-03T02:50:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[16291]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-04T17:14:32+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[2509]: SYNOPKG: Systemd enable status: 0, pkg=[SynoOnlinePack_v2]
+2024-11-04T17:14:32+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[2509]: SYNOPKG: Package unit is in [inactive] status before upgrade, pkg=[SynoOnlinePack_v2]
+2024-11-04T17:22:24+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3628]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-11-04T17:22:24+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3628]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-04T17:22:25+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3628]: oob/oob_tools.c:107 CMAC RESET error
+2024-11-04T17:22:25+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3628]: oob/oob_reg_read.c:46 Read OOB reg 292 failed, ret=-1
+2024-11-04T17:22:25+08:00 Yasuraokaa_Site synocrond-job-builtin-libhwcontrol_oob-syno_oob_set_nowtime[3628]: oob/oob_reg_write.c:51 Write OOB reg 292 failed, ret=-1
+2024-11-04T17:27:51+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[4148]: disk_db.cpp:1120 [INFO] Start to update disk db [0] ...
+2024-11-04T17:27:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[4148]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-11-04T17:27:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[4148]: sata_dev_port_check.c:16 Failed to get slot informtion of sata1
+2024-11-04T17:27:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[4148]: disk_db.cpp:598 [INFO] No need to update disk db [0]
+2024-11-04T17:27:55+08:00 Yasuraokaa_Site synocrond-job-builtin-libsynostorage-syno_disk_db_update[4148]: disk_db.cpp:1161 [INFO] Finish updating disk db [0]
+2024-11-04T18:03:09+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[10348]: update_control.cpp:83 Incorrect pack status. [PackStatus]: lost
+2024-11-04T18:03:09+08:00 Yasuraokaa_Site synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate[10348]: check-license-and-update-pack-if-needed.cpp:35 Failed to create "UpdateControl"
+2024-11-04T18:11:19+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[11094]: utils.cpp:132 DownloadStationPyloadPack: local version 3.9.0-4550 >= server version 3.8.10-3511.
+2024-11-04T18:11:19+08:00 Yasuraokaa_Site synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob[11094]: utils.cpp:132 DownloadStationYoutubeDlPack: local version 4.1.0-4751 >= server version 4.1.0-4751.

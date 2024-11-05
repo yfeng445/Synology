@@ -1,0 +1,176 @@
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin preinst
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End preinst ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/mkdir -p /volume1/@appstore/SynologyApplicationService -m 755
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/mkdir -p /volume1/@appstore/SynologyApplicationService -m 755 ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /volume1/@appstore/SynologyApplicationService
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /volume1/@appstore/SynologyApplicationService ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/package /volume1/@appstore/SynologyApplicationService
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/package /volume1/@appstore/SynologyApplicationService ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /var/packages/SynologyApplicationService
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /var/packages/SynologyApplicationService ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/mkdir -p /var/packages/SynologyApplicationService -m 755
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/mkdir -p /var/packages/SynologyApplicationService -m 755 ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/touch /var/packages/SynologyApplicationService/installing
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/touch /var/packages/SynologyApplicationService/installing ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/INFO /var/packages/SynologyApplicationService/INFO
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/INFO /var/packages/SynologyApplicationService/INFO ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /var/packages/SynologyApplicationService/scripts
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /var/packages/SynologyApplicationService/scripts ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/scripts /var/packages/SynologyApplicationService/scripts
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/scripts /var/packages/SynologyApplicationService/scripts ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /var/packages/SynologyApplicationService/WIZARD_UIFILES
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /var/packages/SynologyApplicationService/WIZARD_UIFILES ret=[0]
+2024/09/11 20:09:26	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/WIZARD_UIFILES /var/packages/SynologyApplicationService/WIZARD_UIFILES
+2024/09/11 20:09:27	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/WIZARD_UIFILES /var/packages/SynologyApplicationService/WIZARD_UIFILES ret=[0]
+2024/09/11 20:09:27	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /var/packages/SynologyApplicationService/conf
+2024/09/11 20:09:27	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /var/packages/SynologyApplicationService/conf ret=[0]
+2024/09/11 20:09:27	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/conf /var/packages/SynologyApplicationService/conf
+2024/09/11 20:09:27	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.n9dYy2/conf /var/packages/SynologyApplicationService/conf ret=[0]
+2024/09/11 20:09:27	install SynologyApplicationService 1.7.6-20622 Begin postinst
+/bin/unlink: cannot unlink '/usr/local/SynologyApplicationService': No such file or directory
+2024/09/11 20:09:29	install SynologyApplicationService 1.7.6-20622 End postinst ret=[0]
+2024/09/11 20:09:30	install SynologyApplicationService 1.7.6-20622 Begin start-stop-status start
+session_watcher: no process found
+notification_send: no process found
+[pkg-SynologyApplicationService-notification_send] started.
+active
+[pkg-SynologyApplicationService-pgbouncer] started.
+active
+BBkmOkvLR3WYrX0BY2Jyyc79KAU3G_Djw6PTIzoD1hrkBtB4El6OAMCAxYJu1pSBGS3ZyOrBD-DuYeSAL7U3xHUnull
+[Error: ENOENT: no such file or directory, chmod '/usr/syno/etc/packages/SynologyApplicationService/vapid/private.key'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'chmod',
+  path: '/usr/syno/etc/packages/SynologyApplicationService/vapid/private.key'
+}
+[pkg-SynologyApplicationService-VapidSendServer] started.
+active
+[pkg-SynologyApplicationService-session_watcher] started.
+active
+2024/09/11 20:09:42	install SynologyApplicationService 1.7.6-20622 End start-stop-status start ret=[0]
+2024/09/11 20:28:30	uninstall SynologyApplicationService 1.7.6-20622 Begin start-stop-status stop
+[pkg-SynologyApplicationService-notification_send] stopped.
+[pkg-SynologyApplicationService-pgbouncer] stopped.
+[pkg-SynologyApplicationService-VapidSendServer] stopped.
+[pkg-SynologyApplicationService-session_watcher] stopped.
+session_watcher: no process found
+notification_send: no process found
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 End start-stop-status stop ret=[0]
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 Begin preuninst
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 End preuninst ret=[0]
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /volume1/@appstore/SynologyApplicationService
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /volume1/@appstore/SynologyApplicationService ret=[0]
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /volume1/@apptemp/SynologyApplicationService
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /volume1/@apptemp/SynologyApplicationService ret=[0]
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 Begin postuninst
+2024/09/11 20:28:42	uninstall SynologyApplicationService 1.7.6-20622 End postuninst ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin preinst
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End preinst ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/mkdir -p /volume1/@appstore/SynologyApplicationService -m 755
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/mkdir -p /volume1/@appstore/SynologyApplicationService -m 755 ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /volume1/@appstore/SynologyApplicationService
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /volume1/@appstore/SynologyApplicationService ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/package /volume1/@appstore/SynologyApplicationService
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/package /volume1/@appstore/SynologyApplicationService ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /var/packages/SynologyApplicationService
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /var/packages/SynologyApplicationService ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/mkdir -p /var/packages/SynologyApplicationService -m 755
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/mkdir -p /var/packages/SynologyApplicationService -m 755 ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/touch /var/packages/SynologyApplicationService/installing
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/touch /var/packages/SynologyApplicationService/installing ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/INFO /var/packages/SynologyApplicationService/INFO
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/INFO /var/packages/SynologyApplicationService/INFO ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /var/packages/SynologyApplicationService/scripts
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /var/packages/SynologyApplicationService/scripts ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/scripts /var/packages/SynologyApplicationService/scripts
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/scripts /var/packages/SynologyApplicationService/scripts ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /var/packages/SynologyApplicationService/WIZARD_UIFILES
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /var/packages/SynologyApplicationService/WIZARD_UIFILES ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/WIZARD_UIFILES /var/packages/SynologyApplicationService/WIZARD_UIFILES
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/WIZARD_UIFILES /var/packages/SynologyApplicationService/WIZARD_UIFILES ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/rm -rf /var/packages/SynologyApplicationService/conf
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/rm -rf /var/packages/SynologyApplicationService/conf ret=[0]
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/conf /var/packages/SynologyApplicationService/conf
+2024/09/26 10:47:09	install SynologyApplicationService 1.7.6-20622 End /bin/mv -f /volume1/@tmp/synopkg/install.ixcr1q/conf /var/packages/SynologyApplicationService/conf ret=[0]
+2024/09/26 10:47:12	install SynologyApplicationService 1.7.6-20622 Begin postinst
+/bin/mv: cannot move '/usr/syno/etc/notification/notification_db.sqlite' to '/usr/local/SynologyApplicationService/notification/notification_db_daemon.sqlite': No such file or directory
+ln: failed to create symbolic link '/usr/syno/etc/notification/notification_db_daemon.sqlite': File exists
+2024/09/26 10:47:30	install SynologyApplicationService 1.7.6-20622 End postinst ret=[0]
+2024/09/26 10:47:32	install SynologyApplicationService 1.7.6-20622 Begin start-stop-status start
+session_watcher: no process found
+[pkg-SynologyApplicationService-notification_send] started.
+active
+[pkg-SynologyApplicationService-pgbouncer] started.
+active
+BKeTP8af75d_aEWik0n-elUB341jhB6vExxxqhWYOEfA0t-JkkCZ9V1R00mC267OUn6KW6bqAq2W3CZ7gUJ_TDYnull
+[Error: ENOENT: no such file or directory, chmod '/usr/syno/etc/packages/SynologyApplicationService/vapid/private.key'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'chmod',
+  path: '/usr/syno/etc/packages/SynologyApplicationService/vapid/private.key'
+}
+[pkg-SynologyApplicationService-VapidSendServer] started.
+active
+[pkg-SynologyApplicationService-session_watcher] started.
+active
+2024/09/26 10:47:44	install SynologyApplicationService 1.7.6-20622 End start-stop-status start ret=[0]
+2024/10/05 07:46:40	(system) trigger SynologyApplicationService 1.7.6-20622 Begin start-stop-status stop
+[pkg-SynologyApplicationService-notification_send] stopped.
+[pkg-SynologyApplicationService-pgbouncer] stopped.
+[pkg-SynologyApplicationService-VapidSendServer] stopped.
+[pkg-SynologyApplicationService-session_watcher] stopped.
+session_watcher: no process found
+notification_send: no process found
+2024/10/05 07:46:52	(system) trigger SynologyApplicationService 1.7.6-20622 End start-stop-status stop ret=[0]
+2024/10/05 07:48:25	(system) trigger SynologyApplicationService 1.7.6-20622 Begin start-stop-status start
+session_watcher: no process found
+notification_send: no process found
+[pkg-SynologyApplicationService-notification_send] started.
+active
+[pkg-SynologyApplicationService-pgbouncer] started.
+active
+[pkg-SynologyApplicationService-VapidSendServer] started.
+active
+[pkg-SynologyApplicationService-session_watcher] started.
+active
+2024/10/05 07:48:39	(system) trigger SynologyApplicationService 1.7.6-20622 End start-stop-status start ret=[0]
+2024/10/09 04:28:52	(system) trigger SynologyApplicationService 1.7.6-20622 Begin start-stop-status stop
+[pkg-SynologyApplicationService-notification_send] stopped.
+[pkg-SynologyApplicationService-pgbouncer] stopped.
+[pkg-SynologyApplicationService-VapidSendServer] stopped.
+[pkg-SynologyApplicationService-session_watcher] stopped.
+session_watcher: no process found
+notification_send: no process found
+2024/10/09 04:29:04	(system) trigger SynologyApplicationService 1.7.6-20622 End start-stop-status stop ret=[0]
+2024/10/09 04:33:42	(system) trigger SynologyApplicationService 1.7.6-20622 Begin start-stop-status start
+session_watcher: no process found
+notification_send: no process found
+[pkg-SynologyApplicationService-notification_send] started.
+active
+[pkg-SynologyApplicationService-pgbouncer] started.
+active
+[pkg-SynologyApplicationService-VapidSendServer] started.
+active
+[pkg-SynologyApplicationService-session_watcher] started.
+active
+2024/10/09 04:33:58	(system) trigger SynologyApplicationService 1.7.6-20622 End start-stop-status start ret=[0]
+2024/11/05 00:53:31	(system) trigger SynologyApplicationService 1.7.6-20622 Begin start-stop-status stop
+[pkg-SynologyApplicationService-notification_send] stopped.
+[pkg-SynologyApplicationService-pgbouncer] stopped.
+[pkg-SynologyApplicationService-VapidSendServer] stopped.
+[pkg-SynologyApplicationService-session_watcher] stopped.
+session_watcher: no process found
+notification_send: no process found
+2024/11/05 00:53:44	(system) trigger SynologyApplicationService 1.7.6-20622 End start-stop-status stop ret=[0]
+2024/11/05 07:06:49	(system) trigger SynologyApplicationService 1.7.6-20622 Begin start-stop-status start
+session_watcher: no process found
+notification_send: no process found
+[pkg-SynologyApplicationService-notification_send] started.
+active
+[pkg-SynologyApplicationService-pgbouncer] started.
+active
+[pkg-SynologyApplicationService-VapidSendServer] started.
+active
+[pkg-SynologyApplicationService-session_watcher] started.
+active
+2024/11/05 07:07:06	(system) trigger SynologyApplicationService 1.7.6-20622 End start-stop-status start ret=[0]

@@ -1,0 +1,953 @@
+2024-09-08T17:16:59-07:00 SynologyNAS updater[14087]: synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [3] version [1]
+2024-09-08T17:16:59-07:00 SynologyNAS synocheckiscsitrg[14134]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(3637efde520f).
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-08T17:16:59-07:00 SynologyNAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14139]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14195]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-08T17:16:59-07:00 SynologyNAS synoiscsiep[14195]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-08T17:17:00-07:00 SynologyNAS synoiscsiep[14296]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-08T17:17:00-07:00 SynologyNAS synoiscsiep[14296]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-08T17:17:00-07:00 SynologyNAS synoiscsiep[14296]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-08T17:17:00-07:00 SynologyNAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-08T17:17:00-07:00 SynologyNAS synoiscsiep[14296]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-08T17:17:00-07:00 SynologyNAS synoiscsiep[14296]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-08T17:17:00-07:00 SynologyNAS updater[14322]: synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [6] version [1]
+2024-09-09T08:22:01+08:00 Synology_NAS synoiscsiep[25276]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-09T08:23:02+08:00 Synology_NAS synoiscsiep[25572]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-09T08:24:03+08:00 Synology_NAS synoiscsiep[25838]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-09T08:24:31+08:00 Synology_NAS synoiscsiep[25963]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-09T08:24:45+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-09T08:24:45+08:00 Synology_NAS synoiscsiep[27018]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-09T08:24:45+08:00 Synology_NAS synocheckiscsitrg[27316]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-10T07:08:23+08:00 Synology_NAS synocheckiscsitrg[11171]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(6e0c57437f57).
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11176]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11193]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11193]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11201]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11201]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11201]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11201]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-10T07:08:23+08:00 Synology_NAS synoiscsiep[11201]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-10T07:25:38+08:00 Synology_NAS synoiscsiep[14015]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-10T07:26:23+08:00 Synology_NAS synoiscsiep[14311]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-10T07:27:30+08:00 Synology_NAS synoiscsiep[14474]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-10T07:28:00+08:00 Synology_NAS synoiscsiep[14700]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-10T07:28:33+08:00 Synology_NAS synoiscsiep[15015]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-11T19:57:23+08:00 Synology_NAS synoiscsiep[32753]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-11T19:57:37+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-11T19:57:37+08:00 Synology_NAS synoiscsiep[1391]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-11T19:57:37+08:00 Synology_NAS synocheckiscsitrg[1666]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-11T20:05:41+08:00 Synology_NAS synocheckiscsitrg[11691]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(b14fec6ae96c).
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11696]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11716]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11716]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11736]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11736]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11736]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11736]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-11T20:05:41+08:00 Synology_NAS synoiscsiep[11736]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-11T20:06:10+08:00 Synology_NAS synoiscsiep[13679]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-11T20:07:10+08:00 Synology_NAS synoiscsiep[13964]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-11T20:07:47+08:00 Synology_NAS synoiscsiep[14217]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-11T20:08:49+08:00 Synology_NAS synoiscsiep[14403]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-11T20:09:08+08:00 Synology_NAS synocheckiscsitrg[15047]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-11T20:09:09+08:00 Synology_NAS synoiscsiep[15193]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-11T20:29:16+08:00 Synology_NAS synoiscsiep[7003]: synoiscsiep_int_cs.cpp:66:getVolsStatus Failed to enum volume info.
+2024-09-11T20:29:56+08:00 Synology_NAS synocheckiscsitrg[7536]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-11T20:29:56+08:00 Synology_NAS synoiscsiep[7682]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-11T20:30:37+08:00 Synology_NAS synocheckiscsitrg[8966]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-11T20:30:37+08:00 Synology_NAS synoiscsiep[9022]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-12T00:26:24+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-12T00:26:24+08:00 Synology_NAS synoiscsiep[18815]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-12T00:26:24+08:00 Synology_NAS synocheckiscsitrg[19071]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-12T00:30:31+08:00 Synology_NAS synocheckiscsitrg[13252]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(9da24f0154e6).
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13257]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13276]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13276]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13290]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13290]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13290]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13290]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-12T00:30:31+08:00 Synology_NAS synoiscsiep[13290]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-12T00:32:19+08:00 Synology_NAS synocheckiscsitrg[17048]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-12T00:32:19+08:00 Synology_NAS synoiscsiep[17129]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-14T22:43:06+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-14T22:43:06+08:00 Synology_NAS synoiscsiep[10493]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-14T22:43:06+08:00 Synology_NAS synocheckiscsitrg[10667]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-14T23:16:58+08:00 Synology_NAS synocheckiscsitrg[14651]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(2ca958bce33f).
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-14T23:16:58+08:00 Synology_NAS synoiscsiep[14735]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-14T23:16:58+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[14735]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[14735]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[14985]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[14985]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[15064]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[15064]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[15064]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-14T23:16:59+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[15064]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-14T23:16:59+08:00 Synology_NAS synoiscsiep[15064]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-15T00:04:09+08:00 Synology_NAS synocheckiscsitrg[10713]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-15T00:04:09+08:00 Synology_NAS synoiscsiep[10782]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-15T00:50:05+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-15T00:50:05+08:00 Synology_NAS synoiscsiep[26739]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-15T00:50:05+08:00 Synology_NAS synocheckiscsitrg[26963]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-15T01:14:22+08:00 Synology_NAS synocheckiscsitrg[14826]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(2b5c3dbb7c49).
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14884]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14980]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[14980]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[15144]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[15144]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[15144]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[15144]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-15T01:14:23+08:00 Synology_NAS synoiscsiep[15144]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-15T01:22:08+08:00 Synology_NAS synocheckiscsitrg[14203]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(feda8d3539cc).
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-15T01:22:08+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14374]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14473]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-15T01:22:08+08:00 Synology_NAS synoiscsiep[14473]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-15T01:22:09+08:00 Synology_NAS synoiscsiep[14502]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-15T01:22:09+08:00 Synology_NAS synoiscsiep[14502]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-15T01:22:09+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-15T01:22:09+08:00 Synology_NAS synoiscsiep[14502]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-15T01:22:09+08:00 Synology_NAS synoiscsiep[14502]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-15T01:22:09+08:00 Synology_NAS synoiscsiep[14502]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-15T01:31:03+08:00 Synology_NAS synocheckiscsitrg[14682]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(4abfddfc49fb).
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-15T01:31:03+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-15T01:31:03+08:00 Synology_NAS synoiscsiep[14826]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-15T01:31:04+08:00 Synology_NAS synoiscsiep[14935]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-15T01:31:04+08:00 Synology_NAS synoiscsiep[14935]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-15T01:31:04+08:00 Synology_NAS synoiscsiep[14980]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-15T01:31:04+08:00 Synology_NAS synoiscsiep[14980]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-15T01:31:04+08:00 Synology_NAS synoiscsiep[14980]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-15T01:31:04+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-15T01:31:04+08:00 Synology_NAS synoiscsiep[14980]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-15T01:31:04+08:00 Synology_NAS synoiscsiep[14980]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-15T05:06:19+08:00 Synology_NAS synocheckiscsitrg[12753]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(ec7b70f89631).
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12788]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12821]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12821]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12832]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12832]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12832]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12832]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-15T05:06:20+08:00 Synology_NAS synoiscsiep[12832]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-15T05:15:23+08:00 Synology_NAS synocheckiscsitrg[14745]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(6e0507140b61).
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14751]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14911]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[14911]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[15040]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[15040]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[15040]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[15040]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-15T05:15:24+08:00 Synology_NAS synoiscsiep[15040]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-16T05:35:26+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-16T05:35:26+08:00 Synology_NAS synoiscsiep[10963]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-16T05:35:26+08:00 Synology_NAS synocheckiscsitrg[11177]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-16T05:39:45+08:00 Synology_NAS synocheckiscsitrg[14380]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(7a90099b6f5e).
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14385]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14429]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14429]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14643]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14643]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14643]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-16T05:39:45+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-16T05:39:45+08:00 Synology_NAS synoiscsiep[14643]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-16T05:39:46+08:00 Synology_NAS synoiscsiep[14643]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-16T19:28:48+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-16T19:28:48+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-16T19:28:48+08:00 Synology_NAS synoiscsiep[17970]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-16T19:28:49+08:00 Synology_NAS synocheckiscsitrg[18182]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-16T19:33:07+08:00 Synology_NAS synocheckiscsitrg[14406]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(65948495b4ae).
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-16T19:33:07+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14588]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14614]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-16T19:33:07+08:00 Synology_NAS synoiscsiep[14614]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-16T19:33:08+08:00 Synology_NAS synoiscsiep[14645]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-16T19:33:08+08:00 Synology_NAS synoiscsiep[14645]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-16T19:33:08+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-16T19:33:08+08:00 Synology_NAS synoiscsiep[14645]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-16T19:33:08+08:00 Synology_NAS synoiscsiep[14645]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-16T19:33:08+08:00 Synology_NAS synoiscsiep[14645]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-17T04:54:30+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-17T04:54:30+08:00 Synology_NAS synoiscsiep[20688]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-17T04:54:30+08:00 Synology_NAS synocheckiscsitrg[20917]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-17T04:58:48+08:00 Synology_NAS synocheckiscsitrg[14662]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(f097c64f9ae2).
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-17T04:58:48+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14668]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14726]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14726]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14924]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-17T04:58:48+08:00 Synology_NAS synoiscsiep[14924]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-17T04:58:49+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-17T04:58:49+08:00 Synology_NAS synoiscsiep[14924]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-17T04:58:49+08:00 Synology_NAS synoiscsiep[14924]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-17T04:58:49+08:00 Synology_NAS synoiscsiep[14924]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-17T05:46:37+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-17T05:46:37+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-17T05:46:37+08:00 Synology_NAS synoiscsiep[2265]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-17T05:46:38+08:00 Synology_NAS synocheckiscsitrg[2390]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-17T05:50:56+08:00 Synology_NAS synocheckiscsitrg[14452]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-17T05:50:56+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(7c38b9c8bb68).
+2024-09-17T05:50:56+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-17T05:50:56+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-17T05:50:56+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-17T05:50:56+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-17T05:50:56+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-17T05:50:56+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-17T05:50:56+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-17T05:50:56+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-17T05:50:56+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-17T05:50:56+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-17T05:50:56+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-17T05:50:56+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14458]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-17T05:50:57+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-17T05:50:57+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-17T05:50:57+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-17T05:50:57+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-17T05:50:57+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-17T05:50:57+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14458]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14458]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14662]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14662]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14682]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14682]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14682]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14682]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-17T05:50:57+08:00 Synology_NAS synoiscsiep[14682]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-17T10:41:53+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-17T10:41:54+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-17T10:41:54+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-17T10:41:54+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-17T10:41:54+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-17T10:41:54+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-17T10:41:54+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-17T10:41:54+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-17T10:41:54+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-17T10:41:54+08:00 Synology_NAS synoiscsiep[4113]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-17T10:41:54+08:00 Synology_NAS synocheckiscsitrg[4360]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-17T10:46:10+08:00 Synology_NAS synocheckiscsitrg[14392]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-17T10:46:10+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(555c73bf69e7).
+2024-09-17T10:46:10+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14418]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14620]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14620]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14653]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14653]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14653]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14653]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-17T10:46:11+08:00 Synology_NAS synoiscsiep[14653]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-20T07:36:42+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-20T07:36:42+08:00 Synology_NAS synoiscsiep[8747]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-20T07:36:42+08:00 Synology_NAS synocheckiscsitrg[8942]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-20T07:51:29+08:00 Synology_NAS synocheckiscsitrg[14918]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(e95f398ba3c1).
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[14926]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[15297]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[15297]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[15362]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[15362]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[15362]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[15362]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-20T07:51:29+08:00 Synology_NAS synoiscsiep[15362]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-09-20T07:55:04+08:00 Synology_NAS synocheckiscsitrg[23260]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-20T07:55:05+08:00 Synology_NAS synoiscsiep[23327]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-09-20T11:29:03+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-09-20T11:29:03+08:00 Synology_NAS synoiscsiep[846]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-09-20T11:29:03+08:00 Synology_NAS synocheckiscsitrg[1108]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-20T11:34:50+08:00 Synology_NAS synocheckiscsitrg[15292]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(dcfa3d411d28).
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15300]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15334]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15334]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15511]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15511]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15511]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15511]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-09-20T11:34:50+08:00 Synology_NAS synoiscsiep[15511]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-10-05T07:46:02+08:00 Synology_NAS synoiscsiep[4174]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-10-05T07:46:02+08:00 Synology_NAS synoiscsiep[4174]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-10-05T07:46:02+08:00 Synology_NAS synoiscsiep[4174]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-10-05T07:46:02+08:00 Synology_NAS synoiscsiep[4174]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-10-05T07:46:02+08:00 Synology_NAS synoiscsiep[4174]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-10-05T07:46:03+08:00 Synology_NAS kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-10-05T07:46:03+08:00 Synology_NAS kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-10-05T07:46:03+08:00 Synology_NAS synoiscsiep[4174]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-10-05T07:46:04+08:00 Synology_NAS synocheckiscsitrg[4261]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-10-05T07:49:15+08:00 Synology_NAS synocheckiscsitrg[9701]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-10-05T07:49:15+08:00 Synology_NAS kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(86787596b29b).
+2024-10-05T07:49:15+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-10-05T07:49:15+08:00 Synology_NAS kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-10-05T07:49:15+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-10-05T07:49:15+08:00 Synology_NAS kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-10-05T07:49:15+08:00 Synology_NAS kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-10-05T07:49:15+08:00 Synology_NAS kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-10-05T07:49:15+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-10-05T07:49:16+08:00 Synology_NAS kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-10-05T07:49:16+08:00 Synology_NAS kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-10-05T07:49:16+08:00 Synology_NAS kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-10-05T07:49:16+08:00 Synology_NAS kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-10-05T07:49:16+08:00 Synology_NAS kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9719]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9719]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9794]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-10-05T07:49:16+08:00 Synology_NAS synoiscsiep[9794]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-10-05T07:49:17+08:00 Synology_NAS synoiscsiep[9842]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-10-05T07:49:17+08:00 Synology_NAS synoiscsiep[9842]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-10-05T07:49:17+08:00 Synology_NAS kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-10-05T07:49:17+08:00 Synology_NAS synoiscsiep[9842]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-10-05T07:49:17+08:00 Synology_NAS synoiscsiep[9842]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-10-05T07:49:17+08:00 Synology_NAS synoiscsiep[9842]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synoiscsiep[3569]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synoiscsiep[3569]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synoiscsiep[3569]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-10-09T04:29:16+08:00 Yasuraokaa_Site synocheckiscsitrg[3756]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synocheckiscsitrg[15461]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(8d15507ad418).
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-10-09T04:33:34+08:00 Yasuraokaa_Site kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15475]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15507]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15507]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15530]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15530]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15530]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15530]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site synoiscsiep[15530]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: fc_stop_all.cpp:69:SYNOFCStopAllWithoutLock Successfully stopped FC service.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_stop_all.cpp:67:SYNOiSCSIStopAllWithoutLock Successfully stopped iSCSI service.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_lun_service_stop_all.cpp:87:SYNOiSCSIVolumeServiceStopAll Successfully remove volume configfs entries.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_qla2xxx' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'libfc' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'iscsi_target_mod' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'tcm_loop' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'vhost_scsi' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_user' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_ep' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_multi_file' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_file' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'target_core_iblock' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site kernel: extent_pool.c:780:ep_exit syno_extent_pool successfully finalized
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site kernel: target_core_rodsp_server.c:844:rodsp_server_exit RODSP server stopped.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synoiscsiep[25478]: iscsi_module_manage.cpp:94:rmmod_if_module_file_exist Module 'syno_extent_pool' is unloaded
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synocheckiscsitrg[25584]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synocheckiscsitrg[15564]: iscsi_repair.cpp:80:SYNOiSCSIRepair Total 0 issue(s) are detected.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'rodsp_ep' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_rodsp_server.c:1008:rodsp_server_init RODSP server started, login_key(4f29391e2483).
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'syno_extent_pool' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: extent_pool.c:766:ep_init syno_extent_pool successfully initialized
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_device.c:593:se_dev_align_max_sectors Rounding down aligned max_sectors from 4294967295 to 4294967288
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_configfs.c:6124:target_init_dbroot db_root: cannot open: /etc/target
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_lunbackup.c:367:init_io_buffer_head 2048 buffers allocated, total 8388608 bytes successfully
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_mod' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_iblock' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_file' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_multi_file' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_ep' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'target_core_user' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_lun_service_start_all.cpp:90:SYNOiSCSILunServiceStartAllWithoutLock Mounting configfs on /config
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_file.c:128:fd_attach_hba RODSP plugin for fileio is enabled.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_file.c:136:fd_attach_hba ODX Token Manager is enabled.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_multi_file.c:126:fd_attach_hba RODSP plugin for multifile is enabled.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_multi_file.c:134:fd_attach_hba ODX Token Manager is enabled.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_ep.c:782:ep_attach_hba RODSP plugin for epio is enabled.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site kernel: target_core_ep.c:789:ep_attach_hba ODX Token Manager is enabled.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'iscsi_target_mod' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_loop' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15569]: iscsi_start_all.cpp:89:SYNOiSCSIStartAllWithoutLock Successfully started iSCSI service.
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15591]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost' is loaded
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site synoiscsiep[15591]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'vhost_scsi' is loaded
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site synoiscsiep[15614]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'scsi_transport_fc' is loaded
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site synoiscsiep[15614]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'libfc' is loaded
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site synoiscsiep[15614]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'qla2xxx' is loaded
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site kernel: qla_dbg.c:2572:ql_log qla2xxx [0000:00:00.0]-0005: : QLogic Fibre Channel HBA Driver: 10.02.00.103-k.
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site synoiscsiep[15614]: iscsi_module_manage.cpp:56:insmod_if_module_file_exist Module 'tcm_qla2xxx' is loaded
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site synoiscsiep[15614]: fc_start_all.cpp:39:SYNOFCStartAllWithoutLock Successfully started FC service.

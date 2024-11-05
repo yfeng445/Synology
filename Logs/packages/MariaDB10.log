@@ -1,0 +1,99 @@
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin preinst
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End preinst ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/mkdir -p /volume1/@appstore/MariaDB10 -m 755
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/mkdir -p /volume1/@appstore/MariaDB10 -m 755 ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/rm -rf /volume1/@appstore/MariaDB10
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/rm -rf /volume1/@appstore/MariaDB10 ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/package /volume1/@appstore/MariaDB10
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/package /volume1/@appstore/MariaDB10 ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/rm -rf /var/packages/MariaDB10
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/rm -rf /var/packages/MariaDB10 ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/mkdir -p /var/packages/MariaDB10 -m 755
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/mkdir -p /var/packages/MariaDB10 -m 755 ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/touch /var/packages/MariaDB10/installing
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/touch /var/packages/MariaDB10/installing ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/INFO /var/packages/MariaDB10/INFO
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/INFO /var/packages/MariaDB10/INFO ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/rm -rf /var/packages/MariaDB10/scripts
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/rm -rf /var/packages/MariaDB10/scripts ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/scripts /var/packages/MariaDB10/scripts
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/scripts /var/packages/MariaDB10/scripts ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/rm -rf /var/packages/MariaDB10/WIZARD_UIFILES
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/rm -rf /var/packages/MariaDB10/WIZARD_UIFILES ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/WIZARD_UIFILES /var/packages/MariaDB10/WIZARD_UIFILES
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/WIZARD_UIFILES /var/packages/MariaDB10/WIZARD_UIFILES ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/rm -rf /var/packages/MariaDB10/conf
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/rm -rf /var/packages/MariaDB10/conf ret=[0]
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 Begin /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/conf /var/packages/MariaDB10/conf
+2024/10/05 01:15:43	install MariaDB10 10.11.6-1369 End /bin/mv -f /volume1/@tmp/synopkg/install.FHjJMr/conf /var/packages/MariaDB10/conf ret=[0]
+2024/10/05 01:15:45	install MariaDB10 10.11.6-1369 Begin postinst
+Initialize MySQL database
+Installing MariaDB/MySQL system tables in '/var/packages/MariaDB10/target/mysql' ...
+2024-10-05  1:15:46 0 [Warning] mariadbd: GSSAPI plugin : default principal 'mariadb/localhost@' not found in keytab
+2024-10-05  1:15:46 0 [ERROR] mariadbd: Server GSSAPI error (major 851968, minor 2529639093) : gss_acquire_cred failed -Unspecified GSS failure.  Minor code may provide more information. Keytab FILE:/etc/krb5.keytab is nonexistent or empty. 
+2024-10-05  1:15:46 0 [ERROR] Plugin 'gssapi' registration as a AUTHENTICATION failed.
+OK
+
+To start mariadbd at boot time you have to copy
+support-files/mariadb.service to the right place for your system
+
+
+Two all-privilege accounts were created.
+One is root@localhost, it has no password, but you need to
+be system 'root' user to connect. Use, for example, sudo mysql
+The second is mysql@localhost, it has no password either, but
+you need to be the system 'mysql' user to connect.
+After connecting you can set the password, if you would need to be
+able to connect as any of these users with a password and without sudo
+
+See the MariaDB Knowledgebase at https://mariadb.com/kb
+
+You can start the MariaDB daemon with:
+cd '/usr/local/mariadb10' ; /usr/local/mariadb10/bin/mariadb-safe --datadir='/var/packages/MariaDB10/target/mysql'
+
+You can test the MariaDB daemon with mysql-test-run.pl
+cd '/usr/local/mariadb10/' ; perl mariadb-test-run.pl
+
+Please report any problems at https://mariadb.org/jira
+
+The latest information about MariaDB is available at https://mariadb.org/.
+
+Consider joining MariaDB's strong and vibrant community:
+https://mariadb.org/get-involved/
+
+Starting MariaDB.241005 01:16:29 mysqld_safe Logging to '/var/packages/MariaDB10/target/mysql/Synology_NAS.err'.
+241005 01:16:29 mysqld_safe Starting mariadbd daemon with databases from /var/packages/MariaDB10/target/mysql
+ SUCCESS! 
+ERROR 1396 (HY000) at line 1: Operation ALTER USER failed for 'root'@'127.0.0.1'
+ERROR 1396 (HY000) at line 1: Operation ALTER USER failed for 'root'@'::1'
+Shutting down MariaDB. SUCCESS! 
+2024/10/05 01:16:31	install MariaDB10 10.11.6-1369 End postinst ret=[0]
+2024/10/05 01:16:32	install MariaDB10 10.11.6-1369 Begin start-stop-status start
+ ERROR! MariaDB is not running
+Starting MariaDB.241005 01:16:32 mysqld_safe Logging to '/var/packages/MariaDB10/target/mysql/Synology_NAS.err'.
+241005 01:16:32 mysqld_safe Starting mariadbd daemon with databases from /var/packages/MariaDB10/target/mysql
+ SUCCESS! 
+ SUCCESS! MariaDB running (18270)
+2024/10/05 01:16:33	install MariaDB10 10.11.6-1369 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger MariaDB10 10.11.6-1369 Begin start-stop-status stop
+ SUCCESS! MariaDB running (18270)
+Shutting down MariaDB.. SUCCESS! 
+2024/10/09 04:28:37	(system) trigger MariaDB10 10.11.6-1369 End start-stop-status stop ret=[0]
+2024/10/09 04:33:37	(system) trigger MariaDB10 10.11.6-1369 Begin start-stop-status start
+ ERROR! MariaDB is not running
+Starting MariaDB241009 04:33:38 mysqld_safe Logging to '/var/packages/MariaDB10/target/mysql/Yasuraokaa_Site.err'.
+.241009 04:33:38 mysqld_safe Starting mariadbd daemon with databases from /var/packages/MariaDB10/target/mysql
+. SUCCESS! 
+ SUCCESS! MariaDB running (18213)
+2024/10/09 04:33:41	(system) trigger MariaDB10 10.11.6-1369 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger MariaDB10 10.11.6-1369 Begin start-stop-status stop
+ SUCCESS! MariaDB running (18213)
+Shutting down MariaDB... SUCCESS! 
+2024/11/05 00:53:18	(system) trigger MariaDB10 10.11.6-1369 End start-stop-status stop ret=[0]
+2024/11/05 07:06:44	(system) trigger MariaDB10 10.11.6-1369 Begin start-stop-status start
+ ERROR! MariaDB is not running
+Starting MariaDB241105 07:06:46 mysqld_safe Logging to '/var/packages/MariaDB10/target/mysql/Yasuraokaa_Site.err'.
+.241105 07:06:46 mysqld_safe Starting mariadbd daemon with databases from /var/packages/MariaDB10/target/mysql
+. SUCCESS! 
+ SUCCESS! MariaDB running (18263)
+2024/11/05 07:06:48	(system) trigger MariaDB10 10.11.6-1369 End start-stop-status start ret=[0]

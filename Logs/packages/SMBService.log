@@ -1,0 +1,196 @@
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin preinst
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End preinst ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/mkdir -p /usr/local/packages/@appstore/SMBService -m 755
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/mkdir -p /usr/local/packages/@appstore/SMBService -m 755 ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/rm -rf /usr/local/packages/@appstore/SMBService
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/rm -rf /usr/local/packages/@appstore/SMBService ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/mv -f /run/synopkg/tmp/install.yxORVr/package /usr/local/packages/@appstore/SMBService
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/mv -f /run/synopkg/tmp/install.yxORVr/package /usr/local/packages/@appstore/SMBService ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/rm -rf /var/packages/SMBService
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/rm -rf /var/packages/SMBService ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/mkdir -p /var/packages/SMBService -m 755
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/mkdir -p /var/packages/SMBService -m 755 ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/touch /var/packages/SMBService/installing
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/touch /var/packages/SMBService/installing ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/mv -f /run/synopkg/tmp/install.yxORVr/INFO /var/packages/SMBService/INFO
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/mv -f /run/synopkg/tmp/install.yxORVr/INFO /var/packages/SMBService/INFO ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/rm -rf /var/packages/SMBService/scripts
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/rm -rf /var/packages/SMBService/scripts ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/mv -f /run/synopkg/tmp/install.yxORVr/scripts /var/packages/SMBService/scripts
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/mv -f /run/synopkg/tmp/install.yxORVr/scripts /var/packages/SMBService/scripts ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/rm -rf /var/packages/SMBService/conf
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/rm -rf /var/packages/SMBService/conf ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin /bin/mv -f /run/synopkg/tmp/install.yxORVr/conf /var/packages/SMBService/conf
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 End /bin/mv -f /run/synopkg/tmp/install.yxORVr/conf /var/packages/SMBService/conf ret=[0]
+2024/09/08 17:16:55	install SMBService 4.15.13-0871 Begin postinst
+[pkg-synosamba-env-setup] enabled.
+[pkg-synosamba-env-setup] started.
+<14>Sep  8 17:16:55 SMBService: updater: upgrade from 
+<14>Sep  8 17:16:55 SMBService: Execute version 0407 updater '_remove_conflict_nbt_sid_with_ldap_from_secrets_tdb'
+/etc/samba/private/secrets.tdb does not exist, skip
+<14>Sep  8 17:16:55 SMBService: Execute version 0433 updater '_remove_domain_img_cache'
+<14>Sep  8 17:16:55 SMBService: Execute version 0866 updater '_fix_durable_handles'
+<14>Sep  8 17:16:55 SMBService: Execute version 0866 updater '_enable_durable_handles_if_smb_tm_enabled'
+<14>Sep  8 17:16:56 SMBService: samba_service: restore_status, status: INSTALL
+<14>Sep  8 17:16:56 SMBService: no previous status of samba services, start default enabled services.
+<14>Sep  8 17:16:56 SMBService: enabled_service: pkg-synosamba-nmbd pkg-synosamba-wstransfer-genconf pkg-synosamba-smbd
+[pkg-synosamba-nmbd, pkg-synosamba-wstransfer-genconf, pkg-synosamba-smbd] enabled.
+[pkg-synosamba-nmbd, pkg-synosamba-wstransfer-genconf, pkg-synosamba-smbd] started.
+2024/09/08 17:16:56	install SMBService 4.15.13-0871 End postinst ret=[0]
+2024/09/08 17:16:59	(system) trigger SMBService 4.15.13-0871 Begin start-stop-status start
+<14>Sep  8 17:16:59 SMBService: package start with status []
+2024/09/08 17:16:59	(system) trigger SMBService 4.15.13-0871 End start-stop-status start ret=[0]
+2024/09/08 17:17:42	upgrade SMBService 4.15.13-0871 Begin start-stop-status stop
+<14>Sep  8 17:17:42 SMBService: package stop with status [UPGRADE]
+2024/09/08 17:17:42	upgrade SMBService 4.15.13-0871 End start-stop-status stop ret=[0]
+2024/09/08 17:17:42	upgrade SMBService 4.15.13-0871 Begin preupgrade
+2024/09/08 17:17:42	upgrade SMBService 4.15.13-0871 End preupgrade ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0871 Begin preuninst
+<14>Sep  8 17:17:43 SMBService: samba_service: backup_status, status: UPGRADE
+Fail to get enable status.
+[pkg-DirectoryServerForWindowsDomain, pkg-synosamba-nmbd, pkg-synosamba-smbd, pkg-synosamba-winbindd, pkg-synosamba-wstransfer-genconf] disabled.
+Fail to stop [pkg-DirectoryServerForWindowsDomain].
+[pkg-synosamba-env-setup] disabled.
+[pkg-synosamba-env-setup] stopped.
+[pkg-synosamba-env-release] started.
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0871 End preuninst ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0871 Begin /bin/rm -rf /usr/local/packages/@appstore/SMBService
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0871 End /bin/rm -rf /usr/local/packages/@appstore/SMBService ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0871 Begin /bin/rm -rf /usr/local/packages/@apptemp/SMBService
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0871 End /bin/rm -rf /usr/local/packages/@apptemp/SMBService ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0871 Begin postuninst
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0871 End postuninst ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin preinst
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End preinst ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/mkdir -p /usr/local/packages/@appstore/SMBService -m 755
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/mkdir -p /usr/local/packages/@appstore/SMBService -m 755 ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/rm -rf /usr/local/packages/@appstore/SMBService
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/rm -rf /usr/local/packages/@appstore/SMBService ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/mv -f /run/synopkg/tmp/install.OAIbVb/package /usr/local/packages/@appstore/SMBService
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/mv -f /run/synopkg/tmp/install.OAIbVb/package /usr/local/packages/@appstore/SMBService ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/rm -rf /var/packages/SMBService
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/rm -rf /var/packages/SMBService ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/mkdir -p /var/packages/SMBService -m 755
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/mkdir -p /var/packages/SMBService -m 755 ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/touch /var/packages/SMBService/installing
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/touch /var/packages/SMBService/installing ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/mv -f /run/synopkg/tmp/install.OAIbVb/INFO /var/packages/SMBService/INFO
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/mv -f /run/synopkg/tmp/install.OAIbVb/INFO /var/packages/SMBService/INFO ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/rm -rf /var/packages/SMBService/scripts
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/rm -rf /var/packages/SMBService/scripts ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/mv -f /run/synopkg/tmp/install.OAIbVb/scripts /var/packages/SMBService/scripts
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/mv -f /run/synopkg/tmp/install.OAIbVb/scripts /var/packages/SMBService/scripts ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/rm -rf /var/packages/SMBService/conf
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/rm -rf /var/packages/SMBService/conf ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin /bin/mv -f /run/synopkg/tmp/install.OAIbVb/conf /var/packages/SMBService/conf
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 End /bin/mv -f /run/synopkg/tmp/install.OAIbVb/conf /var/packages/SMBService/conf ret=[0]
+2024/09/08 17:17:43	upgrade SMBService 4.15.13-0877 Begin postinst
+[pkg-synosamba-env-setup] enabled.
+[pkg-synosamba-env-setup] started.
+<14>Sep  8 17:17:44 SMBService: updater: upgrade from 4.15.13-0871
+<14>Sep  8 17:17:44 SMBService: samba_service: restore_status, status: UPGRADE
+<14>Sep  8 17:17:44 SMBService: enabled_service: pkg-synosamba-nmbd pkg-synosamba-smbd pkg-synosamba-wstransfer-genconf
+[pkg-synosamba-nmbd, pkg-synosamba-smbd, pkg-synosamba-wstransfer-genconf] enabled.
+[pkg-synosamba-nmbd, pkg-synosamba-smbd, pkg-synosamba-wstransfer-genconf] started.
+2024/09/08 17:17:44	upgrade SMBService 4.15.13-0877 End postinst ret=[0]
+2024/09/08 17:17:44	upgrade SMBService 4.15.13-0877 Begin postupgrade
+2024/09/08 17:17:44	upgrade SMBService 4.15.13-0877 End postupgrade ret=[0]
+2024/09/08 17:17:44	upgrade SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep  8 17:17:44 SMBService: package start with status [UPGRADE]
+2024/09/08 17:17:44	upgrade SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/09 08:24:45	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep  9 08:24:45 SMBService: package stop with status []
+2024/09/09 08:24:45	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/10 07:08:52	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 10 07:08:52 SMBService: package start with status []
+2024/09/10 07:08:52	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/11 19:57:37	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 11 19:57:37 SMBService: package stop with status []
+2024/09/11 19:57:37	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/11 20:05:39	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 11 20:05:39 SMBService: package start with status []
+2024/09/11 20:05:39	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/12 00:26:24	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 12 00:26:24 SMBService: package stop with status []
+2024/09/12 00:26:24	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/12 00:30:23	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 12 00:30:23 SMBService: package start with status []
+2024/09/12 00:30:23	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/14 22:43:06	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 14 22:43:06 SMBService: package stop with status []
+2024/09/14 22:43:06	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/14 23:16:47	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 14 23:16:47 SMBService: package start with status []
+2024/09/14 23:16:47	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/15 00:50:04	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 15 00:50:04 SMBService: package stop with status []
+2024/09/15 00:50:04	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/15 01:14:13	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 15 01:14:13 SMBService: package start with status []
+2024/09/15 01:14:13	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/15 01:22:00	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 15 01:22:00 SMBService: package start with status []
+2024/09/15 01:22:00	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/15 01:30:53	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 15 01:30:53 SMBService: package start with status []
+2024/09/15 01:30:53	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/15 05:06:09	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 15 05:06:09 SMBService: package start with status []
+2024/09/15 05:06:09	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/15 05:15:08	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 15 05:15:08 SMBService: package start with status []
+2024/09/15 05:15:08	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/16 05:35:26	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 16 05:35:26 SMBService: package stop with status []
+2024/09/16 05:35:26	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/16 05:39:35	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 16 05:39:35 SMBService: package start with status []
+2024/09/16 05:39:35	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/16 19:28:48	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 16 19:28:48 SMBService: package stop with status []
+2024/09/16 19:28:48	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/16 19:32:58	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 16 19:32:58 SMBService: package start with status []
+2024/09/16 19:32:58	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/17 04:54:30	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 17 04:54:30 SMBService: package stop with status []
+2024/09/17 04:54:30	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/17 04:58:36	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 17 04:58:37 SMBService: package start with status []
+2024/09/17 04:58:37	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/17 05:46:37	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 17 05:46:37 SMBService: package stop with status []
+2024/09/17 05:46:37	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/17 05:50:47	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 17 05:50:47 SMBService: package start with status []
+2024/09/17 05:50:47	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/17 10:41:53	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 17 10:41:53 SMBService: package stop with status []
+2024/09/17 10:41:53	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/17 10:46:01	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 17 10:46:01 SMBService: package start with status []
+2024/09/17 10:46:01	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/20 07:36:41	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 20 07:36:41 SMBService: package stop with status []
+2024/09/20 07:36:41	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/20 07:51:19	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 20 07:51:19 SMBService: package start with status []
+2024/09/20 07:51:19	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/09/20 11:29:03	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Sep 20 11:29:03 SMBService: package stop with status []
+2024/09/20 11:29:03	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/09/20 11:34:37	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Sep 20 11:34:37 SMBService: package start with status []
+2024/09/20 11:34:37	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/10/09 04:29:15	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Oct  9 04:29:15 SMBService: package stop with status []
+2024/10/09 04:29:15	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/10/09 04:33:20	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Oct  9 04:33:20 SMBService: package start with status []
+2024/10/09 04:33:20	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]
+2024/11/05 00:53:46	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status stop
+<14>Nov  5 00:53:46 SMBService: package stop with status []
+2024/11/05 00:53:46	(system) trigger SMBService 4.15.13-0877 End start-stop-status stop ret=[0]
+2024/11/05 07:06:36	(system) trigger SMBService 4.15.13-0877 Begin start-stop-status start
+<14>Nov  5 07:06:36 SMBService: package start with status []
+2024/11/05 07:06:36	(system) trigger SMBService 4.15.13-0877 End start-stop-status start ret=[0]

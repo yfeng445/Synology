@@ -1,0 +1,19 @@
+2024-09-08T17:16:50-07:00 SynologyNAS synobtrfssnap[10001]: Some errors occur[0x0000 volume_mount_vol_info_enum.c:29]
+2024-09-10T07:08:53+08:00 Synology_NAS synobtrfssnap[10203]: Some errors occur[0x0000 volume_mount_vol_info_enum.c:29]
+2024-09-11T20:05:37+08:00 Synology_NAS synobtrfssnap[9565]: Some errors occur[0x0000 volume_mount_vol_info_enum.c:29]
+2024-09-12T00:30:27+08:00 Synology_NAS synobtrfssnap[12171]: Current global btrfs snapshot count: 0
+2024-09-14T23:16:54+08:00 Synology_NAS synobtrfssnap[13327]: Current global btrfs snapshot count: 0
+2024-09-15T01:14:19+08:00 Synology_NAS synobtrfssnap[13352]: Current global btrfs snapshot count: 0
+2024-09-15T01:22:06+08:00 Synology_NAS synobtrfssnap[13386]: Current global btrfs snapshot count: 0
+2024-09-15T01:31:00+08:00 Synology_NAS synobtrfssnap[13610]: Current global btrfs snapshot count: 0
+2024-09-15T05:06:13+08:00 Synology_NAS synobtrfssnap[11204]: Current global btrfs snapshot count: 0
+2024-09-15T05:15:18+08:00 Synology_NAS synobtrfssnap[13351]: Current global btrfs snapshot count: 0
+2024-09-16T05:39:42+08:00 Synology_NAS synobtrfssnap[13360]: Current global btrfs snapshot count: 0
+2024-09-16T19:33:04+08:00 Synology_NAS synobtrfssnap[13333]: Current global btrfs snapshot count: 0
+2024-09-17T04:58:44+08:00 Synology_NAS synobtrfssnap[13402]: Current global btrfs snapshot count: 0
+2024-09-17T05:50:53+08:00 Synology_NAS synobtrfssnap[13353]: Current global btrfs snapshot count: 0
+2024-09-17T10:46:07+08:00 Synology_NAS synobtrfssnap[13352]: Current global btrfs snapshot count: 0
+2024-09-20T07:51:25+08:00 Synology_NAS synobtrfssnap[13513]: Current global btrfs snapshot count: 0
+2024-09-20T11:34:46+08:00 Synology_NAS synobtrfssnap[14013]: Current global btrfs snapshot count: 0
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synobtrfssnap[14179]: Current global btrfs snapshot count: 0
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synobtrfssnap[14228]: Current global btrfs snapshot count: 0

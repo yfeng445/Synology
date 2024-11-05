@@ -1,0 +1,404 @@
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded sub-generator "logcenter" from "/usr/syno/lib/synosyslog/subgens/logcenter.py"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: systemd unit synologand is not up
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: WARN: synolog conf for app "synosystemd" did not pass the validation in "synologand"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: WARN: synolog conf for app "S2S" did not pass the validation in "synologand"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: WARN: synolog conf for app "disk" did not pass the validation in "synologand"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: WARN: synolog conf for app "disk_test" did not pass the validation in "synologand"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: WARN: synolog conf for app "auth" did not pass the validation in "synologand"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: WARN: synolog conf for app "ScsiTarget" did not pass the validation in "synologand"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+2024-09-17T10:41:53+08:00 Synology_NAS synologconfgen[3759]: INFO: syslog-ng config generation for synolog is done
+2024-09-17T10:41:53+08:00 Synology_NAS synosystemctl[4153]: [syslog-ng] reloaded.
+2024-09-17T10:46:07+08:00 Synology_NAS synologanutil[13386]: Checklist exists. Skip...
+2024-09-17T10:46:08+08:00 Synology_NAS synologand[13423]: Plugin [abnormal_login.json] is loaded.
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded sub-generator "logcenter" from "/usr/syno/lib/synosyslog/subgens/logcenter.py"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: generated syslog-ng config for app "synologand" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/common/synologand"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-09-17T10:46:08+08:00 Synology_NAS synologconfgen[13425]: INFO: syslog-ng config generation for synolog is done
+2024-09-17T10:46:08+08:00 Synology_NAS synologand[13423]: Plugin [brute_force_attack.json] is loaded.
+2024-09-17T10:46:08+08:00 Synology_NAS synosystemctl[13517]: [syslog-ng] reloaded.
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded sub-generator "logcenter" from "/usr/syno/lib/synosyslog/subgens/logcenter.py"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: systemd unit synologand is not up
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: WARN: synolog conf for app "synosystemd" did not pass the validation in "synologand"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: WARN: synolog conf for app "S2S" did not pass the validation in "synologand"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: WARN: synolog conf for app "disk" did not pass the validation in "synologand"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: WARN: synolog conf for app "disk_test" did not pass the validation in "synologand"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: WARN: synolog conf for app "auth" did not pass the validation in "synologand"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: WARN: synolog conf for app "ScsiTarget" did not pass the validation in "synologand"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+2024-09-20T07:36:41+08:00 Synology_NAS synologconfgen[8351]: INFO: syslog-ng config generation for synolog is done
+2024-09-20T07:36:42+08:00 Synology_NAS synosystemctl[8641]: [syslog-ng] reloaded.
+2024-09-20T07:51:25+08:00 Synology_NAS synologanutil[13596]: Checklist exists. Skip...
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded sub-generator "logcenter" from "/usr/syno/lib/synosyslog/subgens/logcenter.py"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: generated syslog-ng config for app "synologand" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/common/synologand"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-09-20T07:51:25+08:00 Synology_NAS synologconfgen[13681]: INFO: syslog-ng config generation for synolog is done
+2024-09-20T07:51:25+08:00 Synology_NAS synosystemctl[13714]: [syslog-ng] reloaded.
+2024-09-20T07:51:25+08:00 Synology_NAS synologand[13680]: Plugin [abnormal_login.json] is loaded.
+2024-09-20T07:51:26+08:00 Synology_NAS synologand[13680]: Plugin [brute_force_attack.json] is loaded.
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded sub-generator "logcenter" from "/usr/syno/lib/synosyslog/subgens/logcenter.py"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: systemd unit synologand is not up
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: WARN: synolog conf for app "synosystemd" did not pass the validation in "synologand"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: WARN: synolog conf for app "S2S" did not pass the validation in "synologand"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: WARN: synolog conf for app "disk" did not pass the validation in "synologand"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: WARN: synolog conf for app "disk_test" did not pass the validation in "synologand"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: WARN: synolog conf for app "auth" did not pass the validation in "synologand"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: WARN: synolog conf for app "ScsiTarget" did not pass the validation in "synologand"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+2024-09-20T11:29:03+08:00 Synology_NAS synologconfgen[489]: INFO: syslog-ng config generation for synolog is done
+2024-09-20T11:29:03+08:00 Synology_NAS synosystemctl[806]: [syslog-ng] reloaded.
+2024-09-20T11:34:46+08:00 Synology_NAS synologanutil[14073]: Checklist exists. Skip...
+2024-09-20T11:34:46+08:00 Synology_NAS synologand[14106]: Plugin [abnormal_login.json] is loaded.
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded sub-generator "logcenter" from "/usr/syno/lib/synosyslog/subgens/logcenter.py"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: generated syslog-ng config for app "synologand" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/common/synologand"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-09-20T11:34:46+08:00 Synology_NAS synologconfgen[14107]: INFO: syslog-ng config generation for synolog is done
+2024-09-20T11:34:46+08:00 Synology_NAS synologand[14106]: Plugin [brute_force_attack.json] is loaded.
+2024-09-20T11:34:46+08:00 Synology_NAS synosystemctl[14200]: [syslog-ng] reloaded.
+2024-09-21T10:57:19+08:00 Synology_NAS synologand[14106]: connection closed.
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded sub-generator "logcenter" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded sub-generator "logcenter_hci" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter_hci.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit synologand is not up
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "WebDAVServer" from "/usr/local/share/synolog/configs/WebDAVServer"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "ContainerManager" from "/usr/local/share/synolog/configs/ContainerManager"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "WebStation" from "/usr/local/share/synolog/configs/WebStation"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "StorageAnalyzer" from "/usr/local/share/synolog/configs/StorageAnalyzer"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: loaded synolog config "HybridShare" from "/usr/local/share/synolog/configs/HybridShare"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "synosystemd" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "S2S" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "disk" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "disk_test" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "auth" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "WebDAVServer" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "WebDAVServer" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/WebDAVServer"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "ScsiTarget" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "ContainerManager" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "ContainerManager" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ContainerManager"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "WebStation" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "WebStation" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/WebStation"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "StorageAnalyzer" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "StorageAnalyzer" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/StorageAnalyzer"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: WARN: synolog conf for app "HybridShare" did not pass the validation in "synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: generated syslog-ng config for app "HybridShare" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/HybridShare"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27399]: INFO: syslog-ng config generation for synolog is done
+2024-10-04T00:14:08+08:00 Synology_NAS synosystemctl[27465]: [syslog-ng] reloaded.
+2024-10-04T00:14:08+08:00 Synology_NAS synologanutil[27491]: Checklist exists. Skip...
+2024-10-04T00:14:08+08:00 Synology_NAS synologand[27494]: Plugin [abnormal_login.json] is loaded.
+2024-10-04T00:14:08+08:00 Synology_NAS synologand[27494]: Plugin [brute_force_attack.json] is loaded.
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded sub-generator "logcenter" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded sub-generator "logcenter_hci" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter_hci.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "synologand" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/common/synologand"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "WebDAVServer" from "/usr/local/share/synolog/configs/WebDAVServer"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "ContainerManager" from "/usr/local/share/synolog/configs/ContainerManager"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "WebStation" from "/usr/local/share/synolog/configs/WebStation"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "StorageAnalyzer" from "/usr/local/share/synolog/configs/StorageAnalyzer"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: loaded synolog config "HybridShare" from "/usr/local/share/synolog/configs/HybridShare"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "WebDAVServer" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/WebDAVServer"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "ContainerManager" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ContainerManager"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-client" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: systemd unit "pkg-LogCenter-localarchive" is not up: inactive
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "WebStation" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/WebStation"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "StorageAnalyzer" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/StorageAnalyzer"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: generated syslog-ng config for app "HybridShare" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/HybridShare"
+2024-10-04T00:14:08+08:00 Synology_NAS synologconfgen[27495]: INFO: syslog-ng config generation for synolog is done
+2024-10-04T00:14:08+08:00 Synology_NAS synosystemctl[27574]: [syslog-ng] reloaded.
+2024-10-05T01:04:25+08:00 Synology_NAS synologand[27494]: connection closed.
+2024-10-05T01:04:39+08:00 Synology_NAS synologand[27494]: connection closed.
+2024-10-09T04:28:37+08:00 Yasuraokaa_Site synologand[27494]: connection closed.
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded sub-generator "logcenter" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter.py"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded sub-generator "logcenter_cluster" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter_cluster.py"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit synologand is not up
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "synosystemd" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "synosystemd" did not pass the validation in "synologand"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "S2S" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "S2S" did not pass the validation in "synologand"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "disk" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "disk" did not pass the validation in "synologand"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "disk_test" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "disk_test" did not pass the validation in "synologand"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "auth" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "auth" did not pass the validation in "synologand"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "ScsiTarget" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: WARN: synolog conf for app "ScsiTarget" did not pass the validation in "synologand"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synologconfgen[3109]: INFO: syslog-ng config generation for synolog is done
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site synosystemctl[3510]: [syslog-ng] reloaded.
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synologanutil[14254]: Checklist exists. Skip...
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synologand[14271]: Plugin [abnormal_login.json] is loaded.
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synologand[14271]: Plugin [brute_force_attack.json] is loaded.
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded sub-generator "logcenter" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter.py"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded sub-generator "logcenter_cluster" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter_cluster.py"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: generated syslog-ng config for app "synologand" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/common/synologand"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: WARN: synolog conf for app "synosystemd" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: WARN: synolog conf for app "S2S" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: WARN: synolog conf for app "disk" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: WARN: synolog conf for app "disk_test" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: WARN: synolog conf for app "auth" did not pass the validation in "logcenter_cluster"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synologconfgen[14273]: INFO: syslog-ng config generation for synolog is done
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synosystemctl[14427]: [syslog-ng] reloaded.
+2024-10-09T04:33:41+08:00 Yasuraokaa_Site synologand[14271]: connection closed.
+2024-11-05T00:53:18+08:00 Yasuraokaa_Site synologand[14271]: connection closed.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded sub-generator "logcenter" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter.py"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded sub-generator "logcenter_cluster" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter_cluster.py"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit synologand is not up
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "synosystemd" did not pass the validation in "logcenter_cluster"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "synosystemd" did not pass the validation in "synologand"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "S2S" did not pass the validation in "logcenter_cluster"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "S2S" did not pass the validation in "synologand"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "disk" did not pass the validation in "logcenter_cluster"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "disk" did not pass the validation in "synologand"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "disk_test" did not pass the validation in "logcenter_cluster"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "disk_test" did not pass the validation in "synologand"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "auth" did not pass the validation in "logcenter_cluster"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "auth" did not pass the validation in "synologand"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: systemd unit "syslog-notify" is not up: inactive
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "ScsiTarget" did not pass the validation in "logcenter_cluster"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: WARN: synolog conf for app "ScsiTarget" did not pass the validation in "synologand"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synologconfgen[25129]: INFO: syslog-ng config generation for synolog is done
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site synosystemctl[25505]: [syslog-ng] reloaded.
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologanutil[14281]: Checklist exists. Skip...
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologand[14320]: Plugin [abnormal_login.json] is loaded.
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologand[14320]: Plugin [brute_force_attack.json] is loaded.
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded sub-generator "logcenter" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter.py"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded sub-generator "logcenter_cluster" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter_cluster.py"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: generated syslog-ng config for app "synologand" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/common/synologand"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: WARN: synolog conf for app "synosystemd" did not pass the validation in "logcenter_cluster"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: WARN: synolog conf for app "S2S" did not pass the validation in "logcenter_cluster"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: WARN: synolog conf for app "disk" did not pass the validation in "logcenter_cluster"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: WARN: synolog conf for app "disk_test" did not pass the validation in "logcenter_cluster"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: WARN: synolog conf for app "auth" did not pass the validation in "logcenter_cluster"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: systemd unit "pkgctl-LogCenter" is not up: inactive
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synologconfgen[14321]: INFO: syslog-ng config generation for synolog is done
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synosystemctl[14416]: [syslog-ng] reloaded.
+2024-11-05T07:06:52+08:00 Yasuraokaa_Site synologand[14320]: connection closed.

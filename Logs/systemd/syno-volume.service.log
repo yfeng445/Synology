@@ -1,0 +1,369 @@
+2024-09-08T17:16:50-07:00 SynologyNAS volume.sh[9893]: Sun Sep 8 17:16:50 PDT 2024: start volume
+2024-09-08T17:16:50-07:00 SynologyNAS volume.sh[9893]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-08T17:16:50-07:00 SynologyNAS volume.sh[9893]: Pass s00_synocheckfstab ...
+2024-09-09T08:24:46+08:00 Synology_NAS volume.sh[27437]: find: `/proc/27521/fd/5': No such file or directory
+2024-09-09T08:24:46+08:00 Synology_NAS volume.sh[27437]: find: `/proc/self/fd/5': No such file or directory
+2024-09-09T08:24:46+08:00 Synology_NAS volume.sh[27437]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-09T08:24:46+08:00 Synology_NAS volume.sh[27437]: success
+2024-09-09T08:24:46+08:00 Synology_NAS volume.sh[27437]: done
+2024-09-10T07:08:53+08:00 Synology_NAS volume.sh[10095]: Tue Sep 10 07:08:53 CST 2024: start volume
+2024-09-10T07:08:53+08:00 Synology_NAS volume.sh[10095]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-10T07:08:53+08:00 Synology_NAS volume.sh[10095]: Pass s00_synocheckfstab ...
+2024-09-11T19:57:38+08:00 Synology_NAS volume.sh[1788]: find: `/proc/1870/fd/5': No such file or directory
+2024-09-11T19:57:38+08:00 Synology_NAS volume.sh[1788]: find: `/proc/self/fd/5': No such file or directory
+2024-09-11T19:57:38+08:00 Synology_NAS volume.sh[1788]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-11T19:57:38+08:00 Synology_NAS volume.sh[1788]: success
+2024-09-11T19:57:38+08:00 Synology_NAS volume.sh[1788]: done
+2024-09-11T20:05:37+08:00 Synology_NAS volume.sh[9457]: Wed Sep 11 20:05:37 CST 2024: start volume
+2024-09-11T20:05:37+08:00 Synology_NAS volume.sh[9457]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-11T20:05:37+08:00 Synology_NAS volume.sh[9457]: Pass s00_synocheckfstab ...
+2024-09-12T00:26:26+08:00 Synology_NAS volume.sh[19304]: find: `/proc/19397/fd/5': No such file or directory
+2024-09-12T00:26:26+08:00 Synology_NAS volume.sh[19304]: find: `/proc/self/fd/5': No such file or directory
+2024-09-12T00:26:26+08:00 Synology_NAS volume.sh[19304]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-12T00:26:27+08:00 Synology_NAS volume.sh[19304]: success
+2024-09-12T00:26:27+08:00 Synology_NAS volume.sh[19304]: done
+2024-09-12T00:30:25+08:00 Synology_NAS volume.sh[11289]: Thu Sep 12 00:30:25 CST 2024: start volume
+2024-09-12T00:30:25+08:00 Synology_NAS volume.sh[11289]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-12T00:30:25+08:00 Synology_NAS volume.sh[11289]: Pass s00_synocheckfstab ...
+2024-09-12T00:30:25+08:00 Synology_NAS volume.sh[11289]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-12T00:30:25+08:00 Synology_NAS volume.sh[11289]: :: Mounting volume /dev/mapper/cachedev_0:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-12T00:30:26+08:00 Synology_NAS volume.sh[11289]: :: Mounting volume /dev/mapper/cachedev_1:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-12T00:30:26+08:00 Synology_NAS volume.sh[11289]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-12T00:30:26+08:00 Synology_NAS volume.sh[11289]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-12T00:30:26+08:00 Synology_NAS volume.sh[11289]: ... [  OK  ]
+2024-09-12T00:30:26+08:00 Synology_NAS volume.sh[11289]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-12T00:30:26+08:00 Synology_NAS volume.sh[11289]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-14T22:43:08+08:00 Synology_NAS volume.sh[10960]: find: `/proc/11072/fd/5': No such file or directory
+2024-09-14T22:43:08+08:00 Synology_NAS volume.sh[10960]: find: `/proc/self/fd/5': No such file or directory
+2024-09-14T22:43:08+08:00 Synology_NAS volume.sh[10960]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-14T22:43:10+08:00 Synology_NAS volume.sh[10960]: success
+2024-09-14T22:43:10+08:00 Synology_NAS volume.sh[10960]: done
+2024-09-14T23:16:51+08:00 Synology_NAS volume.sh[12061]: Sat Sep 14 23:16:51 CST 2024: start volume
+2024-09-14T23:16:51+08:00 Synology_NAS volume.sh[12061]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-14T23:16:51+08:00 Synology_NAS volume.sh[12061]: Pass s00_synocheckfstab ...
+2024-09-14T23:16:51+08:00 Synology_NAS volume.sh[12061]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-14T23:16:51+08:00 Synology_NAS volume.sh[12061]: :: Mounting volume /dev/mapper/cachedev_1:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-14T23:16:51+08:00 Synology_NAS volume.sh[12061]: :: Mounting volume /dev/mapper/cachedev_2:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: :: Mounting volume /dev/mapper/cachedev_0:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: ... [  OK  ]
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: ... [  OK  ]
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-14T23:16:52+08:00 Synology_NAS volume.sh[12061]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-15T00:50:06+08:00 Synology_NAS volume.sh[27199]: find: `/proc/27295/fd/5': No such file or directory
+2024-09-15T00:50:06+08:00 Synology_NAS volume.sh[27199]: find: `/proc/self/fd/5': No such file or directory
+2024-09-15T00:50:06+08:00 Synology_NAS volume.sh[27199]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-15T00:50:09+08:00 Synology_NAS volume.sh[27199]: success
+2024-09-15T00:50:09+08:00 Synology_NAS volume.sh[27199]: done
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: Sun Sep 15 01:14:17 CST 2024: start volume
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: Pass s00_synocheckfstab ...
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: ... [  OK  ]
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: ... [  OK  ]
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: ... [  OK  ]
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-15T01:14:17+08:00 Synology_NAS volume.sh[11811]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: Sun Sep 15 01:22:03 CST 2024: start volume
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-15T01:22:04+08:00 Synology_NAS volume.sh[11847]: Pass s00_synocheckfstab ...
+2024-09-15T01:22:04+08:00 Synology_NAS volume.sh[11847]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:22:02+08:00 Synology_NAS volume.sh[11847]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:22:02+08:00 Synology_NAS volume.sh[11847]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [ ... [  OK    OK  ]
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: ]
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: :: move /volume4/@tmp:: move /volume3/@tmp ... [ ... [  OK    OK  ]
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: ]
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-15T01:22:03+08:00 Synology_NAS volume.sh[11847]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-15T01:22:04+08:00 Synology_NAS volume.sh[11847]: ... [  OK  ]
+2024-09-15T01:22:04+08:00 Synology_NAS volume.sh[11847]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-15T01:22:04+08:00 Synology_NAS volume.sh[11847]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-15T01:22:04+08:00 Synology_NAS volume.sh[11847]: ... [  OK  ]
+2024-09-15T01:22:04+08:00 Synology_NAS volume.sh[11847]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-15T01:22:04+08:00 Synology_NAS volume.sh[11847]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-15T01:30:57+08:00 Synology_NAS volume.sh[12080]: Sun Sep 15 01:30:57 CST 2024: start volume
+2024-09-15T01:30:57+08:00 Synology_NAS volume.sh[12080]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: Pass s00_synocheckfstab ...
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:30:57+08:00 Synology_NAS volume.sh[12080]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:30:57+08:00 Synology_NAS volume.sh[12080]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: ... [  OK  ]
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: ... [  OK  ]
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: ... [  OK  ]
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-15T01:30:58+08:00 Synology_NAS volume.sh[12080]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-15T05:06:09+08:00 Synology_NAS volume.sh[9954]: Sun Sep 15 05:06:09 CST 2024: start volume
+2024-09-15T05:06:09+08:00 Synology_NAS volume.sh[9954]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-15T05:06:09+08:00 Synology_NAS volume.sh[9954]: Pass s00_synocheckfstab ...
+2024-09-15T05:06:09+08:00 Synology_NAS volume.sh[9954]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T05:06:11+08:00 Synology_NAS volume.sh[9954]: :: Mounting volume /dev/mapper/cachedev_0:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-15T05:06:11+08:00 Synology_NAS volume.sh[9954]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-15T05:06:11+08:00 Synology_NAS volume.sh[9954]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-15T05:15:14+08:00 Synology_NAS volume.sh[11762]: Sun Sep 15 05:15:14 CST 2024: start volume
+2024-09-15T05:15:14+08:00 Synology_NAS volume.sh[11762]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-15T05:15:14+08:00 Synology_NAS volume.sh[11762]: Pass s00_synocheckfstab ...
+2024-09-15T05:15:14+08:00 Synology_NAS volume.sh[11762]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T05:15:14+08:00 Synology_NAS volume.sh[11762]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T05:15:14+08:00 Synology_NAS volume.sh[11762]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T05:15:14+08:00 Synology_NAS volume.sh[11762]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-15T05:15:15+08:00 Synology_NAS volume.sh[11762]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-15T05:15:15+08:00 Synology_NAS volume.sh[11762]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-15T05:15:15+08:00 Synology_NAS volume.sh[11762]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: ... [  OK  ]
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: ... [  OK  ]
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: ... [  OK  ]
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-15T05:15:16+08:00 Synology_NAS volume.sh[11762]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-16T05:35:28+08:00 Synology_NAS volume.sh[11476]: find: `/proc/11597/fd/5': No such file or directory
+2024-09-16T05:35:28+08:00 Synology_NAS volume.sh[11476]: find: `/proc/self/fd/5': No such file or directory
+2024-09-16T05:35:28+08:00 Synology_NAS volume.sh[11476]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-16T05:35:30+08:00 Synology_NAS volume.sh[11476]: success
+2024-09-16T05:35:31+08:00 Synology_NAS volume.sh[11476]: done
+2024-09-16T05:39:38+08:00 Synology_NAS volume.sh[11821]: Mon Sep 16 05:39:38 CST 2024: start volume
+2024-09-16T05:39:38+08:00 Synology_NAS volume.sh[11821]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-16T05:39:39+08:00 Synology_NAS volume.sh[11821]: Pass s00_synocheckfstab ...
+2024-09-16T05:39:39+08:00 Synology_NAS volume.sh[11821]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-16T05:39:39+08:00 Synology_NAS volume.sh[11821]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-16T05:39:39+08:00 Synology_NAS volume.sh[11821]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-16T05:39:39+08:00 Synology_NAS volume.sh[11821]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: ... [  OK  ]
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: ... [  OK  ]
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: ... [  OK  ]
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-16T05:39:40+08:00 Synology_NAS volume.sh[11821]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-16T19:28:50+08:00 Synology_NAS volume.sh[18467]: find: `/proc/18561/fd/5': No such file or directory
+2024-09-16T19:28:50+08:00 Synology_NAS volume.sh[18467]: find: `/proc/self/fd/5': No such file or directory
+2024-09-16T19:28:50+08:00 Synology_NAS volume.sh[18467]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-16T19:28:52+08:00 Synology_NAS volume.sh[18467]: success
+2024-09-16T19:28:53+08:00 Synology_NAS volume.sh[18467]: done
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: Mon Sep 16 19:33:01 CST 2024: start volume
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-16T19:33:00+08:00 Synology_NAS volume.sh[11806]: Pass s00_synocheckfstab ...
+2024-09-16T19:33:00+08:00 Synology_NAS volume.sh[11806]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-16T19:33:00+08:00 Synology_NAS volume.sh[11806]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-16T19:33:00+08:00 Synology_NAS volume.sh[11806]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-16T19:33:00+08:00 Synology_NAS volume.sh[11806]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: ... [  OK  ]
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: ... [  OK  ]
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-16T19:33:01+08:00 Synology_NAS volume.sh[11806]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-16T19:33:02+08:00 Synology_NAS volume.sh[11806]: ... [  OK  ]
+2024-09-16T19:33:02+08:00 Synology_NAS volume.sh[11806]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-16T19:33:02+08:00 Synology_NAS volume.sh[11806]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-17T04:54:32+08:00 Synology_NAS volume.sh[21223]: find: `/proc/21310/fd/5': No such file or directory
+2024-09-17T04:54:32+08:00 Synology_NAS volume.sh[21223]: find: `/proc/self/fd/5': No such file or directory
+2024-09-17T04:54:32+08:00 Synology_NAS volume.sh[21223]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-17T04:58:40+08:00 Synology_NAS volume.sh[11876]: Tue Sep 17 04:58:40 CST 2024: start volume
+2024-09-17T04:58:40+08:00 Synology_NAS volume.sh[11876]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-17T04:58:40+08:00 Synology_NAS volume.sh[11876]: Pass s00_synocheckfstab ...
+2024-09-17T04:58:40+08:00 Synology_NAS volume.sh[11876]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T04:58:40+08:00 Synology_NAS volume.sh[11876]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T04:58:40+08:00 Synology_NAS volume.sh[11876]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T04:58:40+08:00 Synology_NAS volume.sh[11876]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T04:58:41+08:00 Synology_NAS volume.sh[11876]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-17T04:58:41+08:00 Synology_NAS volume.sh[11876]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-17T04:58:41+08:00 Synology_NAS volume.sh[11876]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-17T04:58:41+08:00 Synology_NAS volume.sh[11876]: ... [  OK  ]
+2024-09-17T04:58:41+08:00 Synology_NAS volume.sh[11876]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-17T04:58:41+08:00 Synology_NAS volume.sh[11876]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-17T04:58:42+08:00 Synology_NAS volume.sh[11876]: ... [  OK  ]
+2024-09-17T04:58:42+08:00 Synology_NAS volume.sh[11876]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-17T04:58:42+08:00 Synology_NAS volume.sh[11876]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-17T04:58:42+08:00 Synology_NAS volume.sh[11876]: ... [  OK  ]
+2024-09-17T04:58:42+08:00 Synology_NAS volume.sh[11876]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-17T04:58:42+08:00 Synology_NAS volume.sh[11876]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-17T05:46:39+08:00 Synology_NAS volume.sh[2683]: find: `/proc/2784/fd/5': No such file or directory
+2024-09-17T05:46:39+08:00 Synology_NAS volume.sh[2683]: find: `/proc/self/fd/5': No such file or directory
+2024-09-17T05:46:39+08:00 Synology_NAS volume.sh[2683]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-17T05:46:42+08:00 Synology_NAS volume.sh[2683]: success
+2024-09-17T05:46:43+08:00 Synology_NAS volume.sh[2683]: done
+2024-09-17T05:50:50+08:00 Synology_NAS volume.sh[11825]: Tue Sep 17 05:50:50 CST 2024: start volume
+2024-09-17T05:50:50+08:00 Synology_NAS volume.sh[11825]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-17T05:50:49+08:00 Synology_NAS volume.sh[11825]: Pass s00_synocheckfstab ...
+2024-09-17T05:50:49+08:00 Synology_NAS volume.sh[11825]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T05:50:49+08:00 Synology_NAS volume.sh[11825]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T05:50:49+08:00 Synology_NAS volume.sh[11825]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T05:50:49+08:00 Synology_NAS volume.sh[11825]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T05:50:50+08:00 Synology_NAS volume.sh[11825]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-17T05:50:50+08:00 Synology_NAS volume.sh[11825]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: ... [  OK  ]
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: ... [  OK  ]
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: ... [  OK  ]
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-17T05:50:51+08:00 Synology_NAS volume.sh[11825]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-17T10:41:55+08:00 Synology_NAS volume.sh[4671]: find: `/proc/4785/fd/5': No such file or directory
+2024-09-17T10:41:55+08:00 Synology_NAS volume.sh[4671]: find: `/proc/self/fd/5': No such file or directory
+2024-09-17T10:41:55+08:00 Synology_NAS volume.sh[4671]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-17T10:41:58+08:00 Synology_NAS volume.sh[4671]: success
+2024-09-17T10:41:59+08:00 Synology_NAS volume.sh[4671]: done
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: Tue Sep 17 10:46:05 CST 2024: start volume
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-17T10:46:04+08:00 Synology_NAS volume.sh[11818]: Pass s00_synocheckfstab ...
+2024-09-17T10:46:04+08:00 Synology_NAS volume.sh[11818]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T10:46:04+08:00 Synology_NAS volume.sh[11818]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T10:46:04+08:00 Synology_NAS volume.sh[11818]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T10:46:04+08:00 Synology_NAS volume.sh[11818]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: ... [ ... [  OK    OK  ]
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: ]
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: :: move /volume4/@tmp:: move /volume1/@tmp ... [ ... [  OK    OK  ]
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: ]
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: ... [  OK  ]
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-17T10:46:05+08:00 Synology_NAS volume.sh[11818]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-20T07:36:44+08:00 Synology_NAS volume.sh[9220]: find: `/proc/9316/fd/5': No such file or directory
+2024-09-20T07:36:44+08:00 Synology_NAS volume.sh[9220]: find: `/proc/self/fd/5': No such file or directory
+2024-09-20T07:36:44+08:00 Synology_NAS volume.sh[9220]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-20T07:36:47+08:00 Synology_NAS volume.sh[9220]: success
+2024-09-20T07:36:48+08:00 Synology_NAS volume.sh[9220]: done
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: Fri Sep 20 07:51:22 CST 2024: start volume
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: Pass s00_synocheckfstab ...
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: Mounting volume /dev/mapper/cachedev_0:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: Mounting volume /dev/mapper/cachedev_2:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: Mounting volume /dev/mapper/cachedev_3:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: Mounting volume /dev/mapper/cachedev_1:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: ... [  OK  ]
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: ... [  OK  ]
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: ... [  OK  ]
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-20T07:51:22+08:00 Synology_NAS volume.sh[11976]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-20T11:29:05+08:00 Synology_NAS volume.sh[1358]: find: `/proc/1452/fd/5': No such file or directory
+2024-09-20T11:29:05+08:00 Synology_NAS volume.sh[1358]: find: `/proc/self/fd/5': No such file or directory
+2024-09-20T11:29:05+08:00 Synology_NAS volume.sh[1358]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-09-20T11:29:08+08:00 Synology_NAS volume.sh[1358]: success
+2024-09-20T11:29:09+08:00 Synology_NAS volume.sh[1358]: done
+2024-09-20T11:34:41+08:00 Synology_NAS volume.sh[12138]: Fri Sep 20 11:34:41 CST 2024: start volume
+2024-09-20T11:34:41+08:00 Synology_NAS volume.sh[12138]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-09-20T11:34:41+08:00 Synology_NAS volume.sh[12138]: Pass s00_synocheckfstab ...
+2024-09-20T11:34:41+08:00 Synology_NAS volume.sh[12138]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T11:34:41+08:00 Synology_NAS volume.sh[12138]: :: Mounting volume /dev/mapper/cachedev_0:/volume5 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T11:34:41+08:00 Synology_NAS volume.sh[12138]: :: Mounting volume /dev/mapper/cachedev_1:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T11:34:41+08:00 Synology_NAS volume.sh[12138]: :: Mounting volume /dev/mapper/cachedev_2:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T11:34:41+08:00 Synology_NAS volume.sh[12138]: :: Mounting volume /dev/mapper/cachedev_4:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-09-20T11:34:42+08:00 Synology_NAS volume.sh[12138]: :: Mounting volume /dev/mapper/cachedev_3:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-09-20T11:34:42+08:00 Synology_NAS volume.sh[12138]: :: move /volume5/@tmp ... [  OK  ]
+2024-09-20T11:34:42+08:00 Synology_NAS volume.sh[12138]: :: Volume: /volume5 support_pin: No Bitmet Set: No
+2024-09-20T11:34:42+08:00 Synology_NAS volume.sh[12138]: ... [  OK  ]
+2024-09-20T11:34:42+08:00 Synology_NAS volume.sh[12138]: :: move /volume3/@tmp ... [  OK  ]
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: ... [  OK  ]
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: :: move /volume4/@tmp ... [  OK  ]
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: ... [  OK  ]
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: :: move /volume1/@tmp ... [  OK  ]
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: ... [  OK  ]
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: :: move /volume2/@tmp ... [  OK  ]
+2024-09-20T11:34:43+08:00 Synology_NAS volume.sh[12138]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-10-09T04:29:17+08:00 Yasuraokaa_Site volume.sh[3998]: find: `/proc/4098/fd/5': No such file or directory
+2024-10-09T04:29:17+08:00 Yasuraokaa_Site volume.sh[3998]: find: `/proc/self/fd/5': No such file or directory
+2024-10-09T04:29:17+08:00 Yasuraokaa_Site volume.sh[3998]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-10-09T04:29:20+08:00 Yasuraokaa_Site volume.sh[3998]: success
+2024-10-09T04:29:20+08:00 Yasuraokaa_Site volume.sh[3998]: done
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: Wed Oct 9 04:33:24 CST 2024: start volume
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: Pass s00_synocheckfstab ...
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Mounting volume /dev/mapper/cachedev_0:/volume5 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Mounting volume /dev/mapper/cachedev_1:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Mounting volume /dev/mapper/cachedev_3:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Mounting volume /dev/mapper/cachedev_4:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Mounting volume /dev/mapper/cachedev_2:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [  OK  ]
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: move /volume2/@tmp ... [  OK  ]
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: ... [  OK  ]
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: move /volume3/@tmp ... [  OK  ]
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: ... [  OK  ]
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: move /volume4/@tmp ... [  OK  ]
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: ... [  OK  ]
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: move /volume5/@tmp ... [  OK  ]
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site volume.sh[12288]: :: Volume: /volume5 support_pin: No Bitmet Set: No
+2024-10-09T04:33:26+08:00 Yasuraokaa_Site volume.sh[12288]: ... [  OK  ]
+2024-10-09T04:33:26+08:00 Yasuraokaa_Site volume.sh[12288]: :: move /volume1/@tmp ... [  OK  ]
+2024-10-09T04:33:26+08:00 Yasuraokaa_Site volume.sh[12288]: :: Volume: /volume1 support_pin: No Bitmet Set: No
+2024-11-05T00:53:51+08:00 Yasuraokaa_Site volume.sh[25944]: find: `/proc/26029/fd/5': No such file or directory
+2024-11-05T00:53:51+08:00 Yasuraokaa_Site volume.sh[25944]: find: `/proc/self/fd/5': No such file or directory
+2024-11-05T00:53:51+08:00 Yasuraokaa_Site volume.sh[25944]: find: `/proc/thread-self/fd/5': No such file or directory
+2024-11-05T00:53:54+08:00 Yasuraokaa_Site volume.sh[25944]: success
+2024-11-05T00:53:54+08:00 Yasuraokaa_Site volume.sh[25944]: done
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site volume.sh[12317]: Tue Nov 5 07:06:40 CST 2024: start volume
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site volume.sh[12317]: /bin/mkdir: cannot create directory '/run/space': File exists
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site volume.sh[12317]: Pass s00_synocheckfstab ...
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site volume.sh[12317]: /bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site volume.sh[12317]: :: Mounting volume /dev/mapper/cachedev_0:/volume5 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-11-05T07:06:41+08:00 Yasuraokaa_Site volume.sh[12317]: :: Mounting volume /dev/mapper/cachedev_1:/volume4 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-11-05T07:06:31+08:00 Yasuraokaa_Site volume.sh[12317]: :: Mounting volume /dev/mapper/cachedev_2:/volume3 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-11-05T07:06:31+08:00 Yasuraokaa_Site volume.sh[12317]: :: Mounting volume /dev/mapper/cachedev_4:/volume1 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev/bin/cat: /sys/fs/syno-cache-protection/pool_enable: No such file or directory
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: :: Mounting volume /dev/mapper/cachedev_3:/volume2 with -o auto_reclaim_space,ssd,synoacl,relatime,nodev ... [ ... [  OK    OK  ]
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: ]
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: :: move /volume3/@tmp:: move /volume2/@tmp ... [ ... [  OK    OK  ]
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: ]
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: :: Volume: /volume2 support_pin: No Bitmet Set: No
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: :: Volume: /volume3 support_pin: No Bitmet Set: No
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: ... [  OK  ]
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: :: move /volume5/@tmp ... [  OK  ]
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: :: Volume: /volume5 support_pin: No Bitmet Set: No
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: ... [  OK  ]
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: :: move /volume4/@tmp ... [  OK  ]
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site volume.sh[12317]: :: Volume: /volume4 support_pin: No Bitmet Set: No
+2024-11-05T07:06:34+08:00 Yasuraokaa_Site volume.sh[12317]: ... [  OK  ]
+2024-11-05T07:06:34+08:00 Yasuraokaa_Site volume.sh[12317]: :: move /volume1/@tmp ... [  OK  ]
+2024-11-05T07:06:34+08:00 Yasuraokaa_Site volume.sh[12317]: :: Volume: /volume1 support_pin: No Bitmet Set: No

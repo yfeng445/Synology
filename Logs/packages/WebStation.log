@@ -1,0 +1,51 @@
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin preinst
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End preinst ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/mkdir -p /volume1/@appstore/WebStation -m 755
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/mkdir -p /volume1/@appstore/WebStation -m 755 ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/rm -rf /volume1/@appstore/WebStation
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/rm -rf /volume1/@appstore/WebStation ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/package /volume1/@appstore/WebStation
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/package /volume1/@appstore/WebStation ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/rm -rf /var/packages/WebStation
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/rm -rf /var/packages/WebStation ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/mkdir -p /var/packages/WebStation -m 755
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/mkdir -p /var/packages/WebStation -m 755 ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/touch /var/packages/WebStation/installing
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/touch /var/packages/WebStation/installing ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/INFO /var/packages/WebStation/INFO
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/INFO /var/packages/WebStation/INFO ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/rm -rf /var/packages/WebStation/scripts
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/rm -rf /var/packages/WebStation/scripts ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/scripts /var/packages/WebStation/scripts
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/scripts /var/packages/WebStation/scripts ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/rm -rf /var/packages/WebStation/WIZARD_UIFILES
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/rm -rf /var/packages/WebStation/WIZARD_UIFILES ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/WIZARD_UIFILES /var/packages/WebStation/WIZARD_UIFILES
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/WIZARD_UIFILES /var/packages/WebStation/WIZARD_UIFILES ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/rm -rf /var/packages/WebStation/conf
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/rm -rf /var/packages/WebStation/conf ret=[0]
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 Begin /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/conf /var/packages/WebStation/conf
+2024/09/23 23:32:54	install WebStation 4.2.3-0522 End /bin/mv -f /volume1/@tmp/synopkg/install.Km6FXd/conf /var/packages/WebStation/conf ret=[0]
+2024/09/23 23:32:58	install WebStation 4.2.3-0522 Begin postinst
+/usr/bin/cp: cannot stat '/volume1/@appstore/WebStation/misc/php56.ini': No such file or directory
+/usr/bin/cp: cannot stat '/volume1/@appstore/WebStation/misc/php70.ini': No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 22 27.9M   22 6495k    0     0  6403k      0  0:00:04  0:00:01  0:00:03 6399k[pkg-WebStation-Gen-Conf.service] disabled.
+[pkg-WebStation-fcgiwrap] enabled.
+2024/09/23 23:32:59	install WebStation 4.2.3-0522 End postinst ret=[0]
+ 68 27.9M   68 19.3M    0     0  9820k      0  0:00:02  0:00:02 --:--:-- 9816k2024/09/23 23:33:00	install WebStation 4.2.3-0522 Begin start-stop-status start
+100 27.9M  100 27.9M    0     0  11.2M      0  0:00:02  0:00:02 --:--:-- 11.1M
+2024/09/23 23:33:01	install WebStation 4.2.3-0522 End start-stop-status start ret=[0]
+2024/10/05 07:47:31	(system) trigger WebStation 4.2.3-0522 Begin start-stop-status stop
+2024/10/05 07:48:04	(system) trigger WebStation 4.2.3-0522 End start-stop-status stop ret=[0]
+2024/10/05 07:49:13	(system) trigger WebStation 4.2.3-0522 Begin start-stop-status start
+2024/10/05 07:50:07	(system) trigger WebStation 4.2.3-0522 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger WebStation 4.2.3-0522 Begin start-stop-status stop
+2024/10/09 04:28:35	(system) trigger WebStation 4.2.3-0522 End start-stop-status stop ret=[0]
+2024/10/09 04:33:45	(system) trigger WebStation 4.2.3-0522 Begin start-stop-status start
+2024/10/09 04:33:52	(system) trigger WebStation 4.2.3-0522 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger WebStation 4.2.3-0522 Begin start-stop-status stop
+2024/11/05 00:53:15	(system) trigger WebStation 4.2.3-0522 End start-stop-status stop ret=[0]
+2024/11/05 07:06:49	(system) trigger WebStation 4.2.3-0522 Begin start-stop-status start
+2024/11/05 07:06:52	(system) trigger WebStation 4.2.3-0522 End start-stop-status start ret=[0]

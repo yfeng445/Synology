@@ -1,0 +1,40 @@
+2024-09-08T17:15:20-07:00 SynologyNAS syno-sysctl-watermarks.sh[7691]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-08T17:15:20-07:00 SynologyNAS syno-sysctl-watermarks.sh[7691]: vm.min_free_kbytes = 65536
+2024-09-10T07:07:22+08:00 Synology_NAS syno-sysctl-watermarks.sh[7023]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-10T07:07:22+08:00 Synology_NAS syno-sysctl-watermarks.sh[7023]: vm.min_free_kbytes = 65536
+2024-09-11T20:04:06+08:00 Synology_NAS syno-sysctl-watermarks.sh[7076]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-11T20:04:06+08:00 Synology_NAS syno-sysctl-watermarks.sh[7076]: vm.min_free_kbytes = 65536
+2024-09-12T00:28:51+08:00 Synology_NAS syno-sysctl-watermarks.sh[7382]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-12T00:28:51+08:00 Synology_NAS syno-sysctl-watermarks.sh[7382]: vm.min_free_kbytes = 65536
+2024-09-14T23:15:16+08:00 Synology_NAS syno-sysctl-watermarks.sh[7279]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-14T23:15:16+08:00 Synology_NAS syno-sysctl-watermarks.sh[7279]: vm.min_free_kbytes = 65536
+2024-09-15T01:12:42+08:00 Synology_NAS syno-sysctl-watermarks.sh[7327]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-15T01:12:42+08:00 Synology_NAS syno-sysctl-watermarks.sh[7327]: vm.min_free_kbytes = 65536
+2024-09-15T01:17:47+08:00 Synology_NAS syno-sysctl-watermarks.sh[7352]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-15T01:17:47+08:00 Synology_NAS syno-sysctl-watermarks.sh[7352]: vm.min_free_kbytes = 65536
+2024-09-15T01:20:29+08:00 Synology_NAS syno-sysctl-watermarks.sh[7281]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-15T01:20:29+08:00 Synology_NAS syno-sysctl-watermarks.sh[7281]: vm.min_free_kbytes = 65536
+2024-09-15T01:29:23+08:00 Synology_NAS syno-sysctl-watermarks.sh[7383]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-15T01:29:23+08:00 Synology_NAS syno-sysctl-watermarks.sh[7383]: vm.min_free_kbytes = 65536
+2024-09-15T05:04:35+08:00 Synology_NAS syno-sysctl-watermarks.sh[7015]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-15T05:04:35+08:00 Synology_NAS syno-sysctl-watermarks.sh[7015]: vm.min_free_kbytes = 65536
+2024-09-15T05:13:36+08:00 Synology_NAS syno-sysctl-watermarks.sh[7320]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-15T05:13:36+08:00 Synology_NAS syno-sysctl-watermarks.sh[7320]: vm.min_free_kbytes = 65536
+2024-09-16T05:38:04+08:00 Synology_NAS syno-sysctl-watermarks.sh[7317]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-16T05:38:04+08:00 Synology_NAS syno-sysctl-watermarks.sh[7317]: vm.min_free_kbytes = 65536
+2024-09-16T19:31:26+08:00 Synology_NAS syno-sysctl-watermarks.sh[7403]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-16T19:31:26+08:00 Synology_NAS syno-sysctl-watermarks.sh[7403]: vm.min_free_kbytes = 65536
+2024-09-17T04:57:05+08:00 Synology_NAS syno-sysctl-watermarks.sh[7316]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-17T04:57:05+08:00 Synology_NAS syno-sysctl-watermarks.sh[7316]: vm.min_free_kbytes = 65536
+2024-09-17T05:49:15+08:00 Synology_NAS syno-sysctl-watermarks.sh[7327]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-17T05:49:15+08:00 Synology_NAS syno-sysctl-watermarks.sh[7327]: vm.min_free_kbytes = 65536
+2024-09-17T10:44:30+08:00 Synology_NAS syno-sysctl-watermarks.sh[7323]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-17T10:44:30+08:00 Synology_NAS syno-sysctl-watermarks.sh[7323]: vm.min_free_kbytes = 65536
+2024-09-20T07:49:47+08:00 Synology_NAS syno-sysctl-watermarks.sh[7416]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-20T07:49:47+08:00 Synology_NAS syno-sysctl-watermarks.sh[7416]: vm.min_free_kbytes = 65536
+2024-09-20T11:33:06+08:00 Synology_NAS syno-sysctl-watermarks.sh[7474]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-09-20T11:33:06+08:00 Synology_NAS syno-sysctl-watermarks.sh[7474]: vm.min_free_kbytes = 65536
+2024-10-09T04:31:49+08:00 Yasuraokaa_Site syno-sysctl-watermarks.sh[7359]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-10-09T04:31:49+08:00 Yasuraokaa_Site syno-sysctl-watermarks.sh[7359]: vm.min_free_kbytes = 65536
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-sysctl-watermarks.sh[7449]: /usr/syno/lib/systemd/scripts/syno-sysctl-watermarks.sh: line 98: [: : integer expression expected
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-sysctl-watermarks.sh[7449]: vm.min_free_kbytes = 65536

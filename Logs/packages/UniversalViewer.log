@@ -1,0 +1,74 @@
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin preinst
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End preinst ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/mkdir -p /volume1/@appstore/UniversalViewer -m 755
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/mkdir -p /volume1/@appstore/UniversalViewer -m 755 ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /volume1/@appstore/UniversalViewer
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/rm -rf /volume1/@appstore/UniversalViewer ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/mv -f /volume1/@tmp/synopkg/install.As8ICX/package /volume1/@appstore/UniversalViewer
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/mv -f /volume1/@tmp/synopkg/install.As8ICX/package /volume1/@appstore/UniversalViewer ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /var/packages/UniversalViewer
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/rm -rf /var/packages/UniversalViewer ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/mkdir -p /var/packages/UniversalViewer -m 755
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/mkdir -p /var/packages/UniversalViewer -m 755 ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/touch /var/packages/UniversalViewer/installing
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/touch /var/packages/UniversalViewer/installing ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/mv -f /volume1/@tmp/synopkg/install.As8ICX/INFO /var/packages/UniversalViewer/INFO
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/mv -f /volume1/@tmp/synopkg/install.As8ICX/INFO /var/packages/UniversalViewer/INFO ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /var/packages/UniversalViewer/scripts
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/rm -rf /var/packages/UniversalViewer/scripts ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/mv -f /volume1/@tmp/synopkg/install.As8ICX/scripts /var/packages/UniversalViewer/scripts
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/mv -f /volume1/@tmp/synopkg/install.As8ICX/scripts /var/packages/UniversalViewer/scripts ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /var/packages/UniversalViewer/conf
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/rm -rf /var/packages/UniversalViewer/conf ret=[0]
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 Begin /bin/mv -f /volume1/@tmp/synopkg/install.As8ICX/conf /var/packages/UniversalViewer/conf
+2024/09/11 20:09:17	install UniversalViewer 1.3.0-0312 End /bin/mv -f /volume1/@tmp/synopkg/install.As8ICX/conf /var/packages/UniversalViewer/conf ret=[0]
+2024/09/11 20:09:18	install UniversalViewer 1.3.0-0312 Begin postinst
+2024/09/11 20:09:18	install UniversalViewer 1.3.0-0312 End postinst ret=[0]
+2024/09/11 20:09:18	install UniversalViewer 1.3.0-0312 Begin start-stop-status start
+2024/09/11 20:09:18	install UniversalViewer 1.3.0-0312 End start-stop-status start ret=[0]
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 Begin start-stop-status stop
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 End start-stop-status stop ret=[0]
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 Begin preuninst
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 End preuninst ret=[0]
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /volume1/@appstore/UniversalViewer
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 End /bin/rm -rf /volume1/@appstore/UniversalViewer ret=[0]
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /volume1/@apptemp/UniversalViewer
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 End /bin/rm -rf /volume1/@apptemp/UniversalViewer ret=[0]
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 Begin postuninst
+2024/09/11 20:28:43	uninstall UniversalViewer 1.3.0-0312 End postuninst ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin preinst
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End preinst ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/mkdir -p /volume1/@appstore/UniversalViewer -m 755
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/mkdir -p /volume1/@appstore/UniversalViewer -m 755 ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /volume1/@appstore/UniversalViewer
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/rm -rf /volume1/@appstore/UniversalViewer ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/mv -f /volume1/@tmp/synopkg/install.KYyQUj/package /volume1/@appstore/UniversalViewer
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/mv -f /volume1/@tmp/synopkg/install.KYyQUj/package /volume1/@appstore/UniversalViewer ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /var/packages/UniversalViewer
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/rm -rf /var/packages/UniversalViewer ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/mkdir -p /var/packages/UniversalViewer -m 755
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/mkdir -p /var/packages/UniversalViewer -m 755 ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/touch /var/packages/UniversalViewer/installing
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/touch /var/packages/UniversalViewer/installing ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/mv -f /volume1/@tmp/synopkg/install.KYyQUj/INFO /var/packages/UniversalViewer/INFO
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/mv -f /volume1/@tmp/synopkg/install.KYyQUj/INFO /var/packages/UniversalViewer/INFO ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /var/packages/UniversalViewer/scripts
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/rm -rf /var/packages/UniversalViewer/scripts ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/mv -f /volume1/@tmp/synopkg/install.KYyQUj/scripts /var/packages/UniversalViewer/scripts
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/mv -f /volume1/@tmp/synopkg/install.KYyQUj/scripts /var/packages/UniversalViewer/scripts ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/rm -rf /var/packages/UniversalViewer/conf
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/rm -rf /var/packages/UniversalViewer/conf ret=[0]
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 Begin /bin/mv -f /volume1/@tmp/synopkg/install.KYyQUj/conf /var/packages/UniversalViewer/conf
+2024/09/26 10:47:00	install UniversalViewer 1.3.0-0312 End /bin/mv -f /volume1/@tmp/synopkg/install.KYyQUj/conf /var/packages/UniversalViewer/conf ret=[0]
+2024/09/26 10:47:02	install UniversalViewer 1.3.0-0312 Begin postinst
+2024/09/26 10:47:02	install UniversalViewer 1.3.0-0312 End postinst ret=[0]
+2024/09/26 10:47:02	install UniversalViewer 1.3.0-0312 Begin start-stop-status start
+2024/09/26 10:47:02	install UniversalViewer 1.3.0-0312 End start-stop-status start ret=[0]
+2024/10/09 04:28:52	(system) trigger UniversalViewer 1.3.0-0312 Begin start-stop-status stop
+2024/10/09 04:28:52	(system) trigger UniversalViewer 1.3.0-0312 End start-stop-status stop ret=[0]
+2024/10/09 04:33:37	(system) trigger UniversalViewer 1.3.0-0312 Begin start-stop-status start
+2024/10/09 04:33:37	(system) trigger UniversalViewer 1.3.0-0312 End start-stop-status start ret=[0]
+2024/11/05 00:53:31	(system) trigger UniversalViewer 1.3.0-0312 Begin start-stop-status stop
+2024/11/05 00:53:31	(system) trigger UniversalViewer 1.3.0-0312 End start-stop-status stop ret=[0]
+2024/11/05 07:06:44	(system) trigger UniversalViewer 1.3.0-0312 Begin start-stop-status start
+2024/11/05 07:06:44	(system) trigger UniversalViewer 1.3.0-0312 End start-stop-status start ret=[0]

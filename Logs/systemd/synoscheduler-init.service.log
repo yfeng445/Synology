@@ -1,0 +1,4 @@
+2024-09-08T17:15:20-07:00 SynologyNAS synoscheduler-init.sh[7733]: Error: in prepare, no such table: task_status
+2024-09-08T17:15:20-07:00 SynologyNAS synoscheduler-init.sh[7733]: Task scheduler DB is corrupted
+2024-09-10T07:07:22+08:00 Synology_NAS synoscheduler-init.sh[6981]: Error: in prepare, no such table: task_status
+2024-09-10T07:07:22+08:00 Synology_NAS synoscheduler-init.sh[6981]: Task scheduler DB is corrupted

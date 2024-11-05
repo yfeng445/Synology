@@ -1,0 +1,185 @@
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin preinst
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End preinst ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/mkdir -p /volume1/@appstore/LogCenter -m 755
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/mkdir -p /volume1/@appstore/LogCenter -m 755 ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/rm -rf /volume1/@appstore/LogCenter
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/rm -rf /volume1/@appstore/LogCenter ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/mv -f /volume1/@tmp/synopkg/install.4OF3Z3/package /volume1/@appstore/LogCenter
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/mv -f /volume1/@tmp/synopkg/install.4OF3Z3/package /volume1/@appstore/LogCenter ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/rm -rf /var/packages/LogCenter
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/rm -rf /var/packages/LogCenter ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/mkdir -p /var/packages/LogCenter -m 755
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/mkdir -p /var/packages/LogCenter -m 755 ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/touch /var/packages/LogCenter/installing
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/touch /var/packages/LogCenter/installing ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/mv -f /volume1/@tmp/synopkg/install.4OF3Z3/INFO /var/packages/LogCenter/INFO
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/mv -f /volume1/@tmp/synopkg/install.4OF3Z3/INFO /var/packages/LogCenter/INFO ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/rm -rf /var/packages/LogCenter/scripts
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/rm -rf /var/packages/LogCenter/scripts ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/mv -f /volume1/@tmp/synopkg/install.4OF3Z3/scripts /var/packages/LogCenter/scripts
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/mv -f /volume1/@tmp/synopkg/install.4OF3Z3/scripts /var/packages/LogCenter/scripts ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/rm -rf /var/packages/LogCenter/conf
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/rm -rf /var/packages/LogCenter/conf ret=[0]
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 Begin /bin/mv -f /volume1/@tmp/synopkg/install.4OF3Z3/conf /var/packages/LogCenter/conf
+2024/09/21 10:57:07	install LogCenter 1.2.5-1328 End /bin/mv -f /volume1/@tmp/synopkg/install.4OF3Z3/conf /var/packages/LogCenter/conf ret=[0]
+2024/09/21 10:57:14	install LogCenter 1.2.5-1328 Begin postinst
+2024/09/21 10:57:15	install LogCenter 1.2.5-1328 End postinst ret=[0]
+2024/09/21 10:57:16	install LogCenter 1.2.5-1328 Begin start-stop-status start
+[pkg-LogCenter-syslog] stopped.
+[pkg-LogCenter-syslog] started.
+[syslog-ng] reloaded.
+2024/09/21 10:57:17	install LogCenter 1.2.5-1328 End start-stop-status start ret=[0]
+2024/10/05 01:04:24	upgrade LogCenter 1.2.5-1328 Begin start-stop-status stop
+[pkg-LogCenter-syslog] stopped.
+2024/10/05 01:04:25	upgrade LogCenter 1.2.5-1328 End start-stop-status stop ret=[0]
+2024/10/05 01:04:26	upgrade LogCenter 1.2.5-1328 Begin preupgrade
+2024/10/05 01:04:26	upgrade LogCenter 1.2.5-1328 End preupgrade ret=[0]
+2024/10/05 01:04:26	upgrade LogCenter 1.2.5-1328 Begin preuninst
+2024/10/05 01:04:26	upgrade LogCenter 1.2.5-1328 End preuninst ret=[0]
+2024/10/05 01:04:26	upgrade LogCenter 1.2.5-1328 Begin /bin/rm -rf /volume1/@appstore/LogCenter
+2024/10/05 01:04:26	upgrade LogCenter 1.2.5-1328 End /bin/rm -rf /volume1/@appstore/LogCenter ret=[0]
+2024/10/05 01:04:26	upgrade LogCenter 1.2.5-1328 Begin /bin/rm -rf /volume1/@apptemp/LogCenter
+2024/10/05 01:04:26	upgrade LogCenter 1.2.5-1328 End /bin/rm -rf /volume1/@apptemp/LogCenter ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.2.5-1328 Begin postuninst
+2024/10/05 01:04:27	upgrade LogCenter 1.2.5-1328 End postuninst ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin preinst
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End preinst ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/mkdir -p /volume1/@appstore/LogCenter -m 755
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/mkdir -p /volume1/@appstore/LogCenter -m 755 ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/rm -rf /volume1/@appstore/LogCenter
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/rm -rf /volume1/@appstore/LogCenter ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/mv -f /volume1/@tmp/synopkg/install.f7mkpu/package /volume1/@appstore/LogCenter
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/mv -f /volume1/@tmp/synopkg/install.f7mkpu/package /volume1/@appstore/LogCenter ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/rm -rf /var/packages/LogCenter
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/rm -rf /var/packages/LogCenter ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/mkdir -p /var/packages/LogCenter -m 755
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/mkdir -p /var/packages/LogCenter -m 755 ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/touch /var/packages/LogCenter/installing
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/touch /var/packages/LogCenter/installing ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/mv -f /volume1/@tmp/synopkg/install.f7mkpu/INFO /var/packages/LogCenter/INFO
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/mv -f /volume1/@tmp/synopkg/install.f7mkpu/INFO /var/packages/LogCenter/INFO ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/rm -rf /var/packages/LogCenter/scripts
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/rm -rf /var/packages/LogCenter/scripts ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/mv -f /volume1/@tmp/synopkg/install.f7mkpu/scripts /var/packages/LogCenter/scripts
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/mv -f /volume1/@tmp/synopkg/install.f7mkpu/scripts /var/packages/LogCenter/scripts ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/rm -rf /var/packages/LogCenter/conf
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/rm -rf /var/packages/LogCenter/conf ret=[0]
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 Begin /bin/mv -f /volume1/@tmp/synopkg/install.f7mkpu/conf /var/packages/LogCenter/conf
+2024/10/05 01:04:27	upgrade LogCenter 1.3.0-1667 End /bin/mv -f /volume1/@tmp/synopkg/install.f7mkpu/conf /var/packages/LogCenter/conf ret=[0]
+2024/10/05 01:04:37	upgrade LogCenter 1.3.0-1667 Begin postinst
+2024/10/05 01:04:37	upgrade LogCenter 1.3.0-1667 End postinst ret=[0]
+2024/10/05 01:04:37	upgrade LogCenter 1.3.0-1667 Begin postupgrade
+==========Start==========
+Run updater scripts from 1.2.5-1328 to 1.3.0-1667
+run /var/packages/LogCenter/target/service/scripts/patch/1.2.6-1612.sh 
+result 0
+run /var/packages/LogCenter/target/service/scripts/patch/1.3.0-1656.sh 
+result 0
+run /var/packages/LogCenter/target/service/scripts/patch/1.3.0-1662.sh 
+result 0
+finish!
+2024/10/05 01:04:37	upgrade LogCenter 1.3.0-1667 End postupgrade ret=[0]
+2024/10/05 01:04:38	upgrade LogCenter 1.3.0-1667 Begin start-stop-status start
+[pkg-LogCenter-syslog] stopped.
+[pkg-LogCenter-syslog] started.
+[syslog-ng] reloaded.
+2024/10/05 01:04:39	upgrade LogCenter 1.3.0-1667 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger LogCenter 1.3.0-1667 Begin start-stop-status stop
+[pkg-LogCenter-synologcenterd] stopped.
+INFO: loaded sub-generator "logcenter" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter.py"
+INFO: loaded sub-generator "logcenter_cluster" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter_cluster.py"
+INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+INFO: generated syslog-ng config for app "synologand" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/common/synologand"
+INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+INFO: loaded synolog config "WebDAVServer" from "/usr/local/share/synolog/configs/WebDAVServer"
+INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+INFO: loaded synolog config "ContainerManager" from "/usr/local/share/synolog/configs/ContainerManager"
+INFO: loaded synolog config "WebStation" from "/usr/local/share/synolog/configs/WebStation"
+INFO: loaded synolog config "StorageAnalyzer" from "/usr/local/share/synolog/configs/StorageAnalyzer"
+WARN: synolog conf for app "synosystemd" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+WARN: synolog conf for app "S2S" did not pass the validation in "logcenter_cluster"
+INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+WARN: synolog conf for app "disk" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+WARN: synolog conf for app "disk_test" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+WARN: synolog conf for app "auth" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+WARN: synolog conf for app "WebDAVServer" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "WebDAVServer" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/WebDAVServer"
+WARN: synolog conf for app "ScsiTarget" did not pass the validation in "logcenter_cluster"
+INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+WARN: synolog conf for app "ContainerManager" did not pass the validation in "logcenter_cluster"
+INFO: generated syslog-ng config for app "ContainerManager" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ContainerManager"
+WARN: synolog conf for app "WebStation" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "WebStation" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/WebStation"
+WARN: synolog conf for app "StorageAnalyzer" did not pass the validation in "logcenter_cluster"
+INFO: generated syslog-ng config for app "StorageAnalyzer" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/StorageAnalyzer"
+INFO: syslog-ng config generation for synolog is done
+[pkg-LogCenter-syslog] stopped.
+2024/10/09 04:28:37	(system) trigger LogCenter 1.3.0-1667 End start-stop-status stop ret=[0]
+2024/10/09 04:33:40	(system) trigger LogCenter 1.3.0-1667 Begin start-stop-status start
+[pkg-LogCenter-syslog] stopped.
+[pkg-LogCenter-syslog] started.
+[syslog-ng] reloaded.
+2024/10/09 04:33:42	(system) trigger LogCenter 1.3.0-1667 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger LogCenter 1.3.0-1667 Begin start-stop-status stop
+[pkg-LogCenter-synologcenterd] stopped.
+INFO: loaded sub-generator "logcenter" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter.py"
+INFO: loaded sub-generator "logcenter_cluster" from "/var/packages/LogCenter/target/synologconf/subgens/logcenter_cluster.py"
+INFO: loaded sub-generator "synologand" from "/usr/syno/lib/synosyslog/subgens/synologand.py"
+INFO: loaded sub-generator "debug" from "/usr/syno/lib/synosyslog/subgens/debug.py"
+INFO: loaded sub-generator "system" from "/usr/syno/lib/synosyslog/subgens/system.py"
+INFO: loaded sub-generator "local" from "/usr/syno/lib/synosyslog/subgens/local.py"
+INFO: generated syslog-ng config for app "synologand" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/common/synologand"
+INFO: loaded synolog config "synosystemd" from "/usr/syno/share/synolog/configs/synosystemd"
+INFO: loaded synolog config "S2S" from "/usr/syno/share/synolog/configs/S2S"
+INFO: loaded synolog config "disk" from "/usr/syno/share/synolog/configs/disk"
+INFO: loaded synolog config "disk_test" from "/usr/syno/share/synolog/configs/disk_test"
+INFO: loaded synolog config "auth" from "/usr/syno/share/synolog/configs/auth"
+INFO: loaded synolog config "WebDAVServer" from "/usr/local/share/synolog/configs/WebDAVServer"
+INFO: loaded synolog config "ScsiTarget" from "/usr/local/share/synolog/configs/ScsiTarget"
+INFO: loaded synolog config "ContainerManager" from "/usr/local/share/synolog/configs/ContainerManager"
+WARN: synolog conf for app "synosystemd" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "synosystemd" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/synosystemd"
+WARN: synolog conf for app "S2S" did not pass the validation in "logcenter_cluster"
+INFO: generated syslog-ng config for app "S2S" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/S2S"
+WARN: synolog conf for app "disk" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "disk" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk"
+WARN: synolog conf for app "disk_test" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "disk_test" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/disk_test"
+WARN: synolog conf for app "auth" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "auth" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/auth"
+WARN: synolog conf for app "WebDAVServer" did not pass the validation in "logcenter_cluster"
+INFO: systemd unit "pkgctl-LogCenter" is not up: deactivating
+INFO: generated syslog-ng config for app "WebDAVServer" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/WebDAVServer"
+WARN: synolog conf for app "ScsiTarget" did not pass the validation in "logcenter_cluster"
+INFO: generated syslog-ng config for app "ScsiTarget" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ScsiTarget"
+WARN: synolog conf for app "ContainerManager" did not pass the validation in "logcenter_cluster"
+INFO: generated syslog-ng config for app "ContainerManager" on "/etc/syslog-ng/syno.d/synosyslog.conf.gen.gen.tmp/app/ContainerManager"
+INFO: syslog-ng config generation for synolog is done
+[pkg-LogCenter-syslog] stopped.
+2024/11/05 00:53:18	(system) trigger LogCenter 1.3.0-1667 End start-stop-status stop ret=[0]
+2024/11/05 07:06:50	(system) trigger LogCenter 1.3.0-1667 Begin start-stop-status start
+[pkg-LogCenter-syslog] stopped.
+[pkg-LogCenter-syslog] started.
+[syslog-ng] reloaded.
+2024/11/05 07:06:54	(system) trigger LogCenter 1.3.0-1667 End start-stop-status start ret=[0]

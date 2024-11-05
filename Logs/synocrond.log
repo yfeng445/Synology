@@ -1,0 +1,104 @@
+2024-09-08T17:16:50-07:00 SynologyNAS synocrond[10065]: cronjob.cpp:298 missing binary /usr/syno/bin/syno_disk_health_record (No such file or directory)
+2024-09-08T17:16:50-07:00 SynologyNAS synocrond[10065]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-08T17:16:50-07:00 SynologyNAS synocrond[10065]: cronjob.cpp:298 missing binary /usr/syno/bin/syno_disk_mail_send (No such file or directory)
+2024-09-08T17:16:50-07:00 SynologyNAS synocrond[10065]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-08T17:16:51-07:00 SynologyNAS synocrond[10065]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-10T07:08:55+08:00 Synology_NAS synocrond[10246]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-11T20:05:38+08:00 Synology_NAS synocrond[9630]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache (No such file or directory)
+2024-09-11T20:05:38+08:00 Synology_NAS synocrond[9630]: cronjob.cpp:298 missing binary /usr/syno/bin/syno_disk_health_record (No such file or directory)
+2024-09-11T20:05:38+08:00 Synology_NAS synocrond[9630]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-11T20:05:38+08:00 Synology_NAS synocrond[9630]: cronjob.cpp:298 missing binary /usr/syno/bin/syno_disk_mail_send (No such file or directory)
+2024-09-11T20:05:38+08:00 Synology_NAS synocrond[9630]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-11T20:05:38+08:00 Synology_NAS synocrond[9630]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-11T20:20:31+08:00 Synology_NAS synocrond[9630]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-Spreadsheet-auto_clean_weekly
+2024-09-11T20:20:31+08:00 Synology_NAS synocrond[9630]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-Spreadsheet-auto_office_clean_temp_daily
+2024-09-11T20:20:59+08:00 Synology_NAS synocrond[9630]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyDrive-caculate-db-usage
+2024-09-11T20:20:59+08:00 Synology_NAS synocrond[9630]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyDrive-cleanup-db
+2024-09-11T20:28:43+08:00 Synology_NAS synocrond[9630]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyApplicationService-auto_vacuum_daily
+2024-09-12T00:30:27+08:00 Synology_NAS synocrond[12258]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-14T22:42:44+08:00 Synology_NAS synocrond[12258]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-14T22:42:52+08:00 Synology_NAS synocrond[12258]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-14T22:42:52+08:00 Synology_NAS synocrond[12258]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-14T23:16:54+08:00 Synology_NAS synocrond[13439]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-09-14T23:16:55+08:00 Synology_NAS synocrond[13439]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-15T00:50:01+08:00 Synology_NAS synocrond[13439]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-15T00:50:03+08:00 Synology_NAS synocrond[13439]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-09-15T01:14:19+08:00 Synology_NAS synocrond[13399]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-15T01:14:19+08:00 Synology_NAS synocrond[13399]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-15T01:14:20+08:00 Synology_NAS synocrond[13399]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-15T01:22:07+08:00 Synology_NAS synocrond[13447]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-15T01:31:01+08:00 Synology_NAS synocrond[13676]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: cronjob.cpp:298 missing binary /var/packages/CodecPack/target/usr/bin/synoame-bin-check-license-and-update-pack-if-needed (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: cronjob.cpp:298 missing binary /var/packages/ContainerManager/target/tool/image_upgradable_checker (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: cronjob.cpp:298 missing binary /var/packages/DownloadStation/target/bin/synodlmonitortransmission (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: cronjob.cpp:298 missing binary /var/packages/DownloadStation/target/bin/synodlupdate (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-15T05:06:16+08:00 Synology_NAS synocrond[11249]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-15T05:06:26+08:00 Synology_NAS synocrond[11249]: cronjob.cpp:298 missing binary /var/packages/DownloadStation/target/bin/synodlmonitortransmission (No such file or directory)
+2024-09-15T05:06:26+08:00 Synology_NAS synocrond[11249]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-15T05:06:26+08:00 Synology_NAS synocrond[11249]: cronjob.cpp:298 missing binary /var/packages/DownloadStation/target/bin/synodlupdate (No such file or directory)
+2024-09-15T05:06:26+08:00 Synology_NAS synocrond[11249]: crondaemon.cpp:541 MoveBinaryToTmp failed. (No such file or directory)
+2024-09-15T05:15:18+08:00 Synology_NAS synocrond[13407]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-15T05:15:18+08:00 Synology_NAS synocrond[13407]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-15T05:15:19+08:00 Synology_NAS synocrond[13407]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-16T05:35:18+08:00 Synology_NAS synocrond[13407]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-16T05:35:20+08:00 Synology_NAS synocrond[13407]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-09-16T05:35:25+08:00 Synology_NAS synocrond[13407]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-16T05:35:25+08:00 Synology_NAS synocrond[13407]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-16T05:39:43+08:00 Synology_NAS synocrond[13448]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-16T19:28:26+08:00 Synology_NAS synocrond[13448]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-16T19:28:33+08:00 Synology_NAS synocrond[13448]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-16T19:28:33+08:00 Synology_NAS synocrond[13448]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-16T19:33:04+08:00 Synology_NAS synocrond[13379]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-09-16T19:33:04+08:00 Synology_NAS synocrond[13379]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-17T04:54:18+08:00 Synology_NAS synocrond[13379]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-17T04:58:44+08:00 Synology_NAS synocrond[13487]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-17T04:58:44+08:00 Synology_NAS synocrond[13487]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-17T04:58:45+08:00 Synology_NAS synocrond[13487]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-17T05:46:15+08:00 Synology_NAS synocrond[13487]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-17T05:46:23+08:00 Synology_NAS synocrond[13487]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-17T05:46:23+08:00 Synology_NAS synocrond[13487]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-17T05:50:53+08:00 Synology_NAS synocrond[13433]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-09-17T05:50:54+08:00 Synology_NAS synocrond[13433]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-17T10:41:31+08:00 Synology_NAS synocrond[13433]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-17T10:41:39+08:00 Synology_NAS synocrond[13433]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-17T10:41:39+08:00 Synology_NAS synocrond[13433]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-17T10:46:08+08:00 Synology_NAS synocrond[13391]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-09-17T10:46:08+08:00 Synology_NAS synocrond[13391]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-20T07:36:33+08:00 Synology_NAS synocrond[13391]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-20T07:36:37+08:00 Synology_NAS synocrond[13391]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-09-20T07:51:25+08:00 Synology_NAS synocrond[13531]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-20T07:51:25+08:00 Synology_NAS synocrond[13531]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-20T07:51:25+08:00 Synology_NAS synocrond[13531]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-09-20T11:28:41+08:00 Synology_NAS synocrond[13531]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-09-20T11:28:57+08:00 Synology_NAS synocrond[13531]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-09-20T11:28:57+08:00 Synology_NAS synocrond[13531]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-09-20T11:34:46+08:00 Synology_NAS synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-09-20T11:34:47+08:00 Synology_NAS synocrond[14047]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-10-05T07:46:12+08:00 Synology_NAS synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyDrive-caculate-db-usage
+2024-10-05T07:46:12+08:00 Synology_NAS synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyDrive-cleanup-db
+2024-10-05T07:46:21+08:00 Synology_NAS synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-10-05T07:46:21+08:00 Synology_NAS synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-10-05T07:46:54+08:00 Synology_NAS synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyApplicationService-auto_vacuum_daily
+2024-10-05T07:48:05+08:00 Synology_NAS synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-WebStation-webstaion_job
+2024-10-09T04:28:35+08:00 Yasuraokaa_Site synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-10-09T04:28:35+08:00 Yasuraokaa_Site synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-WebStation-webstaion_job
+2024-10-09T04:28:51+08:00 Yasuraokaa_Site synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-10-09T04:28:51+08:00 Yasuraokaa_Site synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-10-09T04:28:51+08:00 Yasuraokaa_Site synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyDrive-caculate-db-usage
+2024-10-09T04:28:51+08:00 Yasuraokaa_Site synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyDrive-cleanup-db
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site synocrond[14047]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyApplicationService-auto_vacuum_daily
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site synocrond[14209]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)
+2024-11-05T00:53:17+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-CodecPack-CodecPackCheckAndUpdate
+2024-11-05T00:53:17+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-WebStation-webstaion_job
+2024-11-05T00:53:25+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationMonitorTransmissionJob
+2024-11-05T00:53:25+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-DownloadStation-DownloadStationUpdateJob
+2024-11-05T00:53:32+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyDrive-caculate-db-usage
+2024-11-05T00:53:32+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyDrive-cleanup-db
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-ContainerManager-docker_check_image_upgradable_job
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site synocrond[14209]: crondaemon.cpp:470 removed cleared jobs: synocrond-job-pkg-SynologyApplicationService-auto_vacuum_daily
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synocrond[14269]: utils.cpp:73 Fail to SYNOScemdStatusGet() (No such file or directory)

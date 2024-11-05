@@ -1,0 +1,156 @@
+2024-09-08T17:16:49-07:00 SynologyNAS redis-server[9634]: 9634:C 08 Sep 2024 17:16:49.732 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-08T17:16:49-07:00 SynologyNAS redis-server[9634]: 9634:C 08 Sep 2024 17:16:49.732 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9634, just started
+2024-09-08T17:16:49-07:00 SynologyNAS redis-server[9634]: 9634:C 08 Sep 2024 17:16:49.732 # Configuration loaded
+2024-09-08T17:16:49-07:00 SynologyNAS redis-server[9634]: 9634:M 08 Sep 2024 17:16:49.734 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-08T17:16:49-07:00 SynologyNAS redis-server[9634]: 9634:M 08 Sep 2024 17:16:49.734 # Server initialized
+2024-09-08T17:16:49-07:00 SynologyNAS redis-server[9634]: 9634:M 08 Sep 2024 17:16:49.734 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-09T08:24:46+08:00 Synology_NAS redis-server[9634]: 9634:signal-handler (1725841486) Received SIGTERM scheduling shutdown...
+2024-09-09T08:24:46+08:00 Synology_NAS redis-server[9634]: 9634:M 08 Sep 2024 17:24:46.165 # User requested shutdown...
+2024-09-09T08:24:46+08:00 Synology_NAS redis-server[9634]: 9634:M 08 Sep 2024 17:24:46.165 # Redis is now ready to exit, bye bye...
+2024-09-10T07:08:51+08:00 Synology_NAS redis-server[8810]: 8810:C 10 Sep 2024 07:08:51.903 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-10T07:08:51+08:00 Synology_NAS redis-server[8810]: 8810:C 10 Sep 2024 07:08:51.903 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=8810, just started
+2024-09-10T07:08:51+08:00 Synology_NAS redis-server[8810]: 8810:C 10 Sep 2024 07:08:51.903 # Configuration loaded
+2024-09-10T07:08:51+08:00 Synology_NAS redis-server[8810]: 8810:M 10 Sep 2024 07:08:51.907 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-10T07:08:51+08:00 Synology_NAS redis-server[8810]: 8810:M 10 Sep 2024 07:08:51.907 # Server initialized
+2024-09-10T07:08:51+08:00 Synology_NAS redis-server[8810]: 8810:M 10 Sep 2024 07:08:51.908 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-11T19:57:38+08:00 Synology_NAS redis-server[8810]: 8810:signal-handler (1726055858) Received SIGTERM scheduling shutdown...
+2024-09-11T19:57:38+08:00 Synology_NAS redis-server[8810]: 8810:M 11 Sep 2024 19:57:38.239 # User requested shutdown...
+2024-09-11T19:57:38+08:00 Synology_NAS redis-server[8810]: 8810:M 11 Sep 2024 19:57:38.239 # Redis is now ready to exit, bye bye...
+2024-09-11T20:05:35+08:00 Synology_NAS redis-server[9095]: 9095:C 11 Sep 2024 20:05:35.881 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-11T20:05:35+08:00 Synology_NAS redis-server[9095]: 9095:C 11 Sep 2024 20:05:35.881 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9095, just started
+2024-09-11T20:05:35+08:00 Synology_NAS redis-server[9095]: 9095:C 11 Sep 2024 20:05:35.881 # Configuration loaded
+2024-09-11T20:05:35+08:00 Synology_NAS redis-server[9095]: 9095:M 11 Sep 2024 20:05:35.882 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-11T20:05:35+08:00 Synology_NAS redis-server[9095]: 9095:M 11 Sep 2024 20:05:35.882 # Server initialized
+2024-09-11T20:05:35+08:00 Synology_NAS redis-server[9095]: 9095:M 11 Sep 2024 20:05:35.882 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-12T00:26:26+08:00 Synology_NAS redis-server[9095]: 9095:signal-handler (1726071986) Received SIGTERM scheduling shutdown...
+2024-09-12T00:26:26+08:00 Synology_NAS redis-server[9095]: 9095:M 12 Sep 2024 00:26:26.977 # User requested shutdown...
+2024-09-12T00:26:26+08:00 Synology_NAS redis-server[9095]: 9095:M 12 Sep 2024 00:26:26.977 # Redis is now ready to exit, bye bye...
+2024-09-12T00:30:20+08:00 Synology_NAS redis-server[9428]: 9428:C 12 Sep 2024 00:30:20.789 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-12T00:30:20+08:00 Synology_NAS redis-server[9428]: 9428:C 12 Sep 2024 00:30:20.790 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9428, just started
+2024-09-12T00:30:20+08:00 Synology_NAS redis-server[9428]: 9428:C 12 Sep 2024 00:30:20.790 # Configuration loaded
+2024-09-12T00:30:20+08:00 Synology_NAS redis-server[9428]: 9428:M 12 Sep 2024 00:30:20.791 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-12T00:30:20+08:00 Synology_NAS redis-server[9428]: 9428:M 12 Sep 2024 00:30:20.791 # Server initialized
+2024-09-12T00:30:20+08:00 Synology_NAS redis-server[9428]: 9428:M 12 Sep 2024 00:30:20.791 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-14T22:43:07+08:00 Synology_NAS redis-server[9428]: 9428:signal-handler (1726324987) Received SIGTERM scheduling shutdown...
+2024-09-14T22:43:07+08:00 Synology_NAS redis-server[9428]: 9428:M 14 Sep 2024 22:43:07.071 # User requested shutdown...
+2024-09-14T22:43:07+08:00 Synology_NAS redis-server[9428]: 9428:M 14 Sep 2024 22:43:07.121 # Redis is now ready to exit, bye bye...
+2024-09-14T23:16:46+08:00 Synology_NAS redis-server[9700]: 9700:C 14 Sep 2024 23:16:46.228 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-14T23:16:46+08:00 Synology_NAS redis-server[9700]: 9700:C 14 Sep 2024 23:16:46.228 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9700, just started
+2024-09-14T23:16:46+08:00 Synology_NAS redis-server[9700]: 9700:C 14 Sep 2024 23:16:46.228 # Configuration loaded
+2024-09-14T23:16:46+08:00 Synology_NAS redis-server[9700]: 9700:M 14 Sep 2024 23:16:46.230 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-14T23:16:46+08:00 Synology_NAS redis-server[9700]: 9700:M 14 Sep 2024 23:16:46.230 # Server initialized
+2024-09-14T23:16:46+08:00 Synology_NAS redis-server[9700]: 9700:M 14 Sep 2024 23:16:46.230 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-15T00:50:05+08:00 Synology_NAS redis-server[9700]: 9700:signal-handler (1726332605) Received SIGTERM scheduling shutdown...
+2024-09-15T00:50:05+08:00 Synology_NAS redis-server[9700]: 9700:M 15 Sep 2024 00:50:05.893 # User requested shutdown...
+2024-09-15T00:50:05+08:00 Synology_NAS redis-server[9700]: 9700:M 15 Sep 2024 00:50:05.893 # Redis is now ready to exit, bye bye...
+2024-09-15T01:14:11+08:00 Synology_NAS redis-server[9664]: 9664:C 15 Sep 2024 01:14:11.896 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-15T01:14:11+08:00 Synology_NAS redis-server[9664]: 9664:C 15 Sep 2024 01:14:11.896 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9664, just started
+2024-09-15T01:14:11+08:00 Synology_NAS redis-server[9664]: 9664:C 15 Sep 2024 01:14:11.896 # Configuration loaded
+2024-09-15T01:14:11+08:00 Synology_NAS redis-server[9664]: 9664:M 15 Sep 2024 01:14:11.897 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-15T01:14:11+08:00 Synology_NAS redis-server[9664]: 9664:M 15 Sep 2024 01:14:11.897 # Server initialized
+2024-09-15T01:14:11+08:00 Synology_NAS redis-server[9664]: 9664:M 15 Sep 2024 01:14:11.897 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-15T01:21:58+08:00 Synology_NAS redis-server[9667]: 9667:C 15 Sep 2024 01:21:58.862 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-15T01:21:58+08:00 Synology_NAS redis-server[9667]: 9667:C 15 Sep 2024 01:21:58.862 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9667, just started
+2024-09-15T01:21:58+08:00 Synology_NAS redis-server[9667]: 9667:C 15 Sep 2024 01:21:58.862 # Configuration loaded
+2024-09-15T01:21:58+08:00 Synology_NAS redis-server[9667]: 9667:M 15 Sep 2024 01:21:58.864 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-15T01:21:58+08:00 Synology_NAS redis-server[9667]: 9667:M 15 Sep 2024 01:21:58.864 # Server initialized
+2024-09-15T01:21:58+08:00 Synology_NAS redis-server[9667]: 9667:M 15 Sep 2024 01:21:58.864 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-15T01:30:53+08:00 Synology_NAS redis-server[9957]: 9957:C 15 Sep 2024 01:30:53.467 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-15T01:30:53+08:00 Synology_NAS redis-server[9957]: 9957:C 15 Sep 2024 01:30:53.467 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9957, just started
+2024-09-15T01:30:53+08:00 Synology_NAS redis-server[9957]: 9957:C 15 Sep 2024 01:30:53.467 # Configuration loaded
+2024-09-15T01:30:53+08:00 Synology_NAS redis-server[9957]: 9957:M 15 Sep 2024 01:30:53.472 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-15T01:30:53+08:00 Synology_NAS redis-server[9957]: 9957:M 15 Sep 2024 01:30:53.472 # Server initialized
+2024-09-15T01:30:53+08:00 Synology_NAS redis-server[9957]: 9957:M 15 Sep 2024 01:30:53.472 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-15T05:06:03+08:00 Synology_NAS redis-server[8977]: 8977:C 15 Sep 2024 05:06:03.439 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-15T05:06:03+08:00 Synology_NAS redis-server[8977]: 8977:C 15 Sep 2024 05:06:03.439 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=8977, just started
+2024-09-15T05:06:03+08:00 Synology_NAS redis-server[8977]: 8977:C 15 Sep 2024 05:06:03.439 # Configuration loaded
+2024-09-15T05:06:03+08:00 Synology_NAS redis-server[8977]: 8977:M 15 Sep 2024 05:06:03.441 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-15T05:06:03+08:00 Synology_NAS redis-server[8977]: 8977:M 15 Sep 2024 05:06:03.441 # Server initialized
+2024-09-15T05:06:03+08:00 Synology_NAS redis-server[8977]: 8977:M 15 Sep 2024 05:06:03.441 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-15T05:15:06+08:00 Synology_NAS redis-server[9684]: 9684:C 15 Sep 2024 05:15:06.460 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-15T05:15:06+08:00 Synology_NAS redis-server[9684]: 9684:C 15 Sep 2024 05:15:06.462 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9684, just started
+2024-09-15T05:15:06+08:00 Synology_NAS redis-server[9684]: 9684:C 15 Sep 2024 05:15:06.462 # Configuration loaded
+2024-09-15T05:15:06+08:00 Synology_NAS redis-server[9684]: 9684:M 15 Sep 2024 05:15:06.537 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-15T05:15:06+08:00 Synology_NAS redis-server[9684]: 9684:M 15 Sep 2024 05:15:06.537 # Server initialized
+2024-09-15T05:15:06+08:00 Synology_NAS redis-server[9684]: 9684:M 15 Sep 2024 05:15:06.537 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-16T05:35:27+08:00 Synology_NAS redis-server[9684]: 9684:signal-handler (1726436127) Received SIGTERM scheduling shutdown...
+2024-09-16T05:35:27+08:00 Synology_NAS redis-server[9684]: 9684:M 16 Sep 2024 05:35:27.907 # User requested shutdown...
+2024-09-16T05:35:27+08:00 Synology_NAS redis-server[9684]: 9684:M 16 Sep 2024 05:35:27.912 # Redis is now ready to exit, bye bye...
+2024-09-16T05:39:34+08:00 Synology_NAS redis-server[9789]: 9789:C 16 Sep 2024 05:39:34.539 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-16T05:39:34+08:00 Synology_NAS redis-server[9789]: 9789:C 16 Sep 2024 05:39:34.540 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9789, just started
+2024-09-16T05:39:34+08:00 Synology_NAS redis-server[9789]: 9789:C 16 Sep 2024 05:39:34.540 # Configuration loaded
+2024-09-16T05:39:34+08:00 Synology_NAS redis-server[9789]: 9789:M 16 Sep 2024 05:39:34.546 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-16T05:39:34+08:00 Synology_NAS redis-server[9789]: 9789:M 16 Sep 2024 05:39:34.546 # Server initialized
+2024-09-16T05:39:34+08:00 Synology_NAS redis-server[9789]: 9789:M 16 Sep 2024 05:39:34.546 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-16T19:28:49+08:00 Synology_NAS redis-server[9789]: 9789:signal-handler (1726486129) Received SIGTERM scheduling shutdown...
+2024-09-16T19:28:49+08:00 Synology_NAS redis-server[9789]: 9789:M 16 Sep 2024 19:28:49.890 # User requested shutdown...
+2024-09-16T19:28:49+08:00 Synology_NAS redis-server[9789]: 9789:M 16 Sep 2024 19:28:49.891 # Redis is now ready to exit, bye bye...
+2024-09-16T19:32:56+08:00 Synology_NAS redis-server[9709]: 9709:C 16 Sep 2024 19:32:56.116 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-16T19:32:56+08:00 Synology_NAS redis-server[9709]: 9709:C 16 Sep 2024 19:32:56.116 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9709, just started
+2024-09-16T19:32:56+08:00 Synology_NAS redis-server[9709]: 9709:C 16 Sep 2024 19:32:56.116 # Configuration loaded
+2024-09-16T19:32:56+08:00 Synology_NAS redis-server[9709]: 9709:M 16 Sep 2024 19:32:56.118 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-16T19:32:56+08:00 Synology_NAS redis-server[9709]: 9709:M 16 Sep 2024 19:32:56.118 # Server initialized
+2024-09-16T19:32:56+08:00 Synology_NAS redis-server[9709]: 9709:M 16 Sep 2024 19:32:56.118 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-17T04:54:31+08:00 Synology_NAS redis-server[9709]: 9709:signal-handler (1726520071) Received SIGTERM scheduling shutdown...
+2024-09-17T04:54:31+08:00 Synology_NAS redis-server[9709]: 9709:M 17 Sep 2024 04:54:31.469 # User requested shutdown...
+2024-09-17T04:54:31+08:00 Synology_NAS redis-server[9709]: 9709:M 17 Sep 2024 04:54:31.469 # Redis is now ready to exit, bye bye...
+2024-09-17T04:58:34+08:00 Synology_NAS redis-server[9697]: 9697:C 17 Sep 2024 04:58:34.866 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-17T04:58:34+08:00 Synology_NAS redis-server[9697]: 9697:C 17 Sep 2024 04:58:34.866 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9697, just started
+2024-09-17T04:58:34+08:00 Synology_NAS redis-server[9697]: 9697:C 17 Sep 2024 04:58:34.866 # Configuration loaded
+2024-09-17T04:58:34+08:00 Synology_NAS redis-server[9697]: 9697:M 17 Sep 2024 04:58:34.867 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-17T04:58:34+08:00 Synology_NAS redis-server[9697]: 9697:M 17 Sep 2024 04:58:34.867 # Server initialized
+2024-09-17T04:58:34+08:00 Synology_NAS redis-server[9697]: 9697:M 17 Sep 2024 04:58:34.867 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-17T05:46:38+08:00 Synology_NAS redis-server[9697]: 9697:signal-handler (1726523198) Received SIGTERM scheduling shutdown...
+2024-09-17T05:46:38+08:00 Synology_NAS redis-server[9697]: 9697:M 17 Sep 2024 05:46:38.784 # User requested shutdown...
+2024-09-17T05:46:38+08:00 Synology_NAS redis-server[9697]: 9697:M 17 Sep 2024 05:46:38.784 # Redis is now ready to exit, bye bye...
+2024-09-17T05:50:44+08:00 Synology_NAS redis-server[9675]: 9675:C 17 Sep 2024 05:50:44.883 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-17T05:50:44+08:00 Synology_NAS redis-server[9675]: 9675:C 17 Sep 2024 05:50:44.883 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9675, just started
+2024-09-17T05:50:44+08:00 Synology_NAS redis-server[9675]: 9675:C 17 Sep 2024 05:50:44.883 # Configuration loaded
+2024-09-17T05:50:44+08:00 Synology_NAS redis-server[9675]: 9675:M 17 Sep 2024 05:50:44.884 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-17T05:50:44+08:00 Synology_NAS redis-server[9675]: 9675:M 17 Sep 2024 05:50:44.884 # Server initialized
+2024-09-17T05:50:44+08:00 Synology_NAS redis-server[9675]: 9675:M 17 Sep 2024 05:50:44.885 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-17T10:41:55+08:00 Synology_NAS redis-server[9675]: 9675:signal-handler (1726540915) Received SIGTERM scheduling shutdown...
+2024-09-17T10:41:55+08:00 Synology_NAS redis-server[9675]: 9675:M 17 Sep 2024 10:41:55.518 # User requested shutdown...
+2024-09-17T10:41:55+08:00 Synology_NAS redis-server[9675]: 9675:M 17 Sep 2024 10:41:55.518 # Redis is now ready to exit, bye bye...
+2024-09-17T10:46:00+08:00 Synology_NAS redis-server[9700]: 9700:C 17 Sep 2024 10:46:00.286 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-17T10:46:00+08:00 Synology_NAS redis-server[9700]: 9700:C 17 Sep 2024 10:46:00.286 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9700, just started
+2024-09-17T10:46:00+08:00 Synology_NAS redis-server[9700]: 9700:C 17 Sep 2024 10:46:00.286 # Configuration loaded
+2024-09-17T10:46:00+08:00 Synology_NAS redis-server[9700]: 9700:M 17 Sep 2024 10:46:00.296 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-17T10:46:00+08:00 Synology_NAS redis-server[9700]: 9700:M 17 Sep 2024 10:46:00.297 # Server initialized
+2024-09-17T10:46:00+08:00 Synology_NAS redis-server[9700]: 9700:M 17 Sep 2024 10:46:00.297 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-20T07:36:43+08:00 Synology_NAS redis-server[9700]: 9700:signal-handler (1726789003) Received SIGTERM scheduling shutdown...
+2024-09-20T07:36:43+08:00 Synology_NAS redis-server[9700]: 9700:M 20 Sep 2024 07:36:43.581 # User requested shutdown...
+2024-09-20T07:36:43+08:00 Synology_NAS redis-server[9700]: 9700:M 20 Sep 2024 07:36:43.589 # Redis is now ready to exit, bye bye...
+2024-09-20T07:51:17+08:00 Synology_NAS redis-server[9897]: 9897:C 20 Sep 2024 07:51:17.303 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-20T07:51:17+08:00 Synology_NAS redis-server[9897]: 9897:C 20 Sep 2024 07:51:17.303 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9897, just started
+2024-09-20T07:51:17+08:00 Synology_NAS redis-server[9897]: 9897:C 20 Sep 2024 07:51:17.303 # Configuration loaded
+2024-09-20T07:51:17+08:00 Synology_NAS redis-server[9897]: 9897:M 20 Sep 2024 07:51:17.317 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-20T07:51:17+08:00 Synology_NAS redis-server[9897]: 9897:M 20 Sep 2024 07:51:17.317 # Server initialized
+2024-09-20T07:51:17+08:00 Synology_NAS redis-server[9897]: 9897:M 20 Sep 2024 07:51:17.317 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-09-20T11:29:04+08:00 Synology_NAS redis-server[9897]: 9897:signal-handler (1726802944) Received SIGTERM scheduling shutdown...
+2024-09-20T11:29:04+08:00 Synology_NAS redis-server[9897]: 9897:M 20 Sep 2024 11:29:04.554 # User requested shutdown...
+2024-09-20T11:29:04+08:00 Synology_NAS redis-server[9897]: 9897:M 20 Sep 2024 11:29:04.554 # Redis is now ready to exit, bye bye...
+2024-09-20T11:34:36+08:00 Synology_NAS redis-server[9943]: 9943:C 20 Sep 2024 11:34:36.250 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-09-20T11:34:36+08:00 Synology_NAS redis-server[9943]: 9943:C 20 Sep 2024 11:34:36.250 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=9943, just started
+2024-09-20T11:34:36+08:00 Synology_NAS redis-server[9943]: 9943:C 20 Sep 2024 11:34:36.250 # Configuration loaded
+2024-09-20T11:34:36+08:00 Synology_NAS redis-server[9943]: 9943:M 20 Sep 2024 11:34:36.252 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-09-20T11:34:36+08:00 Synology_NAS redis-server[9943]: 9943:M 20 Sep 2024 11:34:36.252 # Server initialized
+2024-09-20T11:34:36+08:00 Synology_NAS redis-server[9943]: 9943:M 20 Sep 2024 11:34:36.252 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-10-09T04:29:17+08:00 Yasuraokaa_Site redis-server[9943]: 9943:signal-handler (1728419357) Received SIGTERM scheduling shutdown...
+2024-10-09T04:29:17+08:00 Yasuraokaa_Site redis-server[9943]: 9943:M 09 Oct 2024 04:29:17.159 # User requested shutdown...
+2024-10-09T04:29:17+08:00 Yasuraokaa_Site redis-server[9943]: 9943:M 09 Oct 2024 04:29:17.168 # Redis is now ready to exit, bye bye...
+2024-10-09T04:33:18+08:00 Yasuraokaa_Site redis-server[10026]: 10026:C 09 Oct 2024 04:33:18.871 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-10-09T04:33:18+08:00 Yasuraokaa_Site redis-server[10026]: 10026:C 09 Oct 2024 04:33:18.871 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=10026, just started
+2024-10-09T04:33:18+08:00 Yasuraokaa_Site redis-server[10026]: 10026:C 09 Oct 2024 04:33:18.871 # Configuration loaded
+2024-10-09T04:33:18+08:00 Yasuraokaa_Site redis-server[10026]: 10026:M 09 Oct 2024 04:33:18.886 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-10-09T04:33:18+08:00 Yasuraokaa_Site redis-server[10026]: 10026:M 09 Oct 2024 04:33:18.886 # Server initialized
+2024-10-09T04:33:18+08:00 Yasuraokaa_Site redis-server[10026]: 10026:M 09 Oct 2024 04:33:18.886 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2024-11-05T00:53:47+08:00 Yasuraokaa_Site redis-server[10026]: 10026:signal-handler (1730739227) Received SIGTERM scheduling shutdown...
+2024-11-05T00:53:47+08:00 Yasuraokaa_Site redis-server[10026]: 10026:M 05 Nov 2024 00:53:47.171 # User requested shutdown...
+2024-11-05T00:53:47+08:00 Yasuraokaa_Site redis-server[10026]: 10026:M 05 Nov 2024 00:53:47.172 # Redis is now ready to exit, bye bye...
+2024-11-05T07:06:35+08:00 Yasuraokaa_Site redis-server[10109]: 10109:C 05 Nov 2024 07:06:35.896 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2024-11-05T07:06:35+08:00 Yasuraokaa_Site redis-server[10109]: 10109:C 05 Nov 2024 07:06:35.896 # Redis version=6.2.7, bits=64, commit=0ffc3f13, modified=0, pid=10109, just started
+2024-11-05T07:06:35+08:00 Yasuraokaa_Site redis-server[10109]: 10109:C 05 Nov 2024 07:06:35.896 # Configuration loaded
+2024-11-05T07:06:35+08:00 Yasuraokaa_Site redis-server[10109]: 10109:M 05 Nov 2024 07:06:35.910 # A key '__redis__compare_helper' was added to Lua globals which is not on the globals allow list nor listed on the deny list.
+2024-11-05T07:06:35+08:00 Yasuraokaa_Site redis-server[10109]: 10109:M 05 Nov 2024 07:06:35.910 # Server initialized
+2024-11-05T07:06:35+08:00 Yasuraokaa_Site redis-server[10109]: 10109:M 05 Nov 2024 07:06:35.910 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.

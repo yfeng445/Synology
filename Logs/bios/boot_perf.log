@@ -1,0 +1,133 @@
+================== Log Start 2024-09-08 17:17:00 ==================
+firmware_start_ns : 297317516
+bootloader_load_ns : 117904515388
+bootloader_launch_ns : 117914454202
+exitbootservice_start_ns : 127367702963
+exitbootservice_end_ns : 127368140017
+================== Log End ========================================
+================== Log Start 2024-09-10 07:08:25 ==================
+firmware_start_ns : 46477334
+bootloader_load_ns : 21130183485
+bootloader_launch_ns : 21139810308
+exitbootservice_start_ns : 30095631558
+exitbootservice_end_ns : 30096052924
+================== Log End ========================================
+================== Log Start 2024-09-11 20:05:41 ==================
+firmware_start_ns : 47790085
+bootloader_load_ns : 21476455161
+bootloader_launch_ns : 21486057309
+exitbootservice_start_ns : 30447475797
+exitbootservice_end_ns : 30447910241
+================== Log End ========================================
+================== Log Start 2024-09-12 00:30:31 ==================
+firmware_start_ns : 304861762
+bootloader_load_ns : 8106812051
+bootloader_launch_ns : 8118091914
+exitbootservice_start_ns : 17097303020
+exitbootservice_end_ns : 17097746194
+================== Log End ========================================
+================== Log Start 2024-09-14 23:16:59 ==================
+firmware_start_ns : 51213357
+bootloader_load_ns : 19534355213
+bootloader_launch_ns : 19546945351
+exitbootservice_start_ns : 28505074917
+exitbootservice_end_ns : 28505511581
+================== Log End ========================================
+================== Log Start 2024-09-15 01:14:24 ==================
+firmware_start_ns : 48746047
+bootloader_load_ns : 19477041240
+bootloader_launch_ns : 19490425560
+exitbootservice_start_ns : 28451961311
+exitbootservice_end_ns : 28452404923
+================== Log End ========================================
+================== Log Start 2024-09-15 01:22:10 ==================
+firmware_start_ns : 50739487
+bootloader_load_ns : 18247189865
+bootloader_launch_ns : 18260441233
+exitbootservice_start_ns : 27803496057
+exitbootservice_end_ns : 27803944613
+================== Log End ========================================
+================== Log Start 2024-09-15 01:31:04 ==================
+firmware_start_ns : 49943909
+bootloader_load_ns : 21780673980
+bootloader_launch_ns : 21793913440
+exitbootservice_start_ns : 31288432190
+exitbootservice_end_ns : 31288877189
+================== Log End ========================================
+================== Log Start 2024-09-15 05:06:23 ==================
+firmware_start_ns : 49928404
+bootloader_load_ns : 7330792203
+bootloader_launch_ns : 7345897216
+exitbootservice_start_ns : 16859055465
+exitbootservice_end_ns : 16859524963
+================== Log End ========================================
+================== Log Start 2024-09-15 05:15:26 ==================
+firmware_start_ns : 48788143
+bootloader_load_ns : 24697401096
+bootloader_launch_ns : 24713365859
+exitbootservice_start_ns : 34197781613
+exitbootservice_end_ns : 34198225531
+================== Log End ========================================
+================== Log Start 2024-09-16 05:39:46 ==================
+firmware_start_ns : 297326391
+bootloader_load_ns : 11305162693
+bootloader_launch_ns : 11317425225
+exitbootservice_start_ns : 20315594700
+exitbootservice_end_ns : 20316035568
+================== Log End ========================================
+================== Log Start 2024-09-16 19:33:08 ==================
+firmware_start_ns : 301088975
+bootloader_load_ns : 11469621251
+bootloader_launch_ns : 11481769189
+exitbootservice_start_ns : 20480554925
+exitbootservice_end_ns : 20480993490
+================== Log End ========================================
+================== Log Start 2024-09-17 04:58:49 ==================
+firmware_start_ns : 304910867
+bootloader_load_ns : 11303079093
+bootloader_launch_ns : 11315216374
+exitbootservice_start_ns : 20319822454
+exitbootservice_end_ns : 20320266878
+================== Log End ========================================
+================== Log Start 2024-09-17 05:50:57 ==================
+firmware_start_ns : 314760166
+bootloader_load_ns : 11445652167
+bootloader_launch_ns : 11457787265
+exitbootservice_start_ns : 20464374637
+exitbootservice_end_ns : 20464824557
+================== Log End ========================================
+================== Log Start 2024-09-17 10:46:12 ==================
+firmware_start_ns : 305410808
+bootloader_load_ns : 11319692676
+bootloader_launch_ns : 11331331967
+exitbootservice_start_ns : 20336075165
+exitbootservice_end_ns : 20336521443
+================== Log End ========================================
+================== Log Start 2024-09-20 07:51:30 ==================
+firmware_start_ns : 48489154
+bootloader_load_ns : 21093078383
+bootloader_launch_ns : 21104882161
+exitbootservice_start_ns : 30093911140
+exitbootservice_end_ns : 30094352175
+================== Log End ========================================
+================== Log Start 2024-09-20 11:34:51 ==================
+firmware_start_ns : 48659846
+bootloader_load_ns : 20569218765
+bootloader_launch_ns : 20581379516
+exitbootservice_start_ns : 29576813141
+exitbootservice_end_ns : 29577260887
+================== Log End ========================================
+================== Log Start 2024-10-09 04:33:35 ==================
+firmware_start_ns : 301028683
+bootloader_load_ns : 9060577607
+bootloader_launch_ns : 9073162169
+exitbootservice_start_ns : 18046307113
+exitbootservice_end_ns : 18046752195
+================== Log End ========================================
+================== Log Start 2024-11-05 07:06:42 ==================
+firmware_start_ns : 47897733
+bootloader_load_ns : 20266920939
+bootloader_launch_ns : 20278812085
+exitbootservice_start_ns : 29239813703
+exitbootservice_end_ns : 29240251745
+================== Log End ========================================

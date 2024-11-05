@@ -1,0 +1,682 @@
+2024-10-05T04:14:17+08:00 Synology_NAS termd[19086]: [2024-10-05 04:14:17] [control] Control frame received with opcode 8
+2024-10-05T04:14:17+08:00 Synology_NAS termd[19086]: [2024-10-05 04:14:17] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 2 payload bytes
+2024-10-05T04:14:17+08:00 Synology_NAS termd[19086]: [2024-10-05 04:14:17] [frame_header] Header Bytes:
+2024-10-05T04:14:17+08:00 Synology_NAS termd[19086]: [0] (2) 88 02
+2024-10-05T04:14:17+08:00 Synology_NAS termd[19086]: [2024-10-05 04:14:17] [frame_payload] Payload Bytes:
+2024-10-05T04:14:17+08:00 Synology_NAS termd[19086]: [0] (2) [8] 03 E9
+2024-10-05T04:14:17+08:00 Synology_NAS termd[19086]: [2024-10-05 04:14:17] [disconnect] Disconnect close local:[1006,End of File] remote:[1001]
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [connect] WebSocket Connection 127.0.0.1:44584 v13 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" /docker/ws 101
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_header] Dispatching write containing 2 message(s) containing 6 header bytes and 146 payload bytes
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_header] Header Bytes:
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [0] (2) 81 0E
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [1] (4) 81 7E 00 84
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_payload] Payload Bytes:
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [0] (14) [1] ["enter",true]
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [1] (132) [1] ["list",["nyanmisaka-jellyfin-1","nyanmisaka-jellyfin-1","6af2cac8519c3c82812029e602fa6075e721156a8e8b799588f13c3d8c604373","bash"]]
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 57 payload bytes
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_header] Header Bytes:
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [0] (2) 81 39
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_payload] Payload Bytes:
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [0] (57) [1] ["title","nyanmisaka-jellyfin-1","nyanmisaka-jellyfin-1"]
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [connect] WebSocket Connection 127.0.0.1:44586 v13 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" /docker/ws 101
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 14 payload bytes
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_header] Header Bytes:
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [0] (2) 81 0E
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_payload] Payload Bytes:
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [0] (14) [1] ["enter",true]
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 15 payload bytes
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_header] Header Bytes:
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [0] (2) 81 0F
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:17] [frame_payload] Payload Bytes:
+2024-10-05T07:33:17+08:00 Synology_NAS termd[19086]: [0] (15) [1] ["attach",1503]
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:18] [connect] WebSocket Connection 127.0.0.1:44594 v13 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" /docker/ws 101
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:18] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 14 payload bytes
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:18] [frame_header] Header Bytes:
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [0] (2) 81 0E
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:18] [frame_payload] Payload Bytes:
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [0] (14) [1] ["enter",true]
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:18] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 15 payload bytes
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:18] [frame_header] Header Bytes:
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [0] (2) 81 0F
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:18] [frame_payload] Payload Bytes:
+2024-10-05T07:33:18+08:00 Synology_NAS termd[19086]: [0] (15) [1] ["attach",1503]
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:27] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 15 payload bytes
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:27] [frame_header] Header Bytes:
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [0] (2) 81 0F
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:27] [frame_payload] Payload Bytes:
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [0] (15) [1] ["create",true]
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:27] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 206 payload bytes
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:27] [frame_header] Header Bytes:
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 00 CE
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:27] [frame_payload] Payload Bytes:
+2024-10-05T07:33:27+08:00 Synology_NAS termd[19086]: [0] (206) [1] ["list",["nyanmisaka-jellyfin-1","nyanmisaka-jellyfin-1","6af2cac8519c3c82812029e602fa6075e721156a8e8b799588f13c3d8c604373","bash","effa0c6a05611377c1be0e9d732747174ba61cba11c44013e302d957103d8899","bash"]]
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [connect] WebSocket Connection 127.0.0.1:44612 v13 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" /docker/ws 101
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 14 payload bytes
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_header] Header Bytes:
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [0] (2) 81 0E
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_payload] Payload Bytes:
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [0] (14) [1] ["enter",true]
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 15 payload bytes
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_header] Header Bytes:
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [0] (2) 81 0F
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_payload] Payload Bytes:
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [0] (15) [1] ["attach",1503]
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 54 payload bytes
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_header] Header Bytes:
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [0] (2) 81 36
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:28] [frame_payload] Payload Bytes:
+2024-10-05T07:33:28+08:00 Synology_NAS termd[19086]: [0] (54) [1] ["data","\u001b[?2004hroot@nyanmisaka-jellyfin-1:/# "]
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:54] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:54] [frame_header] Header Bytes:
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:54] [frame_payload] Payload Bytes:
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","d"]
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:54] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:54] [frame_header] Header Bytes:
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:54] [frame_payload] Payload Bytes:
+2024-10-05T07:33:54+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","o"]
+2024-10-05T07:33:55+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:55] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:55+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:55] [frame_header] Header Bytes:
+2024-10-05T07:33:55+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:55+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:55] [frame_payload] Payload Bytes:
+2024-10-05T07:33:55+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","c"]
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_header] Header Bytes:
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_payload] Payload Bytes:
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","k"]
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_header] Header Bytes:
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_payload] Payload Bytes:
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","e"]
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_header] Header Bytes:
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:56] [frame_payload] Payload Bytes:
+2024-10-05T07:33:56+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","r"]
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_header] Header Bytes:
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_payload] Payload Bytes:
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data"," "]
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_header] Header Bytes:
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_payload] Payload Bytes:
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","r"]
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_header] Header Bytes:
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_payload] Payload Bytes:
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","u"]
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_header] Header Bytes:
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:57] [frame_payload] Payload Bytes:
+2024-10-05T07:33:57+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","n"]
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_header] Header Bytes:
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_payload] Payload Bytes:
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data"," "]
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_header] Header Bytes:
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_payload] Payload Bytes:
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","-"]
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_header] Header Bytes:
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:58] [frame_payload] Payload Bytes:
+2024-10-05T07:33:58+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","-"]
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_header] Header Bytes:
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_payload] Payload Bytes:
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","n"]
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_header] Header Bytes:
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_payload] Payload Bytes:
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","e"]
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_header] Header Bytes:
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_payload] Payload Bytes:
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","t"]
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_header] Header Bytes:
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:33:59] [frame_payload] Payload Bytes:
+2024-10-05T07:33:59+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","w"]
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Header Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_payload] Payload Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","o"]
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Header Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_payload] Payload Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","r"]
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Header Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_payload] Payload Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","k"]
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Header Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_payload] Payload Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data"," "]
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Header Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_payload] Payload Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","h"]
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_header] Header Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:00] [frame_payload] Payload Bytes:
+2024-10-05T07:34:00+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","o"]
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:01] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:01] [frame_header] Header Bytes:
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:01] [frame_payload] Payload Bytes:
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","s"]
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:01] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:01] [frame_header] Header Bytes:
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:01] [frame_payload] Payload Bytes:
+2024-10-05T07:34:01+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","t"]
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:02] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:02] [frame_header] Header Bytes:
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:02] [frame_payload] Payload Bytes:
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data"," "]
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:02] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:02] [frame_header] Header Bytes:
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:02] [frame_payload] Payload Bytes:
+2024-10-05T07:34:02+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","-"]
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Header Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_payload] Payload Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","-"]
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Header Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_payload] Payload Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","n"]
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Header Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_payload] Payload Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","a"]
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Header Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_payload] Payload Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","m"]
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Header Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_payload] Payload Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","e"]
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_header] Header Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:03] [frame_payload] Payload Bytes:
+2024-10-05T07:34:03+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data"," "]
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_header] Header Bytes:
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_payload] Payload Bytes:
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","j"]
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_header] Header Bytes:
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_payload] Payload Bytes:
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","e"]
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_header] Header Bytes:
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:05] [frame_payload] Payload Bytes:
+2024-10-05T07:34:05+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","y"]
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:06] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 21 payload bytes
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:06] [frame_header] Header Bytes:
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [0] (2) 81 15
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:06] [frame_payload] Payload Bytes:
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [0] (21) [1] ["data","\b\u001b[K"]
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:06] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:06] [frame_header] Header Bytes:
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:06] [frame_payload] Payload Bytes:
+2024-10-05T07:34:06+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","l"]
+2024-10-05T07:34:07+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:07] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:07+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:07] [frame_header] Header Bytes:
+2024-10-05T07:34:07+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:07+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:07] [frame_payload] Payload Bytes:
+2024-10-05T07:34:07+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","l"]
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_header] Header Bytes:
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_payload] Payload Bytes:
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","y"]
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_header] Header Bytes:
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_payload] Payload Bytes:
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","f"]
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_header] Header Bytes:
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_payload] Payload Bytes:
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","i"]
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_header] Header Bytes:
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:08] [frame_payload] Payload Bytes:
+2024-10-05T07:34:08+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","n"]
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_header] Header Bytes:
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_payload] Payload Bytes:
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data"," "]
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_header] Header Bytes:
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_payload] Payload Bytes:
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","-"]
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_header] Header Bytes:
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:09] [frame_payload] Payload Bytes:
+2024-10-05T07:34:09+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","d"]
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_header] Header Bytes:
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_payload] Payload Bytes:
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data"," "]
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_header] Header Bytes:
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_payload] Payload Bytes:
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","j"]
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_header] Header Bytes:
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:10] [frame_payload] Payload Bytes:
+2024-10-05T07:34:10+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","e"]
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Header Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_payload] Payload Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","l"]
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Header Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_payload] Payload Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","l"]
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Header Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_payload] Payload Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","y"]
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 15 payload bytes
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Header Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (2) 81 0F
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_payload] Payload Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (15) [1] ["data","f \r"]
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Header Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_payload] Payload Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","i"]
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_header] Header Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:11] [frame_payload] Payload Bytes:
+2024-10-05T07:34:11+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","n"]
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_header] Header Bytes:
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_payload] Payload Bytes:
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","/"]
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_header] Header Bytes:
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_payload] Payload Bytes:
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","j"]
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_header] Header Bytes:
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_payload] Payload Bytes:
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","e"]
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_header] Header Bytes:
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:13] [frame_payload] Payload Bytes:
+2024-10-05T07:34:13+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","l"]
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Header Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_payload] Payload Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","l"]
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Header Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_payload] Payload Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","y"]
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Header Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_payload] Payload Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","f"]
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Header Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_payload] Payload Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","i"]
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 12 payload bytes
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_header] Header Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (2) 81 0C
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:14] [frame_payload] Payload Bytes:
+2024-10-05T07:34:14+08:00 Synology_NAS termd[19086]: [0] (12) [1] ["data","n"]
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 30 payload bytes
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_header] Header Bytes:
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [0] (2) 81 1E
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_payload] Payload Bytes:
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [0] (30) [1] ["data","\r\n\u001b[?2004l\r"]
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 46 payload bytes
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_header] Header Bytes:
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [0] (2) 81 2E
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_payload] Payload Bytes:
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [0] (46) [1] ["data","bash: docker: command not found\r\n"]
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 54 payload bytes
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_header] Header Bytes:
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [0] (2) 81 36
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:15] [frame_payload] Payload Bytes:
+2024-10-05T07:34:15+08:00 Synology_NAS termd[19086]: [0] (54) [1] ["data","\u001b[?2004hroot@nyanmisaka-jellyfin-1:/# "]
+2024-10-05T07:34:21+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:21] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 103 payload bytes
+2024-10-05T07:34:21+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:21] [frame_header] Header Bytes:
+2024-10-05T07:34:21+08:00 Synology_NAS termd[19086]: [0] (2) 81 67
+2024-10-05T07:34:21+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:21] [frame_payload] Payload Bytes:
+2024-10-05T07:34:21+08:00 Synology_NAS termd[19086]: [0] (103) [1] ["data","^C\u001b[?2004l\r\u001b[?2004h\u001b[?2004l\r\r\n\u001b[?2004hroot@nyanmisaka-jellyfin-1:/# "]
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:22] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 60 payload bytes
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:22] [frame_header] Header Bytes:
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [0] (2) 81 3C
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:22] [frame_payload] Payload Bytes:
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [0] (60) [1] ["data","^C\u001b[?2004l\r\u001b[?2004h\u001b[?2004l\r\r\n"]
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:22] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 54 payload bytes
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:22] [frame_header] Header Bytes:
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [0] (2) 81 36
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [2024-10-05 07:34:22] [frame_payload] Payload Bytes:
+2024-10-05T07:34:22+08:00 Synology_NAS termd[19086]: [0] (54) [1] ["data","\u001b[?2004hroot@nyanmisaka-jellyfin-1:/# "]
+2024-10-05T07:35:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:35:02] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 588 payload bytes
+2024-10-05T07:35:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:35:02] [frame_header] Header Bytes:
+2024-10-05T07:35:02+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 4C
+2024-10-05T07:35:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:35:02] [frame_payload] Payload Bytes:
+2024-10-05T07:35:02+08:00 Synology_NAS termd[19086]: [0] (588) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:35:02\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m144\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.Session.SessionWebSocketListener\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSending ForceKeepAlive message to \u001b[39;49m\u001b[39;49m\u001b[35m1\u001b[39;49m\u001b[39;49m\u001b[37m inactive WebSockets.\u001b[39;49m\r\n"]
+2024-10-05T07:36:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:36:02] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 587 payload bytes
+2024-10-05T07:36:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:36:02] [frame_header] Header Bytes:
+2024-10-05T07:36:02+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 4B
+2024-10-05T07:36:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:36:02] [frame_payload] Payload Bytes:
+2024-10-05T07:36:02+08:00 Synology_NAS termd[19086]: [0] (587) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:36:02\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m20\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.Session.SessionWebSocketListener\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSending ForceKeepAlive message to \u001b[39;49m\u001b[39;49m\u001b[35m1\u001b[39;49m\u001b[39;49m\u001b[37m inactive WebSockets.\u001b[39;49m\r\n"]
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:37:02] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 24 payload bytes
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:37:02] [frame_header] Header Bytes:
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [0] (2) 81 18
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:37:02] [frame_payload] Payload Bytes:
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [0] (24) [1] ["data","\u001b[39;49m"]
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:37:02] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 575 payload bytes
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:37:02] [frame_header] Header Bytes:
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 3F
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:37:02] [frame_payload] Payload Bytes:
+2024-10-05T07:37:02+08:00 Synology_NAS termd[19086]: [0] (575) [1] ["data","\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:37:02\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m158\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.Session.SessionWebSocketListener\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSending ForceKeepAlive message to \u001b[39;49m\u001b[39;49m\u001b[35m1\u001b[39;49m\u001b[39;49m\u001b[37m inactive WebSockets.\u001b[39;49m\r\n"]
+2024-10-05T07:38:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:38:02] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 587 payload bytes
+2024-10-05T07:38:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:38:02] [frame_header] Header Bytes:
+2024-10-05T07:38:02+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 4B
+2024-10-05T07:38:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:38:02] [frame_payload] Payload Bytes:
+2024-10-05T07:38:02+08:00 Synology_NAS termd[19086]: [0] (587) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:38:02\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m59\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.Session.SessionWebSocketListener\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSending ForceKeepAlive message to \u001b[39;49m\u001b[39;49m\u001b[35m1\u001b[39;49m\u001b[39;49m\u001b[37m inactive WebSockets.\u001b[39;49m\r\n"]
+2024-10-05T07:39:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:39:02] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 588 payload bytes
+2024-10-05T07:39:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:39:02] [frame_header] Header Bytes:
+2024-10-05T07:39:02+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 4C
+2024-10-05T07:39:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:39:02] [frame_payload] Payload Bytes:
+2024-10-05T07:39:02+08:00 Synology_NAS termd[19086]: [0] (588) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:39:02\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m101\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.Session.SessionWebSocketListener\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSending ForceKeepAlive message to \u001b[39;49m\u001b[39;49m\u001b[35m1\u001b[39;49m\u001b[39;49m\u001b[37m inactive WebSockets.\u001b[39;49m\r\n"]
+2024-10-05T07:40:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:02] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 588 payload bytes
+2024-10-05T07:40:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:02] [frame_header] Header Bytes:
+2024-10-05T07:40:02+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 4C
+2024-10-05T07:40:02+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:02] [frame_payload] Payload Bytes:
+2024-10-05T07:40:02+08:00 Synology_NAS termd[19086]: [0] (588) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:40:02\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m140\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.Session.SessionWebSocketListener\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSending ForceKeepAlive message to \u001b[39;49m\u001b[39;49m\u001b[35m1\u001b[39;49m\u001b[39;49m\u001b[37m inactive WebSockets.\u001b[39;49m\r\n"]
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 567 payload bytes
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_header] Header Bytes:
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 37
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_payload] Payload Bytes:
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [0] (567) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:40:28\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[33mWRN\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m130\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mJellyfin.Server.Middleware.ResponseTimeMiddleware\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSlow HTTP Response from \u001b[39;49m\u001b[39;49m\u001b[36mhttp://jellyfin-server:8096/System/Info\u001b[39;49m\u001b[39;49m\u001b[37m"]
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 262 payload bytes
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_header] Header Bytes:
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 06
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_payload] Payload Bytes:
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [0] (262) [1] ["data"," to \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m in \u001b[39;49m\u001b[39;49m\u001b[32m0:00:00.5764604\u001b[39;49m\u001b[39;49m\u001b[37m with Status Code \u001b[39;49m\u001b[39;49m\u001b[35m200\u001b[39;49m\r\n"]
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 547 payload bytes
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_header] Header Bytes:
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 23
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_payload] Payload Bytes:
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [0] (547) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:40:28\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m97\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.HttpServer.WebSocketManager\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mWS \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m request\u001b[39;49m\r\n"]
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 832 payload bytes
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_header] Header Bytes:
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 03 40
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:28] [frame_payload] Payload Bytes:
+2024-10-05T07:40:28+08:00 Synology_NAS termd[19086]: [0] (832) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:40:28\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[33mWRN\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m41\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mJellyfin.Server.Middleware.ResponseTimeMiddleware\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSlow HTTP Response from \u001b[39;49m\u001b[39;49m\u001b[36mhttp://jellyfin-server:8096/Sessions/Capabilities/Full\u001b[39;49m\u001b[39;49m\u001b[37m to \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m in \u001b[39;49m\u001b[39;49m\u001b[32m0:00:00.5344576\u001b[39;49m\u001b[39;49m\u001b[37m with Status Code \u001b[39;49m\u001b[39;49m\u001b[35m204\u001b[39;49m\r\n"]
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 61 payload bytes
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_header] Header Bytes:
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [0] (2) 81 3D
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_payload] Payload Bytes:
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [0] (61) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m"]
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 1750 payload bytes
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_header] Header Bytes:
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 06 D6
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_payload] Payload Bytes:
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [0] (1750) [1] ["data","\u001b[37m23:40:30\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[33mWRN\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m34\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mJellyfin.Server.Middleware.ResponseTimeMiddleware\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSlow HTTP Response from \u001b[39;49m\u001b[39;49m\u001b[36mhttp://jellyfin-server:8096/System/ActivityLog/Entries?startIndex=0&limit=7&minDate=2024-10-03T23%3A40%3A28.862Z&hasUserId=true\u001b[39;49m\u001b[39;49m\u001b[37m to \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m in \u001b[39;49m\u001b[39;49m\u001b[32m0:00:00.8536217\u001b[39;49m\u001b[39;49m\u001b[37m with Status Code \u001b[39;49m\u001b[39;49m\u001b[35m200\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:40:30\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[33mWRN\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m130\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mJellyfin.Server.Middleware.ResponseTimeMiddleware\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSlow HTTP Response from \u001b[39;49m\u001b[39;49m\u001b[36mhttp://jellyfin-server:8096/System/ActivityLog/Entries?startIndex=0&limit=7&minDate=2024-10-03T23%3A40%3A28.868Z&hasUserId=true\u001b[39;49m\u001b[39;49m\u001b[37m to \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m in \u001b[39;49m\u001b[39;49m\u001b[32m0:00:00.8546063\u001b[39;49m\u001b[39;49m\u001b[37m with Status Code \u001b[39;49m\u001b[39;49m\u001b[35m200\u001b[39;49m\r\n"]
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 907 payload bytes
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_header] Header Bytes:
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 03 8B
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_payload] Payload Bytes:
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [0] (907) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:40:30\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[33mWRN\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m118\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mJellyfin.Server.Middleware.ResponseTimeMiddleware\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSlow HTTP Response from \u001b[39;49m\u001b[39;49m\u001b[36mhttp://jellyfin-server:8096/System/ActivityLog/Entries?startIndex=0&limit=4&minDate=2024-09-27T23%3A40%3A28.861Z&hasUserId=false\u001b[39;49m\u001b[39;49m\u001b[37m to \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m in \u001b[39;49m\u001b[39;49m\u001b[32m0:00:00.8555124\u001b[39;49m\u001b[39;49m\u001b[37m with Status Code \u001b[39;49m\u001b[39;49m\u001b[35m200\u001b[39;49m\r\n"]
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 907 payload bytes
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_header] Header Bytes:
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 03 8B
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:30] [frame_payload] Payload Bytes:
+2024-10-05T07:40:30+08:00 Synology_NAS termd[19086]: [0] (907) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:40:30\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[33mWRN\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m140\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mJellyfin.Server.Middleware.ResponseTimeMiddleware\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSlow HTTP Response from \u001b[39;49m\u001b[39;49m\u001b[36mhttp://jellyfin-server:8096/System/ActivityLog/Entries?startIndex=0&limit=4&minDate=2024-09-27T23%3A40%3A28.868Z&hasUserId=false\u001b[39;49m\u001b[39;49m\u001b[37m to \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m in \u001b[39;49m\u001b[39;49m\u001b[32m0:00:00.9525961\u001b[39;49m\u001b[39;49m\u001b[37m with Status Code \u001b[39;49m\u001b[39;49m\u001b[35m200\u001b[39;49m\r\n"]
+2024-10-05T07:40:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 547 payload bytes
+2024-10-05T07:40:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:32] [frame_header] Header Bytes:
+2024-10-05T07:40:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 23
+2024-10-05T07:40:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:40:32] [frame_payload] Payload Bytes:
+2024-10-05T07:40:32+08:00 Synology_NAS termd[19086]: [0] (547) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:40:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m101\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.HttpServer.WebSocketManager\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mWS \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m closed\u001b[39;49m\r\n"]
+2024-10-05T07:41:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:03] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 588 payload bytes
+2024-10-05T07:41:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:03] [frame_header] Header Bytes:
+2024-10-05T07:41:03+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 4C
+2024-10-05T07:41:03+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:03] [frame_payload] Payload Bytes:
+2024-10-05T07:41:03+08:00 Synology_NAS termd[19086]: [0] (588) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:03\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m101\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.Session.SessionWebSocketListener\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mSending ForceKeepAlive message to \u001b[39;49m\u001b[39;49m\u001b[35m1\u001b[39;49m\u001b[39;49m\u001b[37m inactive WebSockets.\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 442 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 BA
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (442) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mMain\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mReceived a SIGTERM signal, shutting down\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 480 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 E0
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (480) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mMain\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mRunning query planner optimizations in the database... This might take a while\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 498 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 F2
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (498) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mCoreAppHost\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 493 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 ED
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (493) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mEmbyTV\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 509 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 FD
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (509) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mNotificationEntryPoint\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 513 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 01
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (513) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mTvdbMissingEpisodeProvider\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 401 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 91
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (401) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 604 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 5C
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (604) [1] ["data","\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mEntryPoint\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mLibraryMonitorStartup\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 1000 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 03 E8
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (1000) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mSchedulesDirect\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mUserDataChangeNotifier\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 509 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 FD
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (509) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mLibraryChangedNotifier\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 501 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 F5
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (501) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mDlnaEntryPoint\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 71 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (2) 81 47
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (71) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 390 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 86
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (390) [1] ["data","23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Dlna.Main.DlnaEntryPoint\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing PlayToManager\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 71 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (2) 81 47
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (71) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 392 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 88
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (392) [1] ["data","23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Dlna.Main.DlnaEntryPoint\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing DeviceDiscovery\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 461 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 CD
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (461) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Dlna.Main.DlnaEntryPoint\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing SsdpCommunicationsServer\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 92 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (2) 81 5C
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (92) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 439 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 B7
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (439) [1] ["data","\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Dlna.Main.DlnaEntryPoint\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[36mSsdpCommunicationsServer\u001b[39;49m\u001b[39;49m\u001b[37m disposing _BroadcastListenSocket\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 470 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 D6
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (470) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Dlna.Main.DlnaEntryPoint\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[36mSsdpCommunicationsServer\u001b[39;49m\u001b[39;49m\u001b[37m"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 218 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 00 DA
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (218) [1] ["data"," Disposing \u001b[39;49m\u001b[39;49m\u001b[35m3\u001b[39;49m\u001b[39;49m\u001b[37m sendSockets\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 3051 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 0B EB
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (3051) [1] ["data","\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Dlna.Main.DlnaEntryPoint\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[36mSsdpCommunicationsServer\u001b[39;49m\u001b[39;49m\u001b[37m disposing sendSocket from \u001b[39;49m\u001b[39;49m\u001b[36m0.0.0.0\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Dlna.Main.DlnaEntryPoint\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[36mSsdpCommunicationsServer\u001b[39;49m\u001b[39;49m\u001b[37m disposing sendSocket from \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.2\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Dlna.Main.DlnaEntryPoint\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[36mSsdpCommunicationsServer\u001b[39;49m\u001b[39;49m\u001b[37m disposing sendSocket from \u001b[39;49m\u001b[39;49m\u001b[36m127.0.0.1\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mMusicBrainzAlbum
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: Provider\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mDeviceAccessEntryPoint\u001b[39;49m\r\n\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mRecordingNotifier\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 170 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 00 AA
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (170) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 338 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 52
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (338) [1] ["data","\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mEntryPoint\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 506 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 FA
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (506) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mUdpServerEntryPoint\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 509 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 FD
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (509) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.ApplicationHost\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mDisposing \u001b[39;49m\u001b[39;49m\u001b[36mExternalPortForwarding\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 482 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 01 E2
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (482) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m2\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.EntryPoints.ExternalPortForwarding\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mStopping NAT discovery\u001b[39;49m\r\n"]
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 547 payload bytes
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_header] Header Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 02 23
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:32] [frame_payload] Payload Bytes:
+2024-10-05T07:41:32+08:00 Synology_NAS termd[19086]: [0] (547) [1] ["data","\u001b[39;49m\u001b[30m[\u001b[39;49m\u001b[39;49m\u001b[37m23:41:32\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37mINF\u001b[39;49m\u001b[39;49m\u001b[30m] [\u001b[39;49m\u001b[39;49m\u001b[37m136\u001b[39;49m\u001b[39;49m\u001b[30m] \u001b[39;49m\u001b[39;49m\u001b[37mEmby.Server.Implementations.HttpServer.WebSocketManager\u001b[39;49m\u001b[39;49m\u001b[30m: \u001b[39;49m\u001b[39;49m\u001b[37mWS \u001b[39;49m\u001b[39;49m\u001b[36m172.17.0.1\u001b[39;49m\u001b[39;49m\u001b[37m closed\u001b[39;49m\r\n"]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Dispatching write containing 1 message(s) containing 4 header bytes and 132 payload bytes
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Header Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (4) 81 7E 00 84
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_payload] Payload Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (132) [1] ["list",["nyanmisaka-jellyfin-1","nyanmisaka-jellyfin-1","6af2cac8519c3c82812029e602fa6075e721156a8e8b799588f13c3d8c604373","bash"]]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Dispatching write containing 2 message(s) containing 4 header bytes and 16 payload bytes
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Header Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (2) 81 0E
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [1] (2) 88 02
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_payload] Payload Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (14) [1] ["close",1501]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [1] (2) [8] 03 E8
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [control] Control frame received with opcode 8
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [disconnect] Disconnect close local:[1000] remote:[1000]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 58 payload bytes
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Header Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (2) 81 3A
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_payload] Payload Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (58) [1] ["list",["nyanmisaka-jellyfin-1","nyanmisaka-jellyfin-1"]]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Dispatching write containing 2 message(s) containing 4 header bytes and 16 payload bytes
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Header Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (2) 81 0E
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [1] (2) 88 02
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_payload] Payload Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (14) [1] ["close",1501]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [1] (2) [8] 03 E8
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [control] Control frame received with opcode 8
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [disconnect] Disconnect close local:[1000] remote:[1000]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Dispatching write containing 1 message(s) containing 2 header bytes and 58 payload bytes
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Header Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (2) 81 3A
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_payload] Payload Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (58) [1] ["list",["nyanmisaka-jellyfin-1","nyanmisaka-jellyfin-1"]]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Dispatching write containing 2 message(s) containing 4 header bytes and 16 payload bytes
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_header] Header Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (2) 81 0E
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [1] (2) 88 02
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [frame_payload] Payload Bytes:
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [0] (14) [1] ["close",1501]
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [1] (2) [8] 03 E8
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [control] Control frame received with opcode 8
+2024-10-05T07:41:33+08:00 Synology_NAS termd[19086]: [2024-10-05 07:41:33] [disconnect] Disconnect close local:[1000] remote:[1000]
+2024-10-05T07:45:59+08:00 Synology_NAS termd[19086]: [2024-10-05 07:45:59] [disconnect] Disconnect close local:[1006,End of File] remote:[1006]

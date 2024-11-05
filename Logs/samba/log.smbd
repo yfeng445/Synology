@@ -1,0 +1,74 @@
+../../source3/smbd/server.c:1938: [2024/09/08 17:16:56.363982, all 0, pid=12240] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/08 17:17:44.322911, all 0, pid=20511] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/08 17:19:35.772883, all 0, pid=23485] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/10 07:08:22.822101, all 0, pid=10824] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/11 20:05:39.431764, all 0, pid=10511] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/11 20:10:37.170134, all 0, pid=23961] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:2316: [2024/09/11 20:10:37.222982, syno 0, pid=23961] main
+  start wspd with fork
+../../source3/smbd/server.c:1941: [2024/09/11 20:20:59.082098, all 0, pid=30752] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/12 00:30:29.493407, all 0, pid=12562] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/14 23:16:57.207950, all 0, pid=14132] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/15 01:14:20.464854, all 0, pid=13681] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/15 01:22:08.976519, all 0, pid=14352] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/15 01:31:03.132925, all 0, pid=14432] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/15 05:06:20.875324, all 0, pid=12665] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/15 05:15:24.297651, all 0, pid=14484] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/16 05:39:45.362133, all 0, pid=14196] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/16 19:33:06.489964, all 0, pid=14087] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/17 04:58:47.258635, all 0, pid=14103] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/17 05:50:56.012183, all 0, pid=14142] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/17 10:46:10.444084, all 0, pid=14073] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/20 07:51:27.015872, all 0, pid=13883] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/09/20 11:34:49.097090, all 0, pid=14768] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/10/06 06:15:15.881936, all 0, pid=7258] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/10/09 04:33:31.997942, all 0, pid=14610] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/smbd/server.c:1941: [2024/11/05 07:06:38.853858, all 0, pid=14640] main
+  smbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022

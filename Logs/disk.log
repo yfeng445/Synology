@@ -1,0 +1,993 @@
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: hotplugd.c:1260 ##### ACTION:add
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: DEVNAME:sata2
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: DEVGUID:71C0A0A8FRVH0
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: DEVPATH:sata2
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: SUBSYSTEM:block
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [MG08ACA14TE] ====
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [71C0A0A8FRVH] ====
+2024-09-08T17:16:52-07:00 SynologyNAS hotplugd[10330]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [4303] ====
+2024-09-10T07:08:55+08:00 Synology_NAS hotplugd[10519]: hotplugd.c:1260 ##### ACTION:add
+2024-09-10T07:08:55+08:00 Synology_NAS hotplugd[10519]: DEVNAME:sata2
+2024-09-10T07:08:55+08:00 Synology_NAS hotplugd[10519]: DEVGUID:71C0A0A8FRVH0
+2024-09-10T07:08:55+08:00 Synology_NAS hotplugd[10519]: DEVPATH:sata2
+2024-09-10T07:08:55+08:00 Synology_NAS hotplugd[10519]: SUBSYSTEM:block
+2024-09-10T07:08:55+08:00 Synology_NAS hotplugd[10519]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-10T07:08:55+08:00 Synology_NAS hotplugd[10519]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-10T07:08:20+08:00 Synology_NAS hotplugd[10519]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-10T07:08:21+08:00 Synology_NAS hotplugd[10519]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-10T07:08:21+08:00 Synology_NAS hotplugd[10519]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [MG08ACA14TE] ====
+2024-09-10T07:08:21+08:00 Synology_NAS hotplugd[10519]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [71C0A0A8FRVH] ====
+2024-09-10T07:08:21+08:00 Synology_NAS hotplugd[10519]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [4303] ====
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1260 ##### ACTION:add
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: DEVNAME:sata2
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: DEVGUID:Y6QEK10PF68D0
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: DEVPATH:sata2
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: SUBSYSTEM:block
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [MG04ACA400N] ====
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [Y6QEK10PF68D] ====
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [FJ1B] ====
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1260 ##### ACTION:add
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: DEVNAME:sata3
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: DEVGUID:71C0A0A8FRVH0
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: DEVPATH:sata3
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: SUBSYSTEM:block
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-11T20:05:39+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-11T20:05:40+08:00 Synology_NAS hotplugd[9844]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-11T20:05:40+08:00 Synology_NAS hotplugd[9844]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-11T20:05:40+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [MG08ACA14TE] ====
+2024-09-11T20:05:40+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [71C0A0A8FRVH] ====
+2024-09-11T20:05:40+08:00 Synology_NAS hotplugd[9844]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [4303] ====
+2024-09-12T00:30:29+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1260 ##### ACTION:add
+2024-09-12T00:30:29+08:00 Synology_NAS hotplugd[12670]: DEVNAME:sata2
+2024-09-12T00:30:29+08:00 Synology_NAS hotplugd[12670]: DEVGUID:WL1NSDX80
+2024-09-12T00:30:29+08:00 Synology_NAS hotplugd[12670]: DEVPATH:sata2
+2024-09-12T00:30:29+08:00 Synology_NAS hotplugd[12670]: SUBSYSTEM:block
+2024-09-12T00:30:29+08:00 Synology_NAS hotplugd[12670]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-12T00:30:29+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1260 ##### ACTION:add
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: DEVNAME:sata3
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: DEVGUID:Y6QEK10PF68D0
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: DEVPATH:sata3
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: SUBSYSTEM:block
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [MG04ACA400N] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [Y6QEK10PF68D] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [FJ1B] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1260 ##### ACTION:add
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: DEVNAME:sata4
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: DEVGUID:71C0A0A8FRVH0
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: DEVPATH:sata4
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: SUBSYSTEM:block
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG08ACA14TE] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [71C0A0A8FRVH] ====
+2024-09-12T00:30:30+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [4303] ====
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1260 ##### ACTION:add
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: DEVNAME:usb1
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: DEVICE:/proc/bus/usb/003/002
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: DEVGUID:00000000NABNF1BM0
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: DEVPATH:usb1
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: SUBSYSTEM:block
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-13T09:03:51+08:00 Synology_NAS hotplugd[12670]: external_storage_serial_number_get.c:68 Fail to get pair form [/usr/syno/etc/usbno_guid.map]
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1260 ##### ACTION:add
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: DEVNAME:usb1
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: DEVICE:/proc/bus/usb/003/002
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: DEVGUID:00000000NABNF1BM0
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: DEVPATH:usb1
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: SUBSYSTEM:block
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-14T23:16:57+08:00 Synology_NAS hotplugd[14066]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-14T23:17:06+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1260 ##### ACTION:add
+2024-09-14T23:17:06+08:00 Synology_NAS hotplugd[14066]: DEVNAME:sata2
+2024-09-14T23:17:06+08:00 Synology_NAS hotplugd[14066]: DEVGUID:WL1NSDX80
+2024-09-14T23:17:06+08:00 Synology_NAS hotplugd[14066]: DEVPATH:sata2
+2024-09-14T23:17:06+08:00 Synology_NAS hotplugd[14066]: SUBSYSTEM:block
+2024-09-14T23:17:06+08:00 Synology_NAS hotplugd[14066]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-14T23:17:06+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1260 ##### ACTION:add
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVNAME:sata3
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVGUID:9RGA0S4C            0
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVPATH:sata3
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: SUBSYSTEM:block
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1260 ##### ACTION:add
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVNAME:sata4
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVGUID:Y6QEK10PF68D0
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVPATH:sata4
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: SUBSYSTEM:block
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1260 ##### ACTION:add
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVNAME:sata5
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVGUID:71C0A0A8FRVH0
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: DEVPATH:sata5
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: SUBSYSTEM:block
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-14T23:17:07+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1260 ##### ACTION:remove
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: DEVNAME:usb1
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: DEVICE:/proc/bus/usb/003/002
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: DEVGUID:00000000NABNF1BM0
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: DEVPATH:usb1
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: SUBSYSTEM:block
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: hotplugd.c:1497 ==== USB disk [usb1] plugged out====
+2024-09-15T00:05:55+08:00 Synology_NAS hotplugd[14066]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: DEVNAME:usb1
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: DEVICE:/proc/bus/usb/003/002
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: DEVGUID:00000000NABNF1BM0
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: DEVPATH:usb1
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: SUBSYSTEM:block
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-15T01:14:21+08:00 Synology_NAS hotplugd[13909]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-15T01:14:27+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:14:27+08:00 Synology_NAS hotplugd[13909]: DEVNAME:sata2
+2024-09-15T01:14:27+08:00 Synology_NAS hotplugd[13909]: DEVGUID:WL1NSDX80
+2024-09-15T01:14:27+08:00 Synology_NAS hotplugd[13909]: DEVPATH:sata2
+2024-09-15T01:14:27+08:00 Synology_NAS hotplugd[13909]: SUBSYSTEM:block
+2024-09-15T01:14:27+08:00 Synology_NAS hotplugd[13909]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-15T01:14:27+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-15T01:14:27+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVNAME:sata3
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVGUID:9RGA0S4C            0
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVPATH:sata3
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: SUBSYSTEM:block
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVNAME:sata4
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVGUID:Y6QEK10PF68D0
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVPATH:sata4
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: SUBSYSTEM:block
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVNAME:sata5
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVGUID:71C0A0A8FRVH0
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: DEVPATH:sata5
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: SUBSYSTEM:block
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-15T01:14:28+08:00 Synology_NAS hotplugd[13909]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: DEVNAME:usb1
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: DEVICE:/proc/bus/usb/003/002
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: DEVGUID:00000000NABNF1BM0
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: DEVPATH:usb1
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: SUBSYSTEM:block
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-15T01:22:09+08:00 Synology_NAS hotplugd[14367]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVNAME:sata2
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVGUID:WL1NSDX80
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVPATH:sata2
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: SUBSYSTEM:block
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVNAME:sata3
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVGUID:9RGA0S4C            0
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVPATH:sata3
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: SUBSYSTEM:block
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVNAME:sata4
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVGUID:Y6QEK10PF68D0
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVPATH:sata4
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: SUBSYSTEM:block
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVNAME:sata5
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVGUID:71C0A0A8FRVH0
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: DEVPATH:sata5
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: SUBSYSTEM:block
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-15T01:22:19+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-15T01:22:20+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-15T01:22:20+08:00 Synology_NAS hotplugd[14367]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-15T01:22:20+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-15T01:22:20+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-15T01:22:20+08:00 Synology_NAS hotplugd[14367]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: DEVNAME:usb1
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: DEVICE:/proc/bus/usb/003/002
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: DEVGUID:00000000NABNF1BM0
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: DEVPATH:usb1
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: SUBSYSTEM:block
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-15T01:31:03+08:00 Synology_NAS hotplugd[14513]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-15T01:31:13+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:31:13+08:00 Synology_NAS hotplugd[14513]: DEVNAME:sata2
+2024-09-15T01:31:13+08:00 Synology_NAS hotplugd[14513]: DEVGUID:WL1NSDX80
+2024-09-15T01:31:13+08:00 Synology_NAS hotplugd[14513]: DEVPATH:sata2
+2024-09-15T01:31:13+08:00 Synology_NAS hotplugd[14513]: SUBSYSTEM:block
+2024-09-15T01:31:13+08:00 Synology_NAS hotplugd[14513]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-15T01:31:13+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVNAME:sata3
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVGUID:9RGA0S4C            0
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVPATH:sata3
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: SUBSYSTEM:block
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVNAME:sata4
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVGUID:Y6QEK10PF68D0
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVPATH:sata4
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: SUBSYSTEM:block
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVNAME:sata5
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVGUID:71C0A0A8FRVH0
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: DEVPATH:sata5
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: SUBSYSTEM:block
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-15T01:31:14+08:00 Synology_NAS hotplugd[14513]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-15T05:06:20+08:00 Synology_NAS hotplugd[12760]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T05:06:20+08:00 Synology_NAS hotplugd[12760]: DEVNAME:sata2
+2024-09-15T05:06:20+08:00 Synology_NAS hotplugd[12760]: DEVGUID:WL1NSDX80
+2024-09-15T05:06:20+08:00 Synology_NAS hotplugd[12760]: DEVPATH:sata2
+2024-09-15T05:06:20+08:00 Synology_NAS hotplugd[12760]: SUBSYSTEM:block
+2024-09-15T05:06:20+08:00 Synology_NAS hotplugd[12760]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-15T05:06:20+08:00 Synology_NAS hotplugd[12760]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-15T05:06:21+08:00 Synology_NAS hotplugd[12760]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T05:06:21+08:00 Synology_NAS hotplugd[12760]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T05:06:21+08:00 Synology_NAS hotplugd[12760]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-15T05:06:21+08:00 Synology_NAS hotplugd[12760]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-15T05:06:21+08:00 Synology_NAS hotplugd[12760]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-15T05:06:21+08:00 Synology_NAS hotplugd[12760]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: DEVNAME:usb1
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: DEVICE:/proc/bus/usb/003/002
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: DEVGUID:00000000NABNF1BM0
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: DEVPATH:usb1
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: SUBSYSTEM:block
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-15T05:15:24+08:00 Synology_NAS hotplugd[14585]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-15T05:15:33+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T05:15:33+08:00 Synology_NAS hotplugd[14585]: DEVNAME:sata2
+2024-09-15T05:15:33+08:00 Synology_NAS hotplugd[14585]: DEVGUID:WL1NSDX80
+2024-09-15T05:15:33+08:00 Synology_NAS hotplugd[14585]: DEVPATH:sata2
+2024-09-15T05:15:33+08:00 Synology_NAS hotplugd[14585]: SUBSYSTEM:block
+2024-09-15T05:15:33+08:00 Synology_NAS hotplugd[14585]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-15T05:15:33+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-15T05:15:33+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: DEVNAME:sata3
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: DEVGUID:9RGA0S4C            0
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: DEVPATH:sata3
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: SUBSYSTEM:block
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-15T05:15:34+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: DEVNAME:sata4
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: DEVGUID:Y6QEK10PF68D0
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: DEVPATH:sata4
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: SUBSYSTEM:block
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1260 ##### ACTION:add
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: DEVNAME:sata5
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: DEVGUID:71C0A0A8FRVH0
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: DEVPATH:sata5
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: SUBSYSTEM:block
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-15T05:15:35+08:00 Synology_NAS hotplugd[14585]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-16T05:39:45+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T05:39:45+08:00 Synology_NAS hotplugd[14199]: DEVNAME:usb1
+2024-09-16T05:39:45+08:00 Synology_NAS hotplugd[14199]: DEVICE:/proc/bus/usb/003/002
+2024-09-16T05:39:45+08:00 Synology_NAS hotplugd[14199]: DEVGUID:00000000NABNF1BM0
+2024-09-16T05:39:45+08:00 Synology_NAS hotplugd[14199]: DEVPATH:usb1
+2024-09-16T05:39:45+08:00 Synology_NAS hotplugd[14199]: SUBSYSTEM:block
+2024-09-16T05:39:45+08:00 Synology_NAS hotplugd[14199]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-16T05:39:46+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-16T05:39:46+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-16T05:39:46+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-16T05:39:46+08:00 Synology_NAS hotplugd[14199]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-16T05:39:54+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T05:39:54+08:00 Synology_NAS hotplugd[14199]: DEVNAME:sata2
+2024-09-16T05:39:54+08:00 Synology_NAS hotplugd[14199]: DEVGUID:WL1NSDX80
+2024-09-16T05:39:54+08:00 Synology_NAS hotplugd[14199]: DEVPATH:sata2
+2024-09-16T05:39:54+08:00 Synology_NAS hotplugd[14199]: SUBSYSTEM:block
+2024-09-16T05:39:54+08:00 Synology_NAS hotplugd[14199]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-16T05:39:54+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: DEVNAME:sata3
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: DEVGUID:9RGA0S4C            0
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: DEVPATH:sata3
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: SUBSYSTEM:block
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: DEVNAME:sata4
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: DEVGUID:Y6QEK10PF68D0
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: DEVPATH:sata4
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: SUBSYSTEM:block
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-16T05:39:55+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: DEVNAME:sata5
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: DEVGUID:71C0A0A8FRVH0
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: DEVPATH:sata5
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: SUBSYSTEM:block
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-16T05:39:56+08:00 Synology_NAS hotplugd[14199]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: DEVNAME:usb1
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: DEVICE:/proc/bus/usb/003/002
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: DEVGUID:00000000NABNF1BM0
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: DEVPATH:usb1
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: SUBSYSTEM:block
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-16T19:33:07+08:00 Synology_NAS hotplugd[14152]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-16T19:33:15+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T19:33:15+08:00 Synology_NAS hotplugd[14152]: DEVNAME:sata2
+2024-09-16T19:33:15+08:00 Synology_NAS hotplugd[14152]: DEVGUID:WL1NSDX80
+2024-09-16T19:33:15+08:00 Synology_NAS hotplugd[14152]: DEVPATH:sata2
+2024-09-16T19:33:15+08:00 Synology_NAS hotplugd[14152]: SUBSYSTEM:block
+2024-09-16T19:33:15+08:00 Synology_NAS hotplugd[14152]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-16T19:33:15+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVNAME:sata3
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVGUID:9RGA0S4C            0
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVPATH:sata3
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: SUBSYSTEM:block
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVNAME:sata4
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVGUID:Y6QEK10PF68D0
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVPATH:sata4
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: SUBSYSTEM:block
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1260 ##### ACTION:add
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVNAME:sata5
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVGUID:71C0A0A8FRVH0
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: DEVPATH:sata5
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: SUBSYSTEM:block
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-16T19:33:16+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-16T19:33:17+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-16T19:33:17+08:00 Synology_NAS hotplugd[14152]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-16T19:33:17+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-16T19:33:17+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-16T19:33:17+08:00 Synology_NAS hotplugd[14152]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-17T04:58:47+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T04:58:47+08:00 Synology_NAS hotplugd[14169]: DEVNAME:usb1
+2024-09-17T04:58:47+08:00 Synology_NAS hotplugd[14169]: DEVICE:/proc/bus/usb/003/002
+2024-09-17T04:58:47+08:00 Synology_NAS hotplugd[14169]: DEVGUID:00000000NABNF1BM0
+2024-09-17T04:58:47+08:00 Synology_NAS hotplugd[14169]: DEVPATH:usb1
+2024-09-17T04:58:47+08:00 Synology_NAS hotplugd[14169]: SUBSYSTEM:block
+2024-09-17T04:58:47+08:00 Synology_NAS hotplugd[14169]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-17T04:58:48+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-17T04:58:48+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-17T04:58:48+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-17T04:58:48+08:00 Synology_NAS hotplugd[14169]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVNAME:sata2
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVGUID:WL1NSDX80
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVPATH:sata2
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: SUBSYSTEM:block
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVNAME:sata3
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVGUID:9RGA0S4C            0
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVPATH:sata3
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: SUBSYSTEM:block
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVNAME:sata4
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVGUID:Y6QEK10PF68D0
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: DEVPATH:sata4
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: SUBSYSTEM:block
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-17T04:58:56+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: DEVNAME:sata5
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: DEVGUID:71C0A0A8FRVH0
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: DEVPATH:sata5
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: SUBSYSTEM:block
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-17T04:58:57+08:00 Synology_NAS hotplugd[14169]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-17T05:50:56+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T05:50:56+08:00 Synology_NAS hotplugd[14193]: DEVNAME:usb1
+2024-09-17T05:50:56+08:00 Synology_NAS hotplugd[14193]: DEVICE:/proc/bus/usb/003/002
+2024-09-17T05:50:56+08:00 Synology_NAS hotplugd[14193]: DEVGUID:00000000NABNF1BM0
+2024-09-17T05:50:56+08:00 Synology_NAS hotplugd[14193]: DEVPATH:usb1
+2024-09-17T05:50:56+08:00 Synology_NAS hotplugd[14193]: SUBSYSTEM:block
+2024-09-17T05:50:56+08:00 Synology_NAS hotplugd[14193]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-17T05:50:57+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-17T05:50:57+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-17T05:50:57+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-17T05:50:57+08:00 Synology_NAS hotplugd[14193]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVNAME:sata2
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVGUID:WL1NSDX80
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVPATH:sata2
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: SUBSYSTEM:block
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVNAME:sata3
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVGUID:9RGA0S4C            0
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVPATH:sata3
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: SUBSYSTEM:block
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVNAME:sata4
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVGUID:Y6QEK10PF68D0
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: DEVPATH:sata4
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: SUBSYSTEM:block
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-17T05:51:05+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: DEVNAME:sata5
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: DEVGUID:71C0A0A8FRVH0
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: DEVPATH:sata5
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: SUBSYSTEM:block
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-17T05:51:06+08:00 Synology_NAS hotplugd[14193]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: DEVNAME:usb1
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: DEVICE:/proc/bus/usb/003/002
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: DEVGUID:00000000NABNF1BM0
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: DEVPATH:usb1
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: SUBSYSTEM:block
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-17T10:46:11+08:00 Synology_NAS hotplugd[14211]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVNAME:sata2
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVGUID:WL1NSDX80
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVPATH:sata2
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: SUBSYSTEM:block
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVNAME:sata3
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVGUID:9RGA0S4C            0
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVPATH:sata3
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: SUBSYSTEM:block
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVNAME:sata4
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVGUID:Y6QEK10PF68D0
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVPATH:sata4
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: SUBSYSTEM:block
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG04ACA400N] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [Y6QEK10PF68D] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [FJ1B] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1260 ##### ACTION:add
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVNAME:sata5
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVGUID:71C0A0A8FRVH0
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: DEVPATH:sata5
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: SUBSYSTEM:block
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG08ACA14TE] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [71C0A0A8FRVH] ====
+2024-09-17T10:46:19+08:00 Synology_NAS hotplugd[14211]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [4303] ====
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: DEVNAME:usb1
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: DEVICE:/proc/bus/usb/003/002
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: DEVGUID:00000000NABNF1BM0
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: DEVPATH:usb1
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: SUBSYSTEM:block
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-20T07:51:27+08:00 Synology_NAS hotplugd[13990]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: DEVNAME:sata2
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: DEVGUID:WL1NSDX80
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: DEVPATH:sata2
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: SUBSYSTEM:block
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-20T07:51:34+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVNAME:sata3
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVGUID:9RGA0S4C            0
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVPATH:sata3
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: SUBSYSTEM:block
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVNAME:sata4
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVGUID:51H0A27PFWTG0
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVPATH:sata4
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: SUBSYSTEM:block
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata4/host3/target3:0:0/3:0:0:0
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG08ACA16TE] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [51H0A27PFWTG] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [4303] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVNAME:sata5
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVGUID:Y6QEK10PF68D0
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVPATH:sata5
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: SUBSYSTEM:block
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG04ACA400N] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [Y6QEK10PF68D] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [FJ1B] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVNAME:sata6
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVGUID:71C0A0A8FRVH0
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: DEVPATH:sata6
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: SUBSYSTEM:block
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1421 ==== SATA disk [sata6] hotswap [add] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata6 1>/dev/null 2>&1
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata6 1>/dev/null 2>&1
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1461 ==== SATA disk [sata6] Model: [MG08ACA14TE] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1462 ==== SATA disk [sata6] Serial number: [71C0A0A8FRVH] ====
+2024-09-20T07:51:35+08:00 Synology_NAS hotplugd[13990]: hotplugd.c:1463 ==== SATA disk [sata6] Firmware version: [4303] ====
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: DEVNAME:usb1
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: DEVICE:/proc/bus/usb/003/002
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: DEVGUID:00000000NABNF1BM0
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: DEVPATH:usb1
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: SUBSYSTEM:block
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:795 SLIBCFileGetSection(0bc2:ab66:00000000NABNF1BM) from /run/usbdev.conf failed
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1484 ==== USB disk [usb1] plugged in ====
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1485 goto USB disk, szDeviceName=usb1
+2024-09-20T11:34:49+08:00 Synology_NAS hotplugd[14898]: external_storage_parts_vol_info_get.c:107 Dev:usb1 cannot find PostfixNumber.
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVNAME:sata2
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVGUID:WL1NSDX80
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVPATH:sata2
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: SUBSYSTEM:block
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVNAME:sata3
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVGUID:9RGA0S4C            0
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVPATH:sata3
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: SUBSYSTEM:block
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVNAME:sata4
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVGUID:51H0A27PFWTG0
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVPATH:sata4
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: SUBSYSTEM:block
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata4/host3/target3:0:0/3:0:0:0
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG08ACA16TE] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [51H0A27PFWTG] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [4303] ====
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVNAME:sata5
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVGUID:Y6QEK10PF68D0
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: DEVPATH:sata5
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: SUBSYSTEM:block
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-09-20T11:34:58+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG04ACA400N] ====
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [Y6QEK10PF68D] ====
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [FJ1B] ====
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1260 ##### ACTION:add
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: DEVNAME:sata6
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: DEVGUID:71C0A0A8FRVH0
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: DEVPATH:sata6
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: SUBSYSTEM:block
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1421 ==== SATA disk [sata6] hotswap [add] ====
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata6 1>/dev/null 2>&1
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata6 1>/dev/null 2>&1
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1461 ==== SATA disk [sata6] Model: [MG08ACA14TE] ====
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1462 ==== SATA disk [sata6] Serial number: [71C0A0A8FRVH] ====
+2024-09-20T11:34:59+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1463 ==== SATA disk [sata6] Firmware version: [4303] ====
+2024-09-21T07:04:57+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1260 ##### ACTION:remove
+2024-09-21T07:04:57+08:00 Synology_NAS hotplugd[14898]: DEVNAME:usb1
+2024-09-21T07:04:57+08:00 Synology_NAS hotplugd[14898]: DEVICE:/proc/bus/usb/003/002
+2024-09-21T07:04:57+08:00 Synology_NAS hotplugd[14898]: DEVGUID:00000000NABNF1BM0
+2024-09-21T07:04:57+08:00 Synology_NAS hotplugd[14898]: DEVPATH:usb1
+2024-09-21T07:04:57+08:00 Synology_NAS hotplugd[14898]: SUBSYSTEM:block
+2024-09-21T07:04:57+08:00 Synology_NAS hotplugd[14898]: PHYSDEVPATH:/devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/host34/target34:0:0/34:0:0:0
+2024-09-21T07:04:57+08:00 Synology_NAS hotplugd[14898]: hotplugd.c:1497 ==== USB disk [usb1] plugged out====
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1260 ##### ACTION:add
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: DEVNAME:sata2
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: DEVGUID:WL1NSDX80
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: DEVPATH:sata2
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: SUBSYSTEM:block
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-10-09T04:33:32+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1260 ##### ACTION:add
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVNAME:sata3
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVGUID:9RGA0S4C            0
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVPATH:sata3
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: SUBSYSTEM:block
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1260 ##### ACTION:add
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVNAME:sata4
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVGUID:51H0A27PFWTG0
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVPATH:sata4
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: SUBSYSTEM:block
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata4/host3/target3:0:0/3:0:0:0
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG08ACA16TE] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [51H0A27PFWTG] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [4303] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1260 ##### ACTION:add
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVNAME:sata5
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVGUID:Y6QEK10PF68D0
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVPATH:sata5
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: SUBSYSTEM:block
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG04ACA400N] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [Y6QEK10PF68D] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [FJ1B] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1260 ##### ACTION:add
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVNAME:sata6
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVGUID:71C0A0A8FRVH0
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: DEVPATH:sata6
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: SUBSYSTEM:block
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1421 ==== SATA disk [sata6] hotswap [add] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata6 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata6 1>/dev/null 2>&1
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1461 ==== SATA disk [sata6] Model: [MG08ACA14TE] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1462 ==== SATA disk [sata6] Serial number: [71C0A0A8FRVH] ====
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site hotplugd[14700]: hotplugd.c:1463 ==== SATA disk [sata6] Firmware version: [4303] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1260 ##### ACTION:add
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVNAME:sata2
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVGUID:WL1NSDX80
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVPATH:sata2
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: SUBSYSTEM:block
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: PHYSDEVPATH:/devices/pci0000:00/0000:00:17.0/ata2/host1/target1:0:0/1:0:0:0
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1421 ==== SATA disk [sata2] hotswap [add] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata2 1>/dev/null 2>&1
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata2 1>/dev/null 2>&1
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:194 /dev/sata2 apply EPC off
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1461 ==== SATA disk [sata2] Model: [ST1000LM035-1RK172] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1462 ==== SATA disk [sata2] Serial number: [WL1NSDX8] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1463 ==== SATA disk [sata2] Firmware version: [SPS6] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1260 ##### ACTION:add
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVNAME:sata3
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVGUID:9RGA0S4C            0
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVPATH:sata3
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: SUBSYSTEM:block
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata3/host2/target2:0:0/2:0:0:0
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1421 ==== SATA disk [sata3] hotswap [add] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata3 1>/dev/null 2>&1
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata3 1>/dev/null 2>&1
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1461 ==== SATA disk [sata3] Model: [WDC  WUH721414ALE604] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1462 ==== SATA disk [sata3] Serial number: [9RGA0S4C] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1463 ==== SATA disk [sata3] Firmware version: [LDGSW07G] ====
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1260 ##### ACTION:add
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVNAME:sata4
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVGUID:51H0A27PFWTG0
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: DEVPATH:sata4
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: SUBSYSTEM:block
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata4/host3/target3:0:0/3:0:0:0
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1421 ==== SATA disk [sata4] hotswap [add] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata4 1>/dev/null 2>&1
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata4 1>/dev/null 2>&1
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1461 ==== SATA disk [sata4] Model: [MG08ACA16TE] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1462 ==== SATA disk [sata4] Serial number: [51H0A27PFWTG] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1463 ==== SATA disk [sata4] Firmware version: [4303] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1260 ##### ACTION:add
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: DEVNAME:sata5
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: DEVGUID:Y6QEK10PF68D0
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: DEVPATH:sata5
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: SUBSYSTEM:block
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata5/host4/target4:0:0/4:0:0:0
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1421 ==== SATA disk [sata5] hotswap [add] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata5 1>/dev/null 2>&1
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata5 1>/dev/null 2>&1
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1461 ==== SATA disk [sata5] Model: [MG04ACA400N] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1462 ==== SATA disk [sata5] Serial number: [Y6QEK10PF68D] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1463 ==== SATA disk [sata5] Firmware version: [FJ1B] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1260 ##### ACTION:add
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: DEVNAME:sata6
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: DEVGUID:71C0A0A8FRVH0
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: DEVPATH:sata6
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: SUBSYSTEM:block
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: PHYSDEVPATH:/devices/pci0000:00/0000:00:1d.0/0000:03:00.0/ata6/host5/target5:0:0/5:0:0:0
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1421 ==== SATA disk [sata6] hotswap [add] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/DiskApmSet.sh 255  /dev/sata6 1>/dev/null 2>&1
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: disk/disk_config_single.c:122 apply /usr/syno/bin/syno_disk_ctl --ncq-on  /dev/sata6 1>/dev/null 2>&1
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1461 ==== SATA disk [sata6] Model: [MG08ACA14TE] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1462 ==== SATA disk [sata6] Serial number: [71C0A0A8FRVH] ====
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site hotplugd[14672]: hotplugd.c:1463 ==== SATA disk [sata6] Firmware version: [4303] ====

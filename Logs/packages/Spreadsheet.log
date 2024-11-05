@@ -1,0 +1,246 @@
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin preinst
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End preinst ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/mkdir -p /volume1/@appstore/Spreadsheet -m 755
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/mkdir -p /volume1/@appstore/Spreadsheet -m 755 ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/rm -rf /volume1/@appstore/Spreadsheet
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/rm -rf /volume1/@appstore/Spreadsheet ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/mv -f /volume1/@tmp/synopkg/install.WLOxIP/package /volume1/@appstore/Spreadsheet
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/mv -f /volume1/@tmp/synopkg/install.WLOxIP/package /volume1/@appstore/Spreadsheet ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/rm -rf /var/packages/Spreadsheet
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/rm -rf /var/packages/Spreadsheet ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/mkdir -p /var/packages/Spreadsheet -m 755
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/mkdir -p /var/packages/Spreadsheet -m 755 ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/touch /var/packages/Spreadsheet/installing
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/touch /var/packages/Spreadsheet/installing ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/mv -f /volume1/@tmp/synopkg/install.WLOxIP/INFO /var/packages/Spreadsheet/INFO
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/mv -f /volume1/@tmp/synopkg/install.WLOxIP/INFO /var/packages/Spreadsheet/INFO ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/rm -rf /var/packages/Spreadsheet/scripts
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/rm -rf /var/packages/Spreadsheet/scripts ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/mv -f /volume1/@tmp/synopkg/install.WLOxIP/scripts /var/packages/Spreadsheet/scripts
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/mv -f /volume1/@tmp/synopkg/install.WLOxIP/scripts /var/packages/Spreadsheet/scripts ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/rm -rf /var/packages/Spreadsheet/conf
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/rm -rf /var/packages/Spreadsheet/conf ret=[0]
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 Begin /bin/mv -f /volume1/@tmp/synopkg/install.WLOxIP/conf /var/packages/Spreadsheet/conf
+2024/09/11 20:10:05	install Spreadsheet 3.6.2-21321 End /bin/mv -f /volume1/@tmp/synopkg/install.WLOxIP/conf /var/packages/Spreadsheet/conf ret=[0]
+2024/09/11 20:10:07	install Spreadsheet 3.6.2-21321 Begin postinst
+synoffice call stack:
+common/db/synoffice_db.cpp:50 !checkOffice("db_version", SZV_OFFICE_DB_VERSION)common/db/synoffice_db.cpp:24 (0 != SYNOFDBExecute(pConn, (std::string("SELECT version from ") + table).c_str(), &pResult))  ErrNo=[57344] (Operation failed.)
+[Line 59] Database Schema mismatch. [0x0000 (null):0]
+synofficedbbackup: no process found
+DROP SCHEMA
+CREATE SCHEMA
+BEGIN
+CREATE TABLE
+CREATE INDEX
+CREATE FUNCTION
+CREATE TRIGGER
+INSERT 0 1
+CREATE TABLE
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE TABLE
+CREATE INDEX
+CREATE TABLE
+CREATE FUNCTION
+CREATE FUNCTION
+CREATE TRIGGER
+CREATE TABLE
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE FUNCTION
+COMMIT
+BEGIN
+NOTICE:  view "udc_template_privileged_count" does not exist, skipping
+DROP VIEW
+NOTICE:  table "db_template_version" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+NOTICE:  trigger "db_template_version_no_delete" for relation "db_template_version" does not exist, skipping
+DROP TRIGGER
+CREATE FUNCTION
+CREATE TRIGGER
+INSERT 0 1
+NOTICE:  index "idx_template_owner" does not exist, skipping
+NOTICE:  index "idx_template_system" does not exist, skipping
+NOTICE:  index "idx_template_ctime" does not exist, skipping
+NOTICE:  index "idx_template_mtime" does not exist, skipping
+NOTICE:  index "idx_template_ntype" does not exist, skipping
+NOTICE:  index "idx_template_sort_order" does not exist, skipping
+DROP INDEX
+NOTICE:  table "template" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+NOTICE:  index "idx_template_link_object_id" does not exist, skipping
+DROP INDEX
+NOTICE:  table "template_link" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+CREATE INDEX
+NOTICE:  index "idx_template_perm_user_object_id" does not exist, skipping
+DROP INDEX
+NOTICE:  table "template_perm_user" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+CREATE INDEX
+NOTICE:  index "idx_template_perm_group_object_id" does not exist, skipping
+DROP INDEX
+NOTICE:  table "template_perm_group" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+CREATE INDEX
+NOTICE:  index "idx_template_perm_app_object_id" does not exist, skipping
+DROP INDEX
+NOTICE:  table "template_perm_app" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+CREATE INDEX
+NOTICE:  index "idx_template_recent_atime" does not exist, skipping
+NOTICE:  index "idx_template_recent_requester" does not exist, skipping
+DROP INDEX
+NOTICE:  table "template_recent" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+CREATE INDEX
+CREATE INDEX
+COMMIT
+BEGIN
+NOTICE:  table "db_cleaner_version" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+NOTICE:  trigger "db_cleaner_version_no_delete" for relation "db_cleaner_version" does not exist, skipping
+DROP TRIGGER
+CREATE FUNCTION
+CREATE TRIGGER
+INSERT 0 1
+NOTICE:  table "history_prune" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+NOTICE:  table "node_delete" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+CREATE FUNCTION
+CREATE FUNCTION
+NOTICE:  trigger "template_cleaner_delete_trigger" for relation "template" does not exist, skipping
+DROP TRIGGER
+CREATE TRIGGER
+NOTICE:  trigger "node_delete_delete_trigger" for relation "node" does not exist, skipping
+DROP TRIGGER
+CREATE TRIGGER
+COMMIT
+NOTICE:  relation "object" already exists, skipping
+NOTICE:  relation "id_idx" already exists, skipping
+NOTICE:  relation "owner_idx" already exists, skipping
+NOTICE:  relation "ns_idx" already exists, skipping
+NOTICE:  relation "category_idx" already exists, skipping
+NOTICE:  relation "parent_id_idx" already exists, skipping
+NOTICE:  relation "acl_idx" already exists, skipping
+NOTICE:  relation "mtime_idx" already exists, skipping
+NOTICE:  relation "person" already exists, skipping
+NOTICE:  relation "person_id" already exists, skipping
+NOTICE:  index "idx_node_object_id" does not exist, skipping
+NOTICE:  index "idx_link_id" does not exist, skipping
+BEGIN
+CREATE FUNCTION
+NOTICE:  trigger "template_delete_trigger" for relation "template" does not exist, skipping
+DROP TRIGGER
+CREATE TRIGGER
+NOTICE:  table "template_recent_vacuum" does not exist, skipping
+DROP TABLE
+NOTICE:  function vacuum_template_recent() does not exist, skipping
+DROP FUNCTION
+NOTICE:  function insert_template_recent() does not exist, skipping
+DROP FUNCTION
+COMMIT
+synoffice call stack:
+common/db/synoffice_db.cpp:83 !checkOffice("db_user_statistic_version", SZV_OFFICE_DB_USER_STATISTIC_VERSION)common/db/synoffice_db.cpp:24 (0 != SYNOFDBExecute(pConn, (std::string("SELECT version from ") + table).c_str(), &pResult))  ErrNo=[57344] (Operation failed.)
+[Line 72] Database Schema mismatch. [0x0000 (null):0]
+BEGIN
+NOTICE:  table "db_user_statistic_version" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+NOTICE:  trigger "db_user_statistic_version_no_delete" for relation "db_user_statistic_version" does not exist, skipping
+DROP TRIGGER
+CREATE FUNCTION
+CREATE TRIGGER
+INSERT 0 1
+NOTICE:  table "user_event_log" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+CREATE INDEX
+COMMIT
+enabled2024/09/11 20:10:28	install Spreadsheet 3.6.2-21321 End postinst ret=[0]
+2024/09/11 20:10:28	install Spreadsheet 3.6.2-21321 Begin start-stop-status start
+enabled[pkg-synoffice-cleanerd] stopped.
+[pkg-synoffice-spreadsheet-node] stopped.
+[pkg-synoffice-document-node] stopped.
+[pkg-synoffice-presentation-node] stopped.
+[pkg-synoffice-taskd] stopped.
+Update config success
+[pkg-synoffice-apid] stopped.
+[pkg-synoffice-pgbouncer] stopped.
+GRANT
+GRANT
+[pkg-synoffice-pgbouncer] started.
+NOTICE:  relation "object" already exists, skipping
+NOTICE:  relation "id_idx" already exists, skipping
+NOTICE:  relation "owner_idx" already exists, skipping
+NOTICE:  relation "ns_idx" already exists, skipping
+NOTICE:  relation "category_idx" already exists, skipping
+NOTICE:  relation "parent_id_idx" already exists, skipping
+NOTICE:  relation "acl_idx" already exists, skipping
+NOTICE:  relation "mtime_idx" already exists, skipping
+NOTICE:  relation "person" already exists, skipping
+NOTICE:  relation "person_id" already exists, skipping
+BEGIN
+CREATE FUNCTION
+DROP TRIGGER
+CREATE TRIGGER
+NOTICE:  table "template_recent_vacuum" does not exist, skipping
+DROP TABLE
+NOTICE:  function vacuum_template_recent() does not exist, skipping
+DROP FUNCTION
+NOTICE:  function insert_template_recent() does not exist, skipping
+DROP FUNCTION
+COMMIT
+[pkg-synoffice-apid] started.
+BEGIN
+CREATE VIEW
+COMMIT
+Update [success]
+Update config success
+[pkg-synoffice-taskd] started.
+[pkg-synoffice-spreadsheet-node] started.
+[pkg-synoffice-document-node] started.
+[pkg-synoffice-presentation-node] started.
+[pkg-synoffice-cleanerd] started.
+2024/09/11 20:10:33	install Spreadsheet 3.6.2-21321 End start-stop-status start ret=[0]
+2024/09/11 20:20:28	uninstall Spreadsheet 3.6.2-21321 Begin start-stop-status stop
+[pkg-synoffice-cleanerd] stopped.
+[pkg-synoffice-spreadsheet-node] stopped.
+[pkg-synoffice-document-node] stopped.
+[pkg-synoffice-presentation-node] stopped.
+[pkg-synoffice-taskd] stopped.
+Update config success
+[pkg-synoffice-apid] stopped.
+[pkg-synoffice-pgbouncer] stopped.
+2024/09/11 20:20:30	uninstall Spreadsheet 3.6.2-21321 End start-stop-status stop ret=[0]
+2024/09/11 20:20:30	uninstall Spreadsheet 3.6.2-21321 Begin preuninst
+2024/09/11 20:20:31	uninstall Spreadsheet 3.6.2-21321 End preuninst ret=[0]
+2024/09/11 20:20:31	uninstall Spreadsheet 3.6.2-21321 Begin /bin/rm -rf /volume1/@appstore/Spreadsheet
+2024/09/11 20:20:31	uninstall Spreadsheet 3.6.2-21321 End /bin/rm -rf /volume1/@appstore/Spreadsheet ret=[0]
+2024/09/11 20:20:31	uninstall Spreadsheet 3.6.2-21321 Begin /bin/rm -rf /volume1/@apptemp/Spreadsheet
+2024/09/11 20:20:31	uninstall Spreadsheet 3.6.2-21321 End /bin/rm -rf /volume1/@apptemp/Spreadsheet ret=[0]
+2024/09/11 20:20:31	uninstall Spreadsheet 3.6.2-21321 Begin postuninst
+stat: cannot stat '/var/packages/Spreadsheet/target/tools/synofficeinfo': No such file or directory
+stat: cannot stat '/var/packages/Spreadsheet/target/tools/synofficeinfo': No such file or directory
+2024/09/11 20:20:31	uninstall Spreadsheet 3.6.2-21321 End postuninst ret=[0]

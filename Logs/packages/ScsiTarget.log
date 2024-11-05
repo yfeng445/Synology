@@ -1,0 +1,175 @@
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin preinst
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End preinst ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/mkdir -p /usr/local/packages/@appstore/ScsiTarget -m 755
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/mkdir -p /usr/local/packages/@appstore/ScsiTarget -m 755 ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/rm -rf /usr/local/packages/@appstore/ScsiTarget
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/rm -rf /usr/local/packages/@appstore/ScsiTarget ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/package /usr/local/packages/@appstore/ScsiTarget
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/package /usr/local/packages/@appstore/ScsiTarget ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/rm -rf /var/packages/ScsiTarget
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/rm -rf /var/packages/ScsiTarget ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/mkdir -p /var/packages/ScsiTarget -m 755
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/mkdir -p /var/packages/ScsiTarget -m 755 ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/touch /var/packages/ScsiTarget/installing
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/touch /var/packages/ScsiTarget/installing ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/INFO /var/packages/ScsiTarget/INFO
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/INFO /var/packages/ScsiTarget/INFO ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/rm -rf /var/packages/ScsiTarget/scripts
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/rm -rf /var/packages/ScsiTarget/scripts ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/scripts /var/packages/ScsiTarget/scripts
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/scripts /var/packages/ScsiTarget/scripts ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/rm -rf /var/packages/ScsiTarget/WIZARD_UIFILES
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/rm -rf /var/packages/ScsiTarget/WIZARD_UIFILES ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/WIZARD_UIFILES /var/packages/ScsiTarget/WIZARD_UIFILES
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/WIZARD_UIFILES /var/packages/ScsiTarget/WIZARD_UIFILES ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/rm -rf /var/packages/ScsiTarget/conf
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/rm -rf /var/packages/ScsiTarget/conf ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/conf /var/packages/ScsiTarget/conf
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End /bin/mv -f /run/synopkg/tmp/install.Q2rAT3/conf /var/packages/ScsiTarget/conf ret=[0]
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 Begin postinst
+2024/09/08 17:16:54	install ScsiTarget 1.0.10-0314 End postinst ret=[0]
+2024/09/08 17:16:58	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/08 17:16:58	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/08 17:16:59	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/08 17:17:00	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/09 08:24:45	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/09 08:24:45	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/10 07:08:22	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/10 07:08:22	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/10 07:08:22	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/10 07:08:23	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/11 19:57:37	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/11 19:57:37	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/11 20:05:39	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/11 20:05:39	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/11 20:05:40	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/11 20:05:41	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/12 00:26:24	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/12 00:26:25	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/12 00:30:29	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/12 00:30:29	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/12 00:30:30	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/12 00:30:31	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/14 22:43:06	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/14 22:43:06	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/14 23:16:56	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/14 23:16:56	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/14 23:16:58	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/14 23:16:59	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/15 00:50:04	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/15 00:50:05	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/15 01:14:21	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/15 01:14:21	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/15 01:14:22	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/15 01:14:23	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/15 01:22:07	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/15 01:22:07	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/15 01:22:08	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/15 01:22:09	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/15 01:31:02	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/15 01:31:02	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/15 01:31:03	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/15 01:31:04	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/15 05:06:18	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/15 05:06:18	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/15 05:06:19	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/15 05:06:21	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/15 05:15:22	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/15 05:15:22	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/15 05:15:23	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/15 05:15:25	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/16 05:35:26	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/16 05:35:26	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/16 05:39:44	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/16 05:39:44	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/16 05:39:45	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/16 05:39:46	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/16 19:28:48	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/16 19:28:49	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/16 19:33:05	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/16 19:33:05	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/16 19:33:06	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/16 19:33:08	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/17 04:54:30	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/17 04:54:30	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/17 04:58:46	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/17 04:58:46	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/17 04:58:47	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/17 04:58:49	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/17 05:46:37	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/17 05:46:38	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/17 05:50:55	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/17 05:50:55	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/17 05:50:56	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/17 05:50:57	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/17 10:41:53	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/17 10:41:54	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/17 10:46:09	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/17 10:46:09	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/17 10:46:10	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/17 10:46:11	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/20 07:36:41	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/20 07:36:42	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/20 07:51:27	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/20 07:51:27	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/20 07:51:28	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/20 07:51:30	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/09/20 11:29:03	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/09/20 11:29:04	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/09/20 11:34:48	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/09/20 11:34:48	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/09/20 11:34:49	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/09/20 11:34:51	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/10/05 07:46:01	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/10/05 07:46:04	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/10/05 07:48:21	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/10/05 07:48:21	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/10/05 07:49:14	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/10/05 07:49:20	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/10/09 04:29:15	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/10/09 04:29:17	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/10/09 04:33:33	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/10/09 04:33:33	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/10/09 04:33:34	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/10/09 04:33:35	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]
+2024/11/05 00:53:46	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status stop
+[pkg-iscsi] stopped.
+2024/11/05 00:53:46	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status stop ret=[0]
+2024/11/05 07:06:39	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status prestart
+2024/11/05 07:06:39	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status prestart ret=[0]
+2024/11/05 07:06:41	(system) trigger ScsiTarget 1.0.10-0314 Begin start-stop-status start
+no[pkg-iscsi] started.
+2024/11/05 07:06:42	(system) trigger ScsiTarget 1.0.10-0314 End start-stop-status start ret=[0]

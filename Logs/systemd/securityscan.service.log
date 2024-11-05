@@ -1,0 +1,40 @@
+2024-09-08T17:17:01-07:00 SynologyNAS securityscan_tool.sh[14376]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-08T17:17:01-07:00 SynologyNAS securityscan_tool.sh[14376]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-08T17:17:01-07:00 SynologyNAS securityscan_tool.sh[14376]: [Line 480] invalid id [-1]. [0x0000 (null):0]
+2024-09-08T17:17:01-07:00 SynologyNAS securityscan_tool.sh[14376]: [Line 265] Not a json value: ruleDB.User.Availability.disable_admin ruleDB.User.Password.top50000StrengthCheck
+2024-09-08T17:17:02-07:00 SynologyNAS securityscan_tool.sh[14376]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=group_set, param={"items":"ruleDB.User.Availability.disable_admin ruleDB.User.Password.top50000StrengthCheck"}, runner=SYSTEM_ADMIN
+2024-09-08T17:17:02-07:00 SynologyNAS securityscan_tool.sh[14376]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=set, param={"Input":{"argGroup":"custom","enableSchedule":true,"hour":5,"minute":14,"scheduleTaskId":-1,"weekday":"4"}}, runner=SYSTEM_ADMIN
+2024-09-10T07:08:25+08:00 Synology_NAS securityscan_tool.sh[11479]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-10T07:08:25+08:00 Synology_NAS securityscan_tool.sh[11479]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-11T20:05:42+08:00 Synology_NAS securityscan_tool.sh[11804]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-11T20:05:42+08:00 Synology_NAS securityscan_tool.sh[11804]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-12T00:30:32+08:00 Synology_NAS securityscan_tool.sh[13370]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-12T00:30:32+08:00 Synology_NAS securityscan_tool.sh[13370]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-14T23:17:01+08:00 Synology_NAS securityscan_tool.sh[15217]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-14T23:17:01+08:00 Synology_NAS securityscan_tool.sh[15217]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T01:14:24+08:00 Synology_NAS securityscan_tool.sh[15261]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T01:14:24+08:00 Synology_NAS securityscan_tool.sh[15261]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T01:22:10+08:00 Synology_NAS securityscan_tool.sh[14839]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T01:22:11+08:00 Synology_NAS securityscan_tool.sh[14839]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T01:31:06+08:00 Synology_NAS securityscan_tool.sh[15253]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T01:31:06+08:00 Synology_NAS securityscan_tool.sh[15253]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T05:06:24+08:00 Synology_NAS securityscan_tool.sh[13177]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T05:06:24+08:00 Synology_NAS securityscan_tool.sh[13177]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T05:15:27+08:00 Synology_NAS securityscan_tool.sh[15629]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-15T05:15:27+08:00 Synology_NAS securityscan_tool.sh[15629]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-16T05:39:47+08:00 Synology_NAS securityscan_tool.sh[14744]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-16T05:39:47+08:00 Synology_NAS securityscan_tool.sh[14744]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-16T19:33:08+08:00 Synology_NAS securityscan_tool.sh[14914]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-16T19:33:09+08:00 Synology_NAS securityscan_tool.sh[14914]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-17T04:58:49+08:00 Synology_NAS securityscan_tool.sh[15226]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-17T04:58:49+08:00 Synology_NAS securityscan_tool.sh[15226]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-17T05:50:58+08:00 Synology_NAS securityscan_tool.sh[14771]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-17T05:50:58+08:00 Synology_NAS securityscan_tool.sh[14771]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-17T10:46:12+08:00 Synology_NAS securityscan_tool.sh[14954]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-17T10:46:12+08:00 Synology_NAS securityscan_tool.sh[14954]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-20T07:51:30+08:00 Synology_NAS securityscan_tool.sh[15447]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-20T07:51:30+08:00 Synology_NAS securityscan_tool.sh[15447]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-09-20T11:34:51+08:00 Synology_NAS securityscan_tool.sh[15817]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-09-20T11:34:51+08:00 Synology_NAS securityscan_tool.sh[15817]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=get, param={}, runner=SYSTEM_ADMIN
+2024-10-09T04:33:36+08:00 Yasuraokaa_Site securityscan_tool.sh[15607]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site securityscan_tool.sh[15703]: [Line 295] Exec WebAPI:  api=SYNO.Core.SecurityScan.Conf, version=1, method=first_get, param={}, runner=SYSTEM_ADMIN

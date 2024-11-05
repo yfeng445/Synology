@@ -1,0 +1,58 @@
+2024-09-08T17:16:56-07:00 SynologyNAS modprobe[12340]: modprobe: FATAL: Module button not found.
+2024-09-08T17:16:56-07:00 SynologyNAS acpid[12359]: starting up with netlink and the input layer
+2024-09-08T17:16:56-07:00 SynologyNAS acpid[12359]: 1 rule loaded
+2024-09-08T17:16:56-07:00 SynologyNAS acpid[12359]: waiting for events: event logging is off
+2024-09-10T07:08:24+08:00 Synology_NAS acpid[11290]: starting up with netlink and the input layer
+2024-09-10T07:08:24+08:00 Synology_NAS acpid[11290]: 1 rule loaded
+2024-09-10T07:08:24+08:00 Synology_NAS acpid[11290]: waiting for events: event logging is off
+2024-09-11T20:05:40+08:00 Synology_NAS acpid[11409]: starting up with netlink and the input layer
+2024-09-11T20:05:40+08:00 Synology_NAS acpid[11409]: 1 rule loaded
+2024-09-11T20:05:40+08:00 Synology_NAS acpid[11409]: waiting for events: event logging is off
+2024-09-12T00:30:29+08:00 Synology_NAS acpid[12895]: starting up with netlink and the input layer
+2024-09-12T00:30:29+08:00 Synology_NAS acpid[12895]: 1 rule loaded
+2024-09-12T00:30:29+08:00 Synology_NAS acpid[12895]: waiting for events: event logging is off
+2024-09-14T23:16:58+08:00 Synology_NAS acpid[14393]: starting up with netlink and the input layer
+2024-09-14T23:16:58+08:00 Synology_NAS acpid[14393]: 1 rule loaded
+2024-09-14T23:16:58+08:00 Synology_NAS acpid[14393]: waiting for events: event logging is off
+2024-09-15T01:14:21+08:00 Synology_NAS acpid[14401]: starting up with netlink and the input layer
+2024-09-15T01:14:21+08:00 Synology_NAS acpid[14401]: 1 rule loaded
+2024-09-15T01:14:21+08:00 Synology_NAS acpid[14401]: waiting for events: event logging is off
+2024-09-15T01:22:09+08:00 Synology_NAS acpid[14549]: starting up with netlink and the input layer
+2024-09-15T01:22:09+08:00 Synology_NAS acpid[14549]: 1 rule loaded
+2024-09-15T01:22:09+08:00 Synology_NAS acpid[14549]: waiting for events: event logging is off
+2024-09-15T01:31:03+08:00 Synology_NAS acpid[14734]: starting up with netlink and the input layer
+2024-09-15T01:31:03+08:00 Synology_NAS acpid[14734]: 1 rule loaded
+2024-09-15T01:31:03+08:00 Synology_NAS acpid[14734]: waiting for events: event logging is off
+2024-09-15T05:06:21+08:00 Synology_NAS acpid[12954]: starting up with netlink and the input layer
+2024-09-15T05:06:21+08:00 Synology_NAS acpid[12954]: 1 rule loaded
+2024-09-15T05:06:21+08:00 Synology_NAS acpid[12954]: waiting for events: event logging is off
+2024-09-15T05:15:24+08:00 Synology_NAS acpid[15055]: starting up with netlink and the input layer
+2024-09-15T05:15:24+08:00 Synology_NAS acpid[15055]: 1 rule loaded
+2024-09-15T05:15:24+08:00 Synology_NAS acpid[15055]: waiting for events: event logging is off
+2024-09-16T05:39:45+08:00 Synology_NAS acpid[14483]: starting up with netlink and the input layer
+2024-09-16T05:39:45+08:00 Synology_NAS acpid[14483]: 1 rule loaded
+2024-09-16T05:39:45+08:00 Synology_NAS acpid[14483]: waiting for events: event logging is off
+2024-09-16T19:33:07+08:00 Synology_NAS acpid[14438]: starting up with netlink and the input layer
+2024-09-16T19:33:07+08:00 Synology_NAS acpid[14438]: 1 rule loaded
+2024-09-16T19:33:07+08:00 Synology_NAS acpid[14438]: waiting for events: event logging is off
+2024-09-17T04:58:47+08:00 Synology_NAS acpid[14402]: starting up with netlink and the input layer
+2024-09-17T04:58:47+08:00 Synology_NAS acpid[14402]: 1 rule loaded
+2024-09-17T04:58:47+08:00 Synology_NAS acpid[14402]: waiting for events: event logging is off
+2024-09-17T05:50:56+08:00 Synology_NAS acpid[14495]: starting up with netlink and the input layer
+2024-09-17T05:50:56+08:00 Synology_NAS acpid[14495]: 1 rule loaded
+2024-09-17T05:50:56+08:00 Synology_NAS acpid[14495]: waiting for events: event logging is off
+2024-09-17T10:46:10+08:00 Synology_NAS acpid[14438]: starting up with netlink and the input layer
+2024-09-17T10:46:10+08:00 Synology_NAS acpid[14438]: 1 rule loaded
+2024-09-17T10:46:10+08:00 Synology_NAS acpid[14438]: waiting for events: event logging is off
+2024-09-20T07:51:29+08:00 Synology_NAS acpid[15102]: starting up with netlink and the input layer
+2024-09-20T07:51:29+08:00 Synology_NAS acpid[15102]: 1 rule loaded
+2024-09-20T07:51:29+08:00 Synology_NAS acpid[15102]: waiting for events: event logging is off
+2024-09-20T11:34:49+08:00 Synology_NAS acpid[15063]: starting up with netlink and the input layer
+2024-09-20T11:34:49+08:00 Synology_NAS acpid[15063]: 1 rule loaded
+2024-09-20T11:34:49+08:00 Synology_NAS acpid[15063]: waiting for events: event logging is off
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site acpid[15184]: starting up with netlink and the input layer
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site acpid[15184]: 1 rule loaded
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site acpid[15184]: waiting for events: event logging is off
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site acpid[15262]: starting up with netlink and the input layer
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site acpid[15262]: 1 rule loaded
+2024-11-05T07:06:40+08:00 Yasuraokaa_Site acpid[15262]: waiting for events: event logging is off

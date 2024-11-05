@@ -1,0 +1,386 @@
+Tue Sep 17 04:54:32 CST 2024
+l-wx------ 1 root     root     64 Sep 17 04:54 /proc/7479/fd/101 -> /volume1/@appdata/ContainerManager/log/docker.log
+l-wx------ 1 root     root     64 Sep 17 04:54 /proc/7479/fd/25 -> /volume1/@appdata/ContainerManager/log/docker_event.log
+
+
+
+ PPID   PID  PGID   SID TTY      TPGID STAT   UID   TIME COMMAND
+    0     2     0     0 ?           -1 S        0   0:00 [kthreadd]
+    2     3     0     0 ?           -1 I<       0   0:00  \_ [rcu_gp]
+    2     4     0     0 ?           -1 I<       0   0:00  \_ [rcu_par_gp]
+    2     6     0     0 ?           -1 I<       0   0:00  \_ [kworker/0:0H-events_highpri]
+    2     8     0     0 ?           -1 I<       0   0:00  \_ [mm_percpu_wq]
+    2     9     0     0 ?           -1 S        0   0:00  \_ [rcu_tasks_rude_]
+    2    10     0     0 ?           -1 S        0   0:00  \_ [rcu_tasks_trace]
+    2    11     0     0 ?           -1 S        0   0:03  \_ [ksoftirqd/0]
+    2    12     0     0 ?           -1 I        0   1:12  \_ [rcu_sched]
+    2    13     0     0 ?           -1 S        0   0:00  \_ [migration/0]
+    2    14     0     0 ?           -1 I        0   0:11  \_ [kworker/0:1-events]
+    2    15     0     0 ?           -1 S        0   0:00  \_ [cpuhp/0]
+    2    16     0     0 ?           -1 S        0   0:00  \_ [cpuhp/1]
+    2    17     0     0 ?           -1 S        0   0:03  \_ [migration/1]
+    2    18     0     0 ?           -1 S        0   0:00  \_ [ksoftirqd/1]
+    2    20     0     0 ?           -1 I<       0   0:00  \_ [kworker/1:0H-kblockd]
+    2    21     0     0 ?           -1 S        0   0:00  \_ [cpuhp/2]
+    2    22     0     0 ?           -1 S        0   0:03  \_ [migration/2]
+    2    23     0     0 ?           -1 S        0   0:00  \_ [ksoftirqd/2]
+    2    25     0     0 ?           -1 I<       0   0:00  \_ [kworker/2:0H-kblockd]
+    2    26     0     0 ?           -1 S        0   0:00  \_ [cpuhp/3]
+    2    27     0     0 ?           -1 S        0   0:03  \_ [migration/3]
+    2    28     0     0 ?           -1 S        0   0:00  \_ [ksoftirqd/3]
+    2    30     0     0 ?           -1 I<       0   0:00  \_ [kworker/3:0H-kblockd]
+    2    31     0     0 ?           -1 S        0   0:00  \_ [kdevtmpfs]
+    2    32     0     0 ?           -1 I<       0   0:00  \_ [netns]
+    2    35     0     0 ?           -1 I        0   0:09  \_ [kworker/1:1-cgroup_pidlist_destroy]
+    2    37     0     0 ?           -1 S        0   0:00  \_ [kauditd]
+    2    57     0     0 ?           -1 I        0   0:01  \_ [kworker/2:1-rcu_gp]
+    2   270     0     0 ?           -1 S        0   0:00  \_ [khungtaskd]
+    2   271     0     0 ?           -1 S        0   0:00  \_ [oom_reaper]
+    2   272     0     0 ?           -1 I<       0   0:00  \_ [writeback]
+    2   274     0     0 ?           -1 S        0   0:01  \_ [kcompactd0]
+    2   275     0     0 ?           -1 SN       0   0:00  \_ [ksmd]
+    2   290     0     0 ?           -1 I<       0   0:00  \_ [kintegrityd]
+    2   292     0     0 ?           -1 I<       0   0:00  \_ [kblockd]
+    2   768     0     0 ?           -1 I<       0   0:00  \_ [ata_sff]
+    2   778     0     0 ?           -1 I<       0   0:00  \_ [md]
+    2   781     0     0 ?           -1 I<       0   0:00  \_ [edac-poller]
+    2   887     0     0 ?           -1 I<       0   0:00  \_ [kworker/0:1H-kblockd]
+    2  1024     0     0 ?           -1 S<       0   0:18  \_ [kswapd0:0]
+    2  3361     0     0 ?           -1 I<       0   0:00  \_ [iscsi_eh]
+    2  3369     0     0 ?           -1 I<       0   0:00  \_ [iscsi_conn_clea]
+    2  3440     0     0 ?           -1 I<       0   0:00  \_ [kmpath_rdacd]
+    2  3469     0     0 ?           -1 I<       0   0:00  \_ [nvme-wq]
+    2  3489     0     0 ?           -1 I<       0   0:00  \_ [nvme-reset-wq]
+    2  3523     0     0 ?           -1 I<       0   0:00  \_ [nvme-delete-wq]
+    2  3610     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_0]
+    2  3618     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_0]
+    2  3633     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_1]
+    2  3637     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_1]
+    2  3680     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_2]
+    2  3861     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_2]
+    2  3969     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_3]
+    2  4034     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_3]
+    2  4062     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_4]
+    2  4064     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_4]
+    2  4079     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_5]
+    2  4080     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_5]
+    2  4095     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_6]
+    2  4096     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_6]
+    2  4109     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_7]
+    2  4110     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_7]
+    2  4123     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_8]
+    2  4124     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_8]
+    2  4137     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_9]
+    2  4138     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_9]
+    2  4149     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_10]
+    2  4152     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_10]
+    2  4165     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_11]
+    2  4166     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_11]
+    2  4179     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_12]
+    2  4180     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_12]
+    2  4193     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_13]
+    2  4194     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_13]
+    2  4207     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_14]
+    2  4208     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_14]
+    2  4221     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_15]
+    2  4222     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_15]
+    2  4235     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_16]
+    2  4236     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_16]
+    2  4249     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_17]
+    2  4250     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_17]
+    2  4263     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_18]
+    2  4264     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_18]
+    2  4277     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_19]
+    2  4278     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_19]
+    2  4289     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_20]
+    2  4290     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_20]
+    2  4305     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_21]
+    2  4306     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_21]
+    2  4318     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_22]
+    2  4319     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_22]
+    2  4333     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_23]
+    2  4334     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_23]
+    2  4347     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_24]
+    2  4348     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_24]
+    2  4359     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_25]
+    2  4360     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_25]
+    2  4375     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_26]
+    2  4376     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_26]
+    2  4387     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_27]
+    2  4388     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_27]
+    2  4389     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_28]
+    2  4390     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_28]
+    2  4391     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_29]
+    2  4392     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_29]
+    2  4393     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_30]
+    2  4394     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_30]
+    2  4395     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_31]
+    2  4396     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_31]
+    2  4397     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_32]
+    2  4398     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_32]
+    2  4399     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_33]
+    2  4400     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_33]
+    2  4609     0     0 ?           -1 I        0   0:09  \_ [kworker/1:2-events]
+    2  4637     0     0 ?           -1 I        0   0:02  \_ [kworker/3:2-cgroup_pidlist_destroy]
+    2  4638     0     0 ?           -1 I<       0   0:02  \_ [kworker/1:1H-kblockd]
+    2  4640     0     0 ?           -1 I<       0   0:01  \_ [kworker/3:1H-kblockd]
+    2  4865     0     0 ?           -1 I<       0   0:00  \_ [kworker/2:1H-kblockd]
+    2  4955     0     0 ?           -1 I<       0   0:00  \_ [kworker/u9:0-btrfs-syno_high_priorit]
+    2  5139     0     0 ?           -1 S        0   0:00  \_ [vuart/3-ttyS1]
+    2  5519     0     0 ?           -1 I<       0   0:00  \_ [acpi_thermal_pm]
+    2  5521     0     0 ?           -1 I<       0   0:00  \_ [ttm]
+    2  5522     0     0 ?           -1 S        0   0:00  \_ [card0-crtc0]
+    2  5523     0     0 ?           -1 S        0   0:00  \_ [card0-crtc1]
+    2  5524     0     0 ?           -1 S        0   0:00  \_ [card0-crtc2]
+    2  5525     0     0 ?           -1 S        0   0:00  \_ [scsi_eh_34]
+    2  5526     0     0 ?           -1 I<       0   0:00  \_ [scsi_tmf_34]
+    2  5527     0     0 ?           -1 S        0   0:00  \_ [usb-storage]
+    2  5528     0     0 ?           -1 I<       0   0:00  \_ [uas]
+    2  6073     0     0 ?           -1 S        0   0:01  \_ [md0_raid1]
+    2  6783     0     0 ?           -1 S        0   0:00  \_ [jbd2/md0-8]
+    2  6784     0     0 ?           -1 I<       0   0:00  \_ [ext4-rsv-conver]
+    2  7129     0     0 ?           -1 I<       0   0:00  \_ [cryptd]
+    2  7182     0     0 ?           -1 I<       0   0:00  \_ [kcopyd]
+    2  7183     0     0 ?           -1 I<       0   0:00  \_ [ssd-cache]
+    2  7194     0     0 ?           -1 I        0   0:00  \_ [kworker/2:3-events]
+    2  7207     0     0 ?           -1 I<       0   0:00  \_ [ipv6_addrconf]
+    2  7250     0     0 ?           -1 I<       0   0:00  \_ [dm_bufio_cache]
+    2  7301     0     0 ?           -1 S        0   0:00  \_ [md1_raid1]
+    2 10049     0     0 ?           -1 S        0   0:00  \_ [md5_raid1]
+    2 10064     0     0 ?           -1 S        0   0:00  \_ [md3_raid1]
+    2 10091     0     0 ?           -1 S        0   0:01  \_ [md2_raid1]
+    2 10119     0     0 ?           -1 S        0   0:00  \_ [md4_raid1]
+    2 10180     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 10182     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 10217     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 10219     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 10252     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 10254     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 10287     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 10289     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 11524     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 11547     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 11569     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 11592     0     0 ?           -1 I<       0   0:00  \_ [kdmflush]
+    2 11946     0     0 ?           -1 I<       0   0:00  \_ [btrfs-worker]
+    2 11947     0     0 ?           -1 I<       0   0:00  \_ [btrfs-worker-hi]
+    2 11948     0     0 ?           -1 I<       0   0:00  \_ [btrfs-delalloc]
+    2 11949     0     0 ?           -1 I<       0   0:00  \_ [btrfs-flush_del]
+    2 11950     0     0 ?           -1 I<       0   0:00  \_ [btrfs-cache]
+    2 11951     0     0 ?           -1 I<       0   0:00  \_ [btrfs-fixup]
+    2 11952     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio]
+    2 11953     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-met]
+    2 11954     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio_met]
+    2 11955     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-met]
+    2 11956     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-rai]
+    2 11957     0     0 ?           -1 I<       0   0:00  \_ [btrfs-rmw]
+    2 11958     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-wri]
+    2 11959     0     0 ?           -1 I<       0   0:00  \_ [btrfs-freespace]
+    2 11960     0     0 ?           -1 I<       0   0:00  \_ [btrfs-delayed-m]
+    2 11961     0     0 ?           -1 I<       0   0:00  \_ [btrfs-readahead]
+    2 11962     0     0 ?           -1 I<       0   0:00  \_ [btrfs-qgroup-re]
+    2 11963     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno-mult]
+    2 11964     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow_]
+    2 11965     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow_]
+    2 11966     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow]
+    2 11967     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_noco]
+    2 11968     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_high]
+    2 11969     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_high]
+    2 11970     0     0 ?           -1 I<       0   0:00  \_ [btrfs-extent-re]
+    2 11971     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno-bg-c]
+    2 11972     0     0 ?           -1 I<       0   0:00  \_ [btrfs-worker]
+    2 11973     0     0 ?           -1 I<       0   0:00  \_ [btrfs-worker-hi]
+    2 11974     0     0 ?           -1 I<       0   0:00  \_ [btrfs-delalloc]
+    2 11975     0     0 ?           -1 I<       0   0:00  \_ [btrfs-flush_del]
+    2 11976     0     0 ?           -1 I<       0   0:00  \_ [btrfs-cache]
+    2 11977     0     0 ?           -1 I<       0   0:00  \_ [btrfs-fixup]
+    2 11978     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio]
+    2 11979     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-met]
+    2 11980     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio_met]
+    2 11981     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-met]
+    2 11982     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-rai]
+    2 11983     0     0 ?           -1 I<       0   0:00  \_ [btrfs-rmw]
+    2 11984     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-wri]
+    2 11985     0     0 ?           -1 I<       0   0:00  \_ [btrfs-freespace]
+    2 11986     0     0 ?           -1 I<       0   0:00  \_ [btrfs-delayed-m]
+    2 11987     0     0 ?           -1 I<       0   0:00  \_ [btrfs-readahead]
+    2 11988     0     0 ?           -1 I<       0   0:00  \_ [btrfs-qgroup-re]
+    2 11989     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno-mult]
+    2 11990     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow_]
+    2 11991     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow_]
+    2 11992     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow]
+    2 11993     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_noco]
+    2 11994     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_high]
+    2 11995     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_high]
+    2 11996     0     0 ?           -1 I<       0   0:00  \_ [btrfs-extent-re]
+    2 11997     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno-bg-c]
+    2 12001     0     0 ?           -1 I<       0   0:00  \_ [btrfs-worker]
+    2 12002     0     0 ?           -1 I<       0   0:00  \_ [btrfs-worker-hi]
+    2 12003     0     0 ?           -1 I<       0   0:00  \_ [btrfs-delalloc]
+    2 12004     0     0 ?           -1 I<       0   0:00  \_ [btrfs-flush_del]
+    2 12005     0     0 ?           -1 I<       0   0:00  \_ [btrfs-cache]
+    2 12006     0     0 ?           -1 I<       0   0:00  \_ [btrfs-fixup]
+    2 12007     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio]
+    2 12008     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-met]
+    2 12009     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio_met]
+    2 12010     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-met]
+    2 12011     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-rai]
+    2 12012     0     0 ?           -1 I<       0   0:00  \_ [btrfs-rmw]
+    2 12013     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-wri]
+    2 12014     0     0 ?           -1 I<       0   0:00  \_ [btrfs-freespace]
+    2 12015     0     0 ?           -1 I<       0   0:00  \_ [btrfs-delayed-m]
+    2 12016     0     0 ?           -1 I<       0   0:00  \_ [btrfs-readahead]
+    2 12017     0     0 ?           -1 I<       0   0:00  \_ [btrfs-qgroup-re]
+    2 12018     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno-mult]
+    2 12019     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow_]
+    2 12020     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow_]
+    2 12021     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow]
+    2 12022     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_noco]
+    2 12023     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_high]
+    2 12024     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_high]
+    2 12025     0     0 ?           -1 I<       0   0:00  \_ [btrfs-extent-re]
+    2 12026     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno-bg-c]
+    2 12036     0     0 ?           -1 I<       0   0:00  \_ [btrfs-worker]
+    2 12037     0     0 ?           -1 I<       0   0:00  \_ [btrfs-worker-hi]
+    2 12038     0     0 ?           -1 I<       0   0:00  \_ [btrfs-delalloc]
+    2 12039     0     0 ?           -1 I<       0   0:00  \_ [btrfs-flush_del]
+    2 12040     0     0 ?           -1 I<       0   0:00  \_ [btrfs-cache]
+    2 12041     0     0 ?           -1 I<       0   0:00  \_ [btrfs-fixup]
+    2 12042     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio]
+    2 12043     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-met]
+    2 12044     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio_met]
+    2 12045     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-met]
+    2 12046     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-rai]
+    2 12048     0     0 ?           -1 I<       0   0:00  \_ [btrfs-rmw]
+    2 12049     0     0 ?           -1 I<       0   0:00  \_ [btrfs-endio-wri]
+    2 12050     0     0 ?           -1 I<       0   0:00  \_ [btrfs-freespace]
+    2 12051     0     0 ?           -1 I<       0   0:00  \_ [btrfs-delayed-m]
+    2 12052     0     0 ?           -1 I<       0   0:00  \_ [btrfs-readahead]
+    2 12053     0     0 ?           -1 I<       0   0:00  \_ [btrfs-qgroup-re]
+    2 12054     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno-mult]
+    2 12055     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow_]
+    2 12056     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow_]
+    2 12057     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_cow]
+    2 12058     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_noco]
+    2 12059     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_high]
+    2 12060     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno_high]
+    2 12061     0     0 ?           -1 I<       0   0:00  \_ [btrfs-extent-re]
+    2 12062     0     0 ?           -1 I<       0   0:00  \_ [btrfs-syno-bg-c]
+    2 12063     0     0 ?           -1 S        0   0:00  \_ [btrfs-cleaner]
+    2 12064     0     0 ?           -1 S        0   0:00  \_ [btrfs-transacti]
+    2 12066     0     0 ?           -1 S        0   0:00  \_ [btrfs-cleaner]
+    2 12067     0     0 ?           -1 S        0   0:00  \_ [btrfs-transacti]
+    2 12077     0     0 ?           -1 S        0   0:00  \_ [btrfs-cleaner]
+    2 12078     0     0 ?           -1 S        0   0:00  \_ [btrfs-transacti]
+    2 12094     0     0 ?           -1 S        0   0:00  \_ [btrfs-cleaner]
+    2 12095     0     0 ?           -1 S        0   0:00  \_ [btrfs-transacti]
+    2 17945     0     0 ?           -1 I<       0   0:00  \_ [kworker/u9:1-btrfs-syno_high_priorit]
+    2  2791     0     0 ?           -1 I        0   0:00  \_ [kworker/0:0-events]
+    2   661     0     0 ?           -1 I        0   0:00  \_ [kworker/3:1-events]
+    2  4987     0     0 ?           -1 I        0   0:00  \_ [kworker/u8:0-events_unbound]
+    2 17135     0     0 ?           -1 I        0   0:00  \_ [kworker/u8:2-events_unbound]
+    2 17602     0     0 ?           -1 I        0   0:00  \_ [kworker/1:3-cgroup_destroy]
+    2 18496     0     0 ?           -1 I        0   0:00  \_ [kworker/u8:1-events_unbound]
+    2 18747     0     0 ?           -1 I        0   0:00  \_ [kworker/1:0-cgroup_pidlist_destroy]
+    2 19265     0     0 ?           -1 I        0   0:00  \_ [kworker/u8:3-events_unbound]
+    2 19296     0     0 ?           -1 I        0   0:00  \_ [kworker/2:0-events]
+    2 19480     0     0 ?           -1 I        0   0:00  \_ [kworker/3:0-events]
+    2 19724     0     0 ?           -1 I        0   0:00  \_ [kworker/0:2-cgroup_destroy]
+    2 19729     0     0 ?           -1 I        0   0:00  \_ [kworker/0:3-cgroup_pidlist_destroy]
+    2 20313     0     0 ?           -1 I        0   0:00  \_ [kworker/0:4]
+    2 20314     0     0 ?           -1 I        0   0:00  \_ [kworker/3:3-events]
+    2 20320     0     0 ?           -1 I        0   0:00  \_ [kworker/2:2-events]
+    2 20326     0     0 ?           -1 I        0   0:00  \_ [kworker/1:4-cgroup_pidlist_destroy]
+    2 20328     0     0 ?           -1 I        0   0:00  \_ [kworker/0:5-events]
+    2 20339     0     0 ?           -1 I        0   0:00  \_ [kworker/2:4-events]
+    2 20776     0     0 ?           -1 I        0   0:00  \_ [kworker/3:4-events]
+    2 20945     0     0 ?           -1 I        0   0:00  \_ [kworker/2:5]
+    2 21104     0     0 ?           -1 I        0   0:00  \_ [kworker/1:5]
+    0     1     1     1 ?           -1 Ss       0   0:39 /sbin/init
+    1  5168  5168  5168 ?           -1 Ss       0   0:00 inetd
+    1  5556  5556  5556 ?           -1 Ss       0   0:00 inetd
+    1  5934  5934  5934 ?           -1 Ss       0   0:00 inetd
+    1  6626  6626  6626 ?           -1 Ss       0   0:00 inetd
+    1  7031  7031  7031 ?           -1 Ss       0   0:00 inetd
+    1  7121  7121  7121 ?           -1 Ss     941   0:00 /usr/syno/sbin/synoplugind
+ 7121 21158 21158 21158 ?           -1 Zs     941   0:00  \_ [synoplugind] <defunct>
+    1  7174  7174  7174 ?           -1 S<s      0   0:14 /usr/lib/systemd/systemd-journald
+    1  7479  7479  7479 ?           -1 Ssl      1   0:07 /usr/bin/syslog-ng -Fe --worker-threads=4 -u system -g log
+    1  7700  7700  7700 ?           -1 Ss       0   0:00 /usr/lib/systemd/systemd-udevd
+ 7700 20311  7700  7700 ?           -1 S        0   0:00  \_ /usr/lib/systemd/systemd-udevd
+ 7700 20816  7700  7700 ?           -1 S        0   0:00  \_ /usr/lib/systemd/systemd-udevd
+ 7700 20824  7700  7700 ?           -1 S        0   0:00  \_ /usr/lib/systemd/systemd-udevd
+ 7700 20845  7700  7700 ?           -1 S        0   0:00  \_ /usr/lib/systemd/systemd-udevd
+ 7700 20846  7700  7700 ?           -1 S        0   0:00  \_ /usr/lib/systemd/systemd-udevd
+    1  9202  9202  9202 ?           -1 Ss     938   0:01 /usr/syno/bin/synotokenmgr
+ 9202  9213  9202  9202 ?           -1 S      938   0:00  \_ /usr/syno/bin/synotokenmgr
+ 9202  9214  9202  9202 ?           -1 S      938   0:00  \_ /usr/syno/bin/synotokenmgr
+ 9202  9215  9202  9202 ?           -1 S      938   0:00  \_ /usr/syno/bin/synotokenmgr
+ 9202  9216  9202  9202 ?           -1 S      938   0:00  \_ /usr/syno/bin/synotokenmgr
+    1  9203  9203  9203 ?           -1 Ss     939   0:01 /usr/syno/bin/synotaskmgr
+ 9203  9220  9203  9203 ?           -1 Z      939   0:00  \_ [synotaskmgr] <defunct>
+ 9203  9221  9203  9203 ?           -1 Z      939   0:00  \_ [synotaskmgr] <defunct>
+ 9203  9222  9203  9203 ?           -1 Z      939   0:00  \_ [synotaskmgr] <defunct>
+ 9203  9224  9203  9203 ?           -1 Z      939   0:00  \_ [synotaskmgr] <defunct>
+    1  9204  9204  9204 ttyS0     9204 Ss+      0   0:00 /sbin/agetty --keep-baud 115200,38400,9600 ttyS0
+    1 14438 14438 14438 ?           -1 Ss       0   0:00 /usr/sbin/acpid -f
+    1 17461 17461 17461 ?           -1 Ss       0   0:00 /var/packages/ContainerManager/target/tool/docker_event_watcherd
+    1 21223 21223 21223 ?           -1 Ss       0   0:00 /bin/sh /usr/syno/lib/systemd/scripts/volume.sh --stop-all
+21223 21284 21223 21223 ?           -1 S        0   0:00  \_ /bin/sh /etc.defaults/rc.check_data_volume_holder
+21284 21332 21223 21223 ?           -1 R        0   0:00      \_ ps axjfw
+
+systemctl list-jobs:
+ JOB UNIT                                     TYPE   STATE  
+5666 syno_bundle_firmware_upgrade.service     stop   waiting
+5549 syno-volume.service                      stop   running
+5814 sysinit.target                           stop   waiting
+5670 syno-sysctl-conf.service                 stop   waiting
+5780 swap.target                              stop   waiting
+5713 syno-volume-fsck-check.service           stop   waiting
+5692 syno-sysctl-kswapd-threads.service       stop   waiting
+5755 syno-vspace-phase2.service               stop   waiting
+5642 syno-set-eunitseq.service                stop   waiting
+5500 shutdown.target                          start  waiting
+5836 syslog-ng.service                        reload waiting
+5657 taskmanager.service                      stop   waiting
+5592 syno-log-boot-start.service              stop   waiting
+5819 syno-local-auth-ready.target             stop   waiting
+5613 systemd-modules-load.service             stop   waiting
+5790 ups-clean-config.service                 stop   waiting
+5693 synoscheduler-init.service               stop   waiting
+5803 synoscheduler.target                     stop   waiting
+5577 syno-volume-fsck.service                 stop   waiting
+5829 syno-touch-normal-shutdown.service       start  waiting
+5677 syno-sysctl-kernel-sem.service           stop   waiting
+5825 final.target                             start  waiting
+5824 syno-swap.service                        stop   waiting
+5788 syno-rootfs-ready.target                 stop   waiting
+5735 slices.target                            stop   waiting
+5702 syno-space.service                       stop   waiting
+5561 syno-sysctl-watermarks.service           stop   waiting
+5633 SynoDisableFanCheck.service              stop   waiting
+5542 pkg-synoha-bootup-update-package.service stop   waiting
+5816 syno-sysctl-kernel-shmmni.service        stop   waiting
+5509 synocheckgroup.service                   stop   waiting
+5585 sockets.target                           stop   waiting
+5826 syslog-ng-stop-at-shutdown.service       start  waiting
+5603 syno-space.target                        stop   waiting
+5498 reboot.target                            start  waiting
+5499 systemd-reboot.service                   start  waiting
+5658 synotaskmgr.service                      stop   running
+5861 synoscgi.service                         reload waiting
+5679 synocheckinfo.service                    stop   waiting
+5738 basic.target                             stop   waiting
+5678 synosdk-locks.target                     stop   waiting
+5681 get-machine-key.service                  stop   waiting
+5708 local-fs.target                          stop   waiting
+5800 user.slice                               stop   waiting
+5538 synocheckuser.service                    stop   waiting
+5722 systemd-tmpfiles-setup.service           stop   waiting
+5669 paths.target                             stop   waiting
+5774 syno-vspace.service                      stop   waiting
+5653 systemd-sysctl.service                   stop   waiting
+5599 syno_nvme_power_limit_set.service        stop   waiting
+5654 unbindUSB.service                        stop   waiting
+
+51 jobs listed.

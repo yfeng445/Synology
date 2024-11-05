@@ -1,0 +1,45 @@
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin preinst
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End preinst ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/mkdir -p /usr/local/packages/@appstore/BackupRestoreManager -m 755
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/mkdir -p /usr/local/packages/@appstore/BackupRestoreManager -m 755 ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/rm -rf /usr/local/packages/@appstore/BackupRestoreManager
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/rm -rf /usr/local/packages/@appstore/BackupRestoreManager ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/mv -f /run/synopkg/tmp/install.sTQajK/package /usr/local/packages/@appstore/BackupRestoreManager
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/mv -f /run/synopkg/tmp/install.sTQajK/package /usr/local/packages/@appstore/BackupRestoreManager ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/rm -rf /var/packages/BackupRestoreManager
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/rm -rf /var/packages/BackupRestoreManager ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/mkdir -p /var/packages/BackupRestoreManager -m 755
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/mkdir -p /var/packages/BackupRestoreManager -m 755 ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/touch /var/packages/BackupRestoreManager/installing
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/touch /var/packages/BackupRestoreManager/installing ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/mv -f /run/synopkg/tmp/install.sTQajK/INFO /var/packages/BackupRestoreManager/INFO
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/mv -f /run/synopkg/tmp/install.sTQajK/INFO /var/packages/BackupRestoreManager/INFO ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/rm -rf /var/packages/BackupRestoreManager/scripts
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/rm -rf /var/packages/BackupRestoreManager/scripts ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/mv -f /run/synopkg/tmp/install.sTQajK/scripts /var/packages/BackupRestoreManager/scripts
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/mv -f /run/synopkg/tmp/install.sTQajK/scripts /var/packages/BackupRestoreManager/scripts ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/rm -rf /var/packages/BackupRestoreManager/conf
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/rm -rf /var/packages/BackupRestoreManager/conf ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin /bin/mv -f /run/synopkg/tmp/install.sTQajK/conf /var/packages/BackupRestoreManager/conf
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End /bin/mv -f /run/synopkg/tmp/install.sTQajK/conf /var/packages/BackupRestoreManager/conf ret=[0]
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 Begin postinst
+2024/09/08 17:16:54	install BackupRestoreManager 2.5.2-12461 End postinst ret=[0]
+2024/09/08 17:16:58	(system) trigger BackupRestoreManager 2.5.2-12461 Begin start-stop-status prestart
+2024/09/08 17:16:58	(system) trigger BackupRestoreManager 2.5.2-12461 End start-stop-status prestart ret=[0]
+2024/09/08 17:16:59	(system) trigger BackupRestoreManager 2.5.2-12461 Begin start-stop-status start
+[pkg-synobrm-agentd.service] started.
+[pkg-synobrm-recovery-restart.service] started with no block.
+2024/09/08 17:16:59	(system) trigger BackupRestoreManager 2.5.2-12461 End start-stop-status start ret=[0]
+2024/09/09 08:20:30	uninstall BackupRestoreManager 2.5.2-12461 Begin start-stop-status prestop
+2024/09/09 08:20:30	uninstall BackupRestoreManager 2.5.2-12461 End start-stop-status prestop ret=[0]
+2024/09/09 08:20:30	uninstall BackupRestoreManager 2.5.2-12461 Begin start-stop-status stop
+[pkg-synobrm-agentd.service] stopped.
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 End start-stop-status stop ret=[0]
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 Begin preuninst
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 End preuninst ret=[0]
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 Begin /bin/rm -rf /usr/local/packages/@appstore/BackupRestoreManager
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 End /bin/rm -rf /usr/local/packages/@appstore/BackupRestoreManager ret=[0]
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 Begin /bin/rm -rf /usr/local/packages/@apptemp/BackupRestoreManager
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 End /bin/rm -rf /usr/local/packages/@apptemp/BackupRestoreManager ret=[0]
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 Begin postuninst
+2024/09/09 08:20:32	uninstall BackupRestoreManager 2.5.2-12461 End postuninst ret=[0]

@@ -1,0 +1,342 @@
+[Sat Sep 28 12:32:42.424624 2024] [ssl:warn] [pid 10435:tid 140176600046464] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 28 12:32:42.452741 2024] [ssl:warn] [pid 10436:tid 140176600046464] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 28 12:32:42.453699 2024] [mpm_worker:notice] [pid 10436:tid 140176600046464] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Sep 28 12:32:42.453719 2024] [core:notice] [pid 10436:tid 140176600046464] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 01:04:31.637826 2024] [core:warn] [pid 10436:tid 140176600046464] AH00045: child process 10439 still did not exit, sending a SIGTERM
+[Sat Oct 05 01:04:31.664011 2024] [core:warn] [pid 10436:tid 140176600046464] AH00045: child process 10443 still did not exit, sending a SIGTERM
+[Sat Oct 05 01:04:31.664019 2024] [core:warn] [pid 10436:tid 140176600046464] AH00045: child process 9778 still did not exit, sending a SIGTERM
+[Sat Oct 05 01:04:33.665746 2024] [mpm_worker:notice] [pid 10436:tid 140176600046464] AH00295: caught SIGTERM, shutting down
+[Sat Oct 05 01:04:34.625257 2024] [ssl:warn] [pid 9861:tid 139948945124224] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 01:04:34.637754 2024] [ssl:warn] [pid 9867:tid 139948945124224] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 01:04:34.638644 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 01:04:34.638665 2024] [core:notice] [pid 9867:tid 139948945124224] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 02:04:15.765289 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 9870 still did not exit, sending a SIGTERM
+[Sat Oct 05 02:04:15.765338 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 9874 still did not exit, sending a SIGTERM
+[Sat Oct 05 02:04:17.766467 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 02:04:17.779625 2024] [ssl:warn] [pid 9867:tid 139948945124224] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 02:04:17.780550 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 02:04:17.780569 2024] [core:notice] [pid 9867:tid 139948945124224] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 02:04:47.659485 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 23831 still did not exit, sending a SIGTERM
+[Sat Oct 05 02:04:47.659526 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 23835 still did not exit, sending a SIGTERM
+[Sat Oct 05 02:04:49.661522 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 02:04:49.675212 2024] [ssl:warn] [pid 9867:tid 139948945124224] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 02:04:49.676029 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 02:04:49.676057 2024] [core:notice] [pid 9867:tid 139948945124224] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 02:38:51.757520 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 24426 still did not exit, sending a SIGTERM
+[Sat Oct 05 02:38:51.757585 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 24429 still did not exit, sending a SIGTERM
+[Sat Oct 05 02:38:53.759777 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 02:38:53.771748 2024] [ssl:warn] [pid 9867:tid 139948945124224] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 02:38:53.772538 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 02:38:53.772553 2024] [core:notice] [pid 9867:tid 139948945124224] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 03:10:43.261450 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 30905 still did not exit, sending a SIGTERM
+[Sat Oct 05 03:10:43.261507 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 30909 still did not exit, sending a SIGTERM
+[Sat Oct 05 03:10:45.263752 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 03:10:45.276203 2024] [ssl:warn] [pid 9867:tid 139948945124224] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 03:10:45.277015 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 03:10:45.277030 2024] [core:notice] [pid 9867:tid 139948945124224] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 03:11:29.905519 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 20762 still did not exit, sending a SIGTERM
+[Sat Oct 05 03:11:29.905584 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 20766 still did not exit, sending a SIGTERM
+[Sat Oct 05 03:11:31.907536 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 03:11:31.919800 2024] [ssl:warn] [pid 9867:tid 139948945124224] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 03:11:31.920671 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 03:11:31.920687 2024] [core:notice] [pid 9867:tid 139948945124224] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 03:12:01.245757 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 23034 still did not exit, sending a SIGTERM
+[Sat Oct 05 03:12:01.245802 2024] [core:warn] [pid 9867:tid 139948945124224] AH00045: child process 23038 still did not exit, sending a SIGTERM
+[Sat Oct 05 03:12:03.248106 2024] [mpm_worker:notice] [pid 9867:tid 139948945124224] AH00295: caught SIGTERM, shutting down
+[Sat Oct 05 03:12:04.075906 2024] [ssl:warn] [pid 24945:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 03:12:04.088631 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 03:12:04.089580 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 03:12:04.089600 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 11:42:56.510516 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 24952 still did not exit, sending a SIGTERM
+[Sat Oct 05 11:42:56.526275 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 24956 still did not exit, sending a SIGTERM
+[Sat Oct 05 11:42:58.527489 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 11:42:58.590223 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 11:42:58.591265 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 11:42:58.591283 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 11:43:05.997516 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 21307 still did not exit, sending a SIGTERM
+[Sat Oct 05 11:43:05.997558 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 21309 still did not exit, sending a SIGTERM
+[Sat Oct 05 11:43:07.999423 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 11:43:09.911153 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 11:43:09.912018 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 11:43:09.912035 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 21:48:37.063800 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 21438 still did not exit, sending a SIGTERM
+[Sat Oct 05 21:48:37.078578 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 21442 still did not exit, sending a SIGTERM
+[Sat Oct 05 21:48:38.079783 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 21:48:38.117519 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 21:48:38.118363 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 21:48:38.118391 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 22:00:14.745563 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 11864 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:00:14.763566 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 11867 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:00:16.765744 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 22:00:17.168248 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 22:00:17.169366 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 22:00:17.169387 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 22:11:17.529415 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 15698 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:11:17.546680 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 15699 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:11:19.548525 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 22:11:19.726502 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 22:11:19.727328 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 22:11:19.727344 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 22:11:27.219486 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 19698 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:11:27.219528 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 19701 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:11:29.221449 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 22:11:29.238862 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 22:11:29.239729 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 22:11:29.239745 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 22:11:35.331510 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 20037 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:11:35.331550 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 20041 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:11:37.333434 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 22:11:37.945474 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 22:11:37.946346 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 22:11:37.946361 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 22:30:47.423791 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 20332 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:30:47.442205 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 20336 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:30:49.184425 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 22:30:49.277028 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 22:30:49.277922 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 22:30:49.277939 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 22:31:02.438605 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 26651 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:31:02.438649 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 26655 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:31:04.440526 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 22:31:04.453355 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 22:31:04.454212 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 22:31:04.454228 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 22:31:39.789410 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 27017 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:31:39.792335 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 27021 still did not exit, sending a SIGTERM
+[Sat Oct 05 22:31:41.793551 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 22:31:41.810946 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 22:31:41.811814 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 22:31:41.811843 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 23:22:19.455489 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 27613 still did not exit, sending a SIGTERM
+[Sat Oct 05 23:22:19.457448 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 27617 still did not exit, sending a SIGTERM
+[Sat Oct 05 23:22:20.458481 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 23:22:20.571980 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 23:22:20.572972 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 23:22:20.572994 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sat Oct 05 23:26:10.028428 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 11956 still did not exit, sending a SIGTERM
+[Sat Oct 05 23:26:10.051642 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 11958 still did not exit, sending a SIGTERM
+[Sat Oct 05 23:26:12.053433 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 05 23:26:12.132896 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 05 23:26:12.133928 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sat Oct 05 23:26:12.133949 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:04:11.032439 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 17672 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:04:11.044550 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 17675 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:04:12.738162 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:04:12.826010 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:04:12.827066 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:04:12.827087 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:04:16.495627 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 29194 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:04:16.495665 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 29198 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:04:18.497557 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:04:18.509706 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:04:18.510492 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:04:18.510510 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:04:41.984949 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 29579 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:04:41.984996 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 29583 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:04:42.985430 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:04:42.998587 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:04:42.999524 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:04:42.999542 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:04:46.655409 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 30406 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:04:46.655450 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 30410 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:04:48.657553 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:04:48.669537 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:04:48.670300 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:04:48.670315 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:05:26.522520 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 30706 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:05:26.522575 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 30709 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:05:27.885554 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:05:27.899987 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:05:27.900802 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:05:27.900827 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:05:44.770518 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 31939 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:05:44.770571 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 31943 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:05:46.772775 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:05:46.784845 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:05:46.785642 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:05:46.785662 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:05:51.008498 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 32501 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:05:51.008559 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 32504 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:05:53.009470 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:05:53.135601 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:05:53.136410 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:05:53.136425 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:09:27.117738 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 394 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:09:27.117786 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 398 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:09:29.119426 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:09:29.133481 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:09:29.134374 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:09:29.134388 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:09:34.766522 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 2651 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:09:34.766578 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 2655 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:09:36.768412 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:09:36.781804 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:09:36.782630 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:09:36.782647 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:13:33.421096 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 2946 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:13:33.440782 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 2950 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:13:35.442489 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:13:35.533521 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:13:35.534604 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:13:35.534624 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:13:54.905528 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 5635 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:13:54.924522 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 5639 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:13:56.926476 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:13:56.950740 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:13:56.951638 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:13:56.951654 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:17:16.337526 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 6121 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:17:16.343464 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 6125 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:17:18.345577 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:17:18.360480 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:17:18.361654 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:17:18.361689 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:19:04.101628 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 8977 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:19:04.116834 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 8981 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:19:06.118973 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:19:06.132008 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:19:06.133282 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:19:06.133310 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:19:33.998477 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 10060 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:19:33.998526 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 10064 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:19:36.000474 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:19:36.013283 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:19:36.014060 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:19:36.014084 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:19:50.396423 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 10643 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:19:51.163232 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 10646 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:19:52.163502 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:19:52.177429 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:19:52.178323 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:19:52.178340 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:21:44.717415 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 11008 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:21:44.735647 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 11012 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:21:46.737507 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:21:46.751364 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:21:46.752295 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:21:46.752311 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:26:23.467489 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 12166 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:26:23.482679 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 12170 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:26:25.484472 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:26:27.368467 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:26:27.369494 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:26:27.369511 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Sun Oct 06 06:26:47.787457 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 15696 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:26:47.787518 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 15700 still did not exit, sending a SIGTERM
+[Sun Oct 06 06:26:49.789431 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 06 06:26:49.809526 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 06 06:26:49.810419 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Sun Oct 06 06:26:49.810435 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Mon Oct 07 11:46:54.670565 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 16114 still did not exit, sending a SIGTERM
+[Mon Oct 07 11:46:54.693948 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 16118 still did not exit, sending a SIGTERM
+[Mon Oct 07 11:46:55.694556 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 07 11:46:55.779831 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 07 11:46:55.783927 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Mon Oct 07 11:46:55.784040 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Mon Oct 07 16:01:38.749643 2024] [auth_basic:error] [pid 15189:tid 140152880191168] [client 10.0.0.9:58252] AH01614: Failed to GetUserLoginName: Allen
+[Mon Oct 07 16:01:43.584482 2024] [authnz_pam:warn] [pid 15189:tid 140152880191168] [client 10.0.0.9:58252] PAM authentication failed for user Allen: Permission denied
+[Mon Oct 07 16:01:43.634365 2024] [auth_basic:error] [pid 15189:tid 140152880191168] [client 10.0.0.9:58252] AH01617: user Allen: authentication failure for "/": Password Mismatch
+[Wed Oct 09 03:57:41.078449 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 15187 still did not exit, sending a SIGTERM
+[Wed Oct 09 03:57:41.101529 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 15189 still did not exit, sending a SIGTERM
+[Wed Oct 09 03:57:43.103554 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 09 03:57:43.177997 2024] [ssl:warn] [pid 24949:tid 140152910310272] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 09 03:57:43.178823 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Wed Oct 09 03:57:43.178848 2024] [core:notice] [pid 24949:tid 140152910310272] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Wed Oct 09 04:28:37.395413 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 20930 still did not exit, sending a SIGTERM
+[Wed Oct 09 04:28:37.395455 2024] [core:warn] [pid 24949:tid 140152910310272] AH00045: child process 20932 still did not exit, sending a SIGTERM
+[Wed Oct 09 04:28:39.397774 2024] [mpm_worker:notice] [pid 24949:tid 140152910310272] AH00295: caught SIGTERM, shutting down
+[Wed Oct 09 04:33:39.574633 2024] [ssl:warn] [pid 17688:tid 139711434087296] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 09 04:33:39.615416 2024] [ssl:warn] [pid 18368:tid 139711434087296] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 09 04:33:39.616187 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Wed Oct 09 04:33:39.616207 2024] [core:notice] [pid 18368:tid 139711434087296] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Wed Oct 09 05:49:17.809725 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 18371 still did not exit, sending a SIGTERM
+[Wed Oct 09 05:49:17.809770 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 18375 still did not exit, sending a SIGTERM
+[Wed Oct 09 05:49:19.812141 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 09 05:49:19.824165 2024] [ssl:warn] [pid 18368:tid 139711434087296] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 09 05:49:19.824780 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Wed Oct 09 05:49:19.824815 2024] [core:notice] [pid 18368:tid 139711434087296] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Wed Oct 09 05:49:24.836569 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 818 still did not exit, sending a SIGTERM
+[Wed Oct 09 05:49:24.836614 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 819 still did not exit, sending a SIGTERM
+[Wed Oct 09 05:49:26.838956 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 09 05:49:26.850984 2024] [ssl:warn] [pid 18368:tid 139711434087296] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 09 05:49:26.851576 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Wed Oct 09 05:49:26.851589 2024] [core:notice] [pid 18368:tid 139711434087296] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Fri Oct 11 13:43:53.590491 2024] [auth_basic:error] [pid 1072:tid 139711403968192] [client 71.192.153.36:54397] AH01614: Failed to GetUserLoginName: Allen
+[Fri Oct 11 13:43:58.775314 2024] [authnz_pam:warn] [pid 1072:tid 139711403968192] [client 71.192.153.36:54397] PAM authentication failed for user Allen: Permission denied
+[Fri Oct 11 13:43:58.775687 2024] [auth_basic:error] [pid 1072:tid 139711403968192] [client 71.192.153.36:54397] AH01617: user Allen: authentication failure for "/": Password Mismatch
+[Tue Oct 15 11:59:45.523197 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 1070 still did not exit, sending a SIGTERM
+[Tue Oct 15 11:59:45.543859 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 1072 still did not exit, sending a SIGTERM
+[Tue Oct 15 11:59:47.546231 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 15 11:59:47.635401 2024] [ssl:warn] [pid 18368:tid 139711434087296] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 15 11:59:47.636007 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Tue Oct 15 11:59:47.636026 2024] [core:notice] [pid 18368:tid 139711434087296] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Thu Oct 24 02:28:29.910591 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 2022 still did not exit, sending a SIGTERM
+[Thu Oct 24 02:28:29.932311 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 2034 still did not exit, sending a SIGTERM
+[Thu Oct 24 02:28:29.932318 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 2099 still did not exit, sending a SIGTERM
+[Thu Oct 24 02:28:31.934490 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 24 02:28:32.007358 2024] [ssl:warn] [pid 18368:tid 139711434087296] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 02:28:32.008056 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Thu Oct 24 02:28:32.008086 2024] [core:notice] [pid 18368:tid 139711434087296] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Thu Oct 24 02:28:42.445390 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 24697 still did not exit, sending a SIGTERM
+[Thu Oct 24 02:28:42.445449 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 24698 still did not exit, sending a SIGTERM
+[Thu Oct 24 02:28:44.447422 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00298: SIGHUP received.  Attempting to restart
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 24 02:28:44.459410 2024] [ssl:warn] [pid 18368:tid 139711434087296] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 02:28:44.460000 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Thu Oct 24 02:28:44.460018 2024] [core:notice] [pid 18368:tid 139711434087296] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Thu Oct 24 03:00:41.658327 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 24956 still did not exit, sending a SIGTERM
+[Thu Oct 24 03:00:41.658371 2024] [core:warn] [pid 18368:tid 139711434087296] AH00045: child process 24957 still did not exit, sending a SIGTERM
+[Thu Oct 24 03:00:43.660715 2024] [mpm_worker:notice] [pid 18368:tid 139711434087296] AH00295: caught SIGTERM, shutting down
+[Thu Oct 24 03:00:44.523991 2024] [ssl:warn] [pid 32707:tid 139995337661312] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 03:00:44.536734 2024] [ssl:warn] [pid 32708:tid 139995337661312] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 03:00:44.537730 2024] [mpm_worker:notice] [pid 32708:tid 139995337661312] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Thu Oct 24 03:00:44.537755 2024] [core:notice] [pid 32708:tid 139995337661312] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'
+[Tue Nov 05 00:53:18.646435 2024] [core:warn] [pid 32708:tid 139995337661312] AH00045: child process 32711 still did not exit, sending a SIGTERM
+[Tue Nov 05 00:53:18.667911 2024] [core:warn] [pid 32708:tid 139995337661312] AH00045: child process 32715 still did not exit, sending a SIGTERM
+[Tue Nov 05 00:53:18.667949 2024] [core:warn] [pid 32708:tid 139995337661312] AH00045: child process 13920 still did not exit, sending a SIGTERM
+[Tue Nov 05 00:53:20.669489 2024] [mpm_worker:notice] [pid 32708:tid 139995337661312] AH00295: caught SIGTERM, shutting down
+[Tue Nov 05 07:06:46.931746 2024] [ssl:warn] [pid 17511:tid 140346725591936] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 05 07:06:46.967323 2024] [ssl:warn] [pid 18443:tid 140346725591936] AH01909: 127.0.0.1:5006:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 05 07:06:46.968039 2024] [mpm_worker:notice] [pid 18443:tid 140346725591936] AH00292: Apache/2.4.54 (Unix) OpenSSL/1.1.1u configured -- resuming normal operations
+[Tue Nov 05 07:06:46.968058 2024] [core:notice] [pid 18443:tid 140346725591936] AH00094: Command line: '/var/packages/WebDAVServer/target/usr/sbin/httpd -D SSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav'

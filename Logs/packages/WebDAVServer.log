@@ -1,0 +1,53 @@
+2024/09/28 12:31:02	install WebDAVServer 2.4.5-20131 Begin preinst
+2024/09/28 12:31:02	install WebDAVServer 2.4.5-20131 End preinst ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/mkdir -p /volume1/@appstore/WebDAVServer -m 755
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/mkdir -p /volume1/@appstore/WebDAVServer -m 755 ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/rm -rf /volume1/@appstore/WebDAVServer
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/rm -rf /volume1/@appstore/WebDAVServer ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/package /volume1/@appstore/WebDAVServer
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/package /volume1/@appstore/WebDAVServer ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/rm -rf /var/packages/WebDAVServer
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/rm -rf /var/packages/WebDAVServer ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/mkdir -p /var/packages/WebDAVServer -m 755
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/mkdir -p /var/packages/WebDAVServer -m 755 ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/touch /var/packages/WebDAVServer/installing
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/touch /var/packages/WebDAVServer/installing ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/INFO /var/packages/WebDAVServer/INFO
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/INFO /var/packages/WebDAVServer/INFO ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/rm -rf /var/packages/WebDAVServer/scripts
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/rm -rf /var/packages/WebDAVServer/scripts ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/scripts /var/packages/WebDAVServer/scripts
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/scripts /var/packages/WebDAVServer/scripts ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/rm -rf /var/packages/WebDAVServer/WIZARD_UIFILES
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/rm -rf /var/packages/WebDAVServer/WIZARD_UIFILES ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/WIZARD_UIFILES /var/packages/WebDAVServer/WIZARD_UIFILES
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/WIZARD_UIFILES /var/packages/WebDAVServer/WIZARD_UIFILES ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/rm -rf /var/packages/WebDAVServer/conf
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/rm -rf /var/packages/WebDAVServer/conf ret=[0]
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 Begin /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/conf /var/packages/WebDAVServer/conf
+2024/09/28 12:31:04	install WebDAVServer 2.4.5-20131 End /bin/mv -f /volume1/@tmp/synopkg/install.hdYOO1/conf /var/packages/WebDAVServer/conf ret=[0]
+2024/09/28 12:31:10	install WebDAVServer 2.4.5-20131 Begin postinst
+2024/09/28 12:31:10	install WebDAVServer 2.4.5-20131 End postinst ret=[0]
+2024/09/28 12:31:15	install WebDAVServer 2.4.5-20131 Begin start-stop-status start
+cat: /usr/syno/etc/synoservice.override/webdav-httpd-pure.cfg: No such file or directory
+cat: /usr/syno/etc/synoservice.override/webdav-httpd-ssl.cfg: No such file or directory
+LoadModule synobandwidth_module modules/mod_synobandwidth.so
+2024/09/28 12:31:17	install WebDAVServer 2.4.5-20131 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger WebDAVServer 2.4.5-20131 Begin start-stop-status stop
+/var/packages/WebDAVServer/target/scripts/synowebdavserver_httpd_control.sh: webdav httpd stopped
+2024/10/09 04:28:40	(system) trigger WebDAVServer 2.4.5-20131 End start-stop-status stop ret=[0]
+2024/10/09 04:33:37	(system) trigger WebDAVServer 2.4.5-20131 Begin start-stop-status start
+LoadModule synobandwidth_module modules/mod_synobandwidth.so
+Start WebDav Apache Server .....  -DSSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+/var/packages/WebDAVServer/target/scripts/synowebdavserver_httpd_control.sh: webdav httpd started
+2024/10/09 04:33:41	(system) trigger WebDAVServer 2.4.5-20131 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger WebDAVServer 2.4.5-20131 Begin start-stop-status stop
+/var/packages/WebDAVServer/target/scripts/synowebdavserver_httpd_control.sh: webdav httpd stopped
+2024/11/05 00:53:21	(system) trigger WebDAVServer 2.4.5-20131 End start-stop-status stop ret=[0]
+2024/11/05 07:06:44	(system) trigger WebDAVServer 2.4.5-20131 Begin start-stop-status start
+LoadModule synobandwidth_module modules/mod_synobandwidth.so
+Start WebDav Apache Server .....  -DSSL -f /var/packages/WebDAVServer/target/etc/httpd/conf/httpd.conf-webdav
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+/var/packages/WebDAVServer/target/scripts/synowebdavserver_httpd_control.sh: webdav httpd started
+2024/11/05 07:06:48	(system) trigger WebDAVServer 2.4.5-20131 End start-stop-status start ret=[0]

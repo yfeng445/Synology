@@ -1,0 +1,80 @@
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin preinst
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End preinst ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/mkdir -p /volume1/@appstore/Node.js_v20 -m 755
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/mkdir -p /volume1/@appstore/Node.js_v20 -m 755 ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /volume1/@appstore/Node.js_v20
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/rm -rf /volume1/@appstore/Node.js_v20 ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/mv -f /volume1/@tmp/synopkg/install.OIgEKv/package /volume1/@appstore/Node.js_v20
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/mv -f /volume1/@tmp/synopkg/install.OIgEKv/package /volume1/@appstore/Node.js_v20 ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /var/packages/Node.js_v20
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/rm -rf /var/packages/Node.js_v20 ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/mkdir -p /var/packages/Node.js_v20 -m 755
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/mkdir -p /var/packages/Node.js_v20 -m 755 ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/touch /var/packages/Node.js_v20/installing
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/touch /var/packages/Node.js_v20/installing ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/mv -f /volume1/@tmp/synopkg/install.OIgEKv/INFO /var/packages/Node.js_v20/INFO
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/mv -f /volume1/@tmp/synopkg/install.OIgEKv/INFO /var/packages/Node.js_v20/INFO ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /var/packages/Node.js_v20/scripts
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/rm -rf /var/packages/Node.js_v20/scripts ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/mv -f /volume1/@tmp/synopkg/install.OIgEKv/scripts /var/packages/Node.js_v20/scripts
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/mv -f /volume1/@tmp/synopkg/install.OIgEKv/scripts /var/packages/Node.js_v20/scripts ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /var/packages/Node.js_v20/conf
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/rm -rf /var/packages/Node.js_v20/conf ret=[0]
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 Begin /bin/mv -f /volume1/@tmp/synopkg/install.OIgEKv/conf /var/packages/Node.js_v20/conf
+2024/09/11 20:09:20	install Node.js_v20 20.9.0-1003 End /bin/mv -f /volume1/@tmp/synopkg/install.OIgEKv/conf /var/packages/Node.js_v20/conf ret=[0]
+2024/09/11 20:09:21	install Node.js_v20 20.9.0-1003 Begin postinst
+rm: cannot remove '/usr/local/node/nvm/versions/*/bin/node': No such file or directory
+rmdir: failed to remove '/usr/local/node/nvm/versions/*/bin': No such file or directory
+rmdir: failed to remove '/usr/local/node/nvm/versions/*': No such file or directory
+2024/09/11 20:09:21	install Node.js_v20 20.9.0-1003 End postinst ret=[0]
+2024/09/11 20:09:21	install Node.js_v20 20.9.0-1003 Begin start-stop-status start
+2024/09/11 20:09:21	install Node.js_v20 20.9.0-1003 End start-stop-status start ret=[0]
+2024/09/11 20:28:42	uninstall Node.js_v20 20.9.0-1003 Begin start-stop-status stop
+2024/09/11 20:28:42	uninstall Node.js_v20 20.9.0-1003 End start-stop-status stop ret=[0]
+2024/09/11 20:28:43	uninstall Node.js_v20 20.9.0-1003 Begin preuninst
+2024/09/11 20:28:43	uninstall Node.js_v20 20.9.0-1003 End preuninst ret=[0]
+2024/09/11 20:28:43	uninstall Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /volume1/@appstore/Node.js_v20
+2024/09/11 20:28:43	uninstall Node.js_v20 20.9.0-1003 End /bin/rm -rf /volume1/@appstore/Node.js_v20 ret=[0]
+2024/09/11 20:28:43	uninstall Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /volume1/@apptemp/Node.js_v20
+2024/09/11 20:28:43	uninstall Node.js_v20 20.9.0-1003 End /bin/rm -rf /volume1/@apptemp/Node.js_v20 ret=[0]
+2024/09/11 20:28:43	uninstall Node.js_v20 20.9.0-1003 Begin postuninst
+2024/09/11 20:28:43	uninstall Node.js_v20 20.9.0-1003 End postuninst ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin preinst
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End preinst ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/mkdir -p /volume1/@appstore/Node.js_v20 -m 755
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/mkdir -p /volume1/@appstore/Node.js_v20 -m 755 ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /volume1/@appstore/Node.js_v20
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/rm -rf /volume1/@appstore/Node.js_v20 ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/mv -f /volume1/@tmp/synopkg/install.85t7Wm/package /volume1/@appstore/Node.js_v20
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/mv -f /volume1/@tmp/synopkg/install.85t7Wm/package /volume1/@appstore/Node.js_v20 ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /var/packages/Node.js_v20
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/rm -rf /var/packages/Node.js_v20 ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/mkdir -p /var/packages/Node.js_v20 -m 755
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/mkdir -p /var/packages/Node.js_v20 -m 755 ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/touch /var/packages/Node.js_v20/installing
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/touch /var/packages/Node.js_v20/installing ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/mv -f /volume1/@tmp/synopkg/install.85t7Wm/INFO /var/packages/Node.js_v20/INFO
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/mv -f /volume1/@tmp/synopkg/install.85t7Wm/INFO /var/packages/Node.js_v20/INFO ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /var/packages/Node.js_v20/scripts
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/rm -rf /var/packages/Node.js_v20/scripts ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/mv -f /volume1/@tmp/synopkg/install.85t7Wm/scripts /var/packages/Node.js_v20/scripts
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/mv -f /volume1/@tmp/synopkg/install.85t7Wm/scripts /var/packages/Node.js_v20/scripts ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/rm -rf /var/packages/Node.js_v20/conf
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/rm -rf /var/packages/Node.js_v20/conf ret=[0]
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 Begin /bin/mv -f /volume1/@tmp/synopkg/install.85t7Wm/conf /var/packages/Node.js_v20/conf
+2024/09/26 10:47:06	install Node.js_v20 20.9.0-1003 End /bin/mv -f /volume1/@tmp/synopkg/install.85t7Wm/conf /var/packages/Node.js_v20/conf ret=[0]
+2024/09/26 10:47:07	install Node.js_v20 20.9.0-1003 Begin postinst
+rm: cannot remove '/usr/local/node/nvm/versions/*/bin/node': No such file or directory
+rmdir: failed to remove '/usr/local/node/nvm/versions/*/bin': No such file or directory
+rmdir: failed to remove '/usr/local/node/nvm/versions/*': No such file or directory
+2024/09/26 10:47:07	install Node.js_v20 20.9.0-1003 End postinst ret=[0]
+2024/09/26 10:47:07	install Node.js_v20 20.9.0-1003 Begin start-stop-status start
+2024/09/26 10:47:07	install Node.js_v20 20.9.0-1003 End start-stop-status start ret=[0]
+2024/10/09 04:29:04	(system) trigger Node.js_v20 20.9.0-1003 Begin start-stop-status stop
+2024/10/09 04:29:04	(system) trigger Node.js_v20 20.9.0-1003 End start-stop-status stop ret=[0]
+2024/10/09 04:33:37	(system) trigger Node.js_v20 20.9.0-1003 Begin start-stop-status start
+2024/10/09 04:33:37	(system) trigger Node.js_v20 20.9.0-1003 End start-stop-status start ret=[0]
+2024/11/05 00:53:44	(system) trigger Node.js_v20 20.9.0-1003 Begin start-stop-status stop
+2024/11/05 00:53:44	(system) trigger Node.js_v20 20.9.0-1003 End start-stop-status stop ret=[0]
+2024/11/05 07:06:44	(system) trigger Node.js_v20 20.9.0-1003 Begin start-stop-status start
+2024/11/05 07:06:44	(system) trigger Node.js_v20 20.9.0-1003 End start-stop-status start ret=[0]

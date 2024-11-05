@@ -1,0 +1,856 @@
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: method return time=1726486286.174463 sender=org.freedesktop.DBus -> destination=:1.1 serial=3 reply_serial=2
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: string "<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <node>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <interface name="org.freedesktop.DBus">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="Hello">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="RequestName">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="u"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="u"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="ReleaseName">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="u"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="StartServiceByName">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="u"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="u"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="UpdateActivationEnvironment">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="a{ss}"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="NameHasOwner">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="b"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="ListNames">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="as"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="ListActivatableNames">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="as"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="AddMatch">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="RemoveMatch">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="GetNameOwner">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="ListQueuedOwners">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="as"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="GetConnectionUnixUser">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="u"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="GetConnectionUnixProcessID">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="u"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="GetAdtAuditSessionData">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="ay"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="GetConnectionSELinuxSecurityContext">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="ay"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="ReloadConfig">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="GetId">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="GetConnectionCredentials">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="in" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="a{sv}"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <property name="Features" type="as" access="read">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </property>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <property name="Interfaces" type="as" access="read">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </property>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <signal name="NameOwnerChanged">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </signal>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <signal name="NameLost">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </signal>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <signal name="NameAcquired">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </signal>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </interface>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <interface name="org.freedesktop.DBus.Introspectable">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="Introspect">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </interface>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <interface name="org.freedesktop.DBus.Peer">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="GetMachineId">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <arg direction="out" type="s"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <method name="Ping">
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </method>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </interface>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: <node name="org/freedesktop/DBus"/>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: </node>
+2024-09-16T19:31:26+08:00 Synology_NAS syno-dbus-check.sh[7276]: "
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: method return time=1726520224.967128 sender=org.freedesktop.DBus -> destination=:1.1 serial=3 reply_serial=2
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: string "<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <node>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <interface name="org.freedesktop.DBus">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="Hello">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="RequestName">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="u"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="u"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="ReleaseName">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="u"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="StartServiceByName">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="u"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="u"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="UpdateActivationEnvironment">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="a{ss}"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="NameHasOwner">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="b"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="ListNames">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="as"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="ListActivatableNames">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="as"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="AddMatch">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="RemoveMatch">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="GetNameOwner">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="ListQueuedOwners">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="as"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="GetConnectionUnixUser">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="u"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="GetConnectionUnixProcessID">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="u"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="GetAdtAuditSessionData">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="ay"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="GetConnectionSELinuxSecurityContext">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="ay"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="ReloadConfig">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="GetId">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="GetConnectionCredentials">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="in" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="a{sv}"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <property name="Features" type="as" access="read">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </property>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <property name="Interfaces" type="as" access="read">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </property>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <signal name="NameOwnerChanged">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </signal>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <signal name="NameLost">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </signal>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <signal name="NameAcquired">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </signal>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </interface>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <interface name="org.freedesktop.DBus.Introspectable">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="Introspect">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </interface>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <interface name="org.freedesktop.DBus.Peer">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="GetMachineId">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <arg direction="out" type="s"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <method name="Ping">
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </method>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </interface>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: <node name="org/freedesktop/DBus"/>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: </node>
+2024-09-17T04:57:04+08:00 Synology_NAS syno-dbus-check.sh[7248]: "
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: method return time=1726523355.001086 sender=org.freedesktop.DBus -> destination=:1.1 serial=3 reply_serial=2
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: string "<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <node>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <interface name="org.freedesktop.DBus">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="Hello">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="RequestName">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="u"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="u"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="ReleaseName">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="u"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="StartServiceByName">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="u"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="u"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="UpdateActivationEnvironment">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="a{ss}"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="NameHasOwner">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="b"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="ListNames">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="as"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="ListActivatableNames">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="as"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="AddMatch">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="RemoveMatch">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="GetNameOwner">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="ListQueuedOwners">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="as"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="GetConnectionUnixUser">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="u"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="GetConnectionUnixProcessID">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="u"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="GetAdtAuditSessionData">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="ay"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="GetConnectionSELinuxSecurityContext">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="ay"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="ReloadConfig">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="GetId">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="GetConnectionCredentials">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="in" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="a{sv}"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <property name="Features" type="as" access="read">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </property>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <property name="Interfaces" type="as" access="read">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </property>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <signal name="NameOwnerChanged">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </signal>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <signal name="NameLost">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </signal>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <signal name="NameAcquired">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </signal>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </interface>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <interface name="org.freedesktop.DBus.Introspectable">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="Introspect">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </interface>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <interface name="org.freedesktop.DBus.Peer">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="GetMachineId">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <arg direction="out" type="s"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <method name="Ping">
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </method>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </interface>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: <node name="org/freedesktop/DBus"/>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: </node>
+2024-09-17T05:49:15+08:00 Synology_NAS syno-dbus-check.sh[7250]: "
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: method return time=1726541069.911453 sender=org.freedesktop.DBus -> destination=:1.1 serial=3 reply_serial=2
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: string "<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <node>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <interface name="org.freedesktop.DBus">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="Hello">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="RequestName">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="u"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="u"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="ReleaseName">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="u"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="StartServiceByName">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="u"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="u"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="UpdateActivationEnvironment">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="a{ss}"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="NameHasOwner">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="b"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="ListNames">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="as"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="ListActivatableNames">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="as"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="AddMatch">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="RemoveMatch">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="GetNameOwner">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="ListQueuedOwners">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="as"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="GetConnectionUnixUser">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="u"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="GetConnectionUnixProcessID">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="u"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="GetAdtAuditSessionData">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="ay"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="GetConnectionSELinuxSecurityContext">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="ay"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="ReloadConfig">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="GetId">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="GetConnectionCredentials">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="in" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="a{sv}"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <property name="Features" type="as" access="read">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </property>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <property name="Interfaces" type="as" access="read">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </property>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <signal name="NameOwnerChanged">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </signal>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <signal name="NameLost">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </signal>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <signal name="NameAcquired">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </signal>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </interface>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <interface name="org.freedesktop.DBus.Introspectable">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="Introspect">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </interface>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <interface name="org.freedesktop.DBus.Peer">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="GetMachineId">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <arg direction="out" type="s"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <method name="Ping">
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </method>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </interface>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: <node name="org/freedesktop/DBus"/>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: </node>
+2024-09-17T10:44:29+08:00 Synology_NAS syno-dbus-check.sh[7251]: "
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: method return time=1726789787.112798 sender=org.freedesktop.DBus -> destination=:1.1 serial=3 reply_serial=2
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: string "<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <node>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <interface name="org.freedesktop.DBus">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="Hello">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="RequestName">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="u"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="u"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="ReleaseName">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="u"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="StartServiceByName">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="u"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="u"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="UpdateActivationEnvironment">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="a{ss}"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="NameHasOwner">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="b"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="ListNames">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="as"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="ListActivatableNames">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="as"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="AddMatch">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="RemoveMatch">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="GetNameOwner">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="ListQueuedOwners">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="as"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="GetConnectionUnixUser">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="u"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="GetConnectionUnixProcessID">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="u"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="GetAdtAuditSessionData">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="ay"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="GetConnectionSELinuxSecurityContext">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="ay"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="ReloadConfig">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="GetId">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="GetConnectionCredentials">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="in" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="a{sv}"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <property name="Features" type="as" access="read">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </property>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <property name="Interfaces" type="as" access="read">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </property>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <signal name="NameOwnerChanged">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </signal>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <signal name="NameLost">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </signal>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <signal name="NameAcquired">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </signal>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </interface>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <interface name="org.freedesktop.DBus.Introspectable">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="Introspect">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </interface>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <interface name="org.freedesktop.DBus.Peer">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="GetMachineId">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <arg direction="out" type="s"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <method name="Ping">
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </method>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </interface>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: <node name="org/freedesktop/DBus"/>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: </node>
+2024-09-20T07:49:47+08:00 Synology_NAS syno-dbus-check.sh[7324]: "
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: method return time=1726803186.373408 sender=org.freedesktop.DBus -> destination=:1.1 serial=3 reply_serial=2
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: string "<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <node>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <interface name="org.freedesktop.DBus">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="Hello">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="RequestName">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="u"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="u"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="ReleaseName">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="u"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="StartServiceByName">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="u"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="u"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="UpdateActivationEnvironment">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="a{ss}"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="NameHasOwner">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="b"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="ListNames">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="as"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="ListActivatableNames">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="as"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="AddMatch">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="RemoveMatch">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="GetNameOwner">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="ListQueuedOwners">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="as"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="GetConnectionUnixUser">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="u"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="GetConnectionUnixProcessID">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="u"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="GetAdtAuditSessionData">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="ay"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="GetConnectionSELinuxSecurityContext">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="ay"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="ReloadConfig">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="GetId">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="GetConnectionCredentials">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="in" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="a{sv}"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <property name="Features" type="as" access="read">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </property>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <property name="Interfaces" type="as" access="read">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </property>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <signal name="NameOwnerChanged">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </signal>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <signal name="NameLost">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </signal>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <signal name="NameAcquired">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </signal>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </interface>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <interface name="org.freedesktop.DBus.Introspectable">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="Introspect">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </interface>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <interface name="org.freedesktop.DBus.Peer">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="GetMachineId">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <arg direction="out" type="s"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <method name="Ping">
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </method>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </interface>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: <node name="org/freedesktop/DBus"/>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: </node>
+2024-09-20T11:33:06+08:00 Synology_NAS syno-dbus-check.sh[7372]: "
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: method return time=1728419508.556199 sender=org.freedesktop.DBus -> destination=:1.0 serial=3 reply_serial=2
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: string "<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <node>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <interface name="org.freedesktop.DBus">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="Hello">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="RequestName">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="u"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="u"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="ReleaseName">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="u"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="StartServiceByName">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="u"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="u"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="UpdateActivationEnvironment">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="a{ss}"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="NameHasOwner">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="b"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="ListNames">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="as"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="ListActivatableNames">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="as"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="AddMatch">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="RemoveMatch">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="GetNameOwner">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="ListQueuedOwners">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="as"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="GetConnectionUnixUser">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="u"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="GetConnectionUnixProcessID">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="u"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="GetAdtAuditSessionData">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="ay"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="GetConnectionSELinuxSecurityContext">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="ay"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="ReloadConfig">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="GetId">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="GetConnectionCredentials">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="in" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="a{sv}"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <property name="Features" type="as" access="read">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </property>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <property name="Interfaces" type="as" access="read">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </property>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <signal name="NameOwnerChanged">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </signal>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <signal name="NameLost">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </signal>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <signal name="NameAcquired">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </signal>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </interface>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <interface name="org.freedesktop.DBus.Introspectable">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="Introspect">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </interface>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <interface name="org.freedesktop.DBus.Peer">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="GetMachineId">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <arg direction="out" type="s"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <method name="Ping">
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </method>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </interface>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: <node name="org/freedesktop/DBus"/>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: </node>
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-dbus-check.sh[7408]: "
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: method return time=1730761506.133491 sender=org.freedesktop.DBus -> destination=:1.1 serial=3 reply_serial=2
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: string "<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: "http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <node>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <interface name="org.freedesktop.DBus">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="Hello">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="RequestName">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="u"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="u"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="ReleaseName">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="u"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="StartServiceByName">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="u"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="u"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="UpdateActivationEnvironment">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="a{ss}"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="NameHasOwner">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="b"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="ListNames">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="as"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="ListActivatableNames">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="as"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="AddMatch">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="RemoveMatch">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="GetNameOwner">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="ListQueuedOwners">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="as"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="GetConnectionUnixUser">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="u"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="GetConnectionUnixProcessID">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="u"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="GetAdtAuditSessionData">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="ay"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="GetConnectionSELinuxSecurityContext">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="ay"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="ReloadConfig">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="GetId">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="GetConnectionCredentials">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="in" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="a{sv}"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <property name="Features" type="as" access="read">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </property>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <property name="Interfaces" type="as" access="read">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <annotation name="org.freedesktop.DBus.Property.EmitsChangedSignal" value="const"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </property>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <signal name="NameOwnerChanged">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </signal>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <signal name="NameLost">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </signal>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <signal name="NameAcquired">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </signal>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </interface>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <interface name="org.freedesktop.DBus.Introspectable">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="Introspect">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </interface>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <interface name="org.freedesktop.DBus.Peer">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="GetMachineId">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <arg direction="out" type="s"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <method name="Ping">
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </method>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </interface>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: <node name="org/freedesktop/DBus"/>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: </node>
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-dbus-check.sh[7416]: "

@@ -1,0 +1,71 @@
+2024-09-11T20:09:15+08:00 Synology_NAS synoindex.sh[16750]: Create database: synoindex
+2024-09-11T20:09:16+08:00 Synology_NAS synoindex.sh[16750]: BEGIN
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: CREATE INDEX
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: INSERT 0 1
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: COMMIT
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: Current database [synoindex] version [1]
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: Execute /usr/syno/synoindex/sql/synoindex/..//synoindex//upgrade/2.pgsql
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: BEGIN
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: CREATE FUNCTION
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: CREATE TRIGGER
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: CREATE TRIGGER
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: COMMIT
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: update version to 2 in synoindex DB
+2024-09-11T20:09:17+08:00 Synology_NAS synoindex.sh[16750]: Change synoindex owner to MediaIndex
+2024-09-11T20:30:01+08:00 Synology_NAS synoindex.sh[8137]: Create pgsql user MediaIndex
+2024-09-11T20:30:01+08:00 Synology_NAS synoindex.sh[8137]: Create database: synoindex
+2024-09-11T20:30:01+08:00 Synology_NAS synoindex.sh[8137]: BEGIN
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: CREATE INDEX
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: INSERT 0 1
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: COMMIT
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: Current database [synoindex] version [1]
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: Execute /usr/syno/synoindex/sql/synoindex/..//synoindex//upgrade/2.pgsql
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: BEGIN
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: CREATE FUNCTION
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: CREATE TRIGGER
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: CREATE TRIGGER
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: COMMIT
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: update version to 2 in synoindex DB
+2024-09-11T20:30:02+08:00 Synology_NAS synoindex.sh[8137]: Change synoindex owner to MediaIndex
+2024-09-12T00:30:35+08:00 Synology_NAS synoindex.sh[14332]: Current database [synoindex] version [2]
+2024-09-14T23:17:03+08:00 Synology_NAS synoindex.sh[16751]: Current database [synoindex] version [2]
+2024-09-15T01:14:27+08:00 Synology_NAS synoindex.sh[16934]: Current database [synoindex] version [2]
+2024-09-15T01:22:24+08:00 Synology_NAS synoindex.sh[18185]: Current database [synoindex] version [2]
+2024-09-15T01:31:20+08:00 Synology_NAS synoindex.sh[18537]: Current database [synoindex] version [2]
+2024-09-15T05:06:42+08:00 Synology_NAS synoindex.sh[15286]: Create pgsql user MediaIndex
+2024-09-15T05:06:42+08:00 Synology_NAS synoindex.sh[15286]: Create database: synoindex
+2024-09-15T05:06:46+08:00 Synology_NAS synoindex.sh[15286]: BEGIN
+2024-09-15T05:06:47+08:00 Synology_NAS synoindex.sh[15286]: CREATE TABLE
+2024-09-15T05:06:47+08:00 Synology_NAS synoindex.sh[15286]: CREATE INDEX
+2024-09-15T05:06:47+08:00 Synology_NAS synoindex.sh[15286]: CREATE TABLE
+2024-09-15T05:06:47+08:00 Synology_NAS synoindex.sh[15286]: INSERT 0 1
+2024-09-15T05:06:47+08:00 Synology_NAS synoindex.sh[15286]: COMMIT
+2024-09-15T05:06:47+08:00 Synology_NAS synoindex.sh[15286]: Current database [synoindex] version [1]
+2024-09-15T05:06:47+08:00 Synology_NAS synoindex.sh[15286]: Execute /usr/syno/synoindex/sql/synoindex/..//synoindex//upgrade/2.pgsql
+2024-09-15T05:06:47+08:00 Synology_NAS synoindex.sh[15286]: BEGIN
+2024-09-15T05:06:49+08:00 Synology_NAS synoindex.sh[15286]: CREATE TABLE
+2024-09-15T05:06:50+08:00 Synology_NAS synoindex.sh[15286]: CREATE TABLE
+2024-09-15T05:06:50+08:00 Synology_NAS synoindex.sh[15286]: CREATE FUNCTION
+2024-09-15T05:06:50+08:00 Synology_NAS synoindex.sh[15286]: CREATE TRIGGER
+2024-09-15T05:06:50+08:00 Synology_NAS synoindex.sh[15286]: CREATE TRIGGER
+2024-09-15T05:06:50+08:00 Synology_NAS synoindex.sh[15286]: COMMIT
+2024-09-15T05:06:50+08:00 Synology_NAS synoindex.sh[15286]: update version to 2 in synoindex DB
+2024-09-15T05:06:50+08:00 Synology_NAS synoindex.sh[15286]: Change synoindex owner to MediaIndex
+2024-09-15T05:16:21+08:00 Synology_NAS synoindex.sh[19035]: Current database [synoindex] version [2]
+2024-09-16T05:39:52+08:00 Synology_NAS synoindex.sh[17020]: Current database [synoindex] version [2]
+2024-09-16T19:33:13+08:00 Synology_NAS synoindex.sh[16915]: Current database [synoindex] version [2]
+2024-09-17T04:58:54+08:00 Synology_NAS synoindex.sh[16956]: Current database [synoindex] version [2]
+2024-09-17T05:51:02+08:00 Synology_NAS synoindex.sh[16972]: Current database [synoindex] version [2]
+2024-09-17T10:46:18+08:00 Synology_NAS synoindex.sh[17039]: Current database [synoindex] version [2]
+2024-09-20T07:51:36+08:00 Synology_NAS synoindex.sh[17436]: Current database [synoindex] version [2]
+2024-09-20T11:34:57+08:00 Synology_NAS synoindex.sh[18008]: Current database [synoindex] version [2]
+2024-10-09T04:33:42+08:00 Yasuraokaa_Site synoindex.sh[18822]: Current database [synoindex] version [2]
+2024-11-05T07:06:49+08:00 Yasuraokaa_Site synoindex.sh[19179]: Current database [synoindex] version [2]

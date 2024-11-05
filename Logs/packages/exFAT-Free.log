@@ -1,0 +1,94 @@
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin preinst
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End preinst ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/mkdir -p /volume1/@appstore/exFAT-Free -m 755
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/mkdir -p /volume1/@appstore/exFAT-Free -m 755 ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/rm -rf /volume1/@appstore/exFAT-Free
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/rm -rf /volume1/@appstore/exFAT-Free ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/mv -f /volume1/@tmp/synopkg/install.M7Zlsw/package /volume1/@appstore/exFAT-Free
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/mv -f /volume1/@tmp/synopkg/install.M7Zlsw/package /volume1/@appstore/exFAT-Free ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/rm -rf /var/packages/exFAT-Free
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/rm -rf /var/packages/exFAT-Free ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/mkdir -p /var/packages/exFAT-Free -m 755
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/mkdir -p /var/packages/exFAT-Free -m 755 ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/touch /var/packages/exFAT-Free/installing
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/touch /var/packages/exFAT-Free/installing ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/mv -f /volume1/@tmp/synopkg/install.M7Zlsw/INFO /var/packages/exFAT-Free/INFO
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/mv -f /volume1/@tmp/synopkg/install.M7Zlsw/INFO /var/packages/exFAT-Free/INFO ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/rm -rf /var/packages/exFAT-Free/scripts
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/rm -rf /var/packages/exFAT-Free/scripts ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/mv -f /volume1/@tmp/synopkg/install.M7Zlsw/scripts /var/packages/exFAT-Free/scripts
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/mv -f /volume1/@tmp/synopkg/install.M7Zlsw/scripts /var/packages/exFAT-Free/scripts ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/rm -rf /var/packages/exFAT-Free/conf
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/rm -rf /var/packages/exFAT-Free/conf ret=[0]
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 Begin /bin/mv -f /volume1/@tmp/synopkg/install.M7Zlsw/conf /var/packages/exFAT-Free/conf
+2024/09/14 06:50:07	install exFAT-Free 7.2.0-0354 End /bin/mv -f /volume1/@tmp/synopkg/install.M7Zlsw/conf /var/packages/exFAT-Free/conf ret=[0]
+2024/09/14 06:50:08	install exFAT-Free 7.2.0-0354 Begin postinst
+2024/09/14 06:50:08	install exFAT-Free 7.2.0-0354 End postinst ret=[0]
+2024/09/14 06:50:08	install exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/14 06:50:09	install exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/14 22:42:42	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/14 22:42:43	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/14 23:17:02	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/14 23:17:02	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/15 00:49:58	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/15 00:49:58	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/15 01:14:30	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/15 01:14:30	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/15 01:22:15	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/15 01:22:15	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/15 01:31:11	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/15 01:31:11	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/15 05:06:24	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+/var/packages/exFAT-Free/scripts/start-stop-status: line 18: /var/packages/exFAT-Free/target/src/tool/synoexfatutil: No such file or directory
+/var/packages/exFAT-Free/scripts/common: line 33: /var/packages/exFAT-Free/target/src/tool/synoexfatutil: No such file or directory
+Failed to relase exfat shares
+2024/09/15 05:06:24	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[202]
+2024/09/15 05:15:30	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/15 05:15:31	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/16 05:35:16	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/16 05:35:16	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/16 05:39:54	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/16 05:39:54	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/16 19:28:24	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/16 19:28:25	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/16 19:33:11	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/16 19:33:11	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/17 04:54:16	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/17 04:54:17	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/17 04:58:56	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/17 04:58:56	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/17 05:46:13	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/17 05:46:14	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/17 05:51:01	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/17 05:51:02	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/17 10:41:29	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/17 10:41:30	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/17 10:46:14	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/17 10:46:15	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/20 07:36:31	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/20 07:36:32	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/20 07:51:33	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/20 07:51:33	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/09/20 11:28:39	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/09/20 11:28:39	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/09/20 11:34:56	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/09/20 11:34:57	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/10/09 04:28:34	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/10/09 04:33:44	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/10/09 04:33:44	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status stop
+Warning: Failed to unload exfat kernel module
+2024/11/05 00:53:16	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status stop ret=[0]
+2024/11/05 07:06:45	(system) trigger exFAT-Free 7.2.0-0354 Begin start-stop-status start
+2024/11/05 07:06:46	(system) trigger exFAT-Free 7.2.0-0354 End start-stop-status start ret=[0]

@@ -1,0 +1,92 @@
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin preinst
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End preinst ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/mkdir -p /usr/local/packages/@appstore/Python2 -m 755
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/mkdir -p /usr/local/packages/@appstore/Python2 -m 755 ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/rm -rf /usr/local/packages/@appstore/Python2
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/rm -rf /usr/local/packages/@appstore/Python2 ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/mv -f /run/synopkg/tmp/install.hqDr0A/package /usr/local/packages/@appstore/Python2
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/mv -f /run/synopkg/tmp/install.hqDr0A/package /usr/local/packages/@appstore/Python2 ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/rm -rf /var/packages/Python2
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/rm -rf /var/packages/Python2 ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/mkdir -p /var/packages/Python2 -m 755
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/mkdir -p /var/packages/Python2 -m 755 ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/touch /var/packages/Python2/installing
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/touch /var/packages/Python2/installing ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/mv -f /run/synopkg/tmp/install.hqDr0A/INFO /var/packages/Python2/INFO
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/mv -f /run/synopkg/tmp/install.hqDr0A/INFO /var/packages/Python2/INFO ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/rm -rf /var/packages/Python2/scripts
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/rm -rf /var/packages/Python2/scripts ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/mv -f /run/synopkg/tmp/install.hqDr0A/scripts /var/packages/Python2/scripts
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/mv -f /run/synopkg/tmp/install.hqDr0A/scripts /var/packages/Python2/scripts ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/rm -rf /var/packages/Python2/conf
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/rm -rf /var/packages/Python2/conf ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin /bin/mv -f /run/synopkg/tmp/install.hqDr0A/conf /var/packages/Python2/conf
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End /bin/mv -f /run/synopkg/tmp/install.hqDr0A/conf /var/packages/Python2/conf ret=[0]
+2024/09/08 17:16:55	install Python2 2.7.18-1004 Begin postinst
+2024/09/08 17:16:55	install Python2 2.7.18-1004 End postinst ret=[0]
+2024/09/08 17:16:58	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/08 17:16:58	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/09 08:24:45	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/09 08:24:45	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/10 07:08:52	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/10 07:08:52	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/11 19:57:37	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/11 19:57:37	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/11 20:05:39	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/11 20:05:39	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/12 00:26:24	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/12 00:26:24	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/12 00:30:23	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/12 00:30:23	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/14 22:43:06	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/14 22:43:06	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/14 23:16:47	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/14 23:16:47	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/15 00:50:04	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/15 00:50:04	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/15 01:14:13	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/15 01:14:13	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/15 01:22:00	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/15 01:22:00	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/15 01:30:53	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/15 01:30:53	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/15 05:06:09	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/15 05:06:09	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/15 05:15:08	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/15 05:15:08	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/16 05:35:26	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/16 05:35:26	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/16 05:39:35	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/16 05:39:35	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/16 19:28:48	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/16 19:28:48	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/16 19:32:58	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/16 19:32:58	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/17 04:54:30	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/17 04:54:30	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/17 04:58:36	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/17 04:58:36	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/17 05:46:37	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/17 05:46:37	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/17 05:50:47	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/17 05:50:47	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/17 10:41:53	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/17 10:41:53	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/17 10:46:01	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/17 10:46:01	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/20 07:36:41	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/20 07:36:41	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/20 07:51:19	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/20 07:51:19	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/09/20 11:29:03	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/09/20 11:29:03	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/09/20 11:34:37	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/09/20 11:34:37	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/10/09 04:29:15	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/10/09 04:29:15	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/10/09 04:33:20	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/10/09 04:33:20	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]
+2024/11/05 00:53:46	(system) trigger Python2 2.7.18-1004 Begin start-stop-status stop
+2024/11/05 00:53:46	(system) trigger Python2 2.7.18-1004 End start-stop-status stop ret=[0]
+2024/11/05 07:06:36	(system) trigger Python2 2.7.18-1004 Begin start-stop-status start
+2024/11/05 07:06:36	(system) trigger Python2 2.7.18-1004 End start-stop-status start ret=[0]

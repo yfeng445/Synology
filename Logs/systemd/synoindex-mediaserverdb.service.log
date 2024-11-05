@@ -1,0 +1,316 @@
+2024-09-11T20:09:15+08:00 Synology_NAS mediaserver.sh[16752]: Create pgsql user MediaIndex
+2024-09-11T20:09:15+08:00 Synology_NAS mediaserver.sh[16752]: Create database: mediaserver
+2024-09-11T20:09:16+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:16+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:16+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:16+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:16+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:16+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER SEQUENCE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[7168]: SYSTEM:	Last message 'ALTER TABLE' repeated 37 times, suppressed by syslog-ng on Synology_NAS
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE INDEX
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE INDEX
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: CREATE INDEX
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[7168]: SYSTEM:	Last message 'CREATE INDEX' repeated 76 times, suppressed by syslog-ng on Synology_NAS
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: ALTER TABLE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[7168]: SYSTEM:	Last message 'ALTER TABLE' repeated 9 times, suppressed by syslog-ng on Synology_NAS
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: REVOKE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: REVOKE
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: GRANT
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: GRANT
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: INSERT 0 1
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: Change mediaserver owner to MediaIndex
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: test config table in mediaserver DB
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: Current database [mediaserver] version [1]
+2024-09-11T20:09:17+08:00 Synology_NAS mediaserver.sh[16752]: Re-index triggered, cmd [/usr/syno/bin/synoindex -R media -P MediaIndex]
+2024-09-11T20:30:01+08:00 Synology_NAS mediaserver.sh[8138]: Create database: mediaserver
+2024-09-11T20:30:01+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:01+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER SEQUENCE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[7168]: SYSTEM:	Last message 'ALTER TABLE' repeated 37 times, suppressed by syslog-ng on Synology_NAS
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE INDEX
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE INDEX
+2024-09-11T20:30:02+08:00 Synology_NAS mediaserver.sh[8138]: CREATE INDEX
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[7168]: SYSTEM:	Last message 'CREATE INDEX' repeated 76 times, suppressed by syslog-ng on Synology_NAS
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: ALTER TABLE
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[7168]: SYSTEM:	Last message 'ALTER TABLE' repeated 9 times, suppressed by syslog-ng on Synology_NAS
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: REVOKE
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: REVOKE
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: GRANT
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: GRANT
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: INSERT 0 1
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: Change mediaserver owner to MediaIndex
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: test config table in mediaserver DB
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: Current database [mediaserver] version [1]
+2024-09-11T20:30:03+08:00 Synology_NAS mediaserver.sh[8138]: Re-index triggered, cmd [/usr/syno/bin/synoindex -R media -P MediaIndex]
+2024-09-12T00:30:35+08:00 Synology_NAS mediaserver.sh[14333]: test config table in mediaserver DB
+2024-09-12T00:30:35+08:00 Synology_NAS mediaserver.sh[14333]: Current database [mediaserver] version [1]
+2024-09-14T23:17:03+08:00 Synology_NAS mediaserver.sh[16752]: test config table in mediaserver DB
+2024-09-14T23:17:03+08:00 Synology_NAS mediaserver.sh[16752]: Current database [mediaserver] version [1]
+2024-09-15T01:14:27+08:00 Synology_NAS mediaserver.sh[16933]: test config table in mediaserver DB
+2024-09-15T01:14:27+08:00 Synology_NAS mediaserver.sh[16933]: Current database [mediaserver] version [1]
+2024-09-15T01:22:25+08:00 Synology_NAS mediaserver.sh[18187]: test config table in mediaserver DB
+2024-09-15T01:22:25+08:00 Synology_NAS mediaserver.sh[18187]: Current database [mediaserver] version [1]
+2024-09-15T01:31:21+08:00 Synology_NAS mediaserver.sh[18536]: test config table in mediaserver DB
+2024-09-15T01:31:21+08:00 Synology_NAS mediaserver.sh[18536]: Current database [mediaserver] version [1]
+2024-09-15T05:06:42+08:00 Synology_NAS mediaserver.sh[15287]: Create database: mediaserver
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:51+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER SEQUENCE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: CREATE TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:52+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:06:55+08:00 Synology_NAS mediaserver.sh[7105]: SYSTEM:	Last message 'ALTER TABLE' repeated 37 times, suppressed by syslog-ng on Synology_NAS
+2024-09-15T05:06:55+08:00 Synology_NAS mediaserver.sh[15287]: CREATE INDEX
+2024-09-15T05:06:55+08:00 Synology_NAS mediaserver.sh[15287]: CREATE INDEX
+2024-09-15T05:06:55+08:00 Synology_NAS mediaserver.sh[15287]: CREATE INDEX
+2024-09-15T05:07:03+08:00 Synology_NAS mediaserver.sh[7105]: SYSTEM:	Last message 'CREATE INDEX' repeated 76 times, suppressed by syslog-ng on Synology_NAS
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: ALTER TABLE
+2024-09-15T05:07:03+08:00 Synology_NAS mediaserver.sh[7105]: SYSTEM:	Last message 'ALTER TABLE' repeated 9 times, suppressed by syslog-ng on Synology_NAS
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: REVOKE
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: REVOKE
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: GRANT
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: GRANT
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: INSERT 0 1
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: Change mediaserver owner to MediaIndex
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: test config table in mediaserver DB
+2024-09-15T05:07:02+08:00 Synology_NAS mediaserver.sh[15287]: Current database [mediaserver] version [1]
+2024-09-15T05:07:03+08:00 Synology_NAS mediaserver.sh[15287]: Re-index triggered, cmd [/usr/syno/bin/synoindex -R media -P MediaIndex]
+2024-09-15T05:16:23+08:00 Synology_NAS mediaserver.sh[19037]: test config table in mediaserver DB
+2024-09-15T05:16:23+08:00 Synology_NAS mediaserver.sh[19037]: Current database [mediaserver] version [1]
+2024-09-16T05:39:52+08:00 Synology_NAS mediaserver.sh[17018]: test config table in mediaserver DB
+2024-09-16T05:39:52+08:00 Synology_NAS mediaserver.sh[17018]: Current database [mediaserver] version [1]
+2024-09-16T19:33:13+08:00 Synology_NAS mediaserver.sh[16917]: test config table in mediaserver DB
+2024-09-16T19:33:13+08:00 Synology_NAS mediaserver.sh[16917]: Current database [mediaserver] version [1]
+2024-09-17T04:58:54+08:00 Synology_NAS mediaserver.sh[16957]: test config table in mediaserver DB
+2024-09-17T04:58:54+08:00 Synology_NAS mediaserver.sh[16957]: Current database [mediaserver] version [1]
+2024-09-17T05:51:02+08:00 Synology_NAS mediaserver.sh[16970]: test config table in mediaserver DB
+2024-09-17T05:51:02+08:00 Synology_NAS mediaserver.sh[16970]: Current database [mediaserver] version [1]
+2024-09-17T10:46:18+08:00 Synology_NAS mediaserver.sh[17038]: test config table in mediaserver DB
+2024-09-17T10:46:18+08:00 Synology_NAS mediaserver.sh[17038]: Current database [mediaserver] version [1]
+2024-09-20T07:51:36+08:00 Synology_NAS mediaserver.sh[17437]: test config table in mediaserver DB
+2024-09-20T07:51:36+08:00 Synology_NAS mediaserver.sh[17437]: Current database [mediaserver] version [1]
+2024-09-20T11:34:57+08:00 Synology_NAS mediaserver.sh[18011]: test config table in mediaserver DB
+2024-09-20T11:34:57+08:00 Synology_NAS mediaserver.sh[18011]: Current database [mediaserver] version [1]
+2024-10-09T04:33:43+08:00 Yasuraokaa_Site mediaserver.sh[18824]: test config table in mediaserver DB
+2024-10-09T04:33:43+08:00 Yasuraokaa_Site mediaserver.sh[18824]: Current database [mediaserver] version [1]
+2024-11-05T07:06:49+08:00 Yasuraokaa_Site mediaserver.sh[19180]: test config table in mediaserver DB
+2024-11-05T07:06:49+08:00 Yasuraokaa_Site mediaserver.sh[19180]: Current database [mediaserver] version [1]

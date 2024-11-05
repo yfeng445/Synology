@@ -1,0 +1,89 @@
+2024-09-08T17:16:53-07:00 SynologyNAS synoraidtool[10729]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-08T17:16:53-07:00 SynologyNAS synoraidtool[10729]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-08T17:16:53-07:00 SynologyNAS synoraidtool[10729]: space_data_scrubbing_config_sync.c:277 Section 'ScrubbingGeneral' not found or some key in section not found, auto generate default section
+2024-09-08T17:16:53-07:00 SynologyNAS synoraidtool[10729]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-10T07:08:55+08:00 Synology_NAS synoraidtool[10641]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-10T07:08:55+08:00 Synology_NAS synoraidtool[10641]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-10T07:08:55+08:00 Synology_NAS synoraidtool[10641]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-11T20:05:39+08:00 Synology_NAS synoraidtool[10376]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-11T20:05:39+08:00 Synology_NAS synoraidtool[10376]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-11T20:05:39+08:00 Synology_NAS synoraidtool[10376]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-12T00:30:27+08:00 Synology_NAS synoraidtool[12301]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-12T00:30:27+08:00 Synology_NAS synoraidtool[12301]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-12T00:30:27+08:00 Synology_NAS synoraidtool[12301]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-14T23:16:54+08:00 Synology_NAS synoraidtool[13478]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-14T23:16:54+08:00 Synology_NAS synoraidtool[13478]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-14T23:16:54+08:00 Synology_NAS synoraidtool[13478]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-15T01:14:19+08:00 Synology_NAS synoraidtool[13522]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-15T01:14:19+08:00 Synology_NAS synoraidtool[13522]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-15T01:14:19+08:00 Synology_NAS synoraidtool[13522]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-15T01:22:06+08:00 Synology_NAS synoraidtool[13539]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-15T01:22:06+08:00 Synology_NAS synoraidtool[13539]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-15T01:22:06+08:00 Synology_NAS synoraidtool[13539]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-15T01:22:10+08:00 Synology_NAS synospace[14837]: synospace.c:2372 Super block of md2 is not clean
+2024-09-15T01:22:12+08:00 Synology_NAS synospace[14837]: synospace.c:2535 Reset scrubbing progress for /dev/vg1
+2024-09-15T01:22:12+08:00 Synology_NAS synoraidtool[16431]: space_data_scrubbing_start.c:89 Start data scrubbing on space '/dev/vg1'
+2024-09-15T01:22:13+08:00 Synology_NAS synoraidtool[16431]: fs_do_data_scrubbing.c:180 Start btrfs data scrubbing on /volume1
+2024-09-15T01:31:00+08:00 Synology_NAS synoraidtool[13790]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-15T01:31:00+08:00 Synology_NAS synoraidtool[13790]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-15T01:31:00+08:00 Synology_NAS synoraidtool[13790]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-15T01:31:04+08:00 Synology_NAS synoraidtool[15476]: space_data_scrubbing_start.c:89 Start data scrubbing on space '/dev/vg1'
+2024-09-15T01:31:06+08:00 Synology_NAS synoraidtool[15476]: fs_do_data_scrubbing.c:180 Start btrfs data scrubbing on /volume1
+2024-09-15T05:06:14+08:00 Synology_NAS synoraidtool[11429]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-15T05:06:14+08:00 Synology_NAS synoraidtool[11429]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-15T05:06:18+08:00 Synology_NAS synoraidtool[11429]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-15T05:15:19+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-15T05:15:19+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-15T05:15:19+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of '/dev/vg4'
+2024-09-15T05:15:20+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of 'md5'
+2024-09-15T05:15:20+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of 'volume4'
+2024-09-15T05:15:20+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of '/dev/vg2'
+2024-09-15T05:15:20+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of 'md3'
+2024-09-15T05:15:21+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of 'volume2'
+2024-09-15T05:15:21+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of '/dev/vg1'
+2024-09-15T05:15:21+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of 'md2'
+2024-09-15T05:15:21+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_config_sync.c:346 Reset config of 'volume1'
+2024-09-15T05:15:21+08:00 Synology_NAS synoraidtool[13568]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-15T05:15:26+08:00 Synology_NAS synospace[15624]: synospace.c:2372 Super block of md4 is not clean
+2024-09-15T05:15:28+08:00 Synology_NAS synospace[15624]: synospace.c:2535 Reset scrubbing progress for /dev/vg3
+2024-09-15T05:15:28+08:00 Synology_NAS synoraidtool[16893]: space_data_scrubbing_start.c:89 Start data scrubbing on space '/dev/vg3'
+2024-09-15T05:15:29+08:00 Synology_NAS synoraidtool[16893]: fs_do_data_scrubbing.c:180 Start btrfs data scrubbing on /volume3
+2024-09-15T05:17:25+08:00 Synology_NAS synoraidtool[16893]: space_data_scrubbing_space_set_done.c:87 Space '/dev/vg3' data scrubbing done
+2024-09-16T05:39:42+08:00 Synology_NAS synoraidtool[13543]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-16T05:39:42+08:00 Synology_NAS synoraidtool[13543]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-16T05:39:42+08:00 Synology_NAS synoraidtool[13543]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-16T19:33:04+08:00 Synology_NAS synoraidtool[13530]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-16T19:33:04+08:00 Synology_NAS synoraidtool[13530]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-16T19:33:04+08:00 Synology_NAS synoraidtool[13530]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-17T04:58:45+08:00 Synology_NAS synoraidtool[13620]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-17T04:58:45+08:00 Synology_NAS synoraidtool[13620]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-17T04:58:45+08:00 Synology_NAS synoraidtool[13620]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-17T05:50:53+08:00 Synology_NAS synoraidtool[13561]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-17T05:50:53+08:00 Synology_NAS synoraidtool[13561]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-17T05:50:53+08:00 Synology_NAS synoraidtool[13561]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-17T10:46:08+08:00 Synology_NAS synoraidtool[13532]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-17T10:46:08+08:00 Synology_NAS synoraidtool[13532]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-17T10:46:08+08:00 Synology_NAS synoraidtool[13532]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-20T07:51:25+08:00 Synology_NAS synoraidtool[13652]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-20T07:51:25+08:00 Synology_NAS synoraidtool[13652]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-20T07:51:25+08:00 Synology_NAS synoraidtool[13652]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-20T11:34:47+08:00 Synology_NAS synoraidtool[14217]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-09-20T11:34:47+08:00 Synology_NAS synoraidtool[14217]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-09-20T11:34:47+08:00 Synology_NAS synoraidtool[14217]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-09-20T11:41:23+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Storage_1_set_data_scrubbing_schedule[23235]: space_data_scrubbing_schedule_set.c:132 Set '1' to space '/dev/vg1'
+2024-09-20T11:41:23+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Storage_1_set_data_scrubbing_schedule[23235]: space_data_scrubbing_schedule_set.c:132 Set '1' to space '/dev/vg2'
+2024-09-20T11:41:23+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Storage_1_set_data_scrubbing_schedule[23235]: space_data_scrubbing_schedule_set.c:132 Set '1' to space '/dev/vg3'
+2024-09-20T11:41:24+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Storage_1_set_data_scrubbing_schedule[23235]: space_data_scrubbing_schedule_set.c:132 Set '1' to space '/dev/vg4'
+2024-09-20T11:41:24+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Storage_1_set_data_scrubbing_schedule[23235]: space_data_scrubbing_schedule_set.c:132 Set '1' to space '/dev/vg5'
+2024-09-20T11:41:24+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Storage_1_set_schedule_plan[23235]: space_data_scrubbing_int.cpp:38 Set multi schedule
+2024-09-20T11:41:24+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Storage_1_set_schedule_plan[23235]: space_data_scrubbing_int.cpp:69 Remove update schedule
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synoraidtool[14336]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synoraidtool[14336]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synoraidtool[14336]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synoraidtool[14336]: space_data_scrubbing_schedule_update.c:28 Next start time: year(2024), month(12), day(19)
+2024-10-09T04:33:30+08:00 Yasuraokaa_Site synoraidtool[14336]: space_data_scrubbing_int.cpp:69 Remove update schedule
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synoraidtool[14361]: space_data_scrubbing_config_sync.c:530 start sync data scrubbing config
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synoraidtool[14361]: space_data_scrubbing_get_section.c:71 Copy data scrubbing config to tmp
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synoraidtool[14361]: space_data_scrubbing_schedule_update.c:90 Update scrubbing schedule
+2024-11-05T07:06:37+08:00 Yasuraokaa_Site synoraidtool[14361]: space_data_scrubbing_schedule_update.c:28 Next start time: year(2024), month(12), day(19)
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site synoraidtool[14361]: space_data_scrubbing_int.cpp:69 Remove update schedule

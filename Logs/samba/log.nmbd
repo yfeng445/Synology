@@ -1,0 +1,407 @@
+../../source3/nmbd/nmbd.c:901: [2024/09/08 17:16:56.266222, all 0, pid=12206] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/08 17:17:43.222112, all 0, pid=12206] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/08 17:17:44.250992, all 0, pid=20476] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/08 17:19:35.520510, all 0, pid=20476] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/08 17:19:35.651627, all 0, pid=23385] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/09 08:24:45.345634, all 0, pid=23385] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/10 07:08:21.911041, all 0, pid=9132] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/11 19:57:37.369052, all 0, pid=9132] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/11 20:05:39.106513, all 0, pid=9310] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/12 00:26:24.195839, all 0, pid=9310] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/12 00:30:22.531632, all 0, pid=9700] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/13 15:31:45.107126, all 0, pid=9700] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/13 15:31:45.195960, all 0, pid=26196] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/13 15:32:13.329433, all 0, pid=26196] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/13 15:32:13.397726, all 0, pid=26806] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/13 15:32:34.402293, all 0, pid=26806] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/13 15:32:34.463807, all 0, pid=27393] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/13 15:58:01.835332, all 0, pid=27393] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/13 15:58:01.921659, all 0, pid=29617] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/13 15:58:02.248561, all 0, pid=29617] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/13 15:58:02.312668, all 0, pid=29989] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/13 16:10:24.544078, all 0, pid=29989] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/13 16:10:24.716656, all 0, pid=3464] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/13 16:10:31.054039, all 0, pid=3464] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/13 16:10:31.109453, all 0, pid=4090] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 22:43:06.178534, all 0, pid=4090] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:16:48.478684, all 0, pid=10704] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:18:57.222719, all 0, pid=10704] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:18:57.300776, all 0, pid=20151] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:19:37.513283, all 0, pid=20151] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:19:37.573926, all 0, pid=20744] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:28:43.996306, all 0, pid=20744] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:28:44.055723, all 0, pid=21643] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:29:13.162471, all 0, pid=21643] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:29:13.222275, all 0, pid=22231] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:32:42.319481, all 0, pid=22231] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:32:42.379711, all 0, pid=22966] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:32:44.716387, all 0, pid=22966] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:32:44.772015, all 0, pid=23404] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:33:06.287156, all 0, pid=23404] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:33:06.347071, all 0, pid=23990] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:34:12.181866, all 0, pid=23990] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:34:12.236850, all 0, pid=24609] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:34:14.294075, all 0, pid=24609] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:34:14.367831, all 0, pid=25055] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:39:32.810549, all 0, pid=25055] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:39:32.872071, all 0, pid=25799] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:39:53.986415, all 0, pid=25799] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:39:54.054754, all 0, pid=26381] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:40:40.127073, all 0, pid=26381] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:40:40.186096, all 0, pid=26991] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:40:43.734990, all 0, pid=26991] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:40:43.799537, all 0, pid=27431] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:43:22.217911, all 0, pid=27431] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:43:22.278639, all 0, pid=28109] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:43:24.543219, all 0, pid=28109] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:43:24.612933, all 0, pid=28547] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:44:29.614258, all 0, pid=28547] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:44:29.679042, all 0, pid=29178] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:44:46.454798, all 0, pid=29178] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:44:46.523067, all 0, pid=29758] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:45:11.641208, all 0, pid=29758] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:45:11.699556, all 0, pid=30377] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:45:14.141294, all 0, pid=30377] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:45:14.204407, all 0, pid=30829] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:45:52.023536, all 0, pid=30829] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:45:52.081672, all 0, pid=31430] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:55:05.790378, all 0, pid=31430] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:55:05.863227, all 0, pid=32355] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:55:08.089517, all 0, pid=32355] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:55:08.149276, all 0, pid=326] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:55:29.025008, all 0, pid=326] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:55:29.093971, all 0, pid=927] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:55:44.174287, all 0, pid=927] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:55:44.234484, all 0, pid=1510] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:57:27.333578, all 0, pid=1510] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:57:27.407755, all 0, pid=2176] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:58:23.568634, all 0, pid=2176] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:58:23.632703, all 0, pid=2780] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:58:36.951490, all 0, pid=2780] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:58:37.011784, all 0, pid=3385] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:58:43.477398, all 0, pid=3385] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:58:43.538086, all 0, pid=3959] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:59:52.897454, all 0, pid=3959] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:59:52.954694, all 0, pid=5281] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/14 23:59:59.443306, all 0, pid=5281] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/14 23:59:59.509828, all 0, pid=5867] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/15 00:05:21.283026, all 0, pid=5867] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 00:05:21.366251, all 0, pid=12372] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/15 00:05:27.791246, all 0, pid=12372] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 00:05:27.850171, all 0, pid=12943] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/15 00:50:04.994033, all 0, pid=12943] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 01:14:13.600797, all 0, pid=9918] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:901: [2024/09/15 01:22:00.810971, all 0, pid=9939] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:901: [2024/09/15 01:30:54.397127, all 0, pid=10761] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:901: [2024/09/15 05:06:07.576349, all 0, pid=9199] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:901: [2024/09/15 05:15:12.598952, all 0, pid=9923] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/15 16:12:36.369682, all 0, pid=9923] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 16:12:36.457143, all 0, pid=24147] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../lib/util/become_daemon.c:150: [2024/09/15 16:12:36.458301, all 0, pid=24147] daemon_status
+  daemon_status: daemon 'nmbd' : No local IPv4 non-loopback interfaces available, waiting for interface ...
+../../source3/nmbd/nmbd_subnetdb.c:255: [2024/09/15 16:12:36.458325, all 0, pid=24147] create_subnets
+  NOTE: NetBIOS name resolution is not supported for Internet Protocol Version 6 (IPv6).
+../../source3/nmbd/nmbd.c:59: [2024/09/15 16:12:39.262804, all 0, pid=24147] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 16:12:39.334605, all 0, pid=24571] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/15 16:13:23.725454, all 0, pid=24571] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 16:13:23.790748, all 0, pid=25268] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../lib/util/become_daemon.c:150: [2024/09/15 16:13:23.792006, all 0, pid=25268] daemon_status
+  daemon_status: daemon 'nmbd' : No local IPv4 non-loopback interfaces available, waiting for interface ...
+../../source3/nmbd/nmbd_subnetdb.c:255: [2024/09/15 16:13:23.792038, all 0, pid=25268] create_subnets
+  NOTE: NetBIOS name resolution is not supported for Internet Protocol Version 6 (IPv6).
+../../source3/nmbd/nmbd.c:901: [2024/09/15 16:13:29.010076, all 0, pid=25873] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/15 16:13:40.274714, all 0, pid=25873] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 16:13:40.342650, all 0, pid=26485] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../lib/util/become_daemon.c:150: [2024/09/15 16:13:40.344175, all 0, pid=26485] daemon_status
+  daemon_status: daemon 'nmbd' : No local IPv4 non-loopback interfaces available, waiting for interface ...
+../../source3/nmbd/nmbd_subnetdb.c:255: [2024/09/15 16:13:40.344217, all 0, pid=26485] create_subnets
+  NOTE: NetBIOS name resolution is not supported for Internet Protocol Version 6 (IPv6).
+../../source3/nmbd/nmbd.c:59: [2024/09/15 16:13:49.115174, all 0, pid=26485] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 16:13:49.174172, all 0, pid=27061] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/15 16:14:59.377290, all 0, pid=27061] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/15 16:14:59.448625, all 0, pid=28105] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../lib/util/become_daemon.c:150: [2024/09/15 16:14:59.450020, all 0, pid=28105] daemon_status
+  daemon_status: daemon 'nmbd' : No local IPv4 non-loopback interfaces available, waiting for interface ...
+../../source3/nmbd/nmbd_subnetdb.c:255: [2024/09/15 16:14:59.450054, all 0, pid=28105] create_subnets
+  NOTE: NetBIOS name resolution is not supported for Internet Protocol Version 6 (IPv6).
+../../source3/nmbd/nmbd.c:901: [2024/09/15 16:15:06.751896, all 0, pid=28704] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/16 05:35:26.391667, all 0, pid=28704] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/16 05:39:35.467060, all 0, pid=10291] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/16 19:28:48.360865, all 0, pid=10291] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/16 19:32:57.620094, all 0, pid=9934] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/17 04:54:30.422868, all 0, pid=9934] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/17 04:58:36.405356, all 0, pid=9958] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/17 05:46:37.353372, all 0, pid=9958] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/17 05:50:46.570020, all 0, pid=9958] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/17 10:41:53.739376, all 0, pid=9958] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/17 10:46:01.495550, all 0, pid=10043] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/20 07:36:42.233903, all 0, pid=10043] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/20 07:51:18.762620, all 0, pid=10136] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/20 11:29:03.306426, all 0, pid=10136] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/20 11:34:37.337449, all 0, pid=10174] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/23 23:45:48.617952, all 0, pid=10174] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/23 23:45:48.769339, all 0, pid=10567] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/09/29 13:21:52.635695, all 0, pid=10567] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/09/29 13:21:52.791416, all 0, pid=24469] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 02:46:08.501026, all 0, pid=24469] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 02:46:08.572510, all 0, pid=6804] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 03:47:23.729247, all 0, pid=6804] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 03:47:23.836644, all 0, pid=4816] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 07:48:21.697300, all 0, pid=4816] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 07:48:22.000104, all 0, pid=6002] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 07:50:12.961444, all 0, pid=6002] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 07:50:13.118218, all 0, pid=13038] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 08:01:25.091901, all 0, pid=13038] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 08:01:25.177366, all 0, pid=21094] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 08:01:30.137612, all 0, pid=21094] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 08:01:30.223151, all 0, pid=21878] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 08:01:41.515819, all 0, pid=21878] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 08:01:41.633514, all 0, pid=22093] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 08:01:47.079351, all 0, pid=22093] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 08:01:47.825408, all 0, pid=23137] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 08:32:13.611041, all 0, pid=23137] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 08:32:13.705304, all 0, pid=13210] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/05 08:35:34.985812, all 0, pid=13210] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/05 08:35:35.044976, all 0, pid=16159] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/06 06:15:14.775472, all 0, pid=16159] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/06 06:15:15.715235, all 0, pid=7231] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/10/09 04:29:15.592445, all 0, pid=7231] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/10/09 04:33:20.675042, all 0, pid=10311] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022
+../../source3/nmbd/nmbd.c:59: [2024/11/05 00:53:46.289645, all 0, pid=10311] terminate
+  Got SIGTERM: going down...
+../../source3/nmbd/nmbd.c:901: [2024/11/05 07:06:37.353227, all 0, pid=10385] main
+  nmbd version 4.15.13 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2022

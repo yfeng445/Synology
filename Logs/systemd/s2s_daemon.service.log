@@ -1,0 +1,270 @@
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: PWD=/
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: SHLVL=1
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: _=/bin/env
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: MaxWatches=8192
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: PWD=/
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: SHLVL=1
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: _=/bin/env
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: MaxQueueEvents=163840
+2024-09-08T17:16:50-07:00 SynologyNAS s2s_starter.sh[10227]: Starting s2s_daemon
+2024-09-08T17:16:51-07:00 SynologyNAS s2s_starter.sh[10355]: Stopped s2s_daemon
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: PWD=/
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: SHLVL=1
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: _=/bin/env
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: MaxWatches=8192
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: PWD=/
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: SHLVL=1
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: _=/bin/env
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: MaxQueueEvents=163840
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10383]: Starting s2s_daemon
+2024-09-10T07:08:54+08:00 Synology_NAS s2s_starter.sh[10531]: Stopped s2s_daemon
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: PWD=/
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: SHLVL=1
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: _=/bin/env
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: MaxWatches=8192
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: PWD=/
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: SHLVL=1
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: _=/bin/env
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: MaxQueueEvents=163840
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9710]: Starting s2s_daemon
+2024-09-11T20:05:38+08:00 Synology_NAS s2s_starter.sh[9931]: Stopped s2s_daemon
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: PWD=/
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: SHLVL=1
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: _=/bin/env
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: MaxWatches=8192
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: PWD=/
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: SHLVL=1
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: _=/bin/env
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: MaxQueueEvents=163840
+2024-09-11T20:09:08+08:00 Synology_NAS s2s_starter.sh[15098]: Starting s2s_daemon
+2024-09-11T20:28:50+08:00 Synology_NAS s2s_starter.sh[6093]: Stopped s2s_daemon
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: MAX_DB_CONNECTIONS=20
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: PWD=/
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: V8_OPTIONS=--max_old_space_size=12505
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: SHLVL=1
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: CPU_COUNT=20
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: _=/bin/env
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: MaxWatches=8192
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: MAX_DB_CONNECTIONS=20
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: PWD=/
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: V8_OPTIONS=--max_old_space_size=12505
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: SHLVL=1
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: CPU_COUNT=20
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: _=/bin/env
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: MaxQueueEvents=163840
+2024-09-11T20:28:52+08:00 Synology_NAS s2s_starter.sh[6645]: Starting s2s_daemon
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: MAX_DB_CONNECTIONS=20
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: PWD=/
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: V8_OPTIONS=--max_old_space_size=12505
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: SHLVL=1
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: CPU_COUNT=20
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: _=/bin/env
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: MaxWatches=8192
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: MAX_DB_CONNECTIONS=20
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: PWD=/
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: V8_OPTIONS=--max_old_space_size=12505
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: SHLVL=1
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: CPU_COUNT=20
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: _=/bin/env
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: MaxQueueEvents=163840
+2024-09-11T20:29:55+08:00 Synology_NAS s2s_starter.sh[7589]: Starting s2s_daemon
+2024-09-12T00:26:25+08:00 Synology_NAS s2s_starter.sh[19145]: Stopped s2s_daemon
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: PWD=/
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: SHLVL=1
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: _=/bin/env
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: MaxWatches=8192
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: PWD=/
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: SHLVL=1
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: _=/bin/env
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: MaxQueueEvents=163840
+2024-09-12T00:30:28+08:00 Synology_NAS s2s_starter.sh[12476]: Starting s2s_daemon
+2024-09-14T22:43:07+08:00 Synology_NAS s2s_starter.sh[10855]: Stopped s2s_daemon
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: PWD=/
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: SHLVL=1
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: _=/bin/env
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: MaxWatches=8192
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: PWD=/
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: SHLVL=1
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: _=/bin/env
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: MaxQueueEvents=163840
+2024-09-14T23:16:56+08:00 Synology_NAS s2s_starter.sh[13980]: Starting s2s_daemon
+2024-09-15T00:50:05+08:00 Synology_NAS s2s_starter.sh[27082]: Stopped s2s_daemon
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: PWD=/
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: SHLVL=1
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: _=/bin/env
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: MaxWatches=8192
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: PWD=/
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: SHLVL=1
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: _=/bin/env
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: MaxQueueEvents=163840
+2024-09-15T01:14:19+08:00 Synology_NAS s2s_starter.sh[13622]: Starting s2s_daemon
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: PWD=/
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: SHLVL=1
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: _=/bin/env
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: MaxWatches=8192
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: PWD=/
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: SHLVL=1
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: _=/bin/env
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: MaxQueueEvents=163840
+2024-09-15T01:22:08+08:00 Synology_NAS s2s_starter.sh[14242]: Starting s2s_daemon
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: PWD=/
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: SHLVL=1
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: _=/bin/env
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: MaxWatches=8192
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: PWD=/
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: SHLVL=1
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: _=/bin/env
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: MaxQueueEvents=163840
+2024-09-15T01:31:02+08:00 Synology_NAS s2s_starter.sh[14342]: Starting s2s_daemon
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: PWD=/
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: SHLVL=1
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: _=/bin/env
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: MaxWatches=8192
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: PWD=/
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: SHLVL=1
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: _=/bin/env
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: MaxQueueEvents=163840
+2024-09-15T05:06:19+08:00 Synology_NAS s2s_starter.sh[12564]: Starting s2s_daemon
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: PWD=/
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: SHLVL=1
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: _=/bin/env
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: MaxWatches=8192
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: PWD=/
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: SHLVL=1
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: _=/bin/env
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: MaxQueueEvents=163840
+2024-09-15T05:15:22+08:00 Synology_NAS s2s_starter.sh[14393]: Starting s2s_daemon
+2024-09-16T05:35:27+08:00 Synology_NAS s2s_starter.sh[11385]: Stopped s2s_daemon
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: PWD=/
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: SHLVL=1
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: _=/bin/env
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: MaxWatches=8192
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: PWD=/
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: SHLVL=1
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: _=/bin/env
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: MaxQueueEvents=163840
+2024-09-16T05:39:44+08:00 Synology_NAS s2s_starter.sh[14088]: Starting s2s_daemon
+2024-09-16T19:28:49+08:00 Synology_NAS s2s_starter.sh[18325]: Stopped s2s_daemon
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: PWD=/
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: SHLVL=1
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: _=/bin/env
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: MaxWatches=8192
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: PWD=/
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: SHLVL=1
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: _=/bin/env
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: MaxQueueEvents=163840
+2024-09-16T19:33:06+08:00 Synology_NAS s2s_starter.sh[14010]: Starting s2s_daemon
+2024-09-17T04:54:31+08:00 Synology_NAS s2s_starter.sh[21071]: Stopped s2s_daemon
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: PWD=/
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: SHLVL=1
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: _=/bin/env
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: MaxWatches=8192
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: PWD=/
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: SHLVL=1
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: _=/bin/env
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: MaxQueueEvents=163840
+2024-09-17T04:58:46+08:00 Synology_NAS s2s_starter.sh[14036]: Starting s2s_daemon
+2024-09-17T05:46:38+08:00 Synology_NAS s2s_starter.sh[2547]: Stopped s2s_daemon
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: PWD=/
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: SHLVL=1
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: _=/bin/env
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: MaxWatches=8192
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: PWD=/
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: SHLVL=1
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: _=/bin/env
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: MaxQueueEvents=163840
+2024-09-17T05:50:55+08:00 Synology_NAS s2s_starter.sh[14073]: Starting s2s_daemon
+2024-09-17T10:41:55+08:00 Synology_NAS s2s_starter.sh[4565]: Stopped s2s_daemon
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: PWD=/
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: SHLVL=1
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: _=/bin/env
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: MaxWatches=8192
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: PWD=/
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: SHLVL=1
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: _=/bin/env
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: MaxQueueEvents=163840
+2024-09-17T10:46:09+08:00 Synology_NAS s2s_starter.sh[14044]: Starting s2s_daemon
+2024-09-20T07:36:43+08:00 Synology_NAS s2s_starter.sh[9064]: Stopped s2s_daemon
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: PWD=/
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: SHLVL=1
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: _=/bin/env
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: MaxWatches=8192
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: PWD=/
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: SHLVL=1
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: _=/bin/env
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: MaxQueueEvents=163840
+2024-09-20T07:51:26+08:00 Synology_NAS s2s_starter.sh[13813]: Starting s2s_daemon
+2024-09-20T11:29:04+08:00 Synology_NAS s2s_starter.sh[1190]: Stopped s2s_daemon
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: PWD=/
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: SHLVL=1
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: _=/bin/env
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: MaxWatches=8192
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: PWD=/
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: SHLVL=1
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: _=/bin/env
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: MaxQueueEvents=163840
+2024-09-20T11:34:48+08:00 Synology_NAS s2s_starter.sh[14694]: Starting s2s_daemon
+2024-10-09T04:29:17+08:00 Yasuraokaa_Site s2s_starter.sh[3819]: Stopped s2s_daemon
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: PWD=/
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: SHLVL=1
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: _=/bin/env
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: MaxWatches=8192
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: PWD=/
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: SHLVL=1
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: _=/bin/env
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: MaxQueueEvents=163840
+2024-10-09T04:33:31+08:00 Yasuraokaa_Site s2s_starter.sh[14520]: Starting s2s_daemon
+2024-11-05T00:53:47+08:00 Yasuraokaa_Site s2s_starter.sh[25671]: Stopped s2s_daemon
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: PWD=/
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: SHLVL=1
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: _=/bin/env
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: MaxWatches=8192
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: PWD=/
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: SHLVL=1
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/syno/sbin:/usr/syno/bin:/usr/local/sbin:/usr/local/bin
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: _=/bin/env
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: MaxQueueEvents=163840
+2024-11-05T07:06:38+08:00 Yasuraokaa_Site s2s_starter.sh[14575]: Starting s2s_daemon

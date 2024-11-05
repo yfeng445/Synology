@@ -1,0 +1,12 @@
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: Group/Web Installation OK, auto set configured.
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: Host Name: SynologyNAS
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: Network interface: eth0
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: DHCP
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: IP: 10.0.0.223
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: Mask: 255.255.255.0
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: Gateway: 10.0.0.1
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: DNS: 75.75.75.75
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: MTU Setting: 1500
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: 1000, full duplex, active mtu 1500
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: RX bytes: 113663
+2024-09-08T17:16:56-07:00 SynologyNAS syno-customized-configure.sh[12337]: TX bytes: 36600

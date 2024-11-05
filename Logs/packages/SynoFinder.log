@@ -1,0 +1,162 @@
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin preinst
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End preinst ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/mkdir -p /usr/local/packages/@appstore/SynoFinder -m 755
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/mkdir -p /usr/local/packages/@appstore/SynoFinder -m 755 ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/rm -rf /usr/local/packages/@appstore/SynoFinder
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/rm -rf /usr/local/packages/@appstore/SynoFinder ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/mv -f /run/synopkg/tmp/install.HG9z7T/package /usr/local/packages/@appstore/SynoFinder
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/mv -f /run/synopkg/tmp/install.HG9z7T/package /usr/local/packages/@appstore/SynoFinder ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/rm -rf /var/packages/SynoFinder
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/rm -rf /var/packages/SynoFinder ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/mkdir -p /var/packages/SynoFinder -m 755
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/mkdir -p /var/packages/SynoFinder -m 755 ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/touch /var/packages/SynoFinder/installing
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/touch /var/packages/SynoFinder/installing ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/mv -f /run/synopkg/tmp/install.HG9z7T/INFO /var/packages/SynoFinder/INFO
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/mv -f /run/synopkg/tmp/install.HG9z7T/INFO /var/packages/SynoFinder/INFO ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/rm -rf /var/packages/SynoFinder/scripts
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/rm -rf /var/packages/SynoFinder/scripts ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/mv -f /run/synopkg/tmp/install.HG9z7T/scripts /var/packages/SynoFinder/scripts
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/mv -f /run/synopkg/tmp/install.HG9z7T/scripts /var/packages/SynoFinder/scripts ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/rm -rf /var/packages/SynoFinder/conf
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/rm -rf /var/packages/SynoFinder/conf ret=[0]
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 Begin /bin/mv -f /run/synopkg/tmp/install.HG9z7T/conf /var/packages/SynoFinder/conf
+2024/09/08 17:17:05	install SynoFinder 1.7.0-0704 End /bin/mv -f /run/synopkg/tmp/install.HG9z7T/conf /var/packages/SynoFinder/conf ret=[0]
+2024/09/08 17:17:06	install SynoFinder 1.7.0-0704 Begin postinst
+2024/09/08 17:17:06	install SynoFinder 1.7.0-0704 End postinst ret=[0]
+2024/09/08 17:17:08	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/08 17:17:36	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/09 08:24:43	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/09 08:24:44	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/10 07:08:27	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/10 07:08:29	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/11 19:57:35	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/11 19:57:36	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/11 20:05:43	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/11 20:05:46	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/12 00:26:20	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/12 00:26:22	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/12 00:30:35	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/12 00:30:37	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/14 22:42:42	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/14 22:42:43	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/14 23:17:04	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/14 23:17:08	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/15 00:49:58	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/15 00:49:59	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/15 01:14:26	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/15 01:14:31	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/15 01:22:16	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/15 01:22:23	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/15 01:31:10	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/15 01:31:12	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/15 05:06:27	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/15 05:06:39	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/15 05:09:39	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/15 05:09:40	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/15 05:15:35	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/15 05:16:18	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/16 05:35:16	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/16 05:35:18	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/16 05:39:50	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/16 05:40:23	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/16 19:28:24	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/16 19:28:25	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/16 19:33:11	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/16 19:33:45	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/17 04:54:16	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/17 04:54:17	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/17 04:58:57	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/17 04:59:30	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/17 05:46:13	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/17 05:46:14	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/17 05:51:05	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/17 05:51:39	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/17 10:41:29	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/17 10:41:31	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/17 10:46:16	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/17 10:46:49	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/20 07:36:32	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/20 07:36:33	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/20 07:51:34	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/20 07:52:07	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/09/20 11:28:39	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/09/20 11:28:40	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/09/20 11:34:54	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/09/20 11:35:27	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/10/09 04:28:52	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/10/09 04:28:53	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/10/09 04:33:39	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/10/09 04:34:13	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]
+2024/11/05 00:53:31	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status stop
+[pkg-SynoFinder-fileindexd.service] stopped.
+[pkg-SynoFinder-synoelasticd.service] stopped.
+2024/11/05 00:53:33	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status stop ret=[0]
+2024/11/05 07:06:51	(system) trigger SynoFinder 1.7.0-0704 Begin start-stop-status start
+[pkg-SynoFinder-synoelasticd.service] started.
+[pkg-SynoFinder-synoelasticd.service] try-restarted.
+2024/11/05 07:07:25	(system) trigger SynoFinder 1.7.0-0704 End start-stop-status start ret=[0]

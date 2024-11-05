@@ -1,0 +1,59 @@
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: synocontentextractd.cpp:97 Update extensions
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parse_mgr.cpp:73 Load default parsers
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/basic//usertag.conf => NO fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/basic//lstat.conf => NO fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//msoffice.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//p7zip.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//email.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//epub.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//chm.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//unrar.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//iwork.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//text_content.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//synoidx_parser.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//lit.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//pdf.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//phpoffice.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//office_doc_xml.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//mobi.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//plain_text.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//rtf.conf => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parse_mgr.cpp:81 Load extended parsers
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/etc/synoce/extension/conf/basic//synology_drive_file_parser => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: parser.cpp:38 parser /usr/syno/etc/synoce/extension/conf/meta//synoffice => fork (memory limit: 52428800)
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: shared_flag.cpp:32 In SharedFlag cons
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: dispatcher.cpp:23 (24035, 0) start dispatcher thread
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: worker_pool.cpp:80 (24035, 0) start worker pool
+2024-09-11T20:10:37+08:00 Synology_NAS synocontentextractd[24035]: pool_monitor.cpp:91 (24035, 0) start pool monitor
+2024-09-11T20:20:31+08:00 Synology_NAS synocontentextractd[24035]: synocontentextractd.cpp:51 Got signal(10) from pid=29694, uid=0
+2024-09-11T20:20:33+08:00 Synology_NAS synocontentextractd[24035]: pool_monitor.cpp:146 (24035, 0) stop pool montor
+2024-09-11T20:20:33+08:00 Synology_NAS synocontentextractd[24035]: worker_pool.cpp:96 (24035, 0) stop worker pool
+2024-09-11T20:20:33+08:00 Synology_NAS synocontentextractd[24035]: dispatcher.cpp:43 (24035, 0) stop dispatcher thread
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: synocontentextractd.cpp:97 Update extensions
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: synocontentextractd.cpp:76 Delete extension: {"lib":"/usr/syno/etc/synoce/extension/lib/meta/synoffice.so","preload":false,"regex":".*/[^/]+\\.(odoc|osheet|oslides)","to_delete":true}
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parse_mgr.cpp:73 Load default parsers
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/basic//usertag.conf => NO fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/basic//lstat.conf => NO fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//msoffice.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//p7zip.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//email.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//epub.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//chm.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//unrar.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//iwork.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//text_content.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//synoidx_parser.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//lit.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//pdf.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//phpoffice.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//office_doc_xml.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//mobi.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//plain_text.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/synoce/conf/meta//rtf.conf => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parse_mgr.cpp:81 Load extended parsers
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: parser.cpp:38 parser /usr/syno/etc/synoce/extension/conf/basic//synology_drive_file_parser => fork (memory limit: 52428800)
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: shared_flag.cpp:32 In SharedFlag cons
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: dispatcher.cpp:23 (29972, 0) start dispatcher thread
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: worker_pool.cpp:80 (29972, 0) start worker pool
+2024-09-11T20:20:34+08:00 Synology_NAS synocontentextractd[29972]: pool_monitor.cpp:91 (29972, 0) start pool monitor
+2024-09-11T20:20:58+08:00 Synology_NAS synocontentextractd[29972]: synocontentextractd.cpp:51 Got signal(10) from pid=30448, uid=0

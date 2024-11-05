@@ -1,0 +1,239 @@
+2024/09/08 17:16:54	install QuickConnect 1.0.4-0108 Begin preinst
+2024/09/08 17:16:54	install QuickConnect 1.0.4-0108 End preinst ret=[0]
+2024/09/08 17:16:54	install QuickConnect 1.0.4-0108 Begin /bin/mkdir -p /usr/local/packages/@appstore/QuickConnect -m 755
+2024/09/08 17:16:54	install QuickConnect 1.0.4-0108 End /bin/mkdir -p /usr/local/packages/@appstore/QuickConnect -m 755 ret=[0]
+2024/09/08 17:16:54	install QuickConnect 1.0.4-0108 Begin /bin/rm -rf /usr/local/packages/@appstore/QuickConnect
+2024/09/08 17:16:54	install QuickConnect 1.0.4-0108 End /bin/rm -rf /usr/local/packages/@appstore/QuickConnect ret=[0]
+2024/09/08 17:16:54	install QuickConnect 1.0.4-0108 Begin /bin/mv -f /run/synopkg/tmp/install.JdwyWr/package /usr/local/packages/@appstore/QuickConnect
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/mv -f /run/synopkg/tmp/install.JdwyWr/package /usr/local/packages/@appstore/QuickConnect ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin /bin/rm -rf /var/packages/QuickConnect
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/rm -rf /var/packages/QuickConnect ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin /bin/mkdir -p /var/packages/QuickConnect -m 755
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/mkdir -p /var/packages/QuickConnect -m 755 ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin /bin/touch /var/packages/QuickConnect/installing
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/touch /var/packages/QuickConnect/installing ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin /bin/mv -f /run/synopkg/tmp/install.JdwyWr/INFO /var/packages/QuickConnect/INFO
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/mv -f /run/synopkg/tmp/install.JdwyWr/INFO /var/packages/QuickConnect/INFO ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin /bin/rm -rf /var/packages/QuickConnect/scripts
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/rm -rf /var/packages/QuickConnect/scripts ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin /bin/mv -f /run/synopkg/tmp/install.JdwyWr/scripts /var/packages/QuickConnect/scripts
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/mv -f /run/synopkg/tmp/install.JdwyWr/scripts /var/packages/QuickConnect/scripts ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin /bin/rm -rf /var/packages/QuickConnect/conf
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/rm -rf /var/packages/QuickConnect/conf ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin /bin/mv -f /run/synopkg/tmp/install.JdwyWr/conf /var/packages/QuickConnect/conf
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End /bin/mv -f /run/synopkg/tmp/install.JdwyWr/conf /var/packages/QuickConnect/conf ret=[0]
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 Begin postinst
+/usr/local/lib/systemd/system/poweroff.target.wants /
+/
+/usr/local/lib/systemd/system/syno-bootup-done.target.wants /
+/
+/usr/local/lib/systemd/system/syno-packages.target.wants /
+/
+2024/09/08 17:16:55	install QuickConnect 1.0.4-0108 End postinst ret=[0]
+2024/09/08 17:16:59	(system) trigger QuickConnect 1.0.4-0108 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+Sep  8 17:16:59 2024 config.cpp:1728 write
+2024/09/08 17:16:59	(system) trigger QuickConnect 1.0.4-0108 End start-stop-status start ret=[0]
+2024/09/08 17:17:39	upgrade QuickConnect 1.0.4-0108 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/08 17:17:39	upgrade QuickConnect 1.0.4-0108 End start-stop-status stop ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 Begin preupgrade
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 End preupgrade ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 Begin preuninst
+/usr/local/lib/systemd/system /
+/
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 End preuninst ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 Begin /bin/rm -rf /usr/local/packages/@appstore/QuickConnect
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 End /bin/rm -rf /usr/local/packages/@appstore/QuickConnect ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 Begin /bin/rm -rf /usr/local/packages/@apptemp/QuickConnect
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 End /bin/rm -rf /usr/local/packages/@apptemp/QuickConnect ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 Begin postuninst
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.4-0108 End postuninst ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin preinst
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End preinst ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/mkdir -p /usr/local/packages/@appstore/QuickConnect -m 755
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/mkdir -p /usr/local/packages/@appstore/QuickConnect -m 755 ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/rm -rf /usr/local/packages/@appstore/QuickConnect
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/rm -rf /usr/local/packages/@appstore/QuickConnect ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/mv -f /run/synopkg/tmp/install.mj6j39/package /usr/local/packages/@appstore/QuickConnect
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/mv -f /run/synopkg/tmp/install.mj6j39/package /usr/local/packages/@appstore/QuickConnect ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/rm -rf /var/packages/QuickConnect
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/rm -rf /var/packages/QuickConnect ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/mkdir -p /var/packages/QuickConnect -m 755
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/mkdir -p /var/packages/QuickConnect -m 755 ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/touch /var/packages/QuickConnect/installing
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/touch /var/packages/QuickConnect/installing ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/mv -f /run/synopkg/tmp/install.mj6j39/INFO /var/packages/QuickConnect/INFO
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/mv -f /run/synopkg/tmp/install.mj6j39/INFO /var/packages/QuickConnect/INFO ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/rm -rf /var/packages/QuickConnect/scripts
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/rm -rf /var/packages/QuickConnect/scripts ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/mv -f /run/synopkg/tmp/install.mj6j39/scripts /var/packages/QuickConnect/scripts
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/mv -f /run/synopkg/tmp/install.mj6j39/scripts /var/packages/QuickConnect/scripts ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/rm -rf /var/packages/QuickConnect/conf
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/rm -rf /var/packages/QuickConnect/conf ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin /bin/mv -f /run/synopkg/tmp/install.mj6j39/conf /var/packages/QuickConnect/conf
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End /bin/mv -f /run/synopkg/tmp/install.mj6j39/conf /var/packages/QuickConnect/conf ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin postinst
+/usr/local/lib/systemd/system/poweroff.target.wants /
+/
+/usr/local/lib/systemd/system/syno-bootup-done.target.wants /
+/
+/usr/local/lib/systemd/system/syno-packages.target.wants /
+/
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End postinst ret=[0]
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 Begin postupgrade
+2024/09/08 17:17:40	upgrade QuickConnect 1.0.7-0142 End postupgrade ret=[0]
+2024/09/08 17:17:41	upgrade QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/08 17:17:41	upgrade QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/09 08:24:45	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/09 08:24:45	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/10 07:08:52	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/10 07:08:53	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/11 19:57:37	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/11 19:57:37	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/11 20:05:39	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/11 20:05:39	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/12 00:26:24	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/12 00:26:25	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/12 00:30:23	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/12 00:30:24	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/14 22:43:06	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/14 22:43:07	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/14 23:16:47	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/14 23:16:47	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/15 00:50:05	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/15 00:50:05	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/15 01:14:13	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/15 01:14:13	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/15 01:22:00	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/15 01:22:01	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/15 01:30:53	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/15 01:30:54	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/15 05:06:09	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/15 05:06:10	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/15 05:15:08	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/15 05:15:09	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/16 05:35:27	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/16 05:35:27	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/16 05:39:35	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/16 05:39:35	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/16 19:28:49	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/16 19:28:49	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/16 19:32:58	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/16 19:32:59	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/17 04:54:30	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/17 04:54:31	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/17 04:58:37	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/17 04:58:37	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/17 05:46:38	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/17 05:46:38	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/17 05:50:47	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/17 05:50:48	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/17 10:41:54	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/17 10:41:55	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/17 10:46:00	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/17 10:46:01	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/20 07:36:42	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/20 07:36:43	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/20 07:51:19	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/20 07:51:19	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/09/20 11:29:03	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/09/20 11:29:04	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/09/20 11:34:37	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/09/20 11:34:38	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/10/09 04:29:16	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/10/09 04:29:17	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/10/09 04:33:20	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/10/09 04:33:20	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]
+2024/11/05 00:53:47	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status stop
+[pkg-synorelayd.service] stopped.
+[pkg-synorelayd.service] disabled.
+2024/11/05 00:53:48	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status stop ret=[0]
+2024/11/05 07:06:36	(system) trigger QuickConnect 1.0.7-0142 Begin start-stop-status start
+/usr/lib /
+/
+[pkg-synorelayd.service] enabled.
+2024/11/05 07:06:37	(system) trigger QuickConnect 1.0.7-0142 End start-stop-status start ret=[0]

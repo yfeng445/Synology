@@ -1,0 +1,344 @@
+2024-09-08T17:17:00-07:00 SynologyNAS pgsql.sh[14369]: [2024-09-08 17:17:00 PDT]: Start PostgreSQL
+2024-09-08T17:17:00-07:00 SynologyNAS pgsql.sh[14369]: [2024-09-08 17:17:00 PDT]: No volume to start PostgreSQL.
+2024-09-10T07:08:24+08:00 Synology_NAS pgsql.sh[11485]: [2024-09-10 07:08:24 CST]: Start PostgreSQL
+2024-09-10T07:08:25+08:00 Synology_NAS pgsql.sh[11485]: [2024-09-10 07:08:25 CST]: No volume to start PostgreSQL.
+2024-09-11T20:05:41+08:00 Synology_NAS pgsql.sh[11794]: [2024-09-11 20:05:41 CST]: Start PostgreSQL
+2024-09-11T20:05:41+08:00 Synology_NAS pgsql.sh[11794]: [2024-09-11 20:05:41 CST]: No volume to start PostgreSQL.
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Start PostgreSQL
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: max_connections = 2000
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Upgrade DB begin
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Move DB from /volume1/@database/pgsql to /volume1/@database/pgsql.old.1726056551
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: max_connections = 2000
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Upgrade DB with data /volume1/@database/pgsql.old.1726056551
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Initialize PostgreSQL database
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:14 CST]: Initialize PostgreSQL database done
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:14 CST]: Upgrade Type: DBUPGRADE_CANT
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: [pgsql] started.
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: /run/postgresql:5432 - accepting connections
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:14 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-11T20:28:48+08:00 Synology_NAS pgsql.sh[5774]: /volume1 is writable with
+2024-09-11T20:28:48+08:00 Synology_NAS pgsql.sh[5774]: summary status: [deleting]
+2024-09-11T20:28:48+08:00 Synology_NAS pgsql.sh[5774]: original status: [deleting]
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5774]: [pgsql] stopped.
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5774]: /run/postgresql:5432 - no response
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5774]: [2024-09-11 20:28:49 CST]: pgsql is stopped
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Start PostgreSQL
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: max_connections = 2000
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Upgrade DB begin
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Move DB from /volume1/@database/pgsql to /volume1/@database/pgsql.old.1726057798
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: max_connections = 2000
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Upgrade DB with data /volume1/@database/pgsql.old.1726057798
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Initialize PostgreSQL database
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:30:00 CST]: Initialize PostgreSQL database done
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:30:00 CST]: Upgrade Type: DBUPGRADE_CANT
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: [pgsql] started.
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: /run/postgresql:5432 - accepting connections
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:30:00 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: /volume1 is writable with
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: summary status: [pool_normal]
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: original status: [fs_normal]
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: [pgsql] stopped.
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: /run/postgresql:5432 - no response
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: [2024-09-12 00:26:22 CST]: pgsql is stopped
+2024-09-12T00:30:31+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:31 CST]: Start PostgreSQL
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: max_connections = 2000
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-12T00:30:34+08:00 Synology_NAS pgsql.sh[13372]: [pgsql] started.
+2024-09-12T00:30:34+08:00 Synology_NAS pgsql.sh[13372]: /run/postgresql:5432 - accepting connections
+2024-09-12T00:30:34+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:34 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: /volume1 is writable with
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: summary status: [pool_normal]
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: original status: [fs_normal]
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: [pgsql] stopped.
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: /run/postgresql:5432 - no response
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: [2024-09-14 22:42:51 CST]: pgsql is stopped
+2024-09-14T23:16:59+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:16:59 CST]: Start PostgreSQL
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: max_connections = 2000
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [pgsql] started.
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: /run/postgresql:5432 - accepting connections
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: /volume1 is writable with
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: summary status: [pool_normal]
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: original status: [fs_normal]
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: [pgsql] stopped.
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: /run/postgresql:5432 - no response
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: [2024-09-15 00:50:04 CST]: pgsql is stopped
+2024-09-15T01:14:23+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:23 CST]: Start PostgreSQL
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T01:14:27+08:00 Synology_NAS pgsql.sh[15270]: [pgsql] started.
+2024-09-15T01:14:27+08:00 Synology_NAS pgsql.sh[15270]: /run/postgresql:5432 - accepting connections
+2024-09-15T01:14:27+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:27 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T01:22:10+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:10 CST]: Start PostgreSQL
+2024-09-15T01:22:12+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:12 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T01:22:12+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:12 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T01:22:12+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:12 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T01:22:12+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:12 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T01:22:13+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:13 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T01:22:13+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:13 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T01:22:13+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:13 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T01:22:13+08:00 Synology_NAS pgsql.sh[14826]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T01:22:21+08:00 Synology_NAS pgsql.sh[14826]: [pgsql] started.
+2024-09-15T01:22:22+08:00 Synology_NAS pgsql.sh[14826]: /run/postgresql:5432 - accepting connections
+2024-09-15T01:22:22+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:22 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T01:31:04+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:04 CST]: Start PostgreSQL
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T01:31:08+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:08 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T01:31:08+08:00 Synology_NAS pgsql.sh[15273]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T01:31:16+08:00 Synology_NAS pgsql.sh[15273]: [pgsql] started.
+2024-09-15T01:31:16+08:00 Synology_NAS pgsql.sh[15273]: /run/postgresql:5432 - accepting connections
+2024-09-15T01:31:16+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:16 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T05:06:23+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:23 CST]: Start PostgreSQL
+2024-09-15T05:06:23+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:23 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T05:06:23+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:23 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Upgrade DB begin
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Move DB from /volume3/@database/pgsql to /volume3/@database/pgsql.old.1726347984
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Upgrade DB with data /volume3/@database/pgsql.old.1726347984
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Initialize PostgreSQL database
+2024-09-15T05:06:31+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:31 CST]: Initialize PostgreSQL database done
+2024-09-15T05:06:31+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:31 CST]: Upgrade Type: DBUPGRADE_CANT
+2024-09-15T05:06:31+08:00 Synology_NAS pgsql.sh[13178]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T05:06:32+08:00 Synology_NAS pgsql.sh[13178]: [pgsql] started.
+2024-09-15T05:06:32+08:00 Synology_NAS pgsql.sh[13178]: /run/postgresql:5432 - accepting connections
+2024-09-15T05:06:32+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:32 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T05:06:32+08:00 Synology_NAS pgsql.sh[13178]: Update DownloadStation pgsql-db worker.
+2024-09-15T05:06:42+08:00 Synology_NAS pgsql.sh[13178]: Done updating DownloadStation pgsql-db worker.
+2024-09-15T05:09:40+08:00 Synology_NAS pgsql.sh[16100]: /volume3 is writable with
+2024-09-15T05:09:40+08:00 Synology_NAS pgsql.sh[16100]: summary status: [pool_normal]
+2024-09-15T05:09:40+08:00 Synology_NAS pgsql.sh[16100]: original status: [fs_normal]
+2024-09-15T05:15:26+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:26 CST]: Start PostgreSQL
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T05:15:32+08:00 Synology_NAS pgsql.sh[15634]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T05:16:13+08:00 Synology_NAS pgsql.sh[15634]: [pgsql] started.
+2024-09-15T05:16:15+08:00 Synology_NAS pgsql.sh[15634]: /run/postgresql:5432 - accepting connections
+2024-09-15T05:16:15+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:16:15 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-16T05:35:24+08:00 Synology_NAS pgsql.sh[10495]: /volume3 is writable with
+2024-09-16T05:35:24+08:00 Synology_NAS pgsql.sh[10495]: summary status: [pool_normal]
+2024-09-16T05:35:24+08:00 Synology_NAS pgsql.sh[10495]: original status: [fs_normal]
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10495]: [pgsql] stopped.
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10495]: /run/postgresql:5432 - no response
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10495]: [2024-09-16 05:35:26 CST]: pgsql is stopped
+2024-09-16T05:39:46+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:46 CST]: Start PostgreSQL
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: max_connections = 2000
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-16T05:39:51+08:00 Synology_NAS pgsql.sh[14739]: [pgsql] started.
+2024-09-16T05:39:51+08:00 Synology_NAS pgsql.sh[14739]: /run/postgresql:5432 - accepting connections
+2024-09-16T05:39:51+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:51 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-16T19:28:33+08:00 Synology_NAS pgsql.sh[17278]: /volume3 is writable with
+2024-09-16T19:28:33+08:00 Synology_NAS pgsql.sh[17278]: summary status: [pool_normal]
+2024-09-16T19:28:33+08:00 Synology_NAS pgsql.sh[17278]: original status: [fs_normal]
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17278]: [pgsql] stopped.
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17278]: /run/postgresql:5432 - no response
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17278]: [2024-09-16 19:28:34 CST]: pgsql is stopped
+2024-09-16T19:33:08+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:08 CST]: Start PostgreSQL
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: max_connections = 2000
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-16T19:33:12+08:00 Synology_NAS pgsql.sh[14933]: [pgsql] started.
+2024-09-16T19:33:12+08:00 Synology_NAS pgsql.sh[14933]: /run/postgresql:5432 - accepting connections
+2024-09-16T19:33:12+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:12 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-17T04:54:29+08:00 Synology_NAS pgsql.sh[20245]: /volume3 is writable with
+2024-09-17T04:54:29+08:00 Synology_NAS pgsql.sh[20245]: summary status: [pool_normal]
+2024-09-17T04:54:29+08:00 Synology_NAS pgsql.sh[20245]: original status: [fs_normal]
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20245]: [pgsql] stopped.
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20245]: /run/postgresql:5432 - no response
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20245]: [2024-09-17 04:54:30 CST]: pgsql is stopped
+2024-09-17T04:58:49+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:49 CST]: Start PostgreSQL
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: max_connections = 2000
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-17T04:58:53+08:00 Synology_NAS pgsql.sh[15242]: [pgsql] started.
+2024-09-17T04:58:53+08:00 Synology_NAS pgsql.sh[15242]: /run/postgresql:5432 - accepting connections
+2024-09-17T04:58:53+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:53 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-17T05:46:22+08:00 Synology_NAS pgsql.sh[1500]: /volume3 is writable with
+2024-09-17T05:46:22+08:00 Synology_NAS pgsql.sh[1500]: summary status: [pool_normal]
+2024-09-17T05:46:22+08:00 Synology_NAS pgsql.sh[1500]: original status: [fs_normal]
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1500]: [pgsql] stopped.
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1500]: /run/postgresql:5432 - no response
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1500]: [2024-09-17 05:46:23 CST]: pgsql is stopped
+2024-09-17T05:50:57+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:50:57 CST]: Start PostgreSQL
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: max_connections = 2000
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-17T05:51:01+08:00 Synology_NAS pgsql.sh[14758]: [pgsql] started.
+2024-09-17T05:51:01+08:00 Synology_NAS pgsql.sh[14758]: /run/postgresql:5432 - accepting connections
+2024-09-17T05:51:01+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:01 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-17T10:41:39+08:00 Synology_NAS pgsql.sh[3423]: /volume3 is writable with
+2024-09-17T10:41:39+08:00 Synology_NAS pgsql.sh[3423]: summary status: [pool_normal]
+2024-09-17T10:41:39+08:00 Synology_NAS pgsql.sh[3423]: original status: [fs_normal]
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3423]: [pgsql] stopped.
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3423]: /run/postgresql:5432 - no response
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3423]: [2024-09-17 10:41:40 CST]: pgsql is stopped
+2024-09-17T10:46:12+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:12 CST]: Start PostgreSQL
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: max_connections = 2000
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-17T10:46:16+08:00 Synology_NAS pgsql.sh[14947]: [pgsql] started.
+2024-09-17T10:46:17+08:00 Synology_NAS pgsql.sh[14947]: /run/postgresql:5432 - accepting connections
+2024-09-17T10:46:17+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:17 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-20T07:36:40+08:00 Synology_NAS pgsql.sh[8266]: /volume3 is writable with
+2024-09-20T07:36:40+08:00 Synology_NAS pgsql.sh[8266]: summary status: [pool_normal]
+2024-09-20T07:36:40+08:00 Synology_NAS pgsql.sh[8266]: original status: [fs_normal]
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8266]: [pgsql] stopped.
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8266]: /run/postgresql:5432 - no response
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8266]: [2024-09-20 07:36:41 CST]: pgsql is stopped
+2024-09-20T07:51:30+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:30 CST]: Start PostgreSQL
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: max_connections = 2000
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-20T07:51:35+08:00 Synology_NAS pgsql.sh[15445]: [pgsql] started.
+2024-09-20T07:51:35+08:00 Synology_NAS pgsql.sh[15445]: /run/postgresql:5432 - accepting connections
+2024-09-20T07:51:35+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:35 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-20T11:28:56+08:00 Synology_NAS pgsql.sh[32675]: /volume3 is writable with
+2024-09-20T11:28:56+08:00 Synology_NAS pgsql.sh[32675]: summary status: [pool_normal]
+2024-09-20T11:28:56+08:00 Synology_NAS pgsql.sh[32675]: original status: [fs_normal]
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32675]: [pgsql] stopped.
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32675]: /run/postgresql:5432 - no response
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32675]: [2024-09-20 11:28:57 CST]: pgsql is stopped
+2024-09-20T11:34:51+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:51 CST]: Start PostgreSQL
+2024-09-20T11:34:54+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:54 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:54 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: max_connections = 2000
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-20T11:34:56+08:00 Synology_NAS pgsql.sh[15812]: [pgsql] started.
+2024-09-20T11:34:56+08:00 Synology_NAS pgsql.sh[15812]: /run/postgresql:5432 - accepting connections
+2024-09-20T11:34:56+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:56 CST]: pgsql is ready after waiting 1 seconds...
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site pgsql.sh[2717]: /volume3 is writable with
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site pgsql.sh[2717]: summary status: [pool_normal]
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site pgsql.sh[2717]: original status: [fs_normal]
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2717]: [pgsql] stopped.
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2717]: /run/postgresql:5432 - no response
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2717]: [2024-10-09 04:29:05 CST]: pgsql is stopped
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:35 CST]: Start PostgreSQL
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: ignore_system_indexes = off
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: zero_damaged_pages = off
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: max_connections = 2000
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site pgsql.sh[15609]: [pgsql] started.
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site pgsql.sh[15609]: /run/postgresql:5432 - accepting connections
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:40 CST]: pgsql is ready after waiting 1 seconds...
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site pgsql.sh[24848]: /volume3 is writable with
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site pgsql.sh[24848]: summary status: [pool_normal]
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site pgsql.sh[24848]: original status: [fs_normal]
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24848]: [pgsql] stopped.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24848]: /run/postgresql:5432 - no response
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24848]: [2024-11-05 00:53:46 CST]: pgsql is stopped
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:42 CST]: Start PostgreSQL
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: ignore_system_indexes = off
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: zero_damaged_pages = off
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: max_connections = 2000
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-11-05T07:06:48+08:00 Yasuraokaa_Site pgsql.sh[15675]: [pgsql] started.
+2024-11-05T07:06:48+08:00 Yasuraokaa_Site pgsql.sh[15675]: /run/postgresql:5432 - accepting connections
+2024-11-05T07:06:48+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:48 CST]: pgsql is ready after waiting 1 seconds...

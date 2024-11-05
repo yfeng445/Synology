@@ -1,0 +1,98 @@
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: 2024-09-11 12:09:14.702 GMT [16723] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: 2024-09-11 12:09:14.703 GMT [16723] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: 2024-09-11 12:09:14.739 GMT [16723] LOG:  ending log output to stderr
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: 2024-09-11 12:09:14.739 GMT [16723] HINT:  Future log output will go to log destination "syslog".
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5801]: waiting for server to shut down.... done
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5801]: server stopped
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: 2024-09-11 12:30:00.815 GMT [8110] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: 2024-09-11 12:30:00.816 GMT [8110] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: 2024-09-11 12:30:00.851 GMT [8110] LOG:  ending log output to stderr
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: 2024-09-11 12:30:00.851 GMT [8110] HINT:  Future log output will go to log destination "syslog".
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18149]: waiting for server to shut down.... done
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18149]: server stopped
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: 2024-09-11 16:30:34.073 GMT [14156] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: 2024-09-11 16:30:34.107 GMT [14156] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: 2024-09-11 16:30:34.198 GMT [14156] LOG:  ending log output to stderr
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: 2024-09-11 16:30:34.198 GMT [14156] HINT:  Future log output will go to log destination "syslog".
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9803]: waiting for server to shut down.... done
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9803]: server stopped
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: 2024-09-14 15:17:02.601 GMT [16449] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: 2024-09-14 15:17:02.624 GMT [16449] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: 2024-09-14 15:17:02.697 GMT [16449] LOG:  ending log output to stderr
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: 2024-09-14 15:17:02.697 GMT [16449] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26275]: waiting for server to shut down.... done
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26275]: server stopped
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: 2024-09-14 17:14:26.811 GMT [16410] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: 2024-09-14 17:14:26.836 GMT [16410] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: 2024-09-14 17:14:26.934 GMT [16410] LOG:  ending log output to stderr
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: 2024-09-14 17:14:26.934 GMT [16410] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: 2024-09-14 17:22:13.689 GMT [16511] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: 2024-09-14 17:22:13.759 GMT [16511] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: 2024-09-14 17:22:13.905 GMT [16511] LOG:  ending log output to stderr
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: 2024-09-14 17:22:13.905 GMT [16511] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T01:31:08+08:00 Synology_NAS postgres[16798]: 2024-09-14 17:31:08.790 GMT [16798] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:31:08+08:00 Synology_NAS postgres[16798]: 2024-09-14 17:31:08.876 GMT [16798] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:31:09+08:00 Synology_NAS postgres[16798]: 2024-09-14 17:31:09.198 GMT [16798] LOG:  ending log output to stderr
+2024-09-15T01:31:09+08:00 Synology_NAS postgres[16798]: 2024-09-14 17:31:09.198 GMT [16798] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: 2024-09-14 21:06:31.551 GMT [14873] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: 2024-09-14 21:06:31.628 GMT [14873] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: 2024-09-14 21:06:31.936 GMT [14873] LOG:  ending log output to stderr
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: 2024-09-14 21:06:31.936 GMT [14873] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T05:15:34+08:00 Synology_NAS postgres[17389]: 2024-09-14 21:15:34.950 GMT [17389] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: 2024-09-14 21:15:35.066 GMT [17389] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: 2024-09-14 21:15:35.655 GMT [17389] LOG:  ending log output to stderr
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: 2024-09-14 21:15:35.655 GMT [17389] HINT:  Future log output will go to log destination "syslog".
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10510]: waiting for server to shut down.... done
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10510]: server stopped
+2024-09-16T05:39:50+08:00 Synology_NAS postgres[16793]: 2024-09-15 21:39:50.980 GMT [16793] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: 2024-09-15 21:39:51.068 GMT [16793] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: 2024-09-15 21:39:51.213 GMT [16793] LOG:  ending log output to stderr
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: 2024-09-15 21:39:51.213 GMT [16793] HINT:  Future log output will go to log destination "syslog".
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17295]: waiting for server to shut down..... done
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17295]: server stopped
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: 2024-09-16 11:33:12.035 GMT [16766] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: 2024-09-16 11:33:12.077 GMT [16766] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: 2024-09-16 11:33:12.261 GMT [16766] LOG:  ending log output to stderr
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: 2024-09-16 11:33:12.261 GMT [16766] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20262]: waiting for server to shut down.... done
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20262]: server stopped
+2024-09-17T04:58:52+08:00 Synology_NAS postgres[16800]: 2024-09-16 20:58:52.885 GMT [16800] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T04:58:52+08:00 Synology_NAS postgres[16800]: 2024-09-16 20:58:52.959 GMT [16800] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T04:58:53+08:00 Synology_NAS postgres[16800]: 2024-09-16 20:58:53.095 GMT [16800] LOG:  ending log output to stderr
+2024-09-17T04:58:53+08:00 Synology_NAS postgres[16800]: 2024-09-16 20:58:53.095 GMT [16800] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1517]: waiting for server to shut down.... done
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1517]: server stopped
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: 2024-09-16 21:51:01.202 GMT [16844] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: 2024-09-16 21:51:01.228 GMT [16844] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: 2024-09-16 21:51:01.394 GMT [16844] LOG:  ending log output to stderr
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: 2024-09-16 21:51:01.394 GMT [16844] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3440]: waiting for server to shut down.... done
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3440]: server stopped
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: 2024-09-17 02:46:16.125 GMT [16810] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: 2024-09-17 02:46:16.173 GMT [16810] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: 2024-09-17 02:46:16.427 GMT [16810] LOG:  ending log output to stderr
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: 2024-09-17 02:46:16.427 GMT [16810] HINT:  Future log output will go to log destination "syslog".
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8281]: waiting for server to shut down.... done
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8281]: server stopped
+2024-09-20T07:51:33+08:00 Synology_NAS postgres[16943]: 2024-09-19 23:51:33.816 GMT [16943] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-20T07:51:33+08:00 Synology_NAS postgres[16943]: 2024-09-19 23:51:33.837 GMT [16943] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-20T07:51:34+08:00 Synology_NAS postgres[16943]: 2024-09-19 23:51:34.039 GMT [16943] LOG:  ending log output to stderr
+2024-09-20T07:51:34+08:00 Synology_NAS postgres[16943]: 2024-09-19 23:51:34.039 GMT [16943] HINT:  Future log output will go to log destination "syslog".
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32692]: waiting for server to shut down.... done
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32692]: server stopped
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: 2024-09-20 03:34:55.472 GMT [17653] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: 2024-09-20 03:34:55.520 GMT [17653] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: 2024-09-20 03:34:55.691 GMT [17653] LOG:  ending log output to stderr
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: 2024-09-20 03:34:55.691 GMT [17653] HINT:  Future log output will go to log destination "syslog".
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2770]: waiting for server to shut down..... done
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2770]: server stopped
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: 2024-10-08 20:33:40.060 GMT [18409] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: 2024-10-08 20:33:40.115 GMT [18409] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: 2024-10-08 20:33:40.285 GMT [18409] LOG:  ending log output to stderr
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: 2024-10-08 20:33:40.285 GMT [18409] HINT:  Future log output will go to log destination "syslog".
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24914]: waiting for server to shut down..... done
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24914]: server stopped
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: 2024-11-04 23:06:47.297 GMT [18423] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: 2024-11-04 23:06:47.364 GMT [18423] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: 2024-11-04 23:06:47.543 GMT [18423] LOG:  ending log output to stderr
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: 2024-11-04 23:06:47.543 GMT [18423] HINT:  Future log output will go to log destination "syslog".

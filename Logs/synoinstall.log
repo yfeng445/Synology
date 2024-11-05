@@ -1,0 +1,924 @@
+2024-09-08T17:15:18-07:00 SynologyNAS kernel: Synology Hardware Version: SA6400
+2024-09-08T17:15:21-07:00 SynologyNAS dsm-configupdate.sh[7779]: Run configupdate.small w.r.t. current version for event rootfs_ready start
+2024-09-08T17:15:21-07:00 SynologyNAS configupdate.small[7780]: libconfigupdate.cpp:240 Original info before upgrade, dsmversion: 69057, smallfixnumber: 5, event: rootfs_ready, type: upgrade
+2024-09-08T17:15:21-07:00 SynologyNAS configupdate.small[7780]: configupdate_small.c:120 Force starting version to nano 0
+2024-09-08T17:15:21-07:00 SynologyNAS configupdate.small[7780]: libconfigupdate.cpp:146 update config for version: 0
+2024-09-08T17:15:21-07:00 SynologyNAS configupdate.small[7781]: configupdate_small.c:20 Failed to open file: /var/packages/SupportService/target/SupportForm/etc/supportui.pam
+2024-09-08T17:15:21-07:00 SynologyNAS dsm-configupdate.sh[7783]: Run configupdate.small w.r.t. current version for event rootfs_ready done
+2024-09-08T17:16:50-07:00 SynologyNAS dsm-configupdate.sh[9958]: Run configupdate.small w.r.t. current version for event volume_ready start
+2024-09-08T17:16:50-07:00 SynologyNAS configupdate.small[9959]: libconfigupdate.cpp:240 Original info before upgrade, dsmversion: 69057, smallfixnumber: 5, event: volume_ready, type: upgrade
+2024-09-08T17:16:50-07:00 SynologyNAS configupdate.small[9959]: configupdate_small.c:120 Force starting version to nano 0
+2024-09-08T17:16:50-07:00 SynologyNAS dsm-configupdate.sh[9963]: Run configupdate.small w.r.t. current version for event volume_ready done
+2024-09-08T17:16:50-07:00 SynologyNAS dsm-configupdate.sh[10164]: Run configupdate.small w.r.t. current version for event share_ready start
+2024-09-08T17:16:50-07:00 SynologyNAS configupdate.small[10166]: libconfigupdate.cpp:240 Original info before upgrade, dsmversion: 69057, smallfixnumber: 5, event: share_ready, type: upgrade
+2024-09-08T17:16:50-07:00 SynologyNAS configupdate.small[10166]: configupdate_small.c:120 Force starting version to nano 0
+2024-09-08T17:16:50-07:00 SynologyNAS dsm-configupdate.sh[10222]: Run configupdate.small w.r.t. current version for event share_ready done
+2024-09-08T17:16:52-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.7I8oTa/json.sa][OPEN] Type: SecurityJson
+2024-09-08T17:16:52-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.7I8oTa/json.sa][INIT] [/dev/null]
+2024-09-08T17:16:52-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.7I8oTa/json.sa][OPEN] Start
+2024-09-08T17:16:52-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.7I8oTa/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-08T17:16:52-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.7I8oTa/json.sa][FREE]
+2024-09-08T17:16:52-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-08T17:16:52-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.186s
+2024-09-08T17:16:53-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.JJtzSY/json.sa][OPEN] Type: SecurityJson
+2024-09-08T17:16:53-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.JJtzSY/json.sa][INIT] [/dev/null]
+2024-09-08T17:16:53-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.JJtzSY/json.sa][OPEN] Start
+2024-09-08T17:16:53-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.JJtzSY/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-08T17:16:53-07:00 SynologyNAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[10319]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.JJtzSY/json.sa][FREE]
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [0] version [1]
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:iscsi_target_mapping_change_to_uuid.cpp:123:SYNOiSCSITargetMappingChangeToUUID going to update /usr/syno/etc/iscsi_mapping.conf
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:iscsi_target_mapping_change_to_uuid.cpp:134:SYNOFCTargetMappingChangeToUUID going to update /usr/syno/etc/fc_mapping.conf
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [1] version [1]
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [2] version [1]
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [4] version [1]
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [5] version [1]
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [7] version [147]
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [8] version [182]
+2024-09-08T17:16:54-07:00 SynologyNAS updater[11555]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [9] version [301]
+2024-09-08T17:16:56-07:00 SynologyNAS /usr/syno/sbin/synoupgradepreserve_for_configs.sh[12384]: dir is not exist [//usr/syno/synoinstall/space-preserve-for-configs]
+2024-09-08T17:16:58-07:00 SynologyNAS synoupgrade[13122]: plugin_action.c:76 synoplugin: [PRE][task_scheduler][task_create][MAIN] Plugin Action Start
+2024-09-08T17:16:58-07:00 SynologyNAS synoupgrade[13122]: plugin_action.c:76 synoplugin: [PRE][task_scheduler][task_create][MAIN] Runtime: 0.001s
+2024-09-08T17:16:58-07:00 SynologyNAS synoupgrade[13122]: cpp/synoscheduled_task.cpp:664 Created task [1] with task name [DSM Auto Update] by user [root]
+2024-09-08T17:16:58-07:00 SynologyNAS synoupgrade[13122]: plugin_action.c:76 synoplugin: [POST][task_scheduler][task_create][MAIN] Plugin Action Start
+2024-09-08T17:16:58-07:00 SynologyNAS synoupgrade[13122]: plugin_action.c:76 synoplugin: [POST][task_scheduler][task_create][MAIN] Runtime: 0.001s
+2024-09-08T17:16:58-07:00 SynologyNAS synoupgrade[13122]: plugin_action.c:76 synoplugin: [PRE][task_scheduler][task_edit][MAIN] Plugin Action Start
+2024-09-08T17:16:58-07:00 SynologyNAS synoupgrade[13122]: plugin_action.c:76 synoplugin: [PRE][task_scheduler][task_edit][MAIN] Runtime: 0.001s
+2024-09-08T17:16:59-07:00 SynologyNAS synoupgrade[13122]: plugin_action.c:76 synoplugin: [POST][task_scheduler][task_edit][MAIN] Plugin Action Start
+2024-09-08T17:16:59-07:00 SynologyNAS synoupgrade[13122]: plugin_action.c:76 synoplugin: [POST][task_scheduler][task_edit][MAIN] Runtime: 0.006s
+2024-09-08T17:16:59-07:00 SynologyNAS synoupgrade[13122]: setting_task.cpp:217 enable and set autoupdate #schedule:dsm_autoupdate_hotfix#, week:6 time:6-10
+2024-09-08T17:16:59-07:00 SynologyNAS updater[14087]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [3] version [1]
+2024-09-08T17:17:00-07:00 SynologyNAS updater[14322]: iSCSI:synoscsitpkg_updater.cpp:588:RunAvailableUpdaters Run updater [6] version [1]
+2024-09-08T17:17:01-07:00 SynologyNAS root[14934]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:67 (UpdateFromDSM60) Updating form dsm 6.0
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:128 (UpdateElasticSchema) update elastic schema
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:172 (SetAllFolderNeedReindex) Set all folder need reindex
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:128 (UpdateElasticSchema) update elastic schema
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:182 (CreateTermSuggDB) Create TermSuggestion DB Folder
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:195 (DefaultTurnOffJieba) Turn off cppjieba if no folder rules
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:128 (UpdateElasticSchema) update elastic schema
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:215 (AdjustFilePermission) Adjust file permission
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:128 (UpdateElasticSchema) update elastic schema
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:236 (UpdateElasticConfig) Write default elastic config
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:246 (ReindexFileAttribute) Reindex file attribute
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:236 (UpdateElasticConfig) Write default elastic config
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:262 (RenewSynotifydConfig) Upsert all synotifyd config
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:273 (AddPersistentField) Add Persistent field
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_chs]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_cht]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_csy]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_dan]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_enu]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_fre]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_ger]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_hun]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_ita]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_jpn]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_krn]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_nld]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_nor]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_plk]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_ptb]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_ptg]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_rus]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_spn]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_sve]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_tha]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:290 (AddPersistentField) skipped missing appindex [appindex_trk]
+2024-09-08T17:17:08-07:00 SynologyNAS updater[16893]: utils.cpp:300 (ReindexAppindex) Reindex Appindex
+2024-09-08T17:17:09-07:00 SynologyNAS updater[16893]: index_mgr.cpp:160 (Reindex) Reindex app
+2024-09-08T17:17:09-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /usr/syno/synoman/webman/modules/AdminCenter/index.conf
+2024-09-08T17:17:27-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /usr/syno/synoman/webman/modules/LogCenter/index.conf
+2024-09-08T17:17:27-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /usr/syno/synoman/webman/modules/PersonalSettings/index.conf
+2024-09-08T17:17:28-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /usr/syno/synoman/webman/modules/PkgManApp/index.conf
+2024-09-08T17:17:28-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /usr/syno/synoman/webman/modules/ResourceMonitor/index.conf
+2024-09-08T17:17:30-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /usr/syno/synoman/webman/modules/SecurityScan/index.conf
+2024-09-08T17:17:30-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /usr/syno/synoman/webman/modules/StorageManager/index.conf
+2024-09-08T17:17:31-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /usr/syno/synoman/webman/modules/SupportForm/index.conf
+2024-09-08T17:17:32-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /var/packages/ActiveInsight/target/ui/index.conf
+2024-09-08T17:17:32-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /var/packages/BackupRestoreManager/target/BackupApp/index.conf
+2024-09-08T17:17:32-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /var/packages/HybridShare/target/ui/index.conf
+2024-09-08T17:17:32-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /var/packages/OAuthService/target/app/index.conf
+2024-09-08T17:17:33-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /var/packages/ScsiTarget/target/ui/index.conf
+2024-09-08T17:17:33-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /var/packages/StorageManager/target/ui/index.conf
+2024-09-08T17:17:34-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /var/packages/SupportService/target/SupportForm/ui/index.conf
+2024-09-08T17:17:35-07:00 SynologyNAS updater[16893]: index_mgr.cpp:203 (Add) Add: /var/packages/SynoFinder/target/ui/index.conf
+2024-09-08T17:17:35-07:00 SynologyNAS updater[16893]: utils.cpp:273 (AddPersistentField) Add Persistent field
+2024-09-08T17:17:35-07:00 SynologyNAS updater[16893]: utils.cpp:315 (ShrinkSearchMaxSearchHitCount) shrink max search hit count to 100000
+2024-09-08T17:17:35-07:00 SynologyNAS updater[16893]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-08T17:19:52-07:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Setting_4_set[24239]: Setting.cpp:141 Successfully get old settings; partial update supported
+2024-09-08T17:19:52-07:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Setting_4_set[24239]: plugin_action.c:76 synoplugin: [PRE][task_scheduler][task_edit][MAIN] Plugin Action Start
+2024-09-08T17:19:52-07:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Setting_4_set[24239]: plugin_action.c:76 synoplugin: [PRE][task_scheduler][task_edit][MAIN] Runtime: 0.001s
+2024-09-08T17:19:52-07:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Setting_4_set[24239]: plugin_action.c:76 synoplugin: [POST][task_scheduler][task_edit][MAIN] Plugin Action Start
+2024-09-08T17:19:52-07:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Setting_4_set[24239]: plugin_action.c:76 synoplugin: [POST][task_scheduler][task_edit][MAIN] Runtime: 0.000s
+2024-09-08T17:19:52-07:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Setting_4_set[24239]: setting_task.cpp:217 enable and set autoupdate #schedule:dsm_autoupdate_hotfix#, week:6 time:6-10
+2024-09-09T08:24:43+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26074]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-09-10T07:07:20+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-10T07:08:26+08:00 Synology_NAS root[12168]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-10T07:08:28+08:00 Synology_NAS updater[12502]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-10T07:08:28+08:00 Synology_NAS updater[12502]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.S9zIqx/json.sa][OPEN] Type: SecurityJson
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.S9zIqx/json.sa][INIT] [/dev/null]
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.S9zIqx/json.sa][OPEN] Start
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.S9zIqx/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.S9zIqx/json.sa][FREE]
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.042s
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.If6X5s/json.sa][OPEN] Type: SecurityJson
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.If6X5s/json.sa][INIT] [/dev/null]
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.If6X5s/json.sa][OPEN] Start
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.If6X5s/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-10T20:26:35+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[423]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.If6X5s/json.sa][FREE]
+2024-09-11T19:57:35+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[419]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-09-11T20:04:04+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-11T20:05:42+08:00 Synology_NAS root[12528]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-11T20:05:44+08:00 Synology_NAS updater[12869]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-11T20:05:44+08:00 Synology_NAS updater[12869]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-11T20:09:06+08:00 Synology_NAS configupdate.volume[14869]: configupdate_volume.cpp:156 /volume1 without any file is considered newly created. Skip configupdate.
+2024-09-11T20:29:55+08:00 Synology_NAS configupdate.volume[7354]: configupdate_volume.cpp:156 /volume1 without any file is considered newly created. Skip configupdate.
+2024-09-11T20:30:36+08:00 Synology_NAS configupdate.volume[8756]: configupdate_volume.cpp:156 /volume2 without any file is considered newly created. Skip configupdate.
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uchTtu/json.sa][OPEN] Type: SecurityJson
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uchTtu/json.sa][INIT] [/dev/null]
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uchTtu/json.sa][OPEN] Start
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uchTtu/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uchTtu/json.sa][FREE]
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.040s
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YHsIOt/json.sa][OPEN] Type: SecurityJson
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YHsIOt/json.sa][INIT] [/dev/null]
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YHsIOt/json.sa][OPEN] Start
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YHsIOt/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-11T20:36:45+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[11143]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YHsIOt/json.sa][FREE]
+2024-09-12T00:26:18+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17734]: system_sys_init.c:133 synopoweroff: System is going to [reboot]
+2024-09-12T00:28:50+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-12T00:30:26+08:00 Synology_NAS configupdate.volume[11494]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-12T00:30:26+08:00 Synology_NAS configupdate.volume[11521]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-12T00:30:33+08:00 Synology_NAS root[13961]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-12T00:30:35+08:00 Synology_NAS updater[14600]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-12T00:30:35+08:00 Synology_NAS updater[14600]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-12T00:32:18+08:00 Synology_NAS configupdate.volume[16870]: configupdate_volume.cpp:156 /volume3 without any file is considered newly created. Skip configupdate.
+2024-09-12T10:40:26+08:00 Synology_NAS updater[11102]: common.cpp:304 glob() with error: 2
+2024-09-12T10:40:26+08:00 Synology_NAS updater[11102]: updater.cpp:302 Fail to load hostconfig from file
+2024-09-12T10:40:26+08:00 Synology_NAS updater[11105]: project_utils.cpp:183 glob() with error: 2
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GRSxFk/json.sa][OPEN] Type: SecurityJson
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GRSxFk/json.sa][INIT] [/dev/null]
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GRSxFk/json.sa][OPEN] Start
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GRSxFk/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GRSxFk/json.sa][FREE]
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.059s
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.WuWBH9/json.sa][OPEN] Type: SecurityJson
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.WuWBH9/json.sa][INIT] [/dev/null]
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.WuWBH9/json.sa][OPEN] Start
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.WuWBH9/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-13T09:21:43+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[430]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.WuWBH9/json.sa][FREE]
+2024-09-14T06:15:30+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eX8yXv/json.sa][OPEN] Type: SecurityJson
+2024-09-14T06:15:30+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eX8yXv/json.sa][INIT] [/dev/null]
+2024-09-14T06:15:30+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eX8yXv/json.sa][OPEN] Start
+2024-09-14T06:15:30+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eX8yXv/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-14T06:15:30+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eX8yXv/json.sa][FREE]
+2024-09-14T06:15:30+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-14T06:15:31+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.425s
+2024-09-14T06:15:31+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.LJs09n/json.sa][OPEN] Type: SecurityJson
+2024-09-14T06:15:31+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.LJs09n/json.sa][INIT] [/dev/null]
+2024-09-14T06:15:31+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.LJs09n/json.sa][OPEN] Start
+2024-09-14T06:15:31+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.LJs09n/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-14T06:15:31+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[18886]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.LJs09n/json.sa][FREE]
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.U9dj1O/json.sa][OPEN] Type: SecurityJson
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.U9dj1O/json.sa][INIT] [/dev/null]
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.U9dj1O/json.sa][OPEN] Start
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.U9dj1O/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.U9dj1O/json.sa][FREE]
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P8cJIJ/json.sa][OPEN] Type: SecurityJson
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P8cJIJ/json.sa][INIT] [/dev/null]
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P8cJIJ/json.sa][OPEN] Start
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P8cJIJ/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-14T06:15:32+08:00 Synology_NAS synoupgrade[18886]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P8cJIJ/json.sa][FREE]
+2024-09-14T22:42:42+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8808]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-09-14T23:15:15+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-14T23:16:52+08:00 Synology_NAS configupdate.volume[12372]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-14T23:16:52+08:00 Synology_NAS configupdate.volume[12387]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-14T23:16:52+08:00 Synology_NAS configupdate.volume[12388]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-14T23:17:01+08:00 Synology_NAS root[15976]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-14T23:17:04+08:00 Synology_NAS updater[17301]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-14T23:17:04+08:00 Synology_NAS updater[17301]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-15T00:04:08+08:00 Synology_NAS configupdate.volume[10524]: configupdate_volume.cpp:156 /volume4 without any file is considered newly created. Skip configupdate.
+2024-09-15T00:49:58+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[25111]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-09-15T01:12:40+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-15T01:14:17+08:00 Synology_NAS configupdate.volume[12094]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-15T01:14:17+08:00 Synology_NAS configupdate.volume[12120]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-15T01:14:17+08:00 Synology_NAS configupdate.volume[12126]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-15T01:14:17+08:00 Synology_NAS configupdate.volume[12139]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-15T01:14:25+08:00 Synology_NAS root[15935]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-15T01:14:27+08:00 Synology_NAS updater[17210]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-15T01:14:27+08:00 Synology_NAS updater[17210]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uwAOeo/json.sa][OPEN] Type: SecurityJson
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uwAOeo/json.sa][INIT] [/dev/null]
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uwAOeo/json.sa][OPEN] Start
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uwAOeo/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uwAOeo/json.sa][FREE]
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.040s
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tWHdw6/json.sa][OPEN] Type: SecurityJson
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tWHdw6/json.sa][INIT] [/dev/null]
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tWHdw6/json.sa][OPEN] Start
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tWHdw6/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-15T01:14:56+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[19273]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tWHdw6/json.sa][FREE]
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.21Mnni/json.sa][OPEN] Type: SecurityJson
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.21Mnni/json.sa][INIT] [/dev/null]
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.21Mnni/json.sa][OPEN] Start
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.21Mnni/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.21Mnni/json.sa][FREE]
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4E45GE/json.sa][OPEN] Type: SecurityJson
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4E45GE/json.sa][INIT] [/dev/null]
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4E45GE/json.sa][OPEN] Start
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4E45GE/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4E45GE/json.sa][FREE]
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: system_poweroff_pre_hook.c:22 synopoweroff: Begin SYNOPowerOffPreHook action.
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: plugin_action.c:76 synoplugin: [PRE][poweroff][poweroff][MAIN] Plugin Action Start
+2024-09-15T01:14:58+08:00 Synology_NAS synoupgrade[19273]: plugin_action.c:76 synoplugin: [PRE][poweroff][poweroff][MAIN] Runtime: 0.402s
+2024-09-15T01:14:58+08:00 Synology_NAS synoupgrade[19273]: system_poweroff_pre_hook.c:27 synopoweroff: Finish SYNOPowerOffPreHook action.
+2024-09-15T01:14:58+08:00 Synology_NAS synoupgrade[19273]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T01:14:58+08:00 Synology_NAS synoupgrade[19273]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T01:14:58+08:00 Synology_NAS synoupgrade[19273]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-09-15T01:17:46+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-15T01:20:28+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-15T01:22:03+08:00 Synology_NAS configupdate.volume[12124]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-15T01:22:03+08:00 Synology_NAS configupdate.volume[12116]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-15T01:22:04+08:00 Synology_NAS configupdate.volume[12160]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-15T01:22:04+08:00 Synology_NAS configupdate.volume[12177]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-15T01:22:12+08:00 Synology_NAS root[15971]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-15T01:22:17+08:00 Synology_NAS updater[17669]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-15T01:22:17+08:00 Synology_NAS updater[17669]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-15T01:29:22+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-15T01:30:58+08:00 Synology_NAS configupdate.volume[12366]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-15T01:30:58+08:00 Synology_NAS configupdate.volume[12393]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-15T01:30:58+08:00 Synology_NAS configupdate.volume[12398]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-15T01:30:58+08:00 Synology_NAS configupdate.volume[12437]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-15T01:31:06+08:00 Synology_NAS root[16154]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-15T01:31:10+08:00 Synology_NAS updater[17566]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-15T01:31:10+08:00 Synology_NAS updater[17566]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-15T05:04:33+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-15T05:06:11+08:00 Synology_NAS configupdate.volume[10625]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-15T05:06:24+08:00 Synology_NAS root[13994]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-15T05:06:30+08:00 Synology_NAS updater[14801]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-15T05:06:30+08:00 Synology_NAS updater[14801]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-15T05:09:37+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mHKqr8/json.sa][OPEN] Type: SecurityJson
+2024-09-15T05:09:37+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mHKqr8/json.sa][INIT] [/dev/null]
+2024-09-15T05:09:37+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mHKqr8/json.sa][OPEN] Start
+2024-09-15T05:09:37+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mHKqr8/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-15T05:09:37+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mHKqr8/json.sa][FREE]
+2024-09-15T05:09:37+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-15T05:09:37+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.047s
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eoxyAQ/json.sa][OPEN] Type: SecurityJson
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eoxyAQ/json.sa][INIT] [/dev/null]
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eoxyAQ/json.sa][OPEN] Start
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eoxyAQ/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[16027]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eoxyAQ/json.sa][FREE]
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tFEm2h/json.sa][OPEN] Type: SecurityJson
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tFEm2h/json.sa][INIT] [/dev/null]
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tFEm2h/json.sa][OPEN] Start
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tFEm2h/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tFEm2h/json.sa][FREE]
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NGvUdR/json.sa][OPEN] Type: SecurityJson
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NGvUdR/json.sa][INIT] [/dev/null]
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NGvUdR/json.sa][OPEN] Start
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NGvUdR/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-15T05:09:38+08:00 Synology_NAS synoupgrade[16027]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NGvUdR/json.sa][FREE]
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: system_poweroff_pre_hook.c:22 synopoweroff: Begin SYNOPowerOffPreHook action.
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: plugin_action.c:76 synoplugin: [PRE][poweroff][poweroff][MAIN] Plugin Action Start
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: plugin_action.c:76 synoplugin: [PRE][poweroff][poweroff][MAIN] Runtime: 0.190s
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: system_poweroff_pre_hook.c:27 synopoweroff: Finish SYNOPowerOffPreHook action.
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-09-15T05:13:35+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-15T05:15:15+08:00 Synology_NAS configupdate.volume[12041]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-15T05:15:16+08:00 Synology_NAS configupdate.volume[12070]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-15T05:15:16+08:00 Synology_NAS configupdate.volume[12102]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-15T05:15:16+08:00 Synology_NAS configupdate.volume[12103]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-15T05:15:28+08:00 Synology_NAS root[16856]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-15T05:15:41+08:00 Synology_NAS updater[18440]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-15T05:15:41+08:00 Synology_NAS updater[18440]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.vbrmcr/json.sa][OPEN] Type: SecurityJson
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.vbrmcr/json.sa][INIT] [/dev/null]
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.vbrmcr/json.sa][OPEN] Start
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.vbrmcr/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.vbrmcr/json.sa][FREE]
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.041s
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.QwOGpH/json.sa][OPEN] Type: SecurityJson
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.QwOGpH/json.sa][INIT] [/dev/null]
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.QwOGpH/json.sa][OPEN] Start
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.QwOGpH/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-16T05:35:10+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[8855]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.QwOGpH/json.sa][FREE]
+2024-09-16T05:35:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9274]: system_sys_init.c:133 synopoweroff: System is going to [reboot]
+2024-09-16T05:38:02+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-16T05:39:40+08:00 Synology_NAS configupdate.volume[12135]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-16T05:39:40+08:00 Synology_NAS configupdate.volume[12144]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-16T05:39:40+08:00 Synology_NAS configupdate.volume[12145]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-16T05:39:40+08:00 Synology_NAS configupdate.volume[12178]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-16T05:39:48+08:00 Synology_NAS root[15926]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-16T05:39:50+08:00 Synology_NAS updater[16816]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-16T05:39:50+08:00 Synology_NAS updater[16816]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-16T19:28:24+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16286]: system_sys_init.c:133 synopoweroff: System is going to [reboot]
+2024-09-16T19:31:25+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-16T19:33:01+08:00 Synology_NAS configupdate.volume[12092]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-16T19:33:01+08:00 Synology_NAS configupdate.volume[12099]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-16T19:33:01+08:00 Synology_NAS configupdate.volume[12125]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-16T19:33:01+08:00 Synology_NAS configupdate.volume[12147]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-16T19:33:09+08:00 Synology_NAS root[15954]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-16T19:33:12+08:00 Synology_NAS updater[16829]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-16T19:33:12+08:00 Synology_NAS updater[16829]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-17T04:54:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19241]: system_sys_init.c:133 synopoweroff: System is going to [reboot]
+2024-09-17T04:57:04+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-17T04:58:41+08:00 Synology_NAS configupdate.volume[12168]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-17T04:58:41+08:00 Synology_NAS configupdate.volume[12170]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-17T04:58:42+08:00 Synology_NAS configupdate.volume[12202]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-17T04:58:42+08:00 Synology_NAS configupdate.volume[12230]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-17T04:58:50+08:00 Synology_NAS root[16021]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-17T04:58:57+08:00 Synology_NAS updater[18242]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-17T04:58:57+08:00 Synology_NAS updater[18242]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-17T05:46:13+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[515]: system_sys_init.c:133 synopoweroff: System is going to [reboot]
+2024-09-17T05:49:14+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-17T05:50:50+08:00 Synology_NAS configupdate.volume[12129]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-17T05:50:50+08:00 Synology_NAS configupdate.volume[12131]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-17T05:50:51+08:00 Synology_NAS configupdate.volume[12150]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-17T05:50:51+08:00 Synology_NAS configupdate.volume[12179]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.if4Z61/json.sa][OPEN] Type: SecurityJson
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.if4Z61/json.sa][INIT] [/dev/null]
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.if4Z61/json.sa][OPEN] Start
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.if4Z61/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.if4Z61/json.sa][FREE]
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.278s
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ggj6U9/json.sa][OPEN] Type: SecurityJson
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ggj6U9/json.sa][INIT] [/dev/null]
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ggj6U9/json.sa][OPEN] Start
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ggj6U9/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-17T05:50:55+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13600]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ggj6U9/json.sa][FREE]
+2024-09-17T05:50:58+08:00 Synology_NAS root[15946]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-17T05:51:06+08:00 Synology_NAS updater[18563]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-17T05:51:06+08:00 Synology_NAS updater[18563]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-17T10:41:29+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2459]: system_sys_init.c:133 synopoweroff: System is going to [reboot]
+2024-09-17T10:44:29+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-17T10:46:05+08:00 Synology_NAS configupdate.volume[12111]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-17T10:46:05+08:00 Synology_NAS configupdate.volume[12137]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-17T10:46:05+08:00 Synology_NAS configupdate.volume[12138]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-17T10:46:05+08:00 Synology_NAS configupdate.volume[12168]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-17T10:46:13+08:00 Synology_NAS root[16146]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-17T10:46:16+08:00 Synology_NAS updater[17002]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-17T10:46:16+08:00 Synology_NAS updater[17002]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHLR1Q/json.sa][OPEN] Type: SecurityJson
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHLR1Q/json.sa][INIT] [/dev/null]
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHLR1Q/json.sa][OPEN] Start
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHLR1Q/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHLR1Q/json.sa][FREE]
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.069s
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.rkWWnR/json.sa][OPEN] Type: SecurityJson
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.rkWWnR/json.sa][INIT] [/dev/null]
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.rkWWnR/json.sa][OPEN] Start
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.rkWWnR/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-19T04:39:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[26695]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.rkWWnR/json.sa][FREE]
+2024-09-20T07:36:31+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[7056]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-09-20T07:49:46+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-20T07:51:22+08:00 Synology_NAS configupdate.volume[12248]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-20T07:51:22+08:00 Synology_NAS configupdate.volume[12265]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-20T07:51:22+08:00 Synology_NAS configupdate.volume[12276]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-20T07:51:22+08:00 Synology_NAS configupdate.volume[12303]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-20T07:51:27+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c6Ysqq/json.sa][OPEN] Type: SecurityJson
+2024-09-20T07:51:27+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c6Ysqq/json.sa][INIT] [/dev/null]
+2024-09-20T07:51:27+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c6Ysqq/json.sa][OPEN] Start
+2024-09-20T07:51:27+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c6Ysqq/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-20T07:51:27+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c6Ysqq/json.sa][FREE]
+2024-09-20T07:51:27+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-20T07:51:27+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.213s
+2024-09-20T07:51:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.g58H30/json.sa][OPEN] Type: SecurityJson
+2024-09-20T07:51:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.g58H30/json.sa][INIT] [/dev/null]
+2024-09-20T07:51:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.g58H30/json.sa][OPEN] Start
+2024-09-20T07:51:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.g58H30/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-20T07:51:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[13791]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.g58H30/json.sa][FREE]
+2024-09-20T07:51:32+08:00 Synology_NAS root[16347]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-20T07:51:34+08:00 Synology_NAS updater[17230]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-20T07:51:34+08:00 Synology_NAS updater[17230]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-20T07:55:03+08:00 Synology_NAS configupdate.volume[23058]: configupdate_volume.cpp:156 /volume5 without any file is considered newly created. Skip configupdate.
+2024-09-20T11:28:38+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31634]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-09-20T11:33:06+08:00 Synology_NAS kernel: Synology Hardware Version: SA6400
+2024-09-20T11:34:42+08:00 Synology_NAS configupdate.volume[12472]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume5, version: 69057
+2024-09-20T11:34:42+08:00 Synology_NAS configupdate.volume[12487]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-09-20T11:34:43+08:00 Synology_NAS configupdate.volume[12514]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-09-20T11:34:43+08:00 Synology_NAS configupdate.volume[12538]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-09-20T11:34:43+08:00 Synology_NAS configupdate.volume[12563]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-09-20T11:34:52+08:00 Synology_NAS root[16570]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-09-20T11:34:54+08:00 Synology_NAS updater[17545]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-09-20T11:34:54+08:00 Synology_NAS updater[17545]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-09-21T06:13:13+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h2sn4v/json.sa][OPEN] Type: SecurityJson
+2024-09-21T06:13:13+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h2sn4v/json.sa][INIT] [/dev/null]
+2024-09-21T06:13:13+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h2sn4v/json.sa][OPEN] Start
+2024-09-21T06:13:13+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h2sn4v/json.sa][OPEN] End: [Success][3688618971][0.001s]
+2024-09-21T06:13:13+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h2sn4v/json.sa][FREE]
+2024-09-21T06:13:14+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-21T06:13:14+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.088s
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.sCiYXj/json.sa][OPEN] Type: SecurityJson
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.sCiYXj/json.sa][INIT] [/dev/null]
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.sCiYXj/json.sa][OPEN] Start
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.sCiYXj/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[5743]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.sCiYXj/json.sa][FREE]
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.ztcDKj/json.sa][OPEN] Type: SecurityJson
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.ztcDKj/json.sa][INIT] [/dev/null]
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.ztcDKj/json.sa][OPEN] Start
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.ztcDKj/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-21T06:13:15+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.ztcDKj/json.sa][FREE]
+2024-09-21T06:13:16+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NzqWX1/json.sa][OPEN] Type: SecurityJson
+2024-09-21T06:13:16+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NzqWX1/json.sa][INIT] [/dev/null]
+2024-09-21T06:13:16+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NzqWX1/json.sa][OPEN] Start
+2024-09-21T06:13:16+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NzqWX1/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-21T06:13:16+08:00 Synology_NAS synoupgrade[5743]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.NzqWX1/json.sa][FREE]
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.OQuQbO/json.sa][OPEN] Type: SecurityJson
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.OQuQbO/json.sa][INIT] [/dev/null]
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.OQuQbO/json.sa][OPEN] Start
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.OQuQbO/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.OQuQbO/json.sa][FREE]
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.088s
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ulmumr/json.sa][OPEN] Type: SecurityJson
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ulmumr/json.sa][INIT] [/dev/null]
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ulmumr/json.sa][OPEN] Start
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ulmumr/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-22T09:10:27+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[6764]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Ulmumr/json.sa][FREE]
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P6JkfP/json.sa][OPEN] Type: SecurityJson
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P6JkfP/json.sa][INIT] [/dev/null]
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P6JkfP/json.sa][OPEN] Start
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P6JkfP/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.P6JkfP/json.sa][FREE]
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.036s
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.aJWCyT/json.sa][OPEN] Type: SecurityJson
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.aJWCyT/json.sa][INIT] [/dev/null]
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.aJWCyT/json.sa][OPEN] Start
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.aJWCyT/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-23T10:05:43+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[32538]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.aJWCyT/json.sa][FREE]
+2024-09-25T09:31:39+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.6dfVy9/json.sa][OPEN] Type: SecurityJson
+2024-09-25T09:31:39+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.6dfVy9/json.sa][INIT] [/dev/null]
+2024-09-25T09:31:39+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.6dfVy9/json.sa][OPEN] Start
+2024-09-25T09:31:39+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.6dfVy9/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-25T09:31:39+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.6dfVy9/json.sa][FREE]
+2024-09-25T09:31:39+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-25T09:31:39+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.042s
+2024-09-25T09:31:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.dJjXru/json.sa][OPEN] Type: SecurityJson
+2024-09-25T09:31:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.dJjXru/json.sa][INIT] [/dev/null]
+2024-09-25T09:31:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.dJjXru/json.sa][OPEN] Start
+2024-09-25T09:31:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.dJjXru/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-25T09:31:40+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[2226]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.dJjXru/json.sa][FREE]
+2024-09-26T10:46:15+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.w53YDr/json.sa][OPEN] Type: SecurityJson
+2024-09-26T10:46:15+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.w53YDr/json.sa][INIT] [/dev/null]
+2024-09-26T10:46:15+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.w53YDr/json.sa][OPEN] Start
+2024-09-26T10:46:15+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.w53YDr/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-26T10:46:15+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.w53YDr/json.sa][FREE]
+2024-09-26T10:46:15+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-26T10:46:15+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.036s
+2024-09-26T10:46:16+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uvinHA/json.sa][OPEN] Type: SecurityJson
+2024-09-26T10:46:16+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uvinHA/json.sa][INIT] [/dev/null]
+2024-09-26T10:46:16+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uvinHA/json.sa][OPEN] Start
+2024-09-26T10:46:16+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uvinHA/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-26T10:46:16+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[25769]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uvinHA/json.sa][FREE]
+2024-09-28T01:14:15+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zFn3t2/json.sa][OPEN] Type: SecurityJson
+2024-09-28T01:14:15+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zFn3t2/json.sa][INIT] [/dev/null]
+2024-09-28T01:14:15+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zFn3t2/json.sa][OPEN] Start
+2024-09-28T01:14:15+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zFn3t2/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-28T01:14:15+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zFn3t2/json.sa][FREE]
+2024-09-28T01:14:15+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-28T01:14:15+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.079s
+2024-09-28T01:14:16+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.SmM8n9/json.sa][OPEN] Type: SecurityJson
+2024-09-28T01:14:16+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.SmM8n9/json.sa][INIT] [/dev/null]
+2024-09-28T01:14:16+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.SmM8n9/json.sa][OPEN] Start
+2024-09-28T01:14:16+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.SmM8n9/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-28T01:14:16+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[31646]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.SmM8n9/json.sa][FREE]
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0fPVig/json.sa][OPEN] Type: SecurityJson
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0fPVig/json.sa][INIT] [/dev/null]
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0fPVig/json.sa][OPEN] Start
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0fPVig/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0fPVig/json.sa][FREE]
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.048s
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GmkFSl/json.sa][OPEN] Type: SecurityJson
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GmkFSl/json.sa][INIT] [/dev/null]
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GmkFSl/json.sa][OPEN] Start
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GmkFSl/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-28T06:14:28+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[11478]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.GmkFSl/json.sa][FREE]
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mfVl9F/json.sa][OPEN] Type: SecurityJson
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mfVl9F/json.sa][INIT] [/dev/null]
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mfVl9F/json.sa][OPEN] Start
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mfVl9F/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mfVl9F/json.sa][FREE]
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4r1ViT/json.sa][OPEN] Type: SecurityJson
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4r1ViT/json.sa][INIT] [/dev/null]
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4r1ViT/json.sa][OPEN] Start
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4r1ViT/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-28T06:14:29+08:00 Synology_NAS synoupgrade[11478]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.4r1ViT/json.sa][FREE]
+2024-09-29T08:13:19+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hphj7F/json.sa][OPEN] Type: SecurityJson
+2024-09-29T08:13:19+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hphj7F/json.sa][INIT] [/dev/null]
+2024-09-29T08:13:19+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hphj7F/json.sa][OPEN] Start
+2024-09-29T08:13:19+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hphj7F/json.sa][OPEN] End: [Success][3688618971][0.008s]
+2024-09-29T08:13:19+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hphj7F/json.sa][FREE]
+2024-09-29T08:13:19+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-29T08:13:19+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.100s
+2024-09-29T08:13:20+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1gbGyx/json.sa][OPEN] Type: SecurityJson
+2024-09-29T08:13:20+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1gbGyx/json.sa][INIT] [/dev/null]
+2024-09-29T08:13:20+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1gbGyx/json.sa][OPEN] Start
+2024-09-29T08:13:20+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1gbGyx/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-29T08:13:20+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[12820]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1gbGyx/json.sa][FREE]
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.HqpyB9/json.sa][OPEN] Type: SecurityJson
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.HqpyB9/json.sa][INIT] [/dev/null]
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.HqpyB9/json.sa][OPEN] Start
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.HqpyB9/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.HqpyB9/json.sa][FREE]
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.051s
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yyecQV/json.sa][OPEN] Type: SecurityJson
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yyecQV/json.sa][INIT] [/dev/null]
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yyecQV/json.sa][OPEN] Start
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yyecQV/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-09-30T20:03:46+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21320]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yyecQV/json.sa][FREE]
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fgQRay/json.sa][OPEN] Type: SecurityJson
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fgQRay/json.sa][INIT] [/dev/null]
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fgQRay/json.sa][OPEN] Start
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fgQRay/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fgQRay/json.sa][FREE]
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.044s
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.iJbltJ/json.sa][OPEN] Type: SecurityJson
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.iJbltJ/json.sa][INIT] [/dev/null]
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.iJbltJ/json.sa][OPEN] Start
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.iJbltJ/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-02T03:22:03+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[30053]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.iJbltJ/json.sa][FREE]
+2024-10-03T07:53:19+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YPgCKe/json.sa][OPEN] Type: SecurityJson
+2024-10-03T07:53:19+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YPgCKe/json.sa][INIT] [/dev/null]
+2024-10-03T07:53:19+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YPgCKe/json.sa][OPEN] Start
+2024-10-03T07:53:19+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YPgCKe/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-03T07:53:19+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.YPgCKe/json.sa][FREE]
+2024-10-03T07:53:19+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-03T07:53:19+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.037s
+2024-10-03T07:53:20+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Odt1wa/json.sa][OPEN] Type: SecurityJson
+2024-10-03T07:53:20+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Odt1wa/json.sa][INIT] [/dev/null]
+2024-10-03T07:53:20+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Odt1wa/json.sa][OPEN] Start
+2024-10-03T07:53:20+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Odt1wa/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-03T07:53:20+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[11391]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Odt1wa/json.sa][FREE]
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bvt1VI/json.sa][OPEN] Type: SecurityJson
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bvt1VI/json.sa][INIT] [/dev/null]
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bvt1VI/json.sa][OPEN] Start
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bvt1VI/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bvt1VI/json.sa][FREE]
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.058s
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1bdS8u/json.sa][OPEN] Type: SecurityJson
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1bdS8u/json.sa][INIT] [/dev/null]
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1bdS8u/json.sa][OPEN] Start
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1bdS8u/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-05T00:45:54+08:00 Synology_NAS synoscgi_SYNO.Core.Upgrade.Server_1_check[22275]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.1bdS8u/json.sa][FREE]
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.TXu5p7/json.sa][OPEN] Type: SecurityJson
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.TXu5p7/json.sa][INIT] [/dev/null]
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.TXu5p7/json.sa][OPEN] Start
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.TXu5p7/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.TXu5p7/json.sa][FREE]
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.079s
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Fu6E2s/json.sa][OPEN] Type: SecurityJson
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Fu6E2s/json.sa][INIT] [/dev/null]
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Fu6E2s/json.sa][OPEN] Start
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Fu6E2s/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-05T06:18:23+08:00 Synology_NAS synoupgrade_SYNO.Core.Upgrade.Server_2_check[4833]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Fu6E2s/json.sa][FREE]
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fkW4AN/json.sa][OPEN] Type: SecurityJson
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fkW4AN/json.sa][INIT] [/dev/null]
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fkW4AN/json.sa][OPEN] Start
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fkW4AN/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fkW4AN/json.sa][FREE]
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.29fItC/json.sa][OPEN] Type: SecurityJson
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.29fItC/json.sa][INIT] [/dev/null]
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.29fItC/json.sa][OPEN] Start
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.29fItC/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-05T06:18:24+08:00 Synology_NAS synoupgrade[4833]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.29fItC/json.sa][FREE]
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.FqFegV/json.sa][OPEN] Type: SecurityJson
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.FqFegV/json.sa][INIT] [/dev/null]
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.FqFegV/json.sa][OPEN] Start
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.FqFegV/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.FqFegV/json.sa][FREE]
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.063s
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.a1heqM/json.sa][OPEN] Type: SecurityJson
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.a1heqM/json.sa][INIT] [/dev/null]
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.a1heqM/json.sa][OPEN] Start
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.a1heqM/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-07T00:02:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22925]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.a1heqM/json.sa][FREE]
+2024-10-08T04:09:07+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tNkjSC/json.sa][OPEN] Type: SecurityJson
+2024-10-08T04:09:07+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tNkjSC/json.sa][INIT] [/dev/null]
+2024-10-08T04:09:07+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tNkjSC/json.sa][OPEN] Start
+2024-10-08T04:09:07+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tNkjSC/json.sa][OPEN] End: [Success][3688618971][0.001s]
+2024-10-08T04:09:07+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tNkjSC/json.sa][FREE]
+2024-10-08T04:09:07+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-08T04:09:07+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.268s
+2024-10-08T04:09:08+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5tDiqW/json.sa][OPEN] Type: SecurityJson
+2024-10-08T04:09:08+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5tDiqW/json.sa][INIT] [/dev/null]
+2024-10-08T04:09:08+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5tDiqW/json.sa][OPEN] Start
+2024-10-08T04:09:08+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5tDiqW/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-08T04:09:08+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[25793]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5tDiqW/json.sa][FREE]
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.gnQMkg/json.sa][OPEN] Type: SecurityJson
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.gnQMkg/json.sa][INIT] [/dev/null]
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.gnQMkg/json.sa][OPEN] Start
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.gnQMkg/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.gnQMkg/json.sa][FREE]
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.040s
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9YpcAV/json.sa][OPEN] Type: SecurityJson
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9YpcAV/json.sa][INIT] [/dev/null]
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9YpcAV/json.sa][OPEN] Start
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9YpcAV/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-09T04:12:38+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[19023]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9YpcAV/json.sa][FREE]
+2024-10-09T04:28:32+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32647]: system_sys_init.c:133 synopoweroff: System is going to [reboot]
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site kernel: Synology Hardware Version: SA6400
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site configupdate.volume[12630]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site configupdate.volume[12639]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site configupdate.volume[12648]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-10-09T04:33:24+08:00 Yasuraokaa_Site configupdate.volume[12685]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume5, version: 69057
+2024-10-09T04:33:26+08:00 Yasuraokaa_Site configupdate.volume[12713]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-10-09T04:33:37+08:00 Yasuraokaa_Site root[16751]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site updater[18650]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site updater[18650]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates
+2024-10-10T10:04:36+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.j8ECXg/json.sa][OPEN] Type: SecurityJson
+2024-10-10T10:04:36+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.j8ECXg/json.sa][INIT] [/dev/null]
+2024-10-10T10:04:36+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.j8ECXg/json.sa][OPEN] Start
+2024-10-10T10:04:36+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.j8ECXg/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-10T10:04:36+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.j8ECXg/json.sa][FREE]
+2024-10-10T10:04:37+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-10T10:04:37+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.063s
+2024-10-10T10:04:37+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.kCMr7j/json.sa][OPEN] Type: SecurityJson
+2024-10-10T10:04:37+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.kCMr7j/json.sa][INIT] [/dev/null]
+2024-10-10T10:04:37+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.kCMr7j/json.sa][OPEN] Start
+2024-10-10T10:04:37+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.kCMr7j/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-10T10:04:37+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[14634]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.kCMr7j/json.sa][FREE]
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.O3mEO7/json.sa][OPEN] Type: SecurityJson
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.O3mEO7/json.sa][INIT] [/dev/null]
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.O3mEO7/json.sa][OPEN] Start
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.O3mEO7/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.O3mEO7/json.sa][FREE]
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.035s
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.8U02In/json.sa][OPEN] Type: SecurityJson
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.8U02In/json.sa][INIT] [/dev/null]
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.8U02In/json.sa][OPEN] Start
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.8U02In/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-11T12:28:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[13955]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.8U02In/json.sa][FREE]
+2024-10-12T06:11:46+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mTstDg/json.sa][OPEN] Type: SecurityJson
+2024-10-12T06:11:46+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mTstDg/json.sa][INIT] [/dev/null]
+2024-10-12T06:11:46+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mTstDg/json.sa][OPEN] Start
+2024-10-12T06:11:46+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mTstDg/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-12T06:11:46+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.mTstDg/json.sa][FREE]
+2024-10-12T06:11:46+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-12T06:11:46+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.098s
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h1DTLR/json.sa][OPEN] Type: SecurityJson
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h1DTLR/json.sa][INIT] [/dev/null]
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h1DTLR/json.sa][OPEN] Start
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h1DTLR/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[5673]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.h1DTLR/json.sa][FREE]
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.PeoC6i/json.sa][OPEN] Type: SecurityJson
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.PeoC6i/json.sa][INIT] [/dev/null]
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.PeoC6i/json.sa][OPEN] Start
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.PeoC6i/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-12T06:11:47+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.PeoC6i/json.sa][FREE]
+2024-10-12T06:11:48+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lWHONV/json.sa][OPEN] Type: SecurityJson
+2024-10-12T06:11:48+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lWHONV/json.sa][INIT] [/dev/null]
+2024-10-12T06:11:48+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lWHONV/json.sa][OPEN] Start
+2024-10-12T06:11:48+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lWHONV/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-12T06:11:48+08:00 Yasuraokaa_Site synoupgrade[5673]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lWHONV/json.sa][FREE]
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XFKwHv/json.sa][OPEN] Type: SecurityJson
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XFKwHv/json.sa][INIT] [/dev/null]
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XFKwHv/json.sa][OPEN] Start
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XFKwHv/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XFKwHv/json.sa][FREE]
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.043s
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHy1ms/json.sa][OPEN] Type: SecurityJson
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHy1ms/json.sa][INIT] [/dev/null]
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHy1ms/json.sa][OPEN] Start
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHy1ms/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-13T09:18:20+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[9546]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.bHy1ms/json.sa][FREE]
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.r2PTZx/json.sa][OPEN] Type: SecurityJson
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.r2PTZx/json.sa][INIT] [/dev/null]
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.r2PTZx/json.sa][OPEN] Start
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.r2PTZx/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.r2PTZx/json.sa][FREE]
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.108s
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tG1VGH/json.sa][OPEN] Type: SecurityJson
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tG1VGH/json.sa][INIT] [/dev/null]
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tG1VGH/json.sa][OPEN] Start
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tG1VGH/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-14T09:33:19+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[3246]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.tG1VGH/json.sa][FREE]
+2024-10-15T11:59:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fDJTU8/json.sa][OPEN] Type: SecurityJson
+2024-10-15T11:59:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fDJTU8/json.sa][INIT] [/dev/null]
+2024-10-15T11:59:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fDJTU8/json.sa][OPEN] Start
+2024-10-15T11:59:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fDJTU8/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-15T11:59:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.fDJTU8/json.sa][FREE]
+2024-10-15T11:59:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-15T11:59:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.044s
+2024-10-15T11:59:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eLJmd5/json.sa][OPEN] Type: SecurityJson
+2024-10-15T11:59:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eLJmd5/json.sa][INIT] [/dev/null]
+2024-10-15T11:59:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eLJmd5/json.sa][OPEN] Start
+2024-10-15T11:59:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eLJmd5/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-15T11:59:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Upgrade.Server_1_check[3322]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.eLJmd5/json.sa][FREE]
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lBLF7q/json.sa][OPEN] Type: SecurityJson
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lBLF7q/json.sa][INIT] [/dev/null]
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lBLF7q/json.sa][OPEN] Start
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lBLF7q/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lBLF7q/json.sa][FREE]
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.059s
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.RXBEfB/json.sa][OPEN] Type: SecurityJson
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.RXBEfB/json.sa][INIT] [/dev/null]
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.RXBEfB/json.sa][OPEN] Start
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.RXBEfB/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-17T00:00:06+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21819]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.RXBEfB/json.sa][FREE]
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9TVPuG/json.sa][OPEN] Type: SecurityJson
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9TVPuG/json.sa][INIT] [/dev/null]
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9TVPuG/json.sa][OPEN] Start
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9TVPuG/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9TVPuG/json.sa][FREE]
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.038s
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0N7xtD/json.sa][OPEN] Type: SecurityJson
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0N7xtD/json.sa][INIT] [/dev/null]
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0N7xtD/json.sa][OPEN] Start
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0N7xtD/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-18T20:55:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[16127]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.0N7xtD/json.sa][FREE]
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.m3CEM6/json.sa][OPEN] Type: SecurityJson
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.m3CEM6/json.sa][INIT] [/dev/null]
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.m3CEM6/json.sa][OPEN] Start
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.m3CEM6/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.m3CEM6/json.sa][FREE]
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.042s
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yp0y1G/json.sa][OPEN] Type: SecurityJson
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yp0y1G/json.sa][INIT] [/dev/null]
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yp0y1G/json.sa][OPEN] Start
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yp0y1G/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-19T06:17:15+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[800]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.yp0y1G/json.sa][FREE]
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.2QfJ85/json.sa][OPEN] Type: SecurityJson
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.2QfJ85/json.sa][INIT] [/dev/null]
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.2QfJ85/json.sa][OPEN] Start
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.2QfJ85/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.2QfJ85/json.sa][FREE]
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bf27gh/json.sa][OPEN] Type: SecurityJson
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bf27gh/json.sa][INIT] [/dev/null]
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bf27gh/json.sa][OPEN] Start
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bf27gh/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-19T06:17:16+08:00 Yasuraokaa_Site synoupgrade[800]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Bf27gh/json.sa][FREE]
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.B1pgwE/json.sa][OPEN] Type: SecurityJson
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.B1pgwE/json.sa][INIT] [/dev/null]
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.B1pgwE/json.sa][OPEN] Start
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.B1pgwE/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.B1pgwE/json.sa][FREE]
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.043s
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.KNB8bD/json.sa][OPEN] Type: SecurityJson
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.KNB8bD/json.sa][INIT] [/dev/null]
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.KNB8bD/json.sa][OPEN] Start
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.KNB8bD/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-20T19:50:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[21287]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.KNB8bD/json.sa][FREE]
+2024-10-22T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c5lrfv/json.sa][OPEN] Type: SecurityJson
+2024-10-22T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c5lrfv/json.sa][INIT] [/dev/null]
+2024-10-22T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c5lrfv/json.sa][OPEN] Start
+2024-10-22T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c5lrfv/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-22T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.c5lrfv/json.sa][FREE]
+2024-10-22T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-22T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.051s
+2024-10-22T04:09:05+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UFiqj4/json.sa][OPEN] Type: SecurityJson
+2024-10-22T04:09:05+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UFiqj4/json.sa][INIT] [/dev/null]
+2024-10-22T04:09:05+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UFiqj4/json.sa][OPEN] Start
+2024-10-22T04:09:05+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UFiqj4/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-22T04:09:05+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[18695]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UFiqj4/json.sa][FREE]
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uHUOIO/json.sa][OPEN] Type: SecurityJson
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uHUOIO/json.sa][INIT] [/dev/null]
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uHUOIO/json.sa][OPEN] Start
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uHUOIO/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.uHUOIO/json.sa][FREE]
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.049s
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.oTyrSN/json.sa][OPEN] Type: SecurityJson
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.oTyrSN/json.sa][INIT] [/dev/null]
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.oTyrSN/json.sa][OPEN] Start
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.oTyrSN/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-23T07:08:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22270]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.oTyrSN/json.sa][FREE]
+2024-10-24T22:08:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.drO0Q7/json.sa][OPEN] Type: SecurityJson
+2024-10-24T22:08:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.drO0Q7/json.sa][INIT] [/dev/null]
+2024-10-24T22:08:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.drO0Q7/json.sa][OPEN] Start
+2024-10-24T22:08:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.drO0Q7/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-24T22:08:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.drO0Q7/json.sa][FREE]
+2024-10-24T22:08:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-24T22:08:53+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.051s
+2024-10-24T22:08:54+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Q12WzO/json.sa][OPEN] Type: SecurityJson
+2024-10-24T22:08:54+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Q12WzO/json.sa][INIT] [/dev/null]
+2024-10-24T22:08:54+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Q12WzO/json.sa][OPEN] Start
+2024-10-24T22:08:54+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Q12WzO/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-24T22:08:54+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[10208]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.Q12WzO/json.sa][FREE]
+2024-10-26T06:10:12+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lhe0AM/json.sa][OPEN] Type: SecurityJson
+2024-10-26T06:10:12+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lhe0AM/json.sa][INIT] [/dev/null]
+2024-10-26T06:10:12+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lhe0AM/json.sa][OPEN] Start
+2024-10-26T06:10:12+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lhe0AM/json.sa][OPEN] End: [Success][3688618971][0.008s]
+2024-10-26T06:10:12+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.lhe0AM/json.sa][FREE]
+2024-10-26T06:10:12+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-26T06:10:12+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.103s
+2024-10-26T06:10:13+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UBFGwO/json.sa][OPEN] Type: SecurityJson
+2024-10-26T06:10:13+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UBFGwO/json.sa][INIT] [/dev/null]
+2024-10-26T06:10:13+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UBFGwO/json.sa][OPEN] Start
+2024-10-26T06:10:13+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UBFGwO/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-26T06:10:13+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[30692]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.UBFGwO/json.sa][FREE]
+2024-10-26T06:10:14+08:00 Yasuraokaa_Site synoupgrade[30692]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.nPJzQB/json.sa][OPEN] Type: SecurityJson
+2024-10-26T06:10:14+08:00 Yasuraokaa_Site synoupgrade[30692]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.nPJzQB/json.sa][INIT] [/dev/null]
+2024-10-26T06:10:14+08:00 Yasuraokaa_Site synoupgrade[30692]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.nPJzQB/json.sa][OPEN] Start
+2024-10-26T06:10:14+08:00 Yasuraokaa_Site synoupgrade[30692]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.nPJzQB/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-26T06:10:14+08:00 Yasuraokaa_Site synoupgrade[30692]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.nPJzQB/json.sa][FREE]
+2024-10-26T06:10:15+08:00 Yasuraokaa_Site synoupgrade[30692]: sysnotify_send_notification.cpp:479 SYSNOTIFY: [DSMAutoUpdateNotifyNewVersion] was sent to desktop
+2024-10-26T06:10:15+08:00 Yasuraokaa_Site synoupgrade[30692]: plugin_action.c:76 synoplugin: [POST][notification][notification][MAIN] Plugin Action Start
+2024-10-26T06:10:15+08:00 Yasuraokaa_Site synoupgrade[30692]: plugin_action.c:76 synoplugin: [POST][notification][notification][MAIN] Runtime: 0.105s
+2024-10-28T01:05:04+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22901]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-28T01:05:05+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22901]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.057s
+2024-10-28T01:05:05+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22901]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pBN8Vg/json.sa][OPEN] Type: SecurityJson
+2024-10-28T01:05:05+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22901]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pBN8Vg/json.sa][INIT] [/dev/null]
+2024-10-28T01:05:05+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22901]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pBN8Vg/json.sa][OPEN] Start
+2024-10-28T01:05:05+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22901]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pBN8Vg/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-28T01:05:05+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[22901]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pBN8Vg/json.sa][FREE]
+2024-10-29T04:09:03+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[3143]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-29T04:09:03+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[3143]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.052s
+2024-10-29T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[3143]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.DRr6gn/json.sa][OPEN] Type: SecurityJson
+2024-10-29T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[3143]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.DRr6gn/json.sa][INIT] [/dev/null]
+2024-10-29T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[3143]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.DRr6gn/json.sa][OPEN] Start
+2024-10-29T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[3143]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.DRr6gn/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-29T04:09:04+08:00 Yasuraokaa_Site synowebapi_SYNO.Core.Upgrade.Server_1_check[3143]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.DRr6gn/json.sa][FREE]
+2024-10-30T20:31:11+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[7656]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-10-30T20:31:11+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[7656]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.055s
+2024-10-30T20:31:11+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[7656]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hqUhQ0/json.sa][OPEN] Type: SecurityJson
+2024-10-30T20:31:11+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[7656]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hqUhQ0/json.sa][INIT] [/dev/null]
+2024-10-30T20:31:11+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[7656]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hqUhQ0/json.sa][OPEN] Start
+2024-10-30T20:31:11+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[7656]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hqUhQ0/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-10-30T20:31:11+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[7656]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.hqUhQ0/json.sa][FREE]
+2024-11-01T06:50:29+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zljiAN/json.sa][OPEN] Type: SecurityJson
+2024-11-01T06:50:29+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zljiAN/json.sa][INIT] [/dev/null]
+2024-11-01T06:50:29+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zljiAN/json.sa][OPEN] Start
+2024-11-01T06:50:29+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zljiAN/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-11-01T06:50:29+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.zljiAN/json.sa][FREE]
+2024-11-01T06:50:29+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-11-01T06:50:29+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.059s
+2024-11-01T06:50:30+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.z5hBMg/json.sa][OPEN] Type: SecurityJson
+2024-11-01T06:50:30+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.z5hBMg/json.sa][INIT] [/dev/null]
+2024-11-01T06:50:30+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.z5hBMg/json.sa][OPEN] Start
+2024-11-01T06:50:30+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.z5hBMg/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-11-01T06:50:30+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[23796]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.z5hBMg/json.sa][FREE]
+2024-11-02T06:12:05+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pSWANa/json.sa][OPEN] Type: SecurityJson
+2024-11-02T06:12:05+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pSWANa/json.sa][INIT] [/dev/null]
+2024-11-02T06:12:05+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pSWANa/json.sa][OPEN] Start
+2024-11-02T06:12:05+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pSWANa/json.sa][OPEN] End: [Success][3688618971][0.021s]
+2024-11-02T06:12:05+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.pSWANa/json.sa][FREE]
+2024-11-02T06:12:05+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-11-02T06:12:06+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.242s
+2024-11-02T06:12:06+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.X3G6is/json.sa][OPEN] Type: SecurityJson
+2024-11-02T06:12:06+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.X3G6is/json.sa][INIT] [/dev/null]
+2024-11-02T06:12:06+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.X3G6is/json.sa][OPEN] Start
+2024-11-02T06:12:06+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.X3G6is/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-11-02T06:12:06+08:00 Yasuraokaa_Site synoupgrade_SYNO.Core.Upgrade.Server_2_check[8764]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.X3G6is/json.sa][FREE]
+2024-11-02T06:12:07+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XG9jhI/json.sa][OPEN] Type: SecurityJson
+2024-11-02T06:12:07+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XG9jhI/json.sa][INIT] [/dev/null]
+2024-11-02T06:12:07+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XG9jhI/json.sa][OPEN] Start
+2024-11-02T06:12:07+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XG9jhI/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-11-02T06:12:07+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.XG9jhI/json.sa][FREE]
+2024-11-02T06:12:08+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.L2LnFF/json.sa][OPEN] Type: SecurityJson
+2024-11-02T06:12:08+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.L2LnFF/json.sa][INIT] [/dev/null]
+2024-11-02T06:12:08+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.L2LnFF/json.sa][OPEN] Start
+2024-11-02T06:12:08+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.L2LnFF/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-11-02T06:12:08+08:00 Yasuraokaa_Site synoupgrade[8764]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.L2LnFF/json.sa][FREE]
+2024-11-04T18:00:27+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5brAF4/json.sa][OPEN] Type: SecurityJson
+2024-11-04T18:00:27+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5brAF4/json.sa][INIT] [/dev/null]
+2024-11-04T18:00:27+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5brAF4/json.sa][OPEN] Start
+2024-11-04T18:00:27+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5brAF4/json.sa][OPEN] End: [Success][3688618971][0.001s]
+2024-11-04T18:00:27+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.5brAF4/json.sa][FREE]
+2024-11-04T18:00:27+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Plugin Action Start
+2024-11-04T18:00:28+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: plugin_action.c:76 synoplugin: [POST][update][update/check_result_refreshed][MAIN] Runtime: 0.233s
+2024-11-04T18:00:28+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:536 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9UNFth/json.sa][OPEN] Type: SecurityJson
+2024-11-04T18:00:28+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:84 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9UNFth/json.sa][INIT] [/dev/null]
+2024-11-04T18:00:28+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:92 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9UNFth/json.sa][OPEN] Start
+2024-11-04T18:00:28+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:102 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9UNFth/json.sa][OPEN] End: [Success][3688618971][0.000s]
+2024-11-04T18:00:28+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Upgrade.Server_4_check[8719]: lib/synoarchive.c:229 synoinstall: synoarchive: [/var/tmp/security_json_tmp.9UNFth/json.sa][FREE]
+2024-11-05T00:53:13+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21920]: system_sys_init.c:133 synopoweroff: System is going to [poweroff]
+2024-11-05T07:05:05+08:00 Yasuraokaa_Site kernel: Synology Hardware Version: SA6400
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site configupdate.volume[12675]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume2, version: 69057
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site configupdate.volume[12673]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume3, version: 69057
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site configupdate.volume[12685]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume5, version: 69057
+2024-11-05T07:06:32+08:00 Yasuraokaa_Site configupdate.volume[12719]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume4, version: 69057
+2024-11-05T07:06:34+08:00 Yasuraokaa_Site configupdate.volume[12742]: configupdate_volume.cpp:160 Original info before upgrade: volume: /volume1, version: 69057
+2024-11-05T07:06:44+08:00 Yasuraokaa_Site root[16441]: == DSM 7.2.1 69057-5 finished boot up ==
+2024-11-05T07:06:51+08:00 Yasuraokaa_Site updater[20335]: utils.cpp:518 (RunAvailableUpdaters) Run SUS available updates
+2024-11-05T07:06:51+08:00 Yasuraokaa_Site updater[20335]: utils.cpp:537 (RunAvailableUpdaters) Run SUS mandatory updates

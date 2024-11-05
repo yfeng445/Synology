@@ -1,0 +1,939 @@
+err	2024/09/11 20:32:47	PortForward:[9895] (src/libsynoportmap.cpp:523)file=/etc/portforward/router.conf not exists
+err	2024/09/11 20:33:19	PortForward:[10244] (src/libsynoportmap.cpp:523)file=/etc/portforward/router.conf not exists
+err	2024/09/12 11:14:10	PortForward:[28046] (src/libsynoportmap.cpp:523)file=/etc/portforward/router.conf not exists
+err	2024/09/14 06:52:53	PortForward:[941] (src/libsynoportmap.cpp:523)file=/etc/portforward/router.conf not exists
+info	2024/09/20 10:34:38	PortForward:[32545] (src/libsynoportmapHelper.cpp:278)===== Detect Router helper function =====
+err	2024/09/20 10:34:38	PortForward:[32545] (src/libsynoportmap.cpp:523)file=/etc/portforward/router.conf not exists
+info	2024/09/20 10:34:38	PortForward:[32545] (src/libsynoportmap.cpp:286)===== Detect Router =====
+info	2024/09/20 10:34:42	PortForward:[32545] (src/libsynonetcheck.cpp:336)szLevelIP[0]:10.0.0.1
+info	2024/09/20 10:34:42	PortForward:[32545] (src/libsynonetcheck.cpp:337)szLevelIP[1]:96.120.64.165
+info	2024/09/20 10:34:44	PortForward:[32545] (src/libsynoportmap.cpp:372)All network env checks are pass
+err	2024/09/20 10:34:45	PortForward:[32545] (src/NatpmpDetector.cpp:95)remove SZF_AIRPORT_LIST=/tmp/airport.tcp.local failed
+info	2024/09/20 10:34:45	PortForward:[32701] (src/UpnpDetector.cpp:119)Detected brand=Arris Group, Inc model=TG4482A version=TG4482A
+info	2024/09/20 10:34:51	PortForward:[32545] (src/libsynoportmap.cpp:2783)===== Upnp Compatibility Test =====
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:91)CompatibilityTest::init=Arris Group, Inc/TG4482A/TG4482A success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (21, 21, tcp)
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (21, 21, tcp) success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (22, 22, tcp)
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (22, 22, tcp) success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (23, 23, tcp)
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (23, 23, tcp) success
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (25, 25, tcp)
+info	2024/09/20 10:35:04	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (25, 25, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (53, 53, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (53, 53, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (80, 80, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (80, 80, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (110, 110, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (110, 110, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (111, 111, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (111, 111, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (137, 137, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (137, 137, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (138, 138, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (138, 138, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (139, 139, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (139, 139, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (143, 143, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (143, 143, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (389, 389, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (389, 389, tcp) success
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (445, 445, tcp)
+info	2024/09/20 10:35:05	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (445, 445, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (443, 443, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (443, 443, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (465, 465, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (465, 465, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (548, 548, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (548, 548, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (515, 515, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (515, 515, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (636, 636, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (636, 636, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (587, 587, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (587, 587, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (873, 873, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (873, 873, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (892, 892, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (892, 892, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (993, 993, tcp)
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (993, 993, tcp) success
+info	2024/09/20 10:35:06	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (995, 995, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (995, 995, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1723, 1723, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1723, 1723, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1812, 1812, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1812, 1812, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (2049, 2049, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (2049, 2049, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (3306, 3306, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (3306, 3306, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (3128, 3128, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (3128, 3128, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (3689, 3689, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (3689, 3689, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (4662, 4662, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (4662, 4662, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5000, 5000, tcp)
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5000, 5000, tcp) success
+info	2024/09/20 10:35:07	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5001, 5001, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5001, 5001, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5005, 5005, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5005, 5005, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5006, 5006, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5006, 5006, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (6281, 6281, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (6281, 6281, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (6690, 6690, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (6690, 6690, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (8008, 8008, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (8008, 8008, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (8443, 8443, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (8443, 8443, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (16881, 16881, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (16881, 16881, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (18120, 18120, tcp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (18120, 18120, tcp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (123, 123, udp)
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (123, 123, udp) success
+info	2024/09/20 10:35:08	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (111, 111, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (111, 111, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (137, 137, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (137, 137, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (138, 138, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (138, 138, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (139, 139, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (139, 139, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (445, 445, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (445, 445, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (500, 500, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (500, 500, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (892, 892, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (892, 892, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1194, 1194, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1194, 1194, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1701, 1701, udp)
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1701, 1701, udp) success
+info	2024/09/20 10:35:09	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1812, 1812, udp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1812, 1812, udp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (2049, 2049, udp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (2049, 2049, udp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (4500, 4500, udp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (4500, 4500, udp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (4672, 4672, udp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (4672, 4672, udp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5002, 5002, udp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5002, 5002, udp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5004, 5004, udp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5004, 5004, udp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (6881, 6881, udp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (6881, 6881, udp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (18120, 18120, udp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (18120, 18120, udp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (21, 54966, tcp)
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (21, 54966, tcp) success
+info	2024/09/20 10:35:10	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (22, 51188, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (22, 51188, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (23, 64310, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (23, 64310, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (25, 46486, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (25, 46486, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (53, 55358, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (53, 55358, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (80, 58311, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (80, 58311, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (110, 41417, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (110, 41417, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (111, 57702, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (111, 57702, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (137, 49226, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (137, 49226, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (138, 54132, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (138, 54132, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (139, 50184, tcp)
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (139, 50184, tcp) success
+info	2024/09/20 10:35:11	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (143, 61286, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (143, 61286, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (389, 50635, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (389, 50635, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (445, 36296, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (445, 36296, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (443, 35983, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (443, 35983, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (465, 33288, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (465, 33288, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (548, 36640, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (548, 36640, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (515, 59577, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (515, 59577, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (636, 51288, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (636, 51288, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (587, 42444, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (587, 42444, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (873, 51822, tcp)
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (873, 51822, tcp) success
+info	2024/09/20 10:35:12	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (892, 39000, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (892, 39000, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (993, 32822, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (993, 32822, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (995, 43147, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (995, 43147, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1723, 52709, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1723, 52709, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1812, 64383, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1812, 64383, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (2049, 61259, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (2049, 61259, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (3306, 63010, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (3306, 63010, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (3128, 46719, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (3128, 46719, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (3689, 60486, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (3689, 60486, tcp) success
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (4662, 42256, tcp)
+info	2024/09/20 10:35:13	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (4662, 42256, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5000, 58344, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5000, 58344, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5001, 63917, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5001, 63917, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5005, 41029, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5005, 41029, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5006, 39295, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5006, 39295, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (6281, 53738, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (6281, 53738, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (6690, 33805, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (6690, 33805, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (8008, 47942, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (8008, 47942, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (8443, 45906, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (8443, 45906, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (16881, 50264, tcp)
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (16881, 50264, tcp) success
+info	2024/09/20 10:35:14	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (18120, 36540, tcp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (18120, 36540, tcp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (123, 63322, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (123, 63322, udp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (111, 46015, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (111, 46015, udp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (137, 54405, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (137, 54405, udp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (138, 34082, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (138, 34082, udp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (139, 49229, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (139, 49229, udp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (445, 54926, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (445, 54926, udp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (500, 37954, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (500, 37954, udp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (892, 43269, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (892, 43269, udp) success
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1194, 40677, udp)
+info	2024/09/20 10:35:15	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1194, 40677, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1701, 47628, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1701, 47628, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (1812, 62323, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (1812, 62323, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (2049, 46909, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (2049, 46909, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (4500, 47682, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (4500, 47682, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (4672, 39935, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (4672, 39935, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5002, 34083, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5002, 34083, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (5004, 46530, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (5004, 46530, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (6881, 35657, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (6881, 35657, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:225)Try to test (18120, 64325, udp)
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:229)	add port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:235)	del port: success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:255)	result: test (18120, 64325, udp) success
+info	2024/09/20 10:35:16	PortForward:[32545] (src/libsynoportmap.cpp:2972)fixed port result, successNumber=59 matchedNumber=0 nTestPorts=59 nSuccessPortion=1.000000
+info	2024/09/20 10:35:16	PortForward:[32545] (src/libsynoportmap.cpp:2975)changed port result, successNumber=59 matchedNumber=0 nTestPorts=59 nSuccessPortion=1.000000
+info	2024/09/20 10:35:16	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32768,32768,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32769,32769,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32770,32770,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32771,32771,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32772,32772,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32773,32773,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32774,32774,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32775,32775,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32776,32776,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32777,32777,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32778,32778,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32779,32779,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32780,32780,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32781,32781,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32782,32782,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32783,32783,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32784,32784,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32785,32785,tcp)
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:17	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32786,32786,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32787,32787,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32788,32788,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32789,32789,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32790,32790,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32791,32791,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32792,32792,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32793,32793,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32794,32794,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32795,32795,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32796,32796,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32797,32797,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32798,32798,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32799,32799,tcp)
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:18	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32800,32800,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32801,32801,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32802,32802,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32803,32803,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32804,32804,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32805,32805,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32806,32806,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32807,32807,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32808,32808,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32809,32809,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32810,32810,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32811,32811,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32812,32812,tcp)
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:19	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32813,32813,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32814,32814,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32815,32815,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32816,32816,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32817,32817,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32818,32818,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32819,32819,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32820,32820,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32821,32821,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32822,32822,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32823,32823,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32824,32824,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32825,32825,tcp)
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:20	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32826,32826,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32827,32827,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32828,32828,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32829,32829,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32830,32830,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32831,32831,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32832,32832,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32833,32833,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32834,32834,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32835,32835,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32836,32836,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32837,32837,tcp)
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:21	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32838,32838,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32839,32839,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32840,32840,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32841,32841,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32842,32842,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32843,32843,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32844,32844,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32845,32845,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32846,32846,tcp)
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:22	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32847,32847,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32848,32848,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32849,32849,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32850,32850,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32851,32851,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32852,32852,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32853,32853,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32854,32854,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32855,32855,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32856,32856,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32857,32857,tcp)
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:23	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32858,32858,tcp)
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32859,32859,tcp)
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32860,32860,tcp)
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32861,32861,tcp)
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32862,32862,tcp)
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32863,32863,tcp)
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:201)Try to test max : add (32864,32864,tcp)
+info	2024/09/20 10:35:24	PortForward:[32545] (src/CompatibilityTest.cpp:208)	add port success
+info	2024/09/20 10:35:24	PortForward:[32545] (src/libsynoportmap.cpp:3007)test add port more than MAX_RULE_TEST=100, test finished
+info	2024/09/20 10:35:31	PortForward:[32545] (src/libsynoportmapHelper.cpp:378)SLibSynoPortMapRouterDetect() success: (comp) upnp/natpmp
+info	2024/09/20 10:35:31	PortForward:[1062] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/09/20 10:35:56	PortForward:[1062] (src/libsynoportmap.cpp:1187)try to del port map (80, 80, tcp, 0)
+info	2024/09/20 10:35:56	PortForward:[1062] (src/libsynoportmap.cpp:1196)try to add port map (80, 80, tcp)
+info	2024/09/20 10:35:56	PortForward:[1062] (src/libsynoportmap.cpp:1187)try to del port map (443, 443, tcp, 0)
+info	2024/09/20 10:35:56	PortForward:[1062] (src/libsynoportmap.cpp:1196)try to add port map (443, 443, tcp)
+info	2024/09/20 10:35:57	PortForward:[1584] (upnpd.cpp:214)[upnpd main]
+info	2024/09/20 10:36:01	PortForward:[1587] (src/libsynoportmap.cpp:1331)try to del port map (80, 80, tcp)
+info	2024/09/20 10:36:01	PortForward:[1587] (src/libsynoportmap.cpp:1331)try to del port map (443, 443, tcp)
+info	2024/09/20 10:36:01	PortForward:[1587] (src/libsynoportmap.cpp:1364)try to add port map (80, 80, tcp)
+info	2024/09/20 10:36:01	PortForward:[1587] (src/libsynoportmap.cpp:1364)try to add port map (443, 443, tcp)
+info	2024/09/20 10:36:01	PortForward:[1730] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/09/20 10:36:02	PortForward:[1730] (src/libsynoportmap.cpp:1043)try to del port map (80, 80, tcp)
+info	2024/09/20 10:36:03	PortForward:[1730] (src/libsynoportmap.cpp:1043)try to del port map (443, 443, tcp)
+info	2024/09/20 10:44:57	PortForward:[4852] (src/libsynoportmapHelper.cpp:278)===== Detect Router helper function =====
+info	2024/09/20 10:44:57	PortForward:[4852] (src/libsynoportmapHelper.cpp:300)SLibSynoPortMapRouterDetect() success: upnp/natpmp
+info	2024/09/20 10:44:57	PortForward:[4930] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/09/20 10:45:07	PortForward:[4930] (src/libsynoportmap.cpp:1187)try to del port map (80, 80, tcp, 0)
+info	2024/09/20 10:45:07	PortForward:[4930] (src/libsynoportmap.cpp:1196)try to add port map (80, 80, tcp)
+info	2024/09/20 10:45:07	PortForward:[4930] (src/libsynoportmap.cpp:1187)try to del port map (443, 443, tcp, 0)
+info	2024/09/20 10:45:07	PortForward:[4930] (src/libsynoportmap.cpp:1196)try to add port map (443, 443, tcp)
+info	2024/09/20 10:45:07	PortForward:[5202] (upnpd.cpp:214)[upnpd main]
+info	2024/09/20 10:45:11	PortForward:[5205] (src/libsynoportmap.cpp:1331)try to del port map (80, 80, tcp)
+info	2024/09/20 10:45:11	PortForward:[5205] (src/libsynoportmap.cpp:1331)try to del port map (443, 443, tcp)
+info	2024/09/20 10:45:11	PortForward:[5205] (src/libsynoportmap.cpp:1364)try to add port map (80, 80, tcp)
+info	2024/09/20 10:45:11	PortForward:[5205] (src/libsynoportmap.cpp:1364)try to add port map (443, 443, tcp)
+info	2024/09/20 10:45:11	PortForward:[5347] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/09/20 10:45:11	PortForward:[5347] (src/libsynoportmap.cpp:1043)try to del port map (80, 80, tcp)
+info	2024/09/20 10:45:11	PortForward:[5347] (src/libsynoportmap.cpp:1043)try to del port map (443, 443, tcp)
+info	2024/09/20 10:45:19	PortForward:[5621] (src/libsynoportmapHelper.cpp:278)===== Detect Router helper function =====
+info	2024/09/20 10:45:19	PortForward:[5621] (src/libsynoportmapHelper.cpp:300)SLibSynoPortMapRouterDetect() success: upnp/natpmp
+info	2024/09/20 10:45:19	PortForward:[5706] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/09/20 10:45:20	PortForward:[5706] (src/libsynoportmap.cpp:1187)try to del port map (80, 80, tcp, 0)
+info	2024/09/20 10:45:20	PortForward:[5706] (src/libsynoportmap.cpp:1196)try to add port map (80, 80, tcp)
+info	2024/09/20 10:45:20	PortForward:[5706] (src/libsynoportmap.cpp:1187)try to del port map (443, 443, tcp, 0)
+info	2024/09/20 10:45:20	PortForward:[5706] (src/libsynoportmap.cpp:1196)try to add port map (443, 443, tcp)
+info	2024/09/20 10:45:21	PortForward:[5889] (upnpd.cpp:214)[upnpd main]
+info	2024/09/20 10:45:24	PortForward:[5892] (src/libsynoportmap.cpp:1331)try to del port map (80, 80, tcp)
+info	2024/09/20 10:45:24	PortForward:[5892] (src/libsynoportmap.cpp:1331)try to del port map (443, 443, tcp)
+info	2024/09/20 10:45:24	PortForward:[5892] (src/libsynoportmap.cpp:1364)try to add port map (80, 80, tcp)
+info	2024/09/20 10:45:24	PortForward:[5892] (src/libsynoportmap.cpp:1364)try to add port map (443, 443, tcp)
+info	2024/09/20 10:45:25	PortForward:[6018] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/09/20 10:45:28	PortForward:[6018] (src/libsynoportmap.cpp:1043)try to del port map (80, 80, tcp)
+info	2024/09/20 10:45:28	PortForward:[6018] (src/libsynoportmap.cpp:1043)try to del port map (443, 443, tcp)
+info	2024/09/26 12:37:16	PortForward:[27855] (src/libsynoportmap.cpp:286)===== Detect Router =====
+info	2024/09/26 12:37:20	PortForward:[27855] (src/libsynonetcheck.cpp:336)szLevelIP[0]:10.0.0.1
+info	2024/09/26 12:37:20	PortForward:[27855] (src/libsynonetcheck.cpp:337)szLevelIP[1]:96.120.64.165
+info	2024/09/26 12:37:22	PortForward:[27855] (src/libsynoportmap.cpp:372)All network env checks are pass
+err	2024/09/26 12:37:22	PortForward:[27855] (src/NatpmpDetector.cpp:95)remove SZF_AIRPORT_LIST=/tmp/airport.tcp.local failed
+info	2024/09/26 12:37:24	PortForward:[27949] (src/UpnpDetector.cpp:119)Detected brand=Arris Group, Inc model=TG4482A version=TG4482A
+info	2024/09/26 12:37:49	PortForward:[28207] (src/libsynoportmap.cpp:2440)Save rule for upnp/natpmp
+info	2024/09/26 12:37:49	PortForward:[28207] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/09/26 12:37:49	PortForward:[28207] (src/libsynoportmap.cpp:1187)try to del port map (5001, 5001, tcp, 0)
+info	2024/09/26 12:37:49	PortForward:[28207] (src/libsynoportmap.cpp:1196)try to add port map (5001, 5001, tcp)
+info	2024/09/26 12:37:50	PortForward:[28386] (upnpd.cpp:214)[upnpd main]
+info	2024/09/26 12:37:52	PortForward:[28569] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/09/26 12:37:54	PortForward:[28389] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/09/26 12:37:54	PortForward:[28389] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/09/26 12:37:57	PortForward:[28666] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/09/26 12:40:01	PortForward:[29207] (src/libsynoportmap.cpp:2440)Save rule for upnp/natpmp
+info	2024/09/26 12:40:01	PortForward:[29207] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/09/26 12:40:22	PortForward:[29207] (src/libsynoportmap.cpp:1043)try to del port map (5001, 5001, tcp)
+info	2024/09/26 12:40:22	PortForward:[29207] (src/libsynoportmap.cpp:1187)try to del port map (5001, 5001, tcp, 0)
+info	2024/09/26 12:40:22	PortForward:[29207] (src/libsynoportmap.cpp:1196)try to add port map (5001, 5001, tcp)
+info	2024/09/26 12:40:22	PortForward:[29207] (src/libsynoportmap.cpp:1187)try to del port map (5000, 5000, tcp, 0)
+info	2024/09/26 12:40:22	PortForward:[29207] (src/libsynoportmap.cpp:1196)try to add port map (5000, 5000, tcp)
+info	2024/09/26 12:40:22	PortForward:[29486] (upnpd.cpp:214)[upnpd main]
+info	2024/09/26 12:40:23	PortForward:[29609] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/09/26 12:40:24	PortForward:[29489] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/09/26 12:40:24	PortForward:[29489] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/09/26 12:40:24	PortForward:[29489] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/09/26 12:40:24	PortForward:[29489] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/09/27 12:41:27	PortForward:[5032] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/09/27 12:41:27	PortForward:[5032] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/09/27 12:41:27	PortForward:[5032] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/09/27 12:41:27	PortForward:[5032] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/09/28 12:42:08	PortForward:[18859] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/09/28 12:42:08	PortForward:[18859] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/09/28 12:42:09	PortForward:[18859] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/09/28 12:42:09	PortForward:[18859] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/09/29 12:43:04	PortForward:[25446] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/09/29 12:43:04	PortForward:[25446] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/09/29 12:43:04	PortForward:[25446] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/09/29 12:43:04	PortForward:[25446] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/09/30 12:44:01	PortForward:[17298] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/09/30 12:44:01	PortForward:[17298] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/09/30 12:44:01	PortForward:[17298] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/09/30 12:44:01	PortForward:[17298] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/10/01 12:45:02	PortForward:[21718] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/01 12:45:02	PortForward:[21718] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/10/01 12:45:02	PortForward:[21718] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/01 12:45:02	PortForward:[21718] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/10/02 12:45:39	PortForward:[12924] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/02 12:45:39	PortForward:[12924] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/10/02 12:45:39	PortForward:[12924] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/02 12:45:39	PortForward:[12924] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/10/03 12:46:47	PortForward:[3671] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/03 12:46:47	PortForward:[3671] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/10/03 12:46:47	PortForward:[3671] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/03 12:46:47	PortForward:[3671] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/10/04 12:47:20	PortForward:[9215] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/04 12:47:20	PortForward:[9215] (src/libsynoportmap.cpp:1331)try to del port map (5000, 5000, tcp)
+info	2024/10/04 12:47:20	PortForward:[9215] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/04 12:47:20	PortForward:[9215] (src/libsynoportmap.cpp:1364)try to add port map (5000, 5000, tcp)
+info	2024/10/05 01:51:58	PortForward:[9991] (src/libsynoportmap.cpp:2440)Save rule for upnp/natpmp
+info	2024/10/05 01:51:58	PortForward:[9991] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/10/05 01:52:12	PortForward:[9991] (src/libsynoportmap.cpp:1043)try to del port map (5001, 5001, tcp)
+info	2024/10/05 01:52:12	PortForward:[9991] (src/libsynoportmap.cpp:1043)try to del port map (5000, 5000, tcp)
+info	2024/10/05 01:52:12	PortForward:[9991] (src/libsynoportmap.cpp:1187)try to del port map (5001, 5001, tcp, 0)
+info	2024/10/05 01:52:12	PortForward:[9991] (src/libsynoportmap.cpp:1196)try to add port map (5001, 5001, tcp)
+info	2024/10/05 01:52:13	PortForward:[10411] (upnpd.cpp:214)[upnpd main]
+info	2024/10/05 01:52:13	PortForward:[10569] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/10/05 01:52:18	PortForward:[10414] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/05 01:52:18	PortForward:[10414] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/05 01:52:21	PortForward:[10685] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/10/05 01:52:28	PortForward:[10789] (src/libsynoportmap.cpp:286)===== Detect Router =====
+info	2024/10/05 01:52:32	PortForward:[10789] (src/libsynonetcheck.cpp:336)szLevelIP[0]:10.0.0.1
+info	2024/10/05 01:52:32	PortForward:[10789] (src/libsynonetcheck.cpp:337)szLevelIP[1]:96.120.64.165
+info	2024/10/05 01:52:34	PortForward:[10789] (src/libsynoportmap.cpp:372)All network env checks are pass
+err	2024/10/05 01:52:34	PortForward:[10789] (src/NatpmpDetector.cpp:95)remove SZF_AIRPORT_LIST=/tmp/airport.tcp.local failed
+info	2024/10/05 01:52:44	PortForward:[10935] (src/UpnpDetector.cpp:119)Detected brand=Arris Group, Inc model=TG4482A version=TG4482A
+info	2024/10/05 03:10:20	PortForward:[19911] (src/libsynoportmap.cpp:2440)Save rule for upnp/natpmp
+info	2024/10/05 03:10:20	PortForward:[19911] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/10/05 03:10:22	PortForward:[19911] (src/libsynoportmap.cpp:1043)try to del port map (5001, 5001, tcp)
+info	2024/10/05 03:10:22	PortForward:[19911] (src/libsynoportmap.cpp:1187)try to del port map (5001, 5001, tcp, 0)
+info	2024/10/05 03:10:22	PortForward:[19911] (src/libsynoportmap.cpp:1196)try to add port map (5001, 5001, tcp)
+info	2024/10/05 03:10:22	PortForward:[19911] (src/libsynoportmap.cpp:1187)try to del port map (8096, 8096, tcp, 0)
+info	2024/10/05 03:10:22	PortForward:[19911] (src/libsynoportmap.cpp:1196)try to add port map (8096, 8096, tcp)
+info	2024/10/05 03:10:23	PortForward:[20125] (upnpd.cpp:214)[upnpd main]
+info	2024/10/05 03:10:24	PortForward:[20251] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/10/05 03:10:36	PortForward:[20128] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/05 03:10:36	PortForward:[20128] (src/libsynoportmap.cpp:1331)try to del port map (8096, 8096, tcp)
+info	2024/10/05 03:10:36	PortForward:[20128] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/05 03:10:36	PortForward:[20128] (src/libsynoportmap.cpp:1364)try to add port map (8096, 8096, tcp)
+info	2024/10/05 03:25:23	PortForward:[7313] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/10/05 03:26:27	PortForward:[9892] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/10/05 03:43:45	PortForward:[31738] (src/libsynoportmap.cpp:2440)Save rule for upnp/natpmp
+info	2024/10/05 03:43:45	PortForward:[31738] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/10/05 03:43:51	PortForward:[31738] (src/libsynoportmap.cpp:1043)try to del port map (5001, 5001, tcp)
+info	2024/10/05 03:43:51	PortForward:[31738] (src/libsynoportmap.cpp:1043)try to del port map (8096, 8096, tcp)
+info	2024/10/05 03:43:51	PortForward:[31738] (src/libsynoportmap.cpp:1187)try to del port map (5001, 5001, tcp, 0)
+info	2024/10/05 03:43:51	PortForward:[31738] (src/libsynoportmap.cpp:1196)try to add port map (5001, 5001, tcp)
+info	2024/10/05 03:43:54	PortForward:[32017] (upnpd.cpp:214)[upnpd main]
+info	2024/10/05 03:43:55	PortForward:[32151] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/10/05 03:44:03	PortForward:[32020] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/05 03:44:03	PortForward:[32020] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/05 03:57:28	PortForward:[11880] (src/libsynoportmap.cpp:2440)Save rule for upnp/natpmp
+info	2024/10/05 03:57:28	PortForward:[11880] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/10/05 03:57:38	PortForward:[11880] (src/libsynoportmap.cpp:1043)try to del port map (5001, 5001, tcp)
+info	2024/10/05 03:57:38	PortForward:[11880] (src/libsynoportmap.cpp:1187)try to del port map (5001, 5001, tcp, 0)
+info	2024/10/05 03:57:38	PortForward:[11880] (src/libsynoportmap.cpp:1196)try to add port map (5001, 5001, tcp)
+info	2024/10/05 03:57:38	PortForward:[11880] (src/libsynoportmap.cpp:1187)try to del port map (8096, 8096, tcp, 0)
+info	2024/10/05 03:57:38	PortForward:[11880] (src/libsynoportmap.cpp:1196)try to add port map (8096, 8096, tcp)
+info	2024/10/05 03:57:42	PortForward:[12206] (upnpd.cpp:214)[upnpd main]
+info	2024/10/05 03:57:44	PortForward:[12505] (src/libsynoportmap.cpp:3380)===== Test Rule =====
+info	2024/10/05 03:57:56	PortForward:[12209] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/05 03:57:56	PortForward:[12209] (src/libsynoportmap.cpp:1331)try to del port map (8096, 8096, tcp)
+info	2024/10/05 03:57:56	PortForward:[12209] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/05 03:57:56	PortForward:[12209] (src/libsynoportmap.cpp:1364)try to add port map (8096, 8096, tcp)
+info	2024/10/05 07:22:10	PortForward:[28132] (src/libsynoportmapHelper.cpp:278)===== Detect Router helper function =====
+info	2024/10/05 07:22:10	PortForward:[28132] (src/libsynoportmapHelper.cpp:300)SLibSynoPortMapRouterDetect() success: upnp/natpmp
+info	2024/10/05 07:22:10	PortForward:[28137] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/10/05 07:22:21	PortForward:[28137] (src/libsynoportmap.cpp:1187)try to del port map (80, 80, tcp, 0)
+info	2024/10/05 07:22:21	PortForward:[28137] (src/libsynoportmap.cpp:1196)try to add port map (80, 80, tcp)
+info	2024/10/05 07:22:21	PortForward:[28137] (src/libsynoportmap.cpp:1187)try to del port map (443, 443, tcp, 0)
+info	2024/10/05 07:22:21	PortForward:[28137] (src/libsynoportmap.cpp:1196)try to add port map (443, 443, tcp)
+info	2024/10/05 07:22:36	PortForward:[28473] (upnpd.cpp:214)[upnpd main]
+info	2024/10/05 07:22:38	PortForward:[28476] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/05 07:22:38	PortForward:[28476] (src/libsynoportmap.cpp:1331)try to del port map (8096, 8096, tcp)
+info	2024/10/05 07:22:38	PortForward:[28476] (src/libsynoportmap.cpp:1331)try to del port map (80, 80, tcp)
+info	2024/10/05 07:22:38	PortForward:[28476] (src/libsynoportmap.cpp:1331)try to del port map (443, 443, tcp)
+info	2024/10/05 07:22:38	PortForward:[28476] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/05 07:22:38	PortForward:[28476] (src/libsynoportmap.cpp:1364)try to add port map (8096, 8096, tcp)
+info	2024/10/05 07:22:38	PortForward:[28476] (src/libsynoportmap.cpp:1364)try to add port map (80, 80, tcp)
+info	2024/10/05 07:22:38	PortForward:[28476] (src/libsynoportmap.cpp:1364)try to add port map (443, 443, tcp)
+info	2024/10/05 07:22:40	PortForward:[28656] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/10/05 07:22:44	PortForward:[28656] (src/libsynoportmap.cpp:1043)try to del port map (80, 80, tcp)
+info	2024/10/05 07:22:44	PortForward:[28656] (src/libsynoportmap.cpp:1043)try to del port map (443, 443, tcp)
+info	2024/10/05 07:22:52	PortForward:[28891] (upnpd.cpp:214)[upnpd main]
+info	2024/10/05 07:23:05	PortForward:[28894] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/05 07:23:05	PortForward:[28894] (src/libsynoportmap.cpp:1331)try to del port map (8096, 8096, tcp)
+info	2024/10/05 07:23:05	PortForward:[28894] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/05 07:23:05	PortForward:[28894] (src/libsynoportmap.cpp:1364)try to add port map (8096, 8096, tcp)
+err	2024/10/05 08:01:24	PortForward:[21002] (tools/synoroutertool.cpp:1526)FAILED to remove rules
+info	2024/10/05 08:01:24	PortForward:[21016] (src/libsynoportmap.cpp:1971)===== Save Rule =====
+info	2024/10/05 08:01:37	PortForward:[21016] (src/libsynoportmap.cpp:1043)try to del port map (5001, 5001, tcp)
+info	2024/10/05 08:01:37	PortForward:[21016] (src/libsynoportmap.cpp:1043)try to del port map (8096, 8096, tcp)
+info	2024/10/05 08:01:37	PortForward:[21016] (src/libsynoportmap.cpp:1187)try to del port map (5001, 5001, tcp, 0)
+info	2024/10/05 08:01:37	PortForward:[21016] (src/libsynoportmap.cpp:1196)try to add port map (5001, 5001, tcp)
+info	2024/10/05 08:01:47	PortForward:[23031] (upnpd.cpp:214)[upnpd main]
+info	2024/10/05 08:01:50	PortForward:[23034] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/05 08:01:50	PortForward:[23034] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/06 08:02:38	PortForward:[7440] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/06 08:02:38	PortForward:[7440] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/07 08:03:31	PortForward:[28202] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/07 08:03:31	PortForward:[28202] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/08 08:04:49	PortForward:[14890] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/08 08:04:49	PortForward:[14890] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/09 04:33:18	PortForward:[9818] (upnpd.cpp:214)[upnpd main]
+info	2024/10/09 04:33:32	PortForward:[10036] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/09 04:33:32	PortForward:[10036] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/10 04:34:11	PortForward:[20248] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/10 04:34:11	PortForward:[20248] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/11 04:35:03	PortForward:[6992] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/11 04:35:03	PortForward:[6992] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/12 04:35:42	PortForward:[30242] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/12 04:35:42	PortForward:[30242] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/13 04:36:24	PortForward:[19905] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/13 04:36:24	PortForward:[19905] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/14 04:37:16	PortForward:[12103] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/14 04:37:16	PortForward:[12103] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/15 04:38:21	PortForward:[784] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/15 04:38:21	PortForward:[784] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/16 04:38:55	PortForward:[23964] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/16 04:38:55	PortForward:[23964] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/17 04:39:39	PortForward:[12738] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/17 04:39:39	PortForward:[12738] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/18 04:40:28	PortForward:[2068] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/18 04:40:28	PortForward:[2068] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/19 04:41:14	PortForward:[26618] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/19 04:41:14	PortForward:[26618] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/20 04:42:08	PortForward:[11939] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/20 04:42:08	PortForward:[11939] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/21 04:42:48	PortForward:[328] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/21 04:42:48	PortForward:[328] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/22 04:43:46	PortForward:[21526] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/22 04:43:46	PortForward:[21526] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/23 04:44:16	PortForward:[10620] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/23 04:44:16	PortForward:[10620] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/24 04:45:03	PortForward:[14353] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/24 04:45:03	PortForward:[14353] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/25 04:46:02	PortForward:[12425] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/25 04:46:02	PortForward:[12425] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/26 04:46:51	PortForward:[16168] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/26 04:46:51	PortForward:[16168] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/27 04:47:41	PortForward:[18792] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/27 04:47:41	PortForward:[18792] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/28 04:48:27	PortForward:[9161] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/28 04:48:27	PortForward:[9161] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/29 04:49:08	PortForward:[6487] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/29 04:49:08	PortForward:[6487] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/30 04:50:24	PortForward:[27958] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/30 04:50:24	PortForward:[27958] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/10/31 04:51:18	PortForward:[18773] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/10/31 04:51:18	PortForward:[18773] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/11/01 04:52:01	PortForward:[14671] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/11/01 04:52:01	PortForward:[14671] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/11/02 04:52:58	PortForward:[1918] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/11/02 04:52:58	PortForward:[1918] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/11/03 04:54:21	PortForward:[6958] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/11/03 04:54:21	PortForward:[6958] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/11/04 04:55:33	PortForward:[27528] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/11/04 04:55:33	PortForward:[27528] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)
+info	2024/11/05 07:06:35	PortForward:[9889] (upnpd.cpp:214)[upnpd main]
+info	2024/11/05 07:06:31	PortForward:[10098] (src/libsynoportmap.cpp:1331)try to del port map (5001, 5001, tcp)
+info	2024/11/05 07:06:31	PortForward:[10098] (src/libsynoportmap.cpp:1364)try to add port map (5001, 5001, tcp)

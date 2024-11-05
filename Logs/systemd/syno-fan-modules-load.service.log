@@ -1,0 +1,255 @@
+2024-09-08T17:15:19-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-08T17:15:19-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-08T17:15:19-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: Can not detect ADT device, Retry: 1...
+2024-09-08T17:15:20-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-08T17:15:21-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-08T17:15:21-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-08T17:15:21-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: Can not detect ADT device, Retry: 2...
+2024-09-08T17:15:22-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-08T17:15:23-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-08T17:15:23-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-08T17:15:23-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: Can not detect ADT device, Retry: 3...
+2024-09-08T17:15:25-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-08T17:15:26-07:00 SynologyNAS syno-fan-modules-load.sh[7627]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-10T07:07:21+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-10T07:07:21+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-10T07:07:21+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: Can not detect ADT device, Retry: 1...
+2024-09-10T07:07:22+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-10T07:07:24+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-10T07:07:24+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-10T07:07:24+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: Can not detect ADT device, Retry: 2...
+2024-09-10T07:07:25+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-10T07:07:26+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-10T07:07:26+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-10T07:07:26+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: Can not detect ADT device, Retry: 3...
+2024-09-10T07:07:27+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-10T07:07:28+08:00 Synology_NAS syno-fan-modules-load.sh[6941]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-11T20:04:05+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-11T20:04:05+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-11T20:04:05+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: Can not detect ADT device, Retry: 1...
+2024-09-11T20:04:06+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-11T20:04:08+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-11T20:04:08+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-11T20:04:08+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: Can not detect ADT device, Retry: 2...
+2024-09-11T20:04:09+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-11T20:04:10+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-11T20:04:10+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-11T20:04:10+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: Can not detect ADT device, Retry: 3...
+2024-09-11T20:04:11+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-11T20:04:12+08:00 Synology_NAS syno-fan-modules-load.sh[7016]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-12T00:28:51+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-12T00:28:51+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-12T00:28:51+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 1...
+2024-09-12T00:28:51+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-12T00:28:52+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-12T00:28:52+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-12T00:28:52+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 2...
+2024-09-12T00:28:53+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-12T00:28:55+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-12T00:28:55+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-12T00:28:55+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 3...
+2024-09-12T00:28:56+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-12T00:28:57+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-14T23:15:16+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-14T23:15:16+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-14T23:15:16+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: Can not detect ADT device, Retry: 1...
+2024-09-14T23:15:16+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-14T23:15:17+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-14T23:15:17+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-14T23:15:17+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: Can not detect ADT device, Retry: 2...
+2024-09-14T23:15:18+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-14T23:15:19+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-14T23:15:19+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-14T23:15:19+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: Can not detect ADT device, Retry: 3...
+2024-09-14T23:15:20+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-14T23:15:22+08:00 Synology_NAS syno-fan-modules-load.sh[7231]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:12:41+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:12:41+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:12:41+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: Can not detect ADT device, Retry: 1...
+2024-09-15T01:12:42+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:12:43+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:12:44+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:12:44+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: Can not detect ADT device, Retry: 2...
+2024-09-15T01:12:45+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:12:46+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:12:46+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:12:46+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: Can not detect ADT device, Retry: 3...
+2024-09-15T01:12:47+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:12:48+08:00 Synology_NAS syno-fan-modules-load.sh[7288]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:17:46+08:00 Synology_NAS syno-fan-modules-load.sh[7263]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:17:46+08:00 Synology_NAS syno-fan-modules-load.sh[7263]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:17:46+08:00 Synology_NAS syno-fan-modules-load.sh[7263]: Can not detect ADT device, Retry: 1...
+2024-09-15T01:17:47+08:00 Synology_NAS syno-fan-modules-load.sh[7263]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:17:48+08:00 Synology_NAS syno-fan-modules-load.sh[7263]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:17:48+08:00 Synology_NAS syno-fan-modules-load.sh[7263]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:17:48+08:00 Synology_NAS syno-fan-modules-load.sh[7263]: Can not detect ADT device, Retry: 2...
+2024-09-15T01:17:49+08:00 Synology_NAS syno-fan-modules-load.sh[7263]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:20:28+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:20:29+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:20:29+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: Can not detect ADT device, Retry: 1...
+2024-09-15T01:20:30+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:20:31+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:20:31+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:20:31+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: Can not detect ADT device, Retry: 2...
+2024-09-15T01:20:32+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:20:33+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:20:33+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:20:33+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: Can not detect ADT device, Retry: 3...
+2024-09-15T01:20:34+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:20:35+08:00 Synology_NAS syno-fan-modules-load.sh[7246]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:29:23+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:29:23+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:29:23+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: Can not detect ADT device, Retry: 1...
+2024-09-15T01:29:24+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:29:25+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:29:25+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:29:25+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: Can not detect ADT device, Retry: 2...
+2024-09-15T01:29:26+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:29:27+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:29:27+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T01:29:27+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: Can not detect ADT device, Retry: 3...
+2024-09-15T01:29:28+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T01:29:29+08:00 Synology_NAS syno-fan-modules-load.sh[7303]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:04:35+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:04:35+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T05:04:35+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: Can not detect ADT device, Retry: 1...
+2024-09-15T05:04:36+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:04:37+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:04:37+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T05:04:37+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: Can not detect ADT device, Retry: 2...
+2024-09-15T05:04:38+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:04:39+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:04:39+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T05:04:39+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: Can not detect ADT device, Retry: 3...
+2024-09-15T05:04:40+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:04:41+08:00 Synology_NAS syno-fan-modules-load.sh[6986]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:13:36+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:13:36+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T05:13:36+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: Can not detect ADT device, Retry: 1...
+2024-09-15T05:13:36+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:13:37+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:13:37+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T05:13:37+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: Can not detect ADT device, Retry: 2...
+2024-09-15T05:13:38+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:13:40+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:13:40+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-15T05:13:40+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: Can not detect ADT device, Retry: 3...
+2024-09-15T05:13:41+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-15T05:13:42+08:00 Synology_NAS syno-fan-modules-load.sh[7249]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T05:38:03+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T05:38:03+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-16T05:38:03+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 1...
+2024-09-16T05:38:04+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T05:38:05+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T05:38:05+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-16T05:38:05+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 2...
+2024-09-16T05:38:06+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T05:38:07+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T05:38:07+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-16T05:38:07+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 3...
+2024-09-16T05:38:08+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T05:38:10+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T19:31:26+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T19:31:26+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-16T19:31:26+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: Can not detect ADT device, Retry: 1...
+2024-09-16T19:31:26+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T19:31:28+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T19:31:28+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-16T19:31:28+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: Can not detect ADT device, Retry: 2...
+2024-09-16T19:31:29+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T19:31:30+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T19:31:30+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-16T19:31:30+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: Can not detect ADT device, Retry: 3...
+2024-09-16T19:31:31+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-16T19:31:32+08:00 Synology_NAS syno-fan-modules-load.sh[7260]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T04:57:05+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T04:57:05+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T04:57:05+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: Can not detect ADT device, Retry: 1...
+2024-09-17T04:57:05+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T04:57:07+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T04:57:07+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T04:57:07+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: Can not detect ADT device, Retry: 2...
+2024-09-17T04:57:08+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T04:57:09+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T04:57:09+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T04:57:09+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: Can not detect ADT device, Retry: 3...
+2024-09-17T04:57:10+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T04:57:11+08:00 Synology_NAS syno-fan-modules-load.sh[7276]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T05:49:15+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T05:49:15+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T05:49:15+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: Can not detect ADT device, Retry: 1...
+2024-09-17T05:49:15+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T05:49:16+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T05:49:16+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T05:49:16+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: Can not detect ADT device, Retry: 2...
+2024-09-17T05:49:17+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T05:49:18+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T05:49:18+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T05:49:18+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: Can not detect ADT device, Retry: 3...
+2024-09-17T05:49:19+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T05:49:21+08:00 Synology_NAS syno-fan-modules-load.sh[7286]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T10:44:30+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T10:44:30+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T10:44:30+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 1...
+2024-09-17T10:44:30+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T10:44:31+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T10:44:31+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T10:44:31+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 2...
+2024-09-17T10:44:32+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T10:44:34+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T10:44:34+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-17T10:44:34+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: Can not detect ADT device, Retry: 3...
+2024-09-17T10:44:35+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-17T10:44:36+08:00 Synology_NAS syno-fan-modules-load.sh[7281]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T07:49:47+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T07:49:47+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-20T07:49:47+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: Can not detect ADT device, Retry: 1...
+2024-09-20T07:49:48+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T07:49:49+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T07:49:49+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-20T07:49:49+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: Can not detect ADT device, Retry: 2...
+2024-09-20T07:49:50+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T07:49:51+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T07:49:51+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-20T07:49:51+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: Can not detect ADT device, Retry: 3...
+2024-09-20T07:49:52+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T07:49:53+08:00 Synology_NAS syno-fan-modules-load.sh[7355]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T11:33:06+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T11:33:06+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-20T11:33:06+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: Can not detect ADT device, Retry: 1...
+2024-09-20T11:33:06+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T11:33:07+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T11:33:07+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-20T11:33:07+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: Can not detect ADT device, Retry: 2...
+2024-09-20T11:33:08+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T11:33:09+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T11:33:10+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-09-20T11:33:10+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: Can not detect ADT device, Retry: 3...
+2024-09-20T11:33:11+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: modprobe: FATAL: Module i2c-i801 not found.
+2024-09-20T11:33:12+08:00 Synology_NAS syno-fan-modules-load.sh[7406]: modprobe: FATAL: Module i2c-i801 not found.
+2024-10-09T04:31:48+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: modprobe: FATAL: Module i2c-i801 not found.
+2024-10-09T04:31:49+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-10-09T04:31:49+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: Can not detect ADT device, Retry: 1...
+2024-10-09T04:31:50+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: modprobe: FATAL: Module i2c-i801 not found.
+2024-10-09T04:31:51+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: modprobe: FATAL: Module i2c-i801 not found.
+2024-10-09T04:31:51+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-10-09T04:31:51+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: Can not detect ADT device, Retry: 2...
+2024-10-09T04:31:52+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: modprobe: FATAL: Module i2c-i801 not found.
+2024-10-09T04:31:53+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: modprobe: FATAL: Module i2c-i801 not found.
+2024-10-09T04:31:53+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-10-09T04:31:53+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: Can not detect ADT device, Retry: 3...
+2024-10-09T04:31:54+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: modprobe: FATAL: Module i2c-i801 not found.
+2024-10-09T04:31:55+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7332]: modprobe: FATAL: Module i2c-i801 not found.
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: modprobe: FATAL: Module i2c-i801 not found.
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-11-05T07:05:06+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: Can not detect ADT device, Retry: 1...
+2024-11-05T07:05:07+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: modprobe: FATAL: Module i2c-i801 not found.
+2024-11-05T07:05:08+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: modprobe: FATAL: Module i2c-i801 not found.
+2024-11-05T07:05:08+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-11-05T07:05:08+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: Can not detect ADT device, Retry: 2...
+2024-11-05T07:05:09+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: modprobe: FATAL: Module i2c-i801 not found.
+2024-11-05T07:05:10+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: modprobe: FATAL: Module i2c-i801 not found.
+2024-11-05T07:05:10+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: cat: /sys/class/hwmon/hwmon0/device/name: No such file or directory
+2024-11-05T07:05:10+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: Can not detect ADT device, Retry: 3...
+2024-11-05T07:05:11+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: modprobe: FATAL: Module i2c-i801 not found.
+2024-11-05T07:05:12+08:00 Yasuraokaa_Site syno-fan-modules-load.sh[7339]: modprobe: FATAL: Module i2c-i801 not found.

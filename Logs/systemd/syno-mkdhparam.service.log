@@ -1,0 +1,4 @@
+2024-09-08T17:17:00-07:00 SynologyNAS mkdhparam[14372]: Generating DH parameters, 1024 bit long safe prime, generator 2
+2024-09-08T17:17:00-07:00 SynologyNAS mkdhparam[14372]: This is going to take a long time
+2024-09-10T07:08:25+08:00 Synology_NAS mkdhparam[11495]: Generating DH parameters, 1024 bit long safe prime, generator 2
+2024-09-10T07:08:25+08:00 Synology_NAS mkdhparam[11495]: This is going to take a long time

@@ -1,0 +1,441 @@
+2024-09-08T17:17:36-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-08T17:17:36-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-08T17:17:39-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-08T17:17:39-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-08T17:17:41-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-08T17:17:41-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-08T17:17:44-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-08T17:17:44-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-08T17:17:46-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-08T17:17:46-07:00 SynologyNAS synopkg[17656]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-08T17:19:35-07:00 SynologyNAS synoscgi_SYNO.Core.Network_1_set[23077]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [hostname_change] feasibility check config with type [hard].
+2024-09-09T08:24:41+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26007]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-09T08:24:41+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26007]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-09T08:24:41+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26007]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-09T08:24:41+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26007]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-09T08:24:43+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26074]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-09T08:24:43+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26074]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-09T08:24:43+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26074]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-09T08:24:43+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[26074]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-11T19:57:33+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[368]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-11T19:57:33+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[368]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-11T19:57:33+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[368]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-11T19:57:33+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[368]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-11T19:57:35+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[419]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-11T19:57:35+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[419]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-11T19:57:35+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[419]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-11T19:57:35+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[419]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-11T20:08:59+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create[14419]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [pool_create] with type [hard].
+2024-09-11T20:08:59+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create[14419]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [pool_create] failed.
+2024-09-11T20:08:59+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create[14419]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_create] feasibility check config with type [soft].
+2024-09-11T20:08:59+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create[14419]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_create] with type [hard].
+2024-09-11T20:08:59+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create[14419]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [volume_create] failed.
+2024-09-11T20:08:59+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create[14419]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [volume_create] feasibility check config with type [soft].
+2024-09-11T20:09:15+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-11T20:09:16+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-11T20:09:18+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-11T20:09:18+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-11T20:09:21+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-11T20:09:21+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-11T20:09:23+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-11T20:09:23+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-11T20:09:25+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-11T20:09:25+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-11T20:09:42+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-11T20:09:43+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-11T20:09:50+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-11T20:09:50+08:00 Synology_NAS synowebapi_SYNO.Core.Package_1_bulk[16804]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_delete] with type [hard].
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/volume.d/delete/Spreadsheet-office_volume_delete_check.cfg] failed.
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/volume.d/delete/SynologyDrive-SynologyDriveServer_volume_delete.cfg] failed.
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [2] of feasibility check [volume_delete] failed.
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_delete] feasibility check config with type [hard].
+2024-09-11T20:13:47+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[25740]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_delete] feasibility check config with type [soft].
+2024-09-11T20:19:22+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[27914]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [pool_create] with type [hard].
+2024-09-11T20:19:22+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[27914]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [pool_create] failed.
+2024-09-11T20:19:22+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[27914]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_create] feasibility check config with type [soft].
+2024-09-11T20:19:44+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[28484]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-09-11T20:19:44+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[28484]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-09-11T20:19:44+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[28484]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-09-11T20:19:44+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[28484]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-09-11T20:19:44+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[28484]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_delete] with type [hard].
+2024-09-11T20:19:44+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[28484]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/volume.d/delete/Spreadsheet-office_volume_delete_check.cfg] failed.
+2024-09-11T20:19:44+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[28484]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/volume.d/delete/SynologyDrive-SynologyDriveServer_volume_delete.cfg] failed.
+2024-09-11T20:19:44+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[28484]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [2] of feasibility check [volume_delete] failed.
+2024-09-11T20:20:26+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[29283]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_uninstall] with type [hard].
+2024-09-11T20:20:26+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[29283]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_uninstall] failed.
+2024-09-11T20:20:26+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[29283]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_uninstall] feasibility check config with type [soft].
+2024-09-11T20:20:36+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[30007]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_uninstall] with type [hard].
+2024-09-11T20:20:36+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[30007]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_uninstall] failed.
+2024-09-11T20:20:36+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[30007]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_uninstall] feasibility check config with type [soft].
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_delete] with type [hard].
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [volume_delete] failed.
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_delete] with type [soft].
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/syno/share/feasibilitycheck/volume.d/delete/preference_moving_check.cfg] failed.
+2024-09-11T20:28:18+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_enum_resource[3611]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [1] of feasibility check [volume_delete] failed.
+2024-09-11T20:28:29+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_delete[3788]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_delete] with type [hard].
+2024-09-11T20:28:29+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_delete[3788]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [volume_delete] failed.
+2024-09-11T20:28:29+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_delete[3788]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [volume_umount] feasibility check config with type [hard].
+2024-09-11T20:29:52+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[7112]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_create] with type [hard].
+2024-09-11T20:29:52+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[7112]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [volume_create] failed.
+2024-09-11T20:29:52+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[7112]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [volume_create] feasibility check config with type [soft].
+2024-09-11T20:30:32+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[8487]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_create] with type [hard].
+2024-09-11T20:30:32+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[8487]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [volume_create] failed.
+2024-09-11T20:30:32+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[8487]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [volume_create] feasibility check config with type [soft].
+2024-09-11T20:53:19+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[12587]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-09-11T20:53:20+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[12587]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-09-11T20:53:20+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[12587]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-09-12T00:26:17+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17655]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-12T00:26:17+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17655]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-12T00:26:17+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17655]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-12T00:26:17+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17655]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-12T00:26:18+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17734]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-12T00:26:18+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17734]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-12T00:26:18+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17734]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-12T00:26:18+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[17734]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-12T00:31:54+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[15876]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [pool_create] with type [hard].
+2024-09-12T00:31:54+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[15876]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [pool_create] failed.
+2024-09-12T00:31:54+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[15876]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_create] feasibility check config with type [soft].
+2024-09-12T00:32:13+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[16537]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_create] with type [hard].
+2024-09-12T00:32:13+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[16537]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [volume_create] failed.
+2024-09-12T00:32:13+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[16537]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [volume_create] feasibility check config with type [soft].
+2024-09-12T00:43:02+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[20105]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-09-12T00:43:02+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[20105]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-09-12T00:43:02+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[20105]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-09-12T00:44:22+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[21179]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-09-12T00:44:22+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[21179]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-09-12T00:44:22+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[21179]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-09-12T10:32:18+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[4819]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-12T10:32:19+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[4819]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-12T10:32:19+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[4819]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-12T10:40:11+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[10580]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-12T10:40:11+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[10580]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-12T10:40:11+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[10580]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-12T10:40:41+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[12190]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-12T10:40:42+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[12190]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-12T10:40:42+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[12190]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-13T11:47:45+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[5734]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-13T11:47:45+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[5734]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-13T15:57:57+08:00 Synology_NAS synoscgi_SYNO.Core.Network.Ethernet_1_set[29225]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [dhcp_change] feasibility check config with type [hard].
+2024-09-14T06:49:42+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[30236]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-14T06:49:42+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[30236]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-14T06:49:42+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[30236]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-14T06:50:05+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[31357]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-14T06:50:05+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[31357]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-14T06:50:05+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[31357]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-14T22:42:40+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8745]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-14T22:42:40+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8745]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-14T22:42:40+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8745]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-14T22:42:40+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8745]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-14T22:42:41+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8808]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-14T22:42:41+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8808]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-14T22:42:42+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8808]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-14T22:42:42+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[8808]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T00:00:21+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[6639]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [pool_create] with type [hard].
+2024-09-15T00:00:21+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[6639]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [pool_create] failed.
+2024-09-15T00:00:21+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[6639]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_create] feasibility check config with type [soft].
+2024-09-15T00:00:39+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[7387]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_delete] feasibility check config with type [hard].
+2024-09-15T00:00:39+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_enum_resource[7387]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_delete] feasibility check config with type [soft].
+2024-09-15T00:01:03+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_delete[7963]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_delete] feasibility check config with type [hard].
+2024-09-15T00:03:46+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[9581]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [pool_create] with type [hard].
+2024-09-15T00:03:46+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[9581]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [pool_create] failed.
+2024-09-15T00:03:46+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[9581]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_create] feasibility check config with type [soft].
+2024-09-15T00:04:05+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[10199]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_create] with type [hard].
+2024-09-15T00:04:05+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[10199]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [volume_create] failed.
+2024-09-15T00:04:05+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[10199]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [volume_create] feasibility check config with type [soft].
+2024-09-15T00:05:19+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11890]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-09-15T00:05:19+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11890]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-09-15T00:05:19+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11890]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-09-15T00:49:56+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[24947]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-15T00:49:56+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[24947]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T00:49:56+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[24947]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-15T00:49:56+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[24947]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T00:49:57+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[25111]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T00:49:57+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[25111]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T00:49:58+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[25111]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T00:49:58+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[25111]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T01:14:55+08:00 Synology_NAS synopoweroff[19214]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-15T01:14:55+08:00 Synology_NAS synopoweroff[19214]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T01:14:55+08:00 Synology_NAS synopoweroff[19214]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-15T01:14:55+08:00 Synology_NAS synopoweroff[19214]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T01:14:57+08:00 Synology_NAS synoupgrade[19273]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T01:14:58+08:00 Synology_NAS synoupgrade[19273]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T01:14:58+08:00 Synology_NAS synoupgrade[19273]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T01:26:40+08:00 Synology_NAS synopoweroff[20202]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-15T01:26:42+08:00 Synology_NAS synopoweroff[20202]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T01:26:42+08:00 Synology_NAS synopoweroff[20202]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-15T05:09:36+08:00 Synology_NAS synopoweroff[15976]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-15T05:09:37+08:00 Synology_NAS synopoweroff[15976]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T05:09:37+08:00 Synology_NAS synopoweroff[15976]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-15T05:09:37+08:00 Synology_NAS synopoweroff[15976]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-15T05:09:39+08:00 Synology_NAS synoupgrade[16027]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-16T05:35:13+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9219]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-16T05:35:13+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9219]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-16T05:35:13+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9219]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-16T05:35:14+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9219]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-16T05:35:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9274]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-16T05:35:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9274]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-16T05:35:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9274]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-16T05:35:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[9274]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-16T19:28:22+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16218]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-16T19:28:22+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16218]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-16T19:28:22+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16218]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-16T19:28:22+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16218]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-16T19:28:23+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16286]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-16T19:28:23+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16286]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-16T19:28:24+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16286]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-16T19:28:24+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[16286]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T04:54:14+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19186]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-17T04:54:14+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19186]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T04:54:14+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19186]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-17T04:54:14+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19186]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T04:54:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19241]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-17T04:54:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19241]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T04:54:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19241]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-17T04:54:15+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[19241]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T05:46:11+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[460]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-17T05:46:11+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[460]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T05:46:11+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[460]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-17T05:46:11+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[460]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T05:46:12+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[515]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-17T05:46:12+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[515]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T05:46:13+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[515]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-17T05:46:13+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[515]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T10:41:27+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2404]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-17T10:41:27+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2404]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T10:41:27+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2404]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-17T10:41:27+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2404]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T10:41:28+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2459]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-17T10:41:28+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2459]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-17T10:41:29+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2459]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-17T10:41:29+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_reboot[2459]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-20T02:37:05+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[5157]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-20T02:37:05+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[5157]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-20T07:36:29+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[6874]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-20T07:36:29+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[6874]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-20T07:36:29+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[6874]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-20T07:36:29+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[6874]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-20T07:36:31+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[7056]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-20T07:36:31+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[7056]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-20T07:36:31+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[7056]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-20T07:36:31+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[7056]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-20T07:54:23+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[21194]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [pool_create] with type [hard].
+2024-09-20T07:54:23+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[21194]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [pool_create] failed.
+2024-09-20T07:54:23+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Pool_1_create[21194]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [pool_create] feasibility check config with type [soft].
+2024-09-20T07:54:58+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[22666]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [volume_create] with type [hard].
+2024-09-20T07:54:58+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[22666]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [volume_create] failed.
+2024-09-20T07:54:58+08:00 Synology_NAS synoscgi_SYNO.Storage.CGI.Volume_1_create_on_existing_pool[22666]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [volume_create] feasibility check config with type [soft].
+2024-09-20T07:56:46+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[26065]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-09-20T07:56:46+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[26065]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-09-20T07:56:46+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[26065]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-09-20T11:28:36+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31492]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-09-20T11:28:36+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31492]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-20T11:28:36+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31492]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-09-20T11:28:37+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31492]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-20T11:28:38+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31634]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-20T11:28:38+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31634]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-20T11:28:38+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31634]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-09-20T11:28:38+08:00 Synology_NAS synoscgi_SYNO.Core.System_2_shutdown[31634]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-09-21T10:56:04+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[32731]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-21T10:56:04+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[32731]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-21T10:56:04+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[32731]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-21T10:57:05+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[1668]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-21T10:57:05+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[1668]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-21T10:57:05+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[1668]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-23T23:32:51+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[3870]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-23T23:32:51+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[3870]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-23T23:32:51+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[3870]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-23T23:33:17+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[5849]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-23T23:33:17+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[5849]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-23T23:33:17+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[5849]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-26T10:46:56+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[17778]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-26T10:46:56+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[17778]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-26T10:46:56+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[17778]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-28T00:39:28+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[22037]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-28T00:39:28+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[22037]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-28T12:15:03+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[23414]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-09-28T12:15:06+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[23414]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-09-28T12:15:06+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[23414]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-09-28T12:15:07+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[23414]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-09-28T12:16:44+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[25947]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-09-28T12:16:44+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[25947]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-09-28T12:16:44+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[25947]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-09-28T12:30:58+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[7244]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-09-28T12:30:59+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[7244]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-09-28T12:30:59+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[7244]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-09-29T11:15:37+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[28754]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-09-29T11:15:38+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[28754]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-01T15:45:58+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[3766]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-01T15:45:58+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[3766]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-02T03:22:04+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[30053]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-02T03:22:04+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[30053]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-03T07:18:25+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[7894]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-03T07:18:25+08:00 Synology_NAS synocrond-job-builtin-dyn-autopkgupgrade-default[7894]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-03T07:53:20+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[11391]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-03T07:53:20+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[11391]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-04T00:36:29+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[8057]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-04T00:36:29+08:00 Synology_NAS synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[8057]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-05T01:04:21+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[9116]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-05T01:04:22+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[9116]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-05T01:04:22+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[9116]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-10-05T01:15:01+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[14586]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-05T01:15:01+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[14586]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-05T01:15:01+08:00 Synology_NAS synoscgi_SYNO.Core.Package_1_feasibility_check[14586]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [package_install] feasibility check config with type [soft].
+2024-10-05T02:38:39+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[30441]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-10-05T02:38:40+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[30441]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-05T02:38:40+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[30441]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-10-05T02:38:40+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[30441]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-05T21:45:33+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[10419]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-10-05T21:45:33+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[10419]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/share.d/delete/StorageAnalyzer-StorageAnalyzer_feasibility_share_delete_hard.cfg] failed.
+2024-10-05T21:45:33+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[10419]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [1] of feasibility check [share_delete] failed.
+2024-10-05T21:45:33+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[10419]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-10-05T21:45:34+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[10419]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/share.d/delete/StorageAnalyzer-StorageAnalyzer_feasibility_share_delete_soft.cfg] failed.
+2024-10-05T21:45:34+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[10419]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [1] of feasibility check [share_delete] failed.
+2024-10-05T21:48:32+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11474]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-05T21:48:32+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11474]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-05T21:48:32+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11474]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-05T22:00:09+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[15347]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-05T22:00:09+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[15347]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-05T22:00:09+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[15347]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-05T22:08:36+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18336]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [hard].
+2024-10-05T22:08:37+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18336]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/share.d/rename/StorageAnalyzer-StorageAnalyzer_feasibility_share_rename_hard.cfg] failed.
+2024-10-05T22:08:37+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18336]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [1] of feasibility check [share_rename] failed.
+2024-10-05T22:08:37+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18336]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [soft].
+2024-10-05T22:08:37+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18336]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/share.d/rename/StorageAnalyzer-StorageAnalyzer_feasibility_share_rename_soft.cfg] failed.
+2024-10-05T22:08:37+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18336]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [1] of feasibility check [share_rename] failed.
+2024-10-05T22:08:51+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18363]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [hard].
+2024-10-05T22:08:51+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18363]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/share.d/rename/StorageAnalyzer-StorageAnalyzer_feasibility_share_rename_hard.cfg] failed.
+2024-10-05T22:08:51+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18363]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [1] of feasibility check [share_rename] failed.
+2024-10-05T22:08:51+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18363]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [soft].
+2024-10-05T22:08:51+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18363]: feasibility_check.cpp:121 FeasibilityCheck: [Info] Feasibility check [/usr/local/share/feasibilitycheck/share.d/rename/StorageAnalyzer-StorageAnalyzer_feasibility_share_rename_soft.cfg] failed.
+2024-10-05T22:08:51+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[18363]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [1] of feasibility check [share_rename] failed.
+2024-10-05T22:10:38+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[19035]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [hard].
+2024-10-05T22:10:38+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[19035]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-05T22:10:38+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[19035]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [soft].
+2024-10-05T22:10:38+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[19035]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-05T22:30:30+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[25927]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [hard].
+2024-10-05T22:30:30+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[25927]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-05T22:30:30+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[25927]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [soft].
+2024-10-05T22:30:31+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[25927]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-05T22:31:34+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[27150]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-05T22:31:34+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[27150]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-05T22:31:34+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[27150]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-05T23:22:14+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11538]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-05T23:22:14+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11538]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-05T23:22:14+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_create[11538]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-05T23:25:47+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[17173]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-10-05T23:25:48+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[17173]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-05T23:25:48+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[17173]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-10-05T23:25:48+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[17173]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:03:48+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[28049]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [hard].
+2024-10-06T06:03:49+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[28049]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-06T06:03:49+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[28049]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [soft].
+2024-10-06T06:03:49+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[28049]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-06T06:04:04+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[28218]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [hard].
+2024-10-06T06:04:04+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[28218]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-06T06:04:04+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[28218]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [soft].
+2024-10-06T06:04:04+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[28218]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-06T06:04:36+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[29705]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [hard].
+2024-10-06T06:04:36+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[29705]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-06T06:04:36+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[29705]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [soft].
+2024-10-06T06:04:36+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[29705]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-06T06:05:21+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[31041]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [hard].
+2024-10-06T06:05:21+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[31041]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-06T06:05:21+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[31041]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_rename] with type [soft].
+2024-10-06T06:05:21+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_set[31041]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_rename] failed.
+2024-10-06T06:13:10+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[5023]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-10-06T06:13:11+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[5023]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:13:11+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[5023]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-10-06T06:13:11+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[5023]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:13:32+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[5565]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-10-06T06:13:32+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[5565]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:13:32+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[5565]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-10-06T06:13:32+08:00 Synology_NAS synoscgi_SYNO.Core.Share_1_validate_delete[5565]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:15:07+08:00 Synology_NAS synoscgi_SYNO.Core.Network_2_set[6767]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [hostname_change] feasibility check config with type [hard].
+2024-10-06T06:17:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[8573]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-06T06:17:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[8573]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-06T06:17:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[8573]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-06T06:18:48+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[9517]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-06T06:18:48+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[9517]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-06T06:18:48+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[9517]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-06T06:19:19+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_validate_delete[10132]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-10-06T06:19:19+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_validate_delete[10132]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:19:19+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_validate_delete[10132]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-10-06T06:19:19+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_validate_delete[10132]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:19:45+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[10678]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-06T06:19:45+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[10678]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-06T06:19:45+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[10678]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-06T06:21:33+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[11737]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-06T06:21:33+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[11737]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-06T06:21:33+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[11737]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-06T06:26:06+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_validate_delete[15145]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [hard].
+2024-10-06T06:26:06+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_validate_delete[15145]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:26:06+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_validate_delete[15145]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_delete] with type [soft].
+2024-10-06T06:26:06+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_validate_delete[15145]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_delete] failed.
+2024-10-06T06:26:41+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[15779]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [share_create] with type [hard].
+2024-10-06T06:26:41+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[15779]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [share_create] failed.
+2024-10-06T06:26:41+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.Share_1_create[15779]: feasibility_check.cpp:98 FeasibilityCheck: [Info] No [share_create] feasibility check config with type [soft].
+2024-10-06T23:27:27+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[18923]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-06T23:27:28+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[18923]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-09T04:28:30+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32573]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-10-09T04:28:31+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32573]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-10-09T04:28:31+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32573]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-10-09T04:28:31+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32573]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-10-09T04:28:32+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32647]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-10-09T04:28:32+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32647]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-10-09T04:28:32+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32647]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-10-09T04:28:32+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_reboot[32647]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-10-09T15:17:33+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[19373]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-09T15:17:33+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[19373]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-11T11:53:59+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[10363]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-11T11:53:59+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[10363]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-16T23:25:14+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17914]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-16T23:25:15+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17914]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-18T20:20:39+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[12629]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-18T20:20:40+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[12629]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-20T19:16:05+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17859]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-20T19:16:05+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17859]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-24T21:34:02+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[5588]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-24T21:34:03+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[5588]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-26T14:16:24+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[6342]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-26T14:16:25+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[6342]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-28T00:22:43+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17356]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-28T00:22:43+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[17356]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-29T18:31:58+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[8516]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-29T18:31:58+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[8516]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-30T19:51:18+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[3934]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-10-30T19:51:18+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[3934]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-30T20:31:12+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[7656]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-30T20:31:12+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[7656]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-10-31T01:14:13+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[32566]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-10-31T01:14:13+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[32566]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-11-01T06:50:31+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[23796]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-11-01T06:50:32+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[23796]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-11-02T23:32:56+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[17024]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-11-02T23:32:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[17024]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-11-03T03:20:57+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[21051]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-11-03T03:20:58+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[21051]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-11-04T17:14:30+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[2509]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard&soft].
+2024-11-04T17:14:31+08:00 Yasuraokaa_Site synocrond-job-builtin-dyn-autopkgupgrade-default[2509]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-11-04T18:00:32+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[8719]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [package_install] with type [hard].
+2024-11-04T18:00:33+08:00 Yasuraokaa_Site synocrond-job-pkg-ActiveInsight-update_package_upgrade_info_cache_SYNO.Core.Package_1_get_current_candidate_operation[8719]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [package_install] failed.
+2024-11-05T00:53:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21832]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [hard].
+2024-11-05T00:53:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21832]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-11-05T00:53:10+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21832]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [soft].
+2024-11-05T00:53:11+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21832]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-11-05T00:53:12+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21920]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-11-05T00:53:13+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21920]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.
+2024-11-05T00:53:13+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21920]: feasibility_check.cpp:110 FeasibilityCheck: [Info] Start feasibility check [poweroff] with type [critical].
+2024-11-05T00:53:13+08:00 Yasuraokaa_Site synoscgi_SYNO.Core.System_2_shutdown[21920]: feasibility_check.cpp:129 FeasibilityCheck: [Info] [0] of feasibility check [poweroff] failed.

@@ -1,0 +1,1137 @@
+2024-09-08T17:17:00-07:00 SynologyNAS pgsql.sh[14369]: [2024-09-08 17:17:00 PDT]: Start PostgreSQL
+2024-09-08T17:17:00-07:00 SynologyNAS pgsql.sh[14369]: [2024-09-08 17:17:00 PDT]: No volume to start PostgreSQL.
+2024-09-10T07:08:24+08:00 Synology_NAS pgsql.sh[11485]: [2024-09-10 07:08:24 CST]: Start PostgreSQL
+2024-09-10T07:08:25+08:00 Synology_NAS pgsql.sh[11485]: [2024-09-10 07:08:25 CST]: No volume to start PostgreSQL.
+2024-09-11T20:05:41+08:00 Synology_NAS pgsql.sh[11794]: [2024-09-11 20:05:41 CST]: Start PostgreSQL
+2024-09-11T20:05:41+08:00 Synology_NAS pgsql.sh[11794]: [2024-09-11 20:05:41 CST]: No volume to start PostgreSQL.
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Start PostgreSQL
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: max_connections = 2000
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Upgrade DB begin
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Move DB from /volume1/@database/pgsql to /volume1/@database/pgsql.old.1726056551
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Replacing parameter: max_connections = 2000
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Upgrade DB with data /volume1/@database/pgsql.old.1726056551
+2024-09-11T20:09:11+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:11 CST]: Initialize PostgreSQL database
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:14 CST]: Initialize PostgreSQL database done
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:14 CST]: Upgrade Type: DBUPGRADE_CANT
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: [1-1] 2024-09-11 12:09:14.702 GMT [16723] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: 2024-09-11 12:09:14.702 GMT [16723] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: [2-1] 2024-09-11 12:09:14.703 GMT [16723] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: 2024-09-11 12:09:14.703 GMT [16723] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: [3-1] 2024-09-11 12:09:14.739 GMT [16723] LOG:  ending log output to stderr
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: [3-2] 2024-09-11 12:09:14.739 GMT [16723] HINT:  Future log output will go to log destination "syslog".
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: 2024-09-11 12:09:14.739 GMT [16723] LOG:  ending log output to stderr
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: 2024-09-11 12:09:14.739 GMT [16723] HINT:  Future log output will go to log destination "syslog".
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16724]: [4-1] 2024-09-11 12:09:14.752 GMT [16724] LOG:  database system was shut down at 2024-09-11 12:09:13 GMT
+2024-09-11T20:09:14+08:00 Synology_NAS postgres[16723]: [4-1] 2024-09-11 12:09:14.800 GMT [16723] LOG:  database system is ready to accept connections
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: [pgsql] started.
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: /run/postgresql:5432 - accepting connections
+2024-09-11T20:09:14+08:00 Synology_NAS pgsql.sh[15657]: [2024-09-11 20:09:14 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-11T20:09:15+08:00 Synology_NAS postgres[16795]: [5-1] 2024-09-11 12:09:15.073 GMT [16795] FATAL:  database "mediaserver" does not exist
+2024-09-11T20:09:15+08:00 Synology_NAS postgres[16799]: [5-1] 2024-09-11 12:09:15.076 GMT [16799] FATAL:  database "synoindex" does not exist
+2024-09-11T20:10:07+08:00 Synology_NAS postgres[22019]: [5-1] 2024-09-11 12:10:07.510 GMT [22019] FATAL:  database "synodrive" does not exist
+2024-09-11T20:10:08+08:00 Synology_NAS postgres[22037]: [5-1] 2024-09-11 12:10:08.403 GMT [22037] ERROR:  relation "db_version" does not exist at character 21
+2024-09-11T20:10:08+08:00 Synology_NAS postgres[22037]: [5-2] 2024-09-11 12:10:08.403 GMT [22037] STATEMENT:  SELECT version from db_version
+2024-09-11T20:10:28+08:00 Synology_NAS postgres[22580]: [5-1] 2024-09-11 12:10:28.108 GMT [22580] ERROR:  relation "db_user_statistic_version" does not exist at character 21
+2024-09-11T20:10:28+08:00 Synology_NAS postgres[22580]: [5-2] 2024-09-11 12:10:28.108 GMT [22580] STATEMENT:  SELECT version from db_user_statistic_version
+2024-09-11T20:20:31+08:00 Synology_NAS postgres[29738]: [5-1] 2024-09-11 12:20:31.611 GMT [29738] ERROR:  role "office" cannot be dropped because some objects depend on it
+2024-09-11T20:20:31+08:00 Synology_NAS postgres[29738]: [5-2] 2024-09-11 12:20:31.611 GMT [29738] DETAIL:  privileges for database synodrive
+2024-09-11T20:20:31+08:00 Synology_NAS postgres[29738]: [5-3] 	2 objects in database synodrive
+2024-09-11T20:20:31+08:00 Synology_NAS postgres[29738]: [5-4] 2024-09-11 12:20:31.611 GMT [29738] STATEMENT:  DROP ROLE office;
+2024-09-11T20:28:48+08:00 Synology_NAS pgsql.sh[5774]: /volume1 is writable with
+2024-09-11T20:28:48+08:00 Synology_NAS pgsql.sh[5774]: summary status: [deleting]
+2024-09-11T20:28:48+08:00 Synology_NAS pgsql.sh[5774]: original status: [deleting]
+2024-09-11T20:28:48+08:00 Synology_NAS postgres[16723]: [5-1] 2024-09-11 12:28:48.851 GMT [16723] LOG:  received fast shutdown request
+2024-09-11T20:28:48+08:00 Synology_NAS postgres[16723]: [6-1] 2024-09-11 12:28:48.853 GMT [16723] LOG:  aborting any active transactions
+2024-09-11T20:28:48+08:00 Synology_NAS postgres[16723]: [7-1] 2024-09-11 12:28:48.853 GMT [16723] LOG:  background worker "logical replication launcher" (PID 16728) exited with exit code 1
+2024-09-11T20:28:48+08:00 Synology_NAS postgres[16725]: [4-1] 2024-09-11 12:28:48.854 GMT [16725] LOG:  shutting down
+2024-09-11T20:28:48+08:00 Synology_NAS postgres[16723]: [8-1] 2024-09-11 12:28:48.961 GMT [16723] LOG:  database system is shut down
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5801]: waiting for server to shut down.... done
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5801]: server stopped
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5774]: [pgsql] stopped.
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5774]: /run/postgresql:5432 - no response
+2024-09-11T20:28:49+08:00 Synology_NAS pgsql.sh[5774]: [2024-09-11 20:28:49 CST]: pgsql is stopped
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Start PostgreSQL
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: max_connections = 2000
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Upgrade DB begin
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Move DB from /volume1/@database/pgsql to /volume1/@database/pgsql.old.1726057798
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Replacing parameter: max_connections = 2000
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Upgrade DB with data /volume1/@database/pgsql.old.1726057798
+2024-09-11T20:29:58+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:29:58 CST]: Initialize PostgreSQL database
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:30:00 CST]: Initialize PostgreSQL database done
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:30:00 CST]: Upgrade Type: DBUPGRADE_CANT
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: [1-1] 2024-09-11 12:30:00.815 GMT [8110] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: 2024-09-11 12:30:00.815 GMT [8110] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: [2-1] 2024-09-11 12:30:00.816 GMT [8110] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: 2024-09-11 12:30:00.816 GMT [8110] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: [3-1] 2024-09-11 12:30:00.851 GMT [8110] LOG:  ending log output to stderr
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: [3-2] 2024-09-11 12:30:00.851 GMT [8110] HINT:  Future log output will go to log destination "syslog".
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: 2024-09-11 12:30:00.851 GMT [8110] LOG:  ending log output to stderr
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: 2024-09-11 12:30:00.851 GMT [8110] HINT:  Future log output will go to log destination "syslog".
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8111]: [4-1] 2024-09-11 12:30:00.866 GMT [8111] LOG:  database system was shut down at 2024-09-11 12:29:59 GMT
+2024-09-11T20:30:00+08:00 Synology_NAS postgres[8110]: [4-1] 2024-09-11 12:30:00.887 GMT [8110] LOG:  database system is ready to accept connections
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: [pgsql] started.
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: /run/postgresql:5432 - accepting connections
+2024-09-11T20:30:00+08:00 Synology_NAS pgsql.sh[7991]: [2024-09-11 20:30:00 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-11T20:30:01+08:00 Synology_NAS postgres[8167]: [5-1] 2024-09-11 12:30:01.145 GMT [8167] FATAL:  database "synoindex" does not exist
+2024-09-11T20:30:01+08:00 Synology_NAS postgres[8171]: [5-1] 2024-09-11 12:30:01.149 GMT [8171] FATAL:  database "mediaserver" does not exist
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: /volume1 is writable with
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: summary status: [pool_normal]
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: original status: [fs_normal]
+2024-09-12T00:26:22+08:00 Synology_NAS postgres[8110]: [5-1] 2024-09-11 16:26:22.300 GMT [8110] LOG:  received fast shutdown request
+2024-09-12T00:26:22+08:00 Synology_NAS postgres[8110]: [6-1] 2024-09-11 16:26:22.307 GMT [8110] LOG:  aborting any active transactions
+2024-09-12T00:26:22+08:00 Synology_NAS postgres[8110]: [7-1] 2024-09-11 16:26:22.308 GMT [8110] LOG:  background worker "logical replication launcher" (PID 8115) exited with exit code 1
+2024-09-12T00:26:22+08:00 Synology_NAS postgres[8112]: [4-1] 2024-09-11 16:26:22.308 GMT [8112] LOG:  shutting down
+2024-09-12T00:26:22+08:00 Synology_NAS postgres[8110]: [8-1] 2024-09-11 16:26:22.389 GMT [8110] LOG:  database system is shut down
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18149]: waiting for server to shut down.... done
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18149]: server stopped
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: [pgsql] stopped.
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: /run/postgresql:5432 - no response
+2024-09-12T00:26:22+08:00 Synology_NAS pgsql.sh[18076]: [2024-09-12 00:26:22 CST]: pgsql is stopped
+2024-09-12T00:30:31+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:31 CST]: Start PostgreSQL
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:33 CST]: Replacing parameter: max_connections = 2000
+2024-09-12T00:30:33+08:00 Synology_NAS pgsql.sh[13372]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: [1-1] 2024-09-11 16:30:34.073 GMT [14156] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: 2024-09-11 16:30:34.073 GMT [14156] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: [2-1] 2024-09-11 16:30:34.107 GMT [14156] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: 2024-09-11 16:30:34.107 GMT [14156] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: [3-1] 2024-09-11 16:30:34.198 GMT [14156] LOG:  ending log output to stderr
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: [3-2] 2024-09-11 16:30:34.198 GMT [14156] HINT:  Future log output will go to log destination "syslog".
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: 2024-09-11 16:30:34.198 GMT [14156] LOG:  ending log output to stderr
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: 2024-09-11 16:30:34.198 GMT [14156] HINT:  Future log output will go to log destination "syslog".
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14193]: [4-1] 2024-09-11 16:30:34.200 GMT [14193] LOG:  database system was shut down at 2024-09-11 16:26:22 GMT
+2024-09-12T00:30:34+08:00 Synology_NAS postgres[14156]: [4-1] 2024-09-11 16:30:34.271 GMT [14156] LOG:  database system is ready to accept connections
+2024-09-12T00:30:34+08:00 Synology_NAS pgsql.sh[13372]: [pgsql] started.
+2024-09-12T00:30:34+08:00 Synology_NAS pgsql.sh[13372]: /run/postgresql:5432 - accepting connections
+2024-09-12T00:30:34+08:00 Synology_NAS pgsql.sh[13372]: [2024-09-12 00:30:34 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[5994]: [5-1] 2024-09-12 02:33:02.552 GMT [5994] ERROR:  relation "download_queue" does not exist at character 8
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[5994]: [5-2] 2024-09-12 02:33:02.552 GMT [5994] STATEMENT:  UPDATE download_queue SET pid=-1
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6056]: [5-1] 2024-09-12 02:33:02.772 GMT [6056] ERROR:  relation "task_plugin" does not exist at character 8
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6056]: [5-2] 2024-09-12 02:33:02.772 GMT [6056] STATEMENT:  Update task_plugin set current_plugin = '' where task_id = 0
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6062]: [5-1] 2024-09-12 02:33:02.785 GMT [6062] ERROR:  relation "thumbnail" does not exist at character 8
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6062]: [5-2] 2024-09-12 02:33:02.785 GMT [6062] STATEMENT:  Update thumbnail set thumbnail_filename = '' where thumbnail_id = 0
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6068]: [5-1] 2024-09-12 02:33:02.798 GMT [6068] ERROR:  column "thumbnail_status" of relation "download_queue" does not exist at character 27
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6068]: [5-2] 2024-09-12 02:33:02.798 GMT [6068] STATEMENT:  Update download_queue set thumbnail_status = 0 where task_id = 0
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6074]: [5-1] 2024-09-12 02:33:02.807 GMT [6074] ERROR:  column "completed_time" of relation "download_queue" does not exist at character 27
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6074]: [5-2] 2024-09-12 02:33:02.807 GMT [6074] STATEMENT:  Update download_queue set completed_time = 0 where task_id = 0
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6080]: [5-1] 2024-09-12 02:33:02.815 GMT [6080] ERROR:  column "waiting_until_time" of relation "download_queue" does not exist at character 27
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6080]: [5-2] 2024-09-12 02:33:02.815 GMT [6080] STATEMENT:  Update download_queue set waiting_until_time = 0 where task_id = 0
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6086]: [5-1] 2024-09-12 02:33:02.824 GMT [6086] ERROR:  relation "test_filter_view" does not exist at character 17
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6086]: [5-2] 2024-09-12 02:33:02.824 GMT [6086] STATEMENT:  SELECT one FROM test_filter_view
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6106]: [5-1] 2024-09-12 02:33:02.867 GMT [6106] ERROR:  column "file_oid" of relation "download_queue" does not exist at character 27
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6106]: [5-2] 2024-09-12 02:33:02.867 GMT [6106] STATEMENT:  Update download_queue set file_oid = 0 where task_id = 0
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6112]: [5-1] 2024-09-12 02:33:02.877 GMT [6112] ERROR:  relation "notification" does not exist at character 8
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6112]: [5-2] 2024-09-12 02:33:02.877 GMT [6112] STATEMENT:  Update notification set type = '' where id = 0
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6116]: [5-1] 2024-09-12 02:33:02.909 GMT [6116] ERROR:  relation "notification_view" does not exist at character 15
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6116]: [5-2] 2024-09-12 02:33:02.909 GMT [6116] STATEMENT:  SELECT * FROM notification_view
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6131]: [5-1] 2024-09-12 02:33:02.927 GMT [6131] ERROR:  function "lo_unlink_non_raise" does not exist at character 8
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6131]: [5-2] 2024-09-12 02:33:02.927 GMT [6131] STATEMENT:  select 'lo_unlink_non_raise'::regproc
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6140]: [5-1] 2024-09-12 02:33:02.940 GMT [6140] ERROR:  relation "search_plugin_status" does not exist at character 15
+2024-09-12T10:33:02+08:00 Synology_NAS postgres[6140]: [5-2] 2024-09-12 02:33:02.940 GMT [6140] STATEMENT:  SELECT * FROM search_plugin_status
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: /volume1 is writable with
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: summary status: [pool_normal]
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: original status: [fs_normal]
+2024-09-14T22:42:51+08:00 Synology_NAS postgres[14156]: [5-1] 2024-09-14 14:42:51.626 GMT [14156] LOG:  received fast shutdown request
+2024-09-14T22:42:51+08:00 Synology_NAS postgres[14156]: [6-1] 2024-09-14 14:42:51.635 GMT [14156] LOG:  aborting any active transactions
+2024-09-14T22:42:51+08:00 Synology_NAS postgres[14156]: [7-1] 2024-09-14 14:42:51.635 GMT [14156] LOG:  background worker "logical replication launcher" (PID 14230) exited with exit code 1
+2024-09-14T22:42:51+08:00 Synology_NAS postgres[14227]: [4-1] 2024-09-14 14:42:51.636 GMT [14227] LOG:  shutting down
+2024-09-14T22:42:51+08:00 Synology_NAS postgres[14156]: [8-1] 2024-09-14 14:42:51.739 GMT [14156] LOG:  database system is shut down
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9803]: waiting for server to shut down.... done
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9803]: server stopped
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: [pgsql] stopped.
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: /run/postgresql:5432 - no response
+2024-09-14T22:42:51+08:00 Synology_NAS pgsql.sh[9779]: [2024-09-14 22:42:51 CST]: pgsql is stopped
+2024-09-14T23:16:59+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:16:59 CST]: Start PostgreSQL
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: Replacing parameter: max_connections = 2000
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: [1-1] 2024-09-14 15:17:02.601 GMT [16449] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: 2024-09-14 15:17:02.601 GMT [16449] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: [2-1] 2024-09-14 15:17:02.624 GMT [16449] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: 2024-09-14 15:17:02.624 GMT [16449] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: [3-1] 2024-09-14 15:17:02.697 GMT [16449] LOG:  ending log output to stderr
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: [3-2] 2024-09-14 15:17:02.697 GMT [16449] HINT:  Future log output will go to log destination "syslog".
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: 2024-09-14 15:17:02.697 GMT [16449] LOG:  ending log output to stderr
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: 2024-09-14 15:17:02.697 GMT [16449] HINT:  Future log output will go to log destination "syslog".
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16677]: [4-1] 2024-09-14 15:17:02.710 GMT [16677] LOG:  database system was shut down at 2024-09-14 14:42:51 GMT
+2024-09-14T23:17:02+08:00 Synology_NAS postgres[16449]: [4-1] 2024-09-14 15:17:02.812 GMT [16449] LOG:  database system is ready to accept connections
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [pgsql] started.
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: /run/postgresql:5432 - accepting connections
+2024-09-14T23:17:02+08:00 Synology_NAS pgsql.sh[15215]: [2024-09-14 23:17:02 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: /volume1 is writable with
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: summary status: [pool_normal]
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: original status: [fs_normal]
+2024-09-15T00:50:04+08:00 Synology_NAS postgres[16449]: [5-1] 2024-09-14 16:50:04.600 GMT [16449] LOG:  received fast shutdown request
+2024-09-15T00:50:04+08:00 Synology_NAS postgres[16449]: [6-1] 2024-09-14 16:50:04.601 GMT [16449] LOG:  aborting any active transactions
+2024-09-15T00:50:04+08:00 Synology_NAS postgres[16449]: [7-1] 2024-09-14 16:50:04.607 GMT [16449] LOG:  background worker "logical replication launcher" (PID 16723) exited with exit code 1
+2024-09-15T00:50:04+08:00 Synology_NAS postgres[16720]: [4-1] 2024-09-14 16:50:04.607 GMT [16720] LOG:  shutting down
+2024-09-15T00:50:04+08:00 Synology_NAS postgres[16449]: [8-1] 2024-09-14 16:50:04.740 GMT [16449] LOG:  database system is shut down
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26275]: waiting for server to shut down.... done
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26275]: server stopped
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: [pgsql] stopped.
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: /run/postgresql:5432 - no response
+2024-09-15T00:50:04+08:00 Synology_NAS pgsql.sh[26260]: [2024-09-15 00:50:04 CST]: pgsql is stopped
+2024-09-15T01:14:23+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:23 CST]: Start PostgreSQL
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:26 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T01:14:26+08:00 Synology_NAS pgsql.sh[15270]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: [1-1] 2024-09-14 17:14:26.811 GMT [16410] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: 2024-09-14 17:14:26.811 GMT [16410] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: [2-1] 2024-09-14 17:14:26.836 GMT [16410] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: 2024-09-14 17:14:26.836 GMT [16410] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: [3-1] 2024-09-14 17:14:26.934 GMT [16410] LOG:  ending log output to stderr
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: [3-2] 2024-09-14 17:14:26.934 GMT [16410] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: 2024-09-14 17:14:26.934 GMT [16410] LOG:  ending log output to stderr
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16410]: 2024-09-14 17:14:26.934 GMT [16410] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T01:14:26+08:00 Synology_NAS postgres[16790]: [4-1] 2024-09-14 17:14:26.947 GMT [16790] LOG:  database system was shut down at 2024-09-14 16:50:04 GMT
+2024-09-15T01:14:27+08:00 Synology_NAS postgres[16410]: [4-1] 2024-09-14 17:14:27.014 GMT [16410] LOG:  database system is ready to accept connections
+2024-09-15T01:14:27+08:00 Synology_NAS pgsql.sh[15270]: [pgsql] started.
+2024-09-15T01:14:27+08:00 Synology_NAS pgsql.sh[15270]: /run/postgresql:5432 - accepting connections
+2024-09-15T01:14:27+08:00 Synology_NAS pgsql.sh[15270]: [2024-09-15 01:14:27 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T01:22:10+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:10 CST]: Start PostgreSQL
+2024-09-15T01:22:12+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:12 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T01:22:12+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:12 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T01:22:12+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:12 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T01:22:12+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:12 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T01:22:13+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:13 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T01:22:13+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:13 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T01:22:13+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:13 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T01:22:13+08:00 Synology_NAS pgsql.sh[14826]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: [1-1] 2024-09-14 17:22:13.689 GMT [16511] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: 2024-09-14 17:22:13.689 GMT [16511] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: [2-1] 2024-09-14 17:22:13.759 GMT [16511] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: 2024-09-14 17:22:13.759 GMT [16511] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: [3-1] 2024-09-14 17:22:13.905 GMT [16511] LOG:  ending log output to stderr
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: [3-2] 2024-09-14 17:22:13.905 GMT [16511] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: 2024-09-14 17:22:13.905 GMT [16511] LOG:  ending log output to stderr
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16511]: 2024-09-14 17:22:13.905 GMT [16511] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T01:22:13+08:00 Synology_NAS postgres[16824]: [4-1] 2024-09-14 17:22:13.967 GMT [16824] LOG:  database system was interrupted; last known up at 2024-09-14 17:14:26 GMT
+2024-09-15T01:22:15+08:00 Synology_NAS postgres[16824]: [5-1] 2024-09-14 17:22:15.333 GMT [16824] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-09-15T01:22:15+08:00 Synology_NAS postgres[16824]: [6-1] 2024-09-14 17:22:15.931 GMT [16824] LOG:  redo starts at 0/1E9B3F0
+2024-09-15T01:22:16+08:00 Synology_NAS postgres[16824]: [7-1] 2024-09-14 17:22:16.177 GMT [16824] LOG:  invalid record length at 0/1EB7F80: wanted 24, got 0
+2024-09-15T01:22:16+08:00 Synology_NAS postgres[16824]: [8-1] 2024-09-14 17:22:16.177 GMT [16824] LOG:  redo done at 0/1EB7F48
+2024-09-15T01:22:16+08:00 Synology_NAS postgres[16824]: [9-1] 2024-09-14 17:22:16.177 GMT [16824] LOG:  last completed transaction was at log time 2024-09-15 01:14:35.215906+08
+2024-09-15T01:22:21+08:00 Synology_NAS postgres[16511]: [4-1] 2024-09-14 17:22:21.036 GMT [16511] LOG:  database system is ready to accept connections
+2024-09-15T01:22:21+08:00 Synology_NAS pgsql.sh[14826]: [pgsql] started.
+2024-09-15T01:22:22+08:00 Synology_NAS pgsql.sh[14826]: /run/postgresql:5432 - accepting connections
+2024-09-15T01:22:22+08:00 Synology_NAS pgsql.sh[14826]: [2024-09-15 01:22:22 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T01:31:04+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:04 CST]: Start PostgreSQL
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T01:31:07+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:07 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T01:31:08+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:08 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T01:31:08+08:00 Synology_NAS pgsql.sh[15273]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T01:31:08+08:00 Synology_NAS postgres[16798]: [1-1] 2024-09-14 17:31:08.790 GMT [16798] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:31:08+08:00 Synology_NAS postgres[16798]: 2024-09-14 17:31:08.790 GMT [16798] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T01:31:08+08:00 Synology_NAS postgres[16798]: [2-1] 2024-09-14 17:31:08.876 GMT [16798] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:31:08+08:00 Synology_NAS postgres[16798]: 2024-09-14 17:31:08.876 GMT [16798] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T01:31:09+08:00 Synology_NAS postgres[16798]: [3-1] 2024-09-14 17:31:09.198 GMT [16798] LOG:  ending log output to stderr
+2024-09-15T01:31:09+08:00 Synology_NAS postgres[16798]: [3-2] 2024-09-14 17:31:09.198 GMT [16798] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T01:31:09+08:00 Synology_NAS postgres[16798]: 2024-09-14 17:31:09.198 GMT [16798] LOG:  ending log output to stderr
+2024-09-15T01:31:09+08:00 Synology_NAS postgres[16798]: 2024-09-14 17:31:09.198 GMT [16798] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T01:31:09+08:00 Synology_NAS postgres[17219]: [4-1] 2024-09-14 17:31:09.315 GMT [17219] LOG:  database system was interrupted; last known up at 2024-09-14 17:22:20 GMT
+2024-09-15T01:31:11+08:00 Synology_NAS postgres[17219]: [5-1] 2024-09-14 17:31:11.551 GMT [17219] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-09-15T01:31:12+08:00 Synology_NAS postgres[17219]: [6-1] 2024-09-14 17:31:12.624 GMT [17219] LOG:  redo starts at 0/1EB7FF0
+2024-09-15T01:31:13+08:00 Synology_NAS postgres[17219]: [7-1] 2024-09-14 17:31:13.174 GMT [17219] LOG:  invalid record length at 0/1ED03A8: wanted 24, got 0
+2024-09-15T01:31:13+08:00 Synology_NAS postgres[17219]: [8-1] 2024-09-14 17:31:13.174 GMT [17219] LOG:  redo done at 0/1ED0370
+2024-09-15T01:31:13+08:00 Synology_NAS postgres[17219]: [9-1] 2024-09-14 17:31:13.174 GMT [17219] LOG:  last completed transaction was at log time 2024-09-15 01:22:46.598321+08
+2024-09-15T01:31:16+08:00 Synology_NAS postgres[16798]: [4-1] 2024-09-14 17:31:16.003 GMT [16798] LOG:  database system is ready to accept connections
+2024-09-15T01:31:16+08:00 Synology_NAS pgsql.sh[15273]: [pgsql] started.
+2024-09-15T01:31:16+08:00 Synology_NAS pgsql.sh[15273]: /run/postgresql:5432 - accepting connections
+2024-09-15T01:31:16+08:00 Synology_NAS pgsql.sh[15273]: [2024-09-15 01:31:16 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T05:06:23+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:23 CST]: Start PostgreSQL
+2024-09-15T05:06:23+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:23 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T05:06:23+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:23 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Upgrade DB begin
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Move DB from /volume3/@database/pgsql to /volume3/@database/pgsql.old.1726347984
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Upgrade DB with data /volume3/@database/pgsql.old.1726347984
+2024-09-15T05:06:24+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:24 CST]: Initialize PostgreSQL database
+2024-09-15T05:06:31+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:31 CST]: Initialize PostgreSQL database done
+2024-09-15T05:06:31+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:31 CST]: Upgrade Type: DBUPGRADE_CANT
+2024-09-15T05:06:31+08:00 Synology_NAS pgsql.sh[13178]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: [1-1] 2024-09-14 21:06:31.551 GMT [14873] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: 2024-09-14 21:06:31.551 GMT [14873] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: [2-1] 2024-09-14 21:06:31.628 GMT [14873] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: 2024-09-14 21:06:31.628 GMT [14873] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: [3-1] 2024-09-14 21:06:31.936 GMT [14873] LOG:  ending log output to stderr
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: [3-2] 2024-09-14 21:06:31.936 GMT [14873] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: 2024-09-14 21:06:31.936 GMT [14873] LOG:  ending log output to stderr
+2024-09-15T05:06:31+08:00 Synology_NAS postgres[14873]: 2024-09-14 21:06:31.936 GMT [14873] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T05:06:32+08:00 Synology_NAS postgres[14887]: [4-1] 2024-09-14 21:06:32.231 GMT [14887] LOG:  database system was shut down at 2024-09-14 21:06:26 GMT
+2024-09-15T05:06:32+08:00 Synology_NAS postgres[14873]: [4-1] 2024-09-14 21:06:32.531 GMT [14873] LOG:  database system is ready to accept connections
+2024-09-15T05:06:32+08:00 Synology_NAS pgsql.sh[13178]: [pgsql] started.
+2024-09-15T05:06:32+08:00 Synology_NAS pgsql.sh[13178]: /run/postgresql:5432 - accepting connections
+2024-09-15T05:06:32+08:00 Synology_NAS pgsql.sh[13178]: [2024-09-15 05:06:32 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T05:06:32+08:00 Synology_NAS pgsql.sh[13178]: Update DownloadStation pgsql-db worker.
+2024-09-15T05:06:42+08:00 Synology_NAS pgsql.sh[13178]: Done updating DownloadStation pgsql-db worker.
+2024-09-15T05:06:42+08:00 Synology_NAS postgres[15338]: [5-1] 2024-09-14 21:06:42.839 GMT [15338] FATAL:  database "synoindex" does not exist
+2024-09-15T05:06:42+08:00 Synology_NAS postgres[15349]: [5-1] 2024-09-14 21:06:42.847 GMT [15349] FATAL:  database "mediaserver" does not exist
+2024-09-15T05:09:40+08:00 Synology_NAS pgsql.sh[16100]: /volume3 is writable with
+2024-09-15T05:09:40+08:00 Synology_NAS pgsql.sh[16100]: summary status: [pool_normal]
+2024-09-15T05:09:40+08:00 Synology_NAS pgsql.sh[16100]: original status: [fs_normal]
+2024-09-15T05:09:40+08:00 Synology_NAS postgres[14873]: [5-1] 2024-09-14 21:09:40.287 GMT [14873] LOG:  received fast shutdown request
+2024-09-15T05:09:40+08:00 Synology_NAS postgres[14873]: [6-1] 2024-09-14 21:09:40.481 GMT [14873] LOG:  aborting any active transactions
+2024-09-15T05:09:40+08:00 Synology_NAS postgres[14873]: [7-1] 2024-09-14 21:09:40.481 GMT [14873] LOG:  background worker "logical replication launcher" (PID 14919) exited with exit code 1
+2024-09-15T05:09:40+08:00 Synology_NAS postgres[14916]: [4-1] 2024-09-14 21:09:40.481 GMT [14916] LOG:  shutting down
+2024-09-15T05:15:26+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:26 CST]: Start PostgreSQL
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-15T05:15:31+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:15:31 CST]: Replacing parameter: max_connections = 2000
+2024-09-15T05:15:32+08:00 Synology_NAS pgsql.sh[15634]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-15T05:15:34+08:00 Synology_NAS postgres[17389]: [1-1] 2024-09-14 21:15:34.950 GMT [17389] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T05:15:34+08:00 Synology_NAS postgres[17389]: 2024-09-14 21:15:34.950 GMT [17389] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: [2-1] 2024-09-14 21:15:35.066 GMT [17389] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: 2024-09-14 21:15:35.066 GMT [17389] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: [3-1] 2024-09-14 21:15:35.655 GMT [17389] LOG:  ending log output to stderr
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: [3-2] 2024-09-14 21:15:35.655 GMT [17389] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: 2024-09-14 21:15:35.655 GMT [17389] LOG:  ending log output to stderr
+2024-09-15T05:15:35+08:00 Synology_NAS postgres[17389]: 2024-09-14 21:15:35.655 GMT [17389] HINT:  Future log output will go to log destination "syslog".
+2024-09-15T05:15:36+08:00 Synology_NAS postgres[17817]: [4-1] 2024-09-14 21:15:36.097 GMT [17817] LOG:  database system shutdown was interrupted; last known up at 2024-09-14 21:09:40 GMT
+2024-09-15T05:15:39+08:00 Synology_NAS postgres[17817]: [5-1] 2024-09-14 21:15:39.430 GMT [17817] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-09-15T05:15:40+08:00 Synology_NAS postgres[17817]: [6-1] 2024-09-14 21:15:40.707 GMT [17817] LOG:  redo starts at 0/17BBE80
+2024-09-15T05:15:41+08:00 Synology_NAS postgres[17817]: [7-1] 2024-09-14 21:15:41.459 GMT [17817] LOG:  invalid record length at 0/190BBE8: wanted 24, got 0
+2024-09-15T05:15:41+08:00 Synology_NAS postgres[17817]: [8-1] 2024-09-14 21:15:41.459 GMT [17817] LOG:  redo done at 0/190BBB0
+2024-09-15T05:15:41+08:00 Synology_NAS postgres[17817]: [9-1] 2024-09-14 21:15:41.460 GMT [17817] LOG:  last completed transaction was at log time 2024-09-15 05:07:02.838649+08
+2024-09-15T05:16:13+08:00 Synology_NAS postgres[17389]: [4-1] 2024-09-14 21:16:13.723 GMT [17389] LOG:  database system is ready to accept connections
+2024-09-15T05:16:13+08:00 Synology_NAS pgsql.sh[15634]: [pgsql] started.
+2024-09-15T05:16:15+08:00 Synology_NAS pgsql.sh[15634]: /run/postgresql:5432 - accepting connections
+2024-09-15T05:16:15+08:00 Synology_NAS pgsql.sh[15634]: [2024-09-15 05:16:15 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-15T05:16:22+08:00 Synology_NAS postgres[19447]: [5-1] 2024-09-14 21:16:22.680 GMT [19447] ERROR:  relation "download_queue" does not exist at character 8
+2024-09-15T05:16:22+08:00 Synology_NAS postgres[19447]: [5-2] 2024-09-14 21:16:22.680 GMT [19447] STATEMENT:  UPDATE download_queue SET pid=-1
+2024-09-15T05:16:36+08:00 Synology_NAS postgres[19887]: [5-1] 2024-09-14 21:16:36.464 GMT [19887] ERROR:  relation "task_plugin" does not exist at character 8
+2024-09-15T05:16:36+08:00 Synology_NAS postgres[19887]: [5-2] 2024-09-14 21:16:36.464 GMT [19887] STATEMENT:  Update task_plugin set current_plugin = '' where task_id = 0
+2024-09-15T05:16:37+08:00 Synology_NAS postgres[19893]: [5-1] 2024-09-14 21:16:37.652 GMT [19893] ERROR:  relation "thumbnail" does not exist at character 8
+2024-09-15T05:16:37+08:00 Synology_NAS postgres[19893]: [5-2] 2024-09-14 21:16:37.652 GMT [19893] STATEMENT:  Update thumbnail set thumbnail_filename = '' where thumbnail_id = 0
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19899]: [5-1] 2024-09-14 21:16:38.526 GMT [19899] ERROR:  column "thumbnail_status" of relation "download_queue" does not exist at character 27
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19899]: [5-2] 2024-09-14 21:16:38.526 GMT [19899] STATEMENT:  Update download_queue set thumbnail_status = 0 where task_id = 0
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19905]: [5-1] 2024-09-14 21:16:38.535 GMT [19905] ERROR:  column "completed_time" of relation "download_queue" does not exist at character 27
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19905]: [5-2] 2024-09-14 21:16:38.535 GMT [19905] STATEMENT:  Update download_queue set completed_time = 0 where task_id = 0
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19911]: [5-1] 2024-09-14 21:16:38.543 GMT [19911] ERROR:  column "waiting_until_time" of relation "download_queue" does not exist at character 27
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19911]: [5-2] 2024-09-14 21:16:38.543 GMT [19911] STATEMENT:  Update download_queue set waiting_until_time = 0 where task_id = 0
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19917]: [5-1] 2024-09-14 21:16:38.552 GMT [19917] ERROR:  relation "test_filter_view" does not exist at character 17
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19917]: [5-2] 2024-09-14 21:16:38.552 GMT [19917] STATEMENT:  SELECT one FROM test_filter_view
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19937]: [5-1] 2024-09-14 21:16:38.815 GMT [19937] ERROR:  column "file_oid" of relation "download_queue" does not exist at character 27
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19937]: [5-2] 2024-09-14 21:16:38.815 GMT [19937] STATEMENT:  Update download_queue set file_oid = 0 where task_id = 0
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19943]: [5-1] 2024-09-14 21:16:38.854 GMT [19943] ERROR:  relation "notification" does not exist at character 8
+2024-09-15T05:16:38+08:00 Synology_NAS postgres[19943]: [5-2] 2024-09-14 21:16:38.854 GMT [19943] STATEMENT:  Update notification set type = '' where id = 0
+2024-09-15T05:16:40+08:00 Synology_NAS postgres[19949]: [5-1] 2024-09-14 21:16:40.624 GMT [19949] ERROR:  relation "notification_view" does not exist at character 15
+2024-09-15T05:16:40+08:00 Synology_NAS postgres[19949]: [5-2] 2024-09-14 21:16:40.624 GMT [19949] STATEMENT:  SELECT * FROM notification_view
+2024-09-15T05:16:40+08:00 Synology_NAS postgres[19964]: [5-1] 2024-09-14 21:16:40.641 GMT [19964] ERROR:  function "lo_unlink_non_raise" does not exist at character 8
+2024-09-15T05:16:40+08:00 Synology_NAS postgres[19964]: [5-2] 2024-09-14 21:16:40.641 GMT [19964] STATEMENT:  select 'lo_unlink_non_raise'::regproc
+2024-09-15T05:16:40+08:00 Synology_NAS postgres[19973]: [5-1] 2024-09-14 21:16:40.669 GMT [19973] ERROR:  relation "search_plugin_status" does not exist at character 15
+2024-09-15T05:16:40+08:00 Synology_NAS postgres[19973]: [5-2] 2024-09-14 21:16:40.669 GMT [19973] STATEMENT:  SELECT * FROM search_plugin_status
+2024-09-16T05:35:24+08:00 Synology_NAS pgsql.sh[10495]: /volume3 is writable with
+2024-09-16T05:35:24+08:00 Synology_NAS pgsql.sh[10495]: summary status: [pool_normal]
+2024-09-16T05:35:24+08:00 Synology_NAS pgsql.sh[10495]: original status: [fs_normal]
+2024-09-16T05:35:25+08:00 Synology_NAS postgres[17389]: [5-1] 2024-09-15 21:35:25.036 GMT [17389] LOG:  received fast shutdown request
+2024-09-16T05:35:25+08:00 Synology_NAS postgres[17389]: [6-1] 2024-09-15 21:35:25.157 GMT [17389] LOG:  aborting any active transactions
+2024-09-16T05:35:25+08:00 Synology_NAS postgres[17389]: [7-1] 2024-09-15 21:35:25.167 GMT [17389] LOG:  background worker "logical replication launcher" (PID 19023) exited with exit code 1
+2024-09-16T05:35:25+08:00 Synology_NAS postgres[19020]: [4-1] 2024-09-15 21:35:25.167 GMT [19020] LOG:  shutting down
+2024-09-16T05:35:25+08:00 Synology_NAS postgres[17389]: [8-1] 2024-09-15 21:35:25.947 GMT [17389] LOG:  database system is shut down
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10510]: waiting for server to shut down.... done
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10510]: server stopped
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10495]: [pgsql] stopped.
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10495]: /run/postgresql:5432 - no response
+2024-09-16T05:35:26+08:00 Synology_NAS pgsql.sh[10495]: [2024-09-16 05:35:26 CST]: pgsql is stopped
+2024-09-16T05:39:46+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:46 CST]: Start PostgreSQL
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:50 CST]: Replacing parameter: max_connections = 2000
+2024-09-16T05:39:50+08:00 Synology_NAS pgsql.sh[14739]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-16T05:39:50+08:00 Synology_NAS postgres[16793]: [1-1] 2024-09-15 21:39:50.980 GMT [16793] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-16T05:39:50+08:00 Synology_NAS postgres[16793]: 2024-09-15 21:39:50.980 GMT [16793] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: [2-1] 2024-09-15 21:39:51.068 GMT [16793] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: 2024-09-15 21:39:51.068 GMT [16793] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: [3-1] 2024-09-15 21:39:51.213 GMT [16793] LOG:  ending log output to stderr
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: [3-2] 2024-09-15 21:39:51.213 GMT [16793] HINT:  Future log output will go to log destination "syslog".
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: 2024-09-15 21:39:51.213 GMT [16793] LOG:  ending log output to stderr
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: 2024-09-15 21:39:51.213 GMT [16793] HINT:  Future log output will go to log destination "syslog".
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16878]: [4-1] 2024-09-15 21:39:51.278 GMT [16878] LOG:  database system was shut down at 2024-09-15 21:35:25 GMT
+2024-09-16T05:39:51+08:00 Synology_NAS postgres[16793]: [4-1] 2024-09-15 21:39:51.409 GMT [16793] LOG:  database system is ready to accept connections
+2024-09-16T05:39:51+08:00 Synology_NAS pgsql.sh[14739]: [pgsql] started.
+2024-09-16T05:39:51+08:00 Synology_NAS pgsql.sh[14739]: /run/postgresql:5432 - accepting connections
+2024-09-16T05:39:51+08:00 Synology_NAS pgsql.sh[14739]: [2024-09-16 05:39:51 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-16T19:28:33+08:00 Synology_NAS pgsql.sh[17278]: /volume3 is writable with
+2024-09-16T19:28:33+08:00 Synology_NAS pgsql.sh[17278]: summary status: [pool_normal]
+2024-09-16T19:28:33+08:00 Synology_NAS pgsql.sh[17278]: original status: [fs_normal]
+2024-09-16T19:28:33+08:00 Synology_NAS postgres[16793]: [5-1] 2024-09-16 11:28:33.169 GMT [16793] LOG:  received fast shutdown request
+2024-09-16T19:28:33+08:00 Synology_NAS postgres[16793]: [6-1] 2024-09-16 11:28:33.184 GMT [16793] LOG:  aborting any active transactions
+2024-09-16T19:28:33+08:00 Synology_NAS postgres[16793]: [7-1] 2024-09-16 11:28:33.194 GMT [16793] LOG:  background worker "logical replication launcher" (PID 16925) exited with exit code 1
+2024-09-16T19:28:33+08:00 Synology_NAS postgres[16922]: [4-1] 2024-09-16 11:28:33.194 GMT [16922] LOG:  shutting down
+2024-09-16T19:28:34+08:00 Synology_NAS postgres[16793]: [8-1] 2024-09-16 11:28:34.498 GMT [16793] LOG:  database system is shut down
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17295]: waiting for server to shut down..... done
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17295]: server stopped
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17278]: [pgsql] stopped.
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17278]: /run/postgresql:5432 - no response
+2024-09-16T19:28:34+08:00 Synology_NAS pgsql.sh[17278]: [2024-09-16 19:28:34 CST]: pgsql is stopped
+2024-09-16T19:33:08+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:08 CST]: Start PostgreSQL
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:11 CST]: Replacing parameter: max_connections = 2000
+2024-09-16T19:33:11+08:00 Synology_NAS pgsql.sh[14933]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: [1-1] 2024-09-16 11:33:12.035 GMT [16766] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: 2024-09-16 11:33:12.035 GMT [16766] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: [2-1] 2024-09-16 11:33:12.077 GMT [16766] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: 2024-09-16 11:33:12.077 GMT [16766] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: [3-1] 2024-09-16 11:33:12.261 GMT [16766] LOG:  ending log output to stderr
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: [3-2] 2024-09-16 11:33:12.261 GMT [16766] HINT:  Future log output will go to log destination "syslog".
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: 2024-09-16 11:33:12.261 GMT [16766] LOG:  ending log output to stderr
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: 2024-09-16 11:33:12.261 GMT [16766] HINT:  Future log output will go to log destination "syslog".
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16831]: [4-1] 2024-09-16 11:33:12.342 GMT [16831] LOG:  database system was shut down at 2024-09-16 11:28:34 GMT
+2024-09-16T19:33:12+08:00 Synology_NAS postgres[16766]: [4-1] 2024-09-16 11:33:12.627 GMT [16766] LOG:  database system is ready to accept connections
+2024-09-16T19:33:12+08:00 Synology_NAS pgsql.sh[14933]: [pgsql] started.
+2024-09-16T19:33:12+08:00 Synology_NAS pgsql.sh[14933]: /run/postgresql:5432 - accepting connections
+2024-09-16T19:33:12+08:00 Synology_NAS pgsql.sh[14933]: [2024-09-16 19:33:12 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-17T04:54:29+08:00 Synology_NAS pgsql.sh[20245]: /volume3 is writable with
+2024-09-17T04:54:29+08:00 Synology_NAS pgsql.sh[20245]: summary status: [pool_normal]
+2024-09-17T04:54:29+08:00 Synology_NAS pgsql.sh[20245]: original status: [fs_normal]
+2024-09-17T04:54:29+08:00 Synology_NAS postgres[16766]: [5-1] 2024-09-16 20:54:29.243 GMT [16766] LOG:  received fast shutdown request
+2024-09-17T04:54:29+08:00 Synology_NAS postgres[16766]: [6-1] 2024-09-16 20:54:29.292 GMT [16766] LOG:  aborting any active transactions
+2024-09-17T04:54:29+08:00 Synology_NAS postgres[16766]: [7-1] 2024-09-16 20:54:29.292 GMT [16766] LOG:  background worker "logical replication launcher" (PID 16902) exited with exit code 1
+2024-09-17T04:54:29+08:00 Synology_NAS postgres[16899]: [4-1] 2024-09-16 20:54:29.293 GMT [16899] LOG:  shutting down
+2024-09-17T04:54:30+08:00 Synology_NAS postgres[16766]: [8-1] 2024-09-16 20:54:30.123 GMT [16766] LOG:  database system is shut down
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20262]: waiting for server to shut down.... done
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20262]: server stopped
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20245]: [pgsql] stopped.
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20245]: /run/postgresql:5432 - no response
+2024-09-17T04:54:30+08:00 Synology_NAS pgsql.sh[20245]: [2024-09-17 04:54:30 CST]: pgsql is stopped
+2024-09-17T04:58:49+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:49 CST]: Start PostgreSQL
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:52 CST]: Replacing parameter: max_connections = 2000
+2024-09-17T04:58:52+08:00 Synology_NAS pgsql.sh[15242]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-17T04:58:52+08:00 Synology_NAS postgres[16800]: [1-1] 2024-09-16 20:58:52.885 GMT [16800] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T04:58:52+08:00 Synology_NAS postgres[16800]: 2024-09-16 20:58:52.885 GMT [16800] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T04:58:52+08:00 Synology_NAS postgres[16800]: [2-1] 2024-09-16 20:58:52.959 GMT [16800] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T04:58:52+08:00 Synology_NAS postgres[16800]: 2024-09-16 20:58:52.959 GMT [16800] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T04:58:53+08:00 Synology_NAS postgres[16800]: [3-1] 2024-09-16 20:58:53.095 GMT [16800] LOG:  ending log output to stderr
+2024-09-17T04:58:53+08:00 Synology_NAS postgres[16800]: [3-2] 2024-09-16 20:58:53.095 GMT [16800] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T04:58:53+08:00 Synology_NAS postgres[16800]: 2024-09-16 20:58:53.095 GMT [16800] LOG:  ending log output to stderr
+2024-09-17T04:58:53+08:00 Synology_NAS postgres[16800]: 2024-09-16 20:58:53.095 GMT [16800] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T04:58:53+08:00 Synology_NAS postgres[16921]: [4-1] 2024-09-16 20:58:53.124 GMT [16921] LOG:  database system was shut down at 2024-09-16 20:54:30 GMT
+2024-09-17T04:58:53+08:00 Synology_NAS postgres[16800]: [4-1] 2024-09-16 20:58:53.476 GMT [16800] LOG:  database system is ready to accept connections
+2024-09-17T04:58:53+08:00 Synology_NAS pgsql.sh[15242]: [pgsql] started.
+2024-09-17T04:58:53+08:00 Synology_NAS pgsql.sh[15242]: /run/postgresql:5432 - accepting connections
+2024-09-17T04:58:53+08:00 Synology_NAS pgsql.sh[15242]: [2024-09-17 04:58:53 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-17T05:46:22+08:00 Synology_NAS pgsql.sh[1500]: /volume3 is writable with
+2024-09-17T05:46:22+08:00 Synology_NAS pgsql.sh[1500]: summary status: [pool_normal]
+2024-09-17T05:46:22+08:00 Synology_NAS pgsql.sh[1500]: original status: [fs_normal]
+2024-09-17T05:46:22+08:00 Synology_NAS postgres[16800]: [5-1] 2024-09-16 21:46:22.701 GMT [16800] LOG:  received fast shutdown request
+2024-09-17T05:46:22+08:00 Synology_NAS postgres[16800]: [6-1] 2024-09-16 21:46:22.773 GMT [16800] LOG:  aborting any active transactions
+2024-09-17T05:46:22+08:00 Synology_NAS postgres[16800]: [7-1] 2024-09-16 21:46:22.779 GMT [16800] LOG:  background worker "logical replication launcher" (PID 16946) exited with exit code 1
+2024-09-17T05:46:22+08:00 Synology_NAS postgres[16943]: [4-1] 2024-09-16 21:46:22.779 GMT [16943] LOG:  shutting down
+2024-09-17T05:46:23+08:00 Synology_NAS postgres[16800]: [8-1] 2024-09-16 21:46:23.505 GMT [16800] LOG:  database system is shut down
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1517]: waiting for server to shut down.... done
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1517]: server stopped
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1500]: [pgsql] stopped.
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1500]: /run/postgresql:5432 - no response
+2024-09-17T05:46:23+08:00 Synology_NAS pgsql.sh[1500]: [2024-09-17 05:46:23 CST]: pgsql is stopped
+2024-09-17T05:50:57+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:50:57 CST]: Start PostgreSQL
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:00 CST]: Replacing parameter: max_connections = 2000
+2024-09-17T05:51:00+08:00 Synology_NAS pgsql.sh[14758]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: [1-1] 2024-09-16 21:51:01.202 GMT [16844] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: 2024-09-16 21:51:01.202 GMT [16844] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: [2-1] 2024-09-16 21:51:01.228 GMT [16844] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: 2024-09-16 21:51:01.228 GMT [16844] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: [3-1] 2024-09-16 21:51:01.394 GMT [16844] LOG:  ending log output to stderr
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: [3-2] 2024-09-16 21:51:01.394 GMT [16844] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: 2024-09-16 21:51:01.394 GMT [16844] LOG:  ending log output to stderr
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: 2024-09-16 21:51:01.394 GMT [16844] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16942]: [4-1] 2024-09-16 21:51:01.470 GMT [16942] LOG:  database system was shut down at 2024-09-16 21:46:23 GMT
+2024-09-17T05:51:01+08:00 Synology_NAS postgres[16844]: [4-1] 2024-09-16 21:51:01.635 GMT [16844] LOG:  database system is ready to accept connections
+2024-09-17T05:51:01+08:00 Synology_NAS pgsql.sh[14758]: [pgsql] started.
+2024-09-17T05:51:01+08:00 Synology_NAS pgsql.sh[14758]: /run/postgresql:5432 - accepting connections
+2024-09-17T05:51:01+08:00 Synology_NAS pgsql.sh[14758]: [2024-09-17 05:51:01 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-17T10:41:39+08:00 Synology_NAS pgsql.sh[3423]: /volume3 is writable with
+2024-09-17T10:41:39+08:00 Synology_NAS pgsql.sh[3423]: summary status: [pool_normal]
+2024-09-17T10:41:39+08:00 Synology_NAS pgsql.sh[3423]: original status: [fs_normal]
+2024-09-17T10:41:40+08:00 Synology_NAS postgres[16844]: [5-1] 2024-09-17 02:41:40.045 GMT [16844] LOG:  received fast shutdown request
+2024-09-17T10:41:40+08:00 Synology_NAS postgres[16844]: [6-1] 2024-09-17 02:41:40.166 GMT [16844] LOG:  aborting any active transactions
+2024-09-17T10:41:40+08:00 Synology_NAS postgres[16844]: [7-1] 2024-09-17 02:41:40.176 GMT [16844] LOG:  background worker "logical replication launcher" (PID 16948) exited with exit code 1
+2024-09-17T10:41:40+08:00 Synology_NAS postgres[16945]: [4-1] 2024-09-17 02:41:40.176 GMT [16945] LOG:  shutting down
+2024-09-17T10:41:40+08:00 Synology_NAS postgres[16844]: [8-1] 2024-09-17 02:41:40.924 GMT [16844] LOG:  database system is shut down
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3440]: waiting for server to shut down.... done
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3440]: server stopped
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3423]: [pgsql] stopped.
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3423]: /run/postgresql:5432 - no response
+2024-09-17T10:41:40+08:00 Synology_NAS pgsql.sh[3423]: [2024-09-17 10:41:40 CST]: pgsql is stopped
+2024-09-17T10:46:12+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:12 CST]: Start PostgreSQL
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:15 CST]: Replacing parameter: max_connections = 2000
+2024-09-17T10:46:15+08:00 Synology_NAS pgsql.sh[14947]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: [1-1] 2024-09-17 02:46:16.125 GMT [16810] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: 2024-09-17 02:46:16.125 GMT [16810] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: [2-1] 2024-09-17 02:46:16.173 GMT [16810] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: 2024-09-17 02:46:16.173 GMT [16810] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: [3-1] 2024-09-17 02:46:16.427 GMT [16810] LOG:  ending log output to stderr
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: [3-2] 2024-09-17 02:46:16.427 GMT [16810] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: 2024-09-17 02:46:16.427 GMT [16810] LOG:  ending log output to stderr
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: 2024-09-17 02:46:16.427 GMT [16810] HINT:  Future log output will go to log destination "syslog".
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16977]: [4-1] 2024-09-17 02:46:16.481 GMT [16977] LOG:  database system was shut down at 2024-09-17 02:41:40 GMT
+2024-09-17T10:46:16+08:00 Synology_NAS postgres[16810]: [4-1] 2024-09-17 02:46:16.690 GMT [16810] LOG:  database system is ready to accept connections
+2024-09-17T10:46:16+08:00 Synology_NAS pgsql.sh[14947]: [pgsql] started.
+2024-09-17T10:46:17+08:00 Synology_NAS pgsql.sh[14947]: /run/postgresql:5432 - accepting connections
+2024-09-17T10:46:17+08:00 Synology_NAS pgsql.sh[14947]: [2024-09-17 10:46:17 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-20T07:36:40+08:00 Synology_NAS pgsql.sh[8266]: /volume3 is writable with
+2024-09-20T07:36:40+08:00 Synology_NAS pgsql.sh[8266]: summary status: [pool_normal]
+2024-09-20T07:36:40+08:00 Synology_NAS pgsql.sh[8266]: original status: [fs_normal]
+2024-09-20T07:36:40+08:00 Synology_NAS postgres[16810]: [5-1] 2024-09-19 23:36:40.858 GMT [16810] LOG:  received fast shutdown request
+2024-09-20T07:36:40+08:00 Synology_NAS postgres[16810]: [6-1] 2024-09-19 23:36:40.905 GMT [16810] LOG:  aborting any active transactions
+2024-09-20T07:36:40+08:00 Synology_NAS postgres[16810]: [7-1] 2024-09-19 23:36:40.916 GMT [16810] LOG:  background worker "logical replication launcher" (PID 16981) exited with exit code 1
+2024-09-20T07:36:40+08:00 Synology_NAS postgres[16978]: [4-1] 2024-09-19 23:36:40.916 GMT [16978] LOG:  shutting down
+2024-09-20T07:36:41+08:00 Synology_NAS postgres[16810]: [8-1] 2024-09-19 23:36:41.704 GMT [16810] LOG:  database system is shut down
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8281]: waiting for server to shut down.... done
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8281]: server stopped
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8266]: [pgsql] stopped.
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8266]: /run/postgresql:5432 - no response
+2024-09-20T07:36:41+08:00 Synology_NAS pgsql.sh[8266]: [2024-09-20 07:36:41 CST]: pgsql is stopped
+2024-09-20T07:51:30+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:30 CST]: Start PostgreSQL
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:33 CST]: Replacing parameter: max_connections = 2000
+2024-09-20T07:51:33+08:00 Synology_NAS pgsql.sh[15445]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-20T07:51:33+08:00 Synology_NAS postgres[16943]: [1-1] 2024-09-19 23:51:33.816 GMT [16943] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-20T07:51:33+08:00 Synology_NAS postgres[16943]: 2024-09-19 23:51:33.816 GMT [16943] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-20T07:51:33+08:00 Synology_NAS postgres[16943]: [2-1] 2024-09-19 23:51:33.837 GMT [16943] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-20T07:51:33+08:00 Synology_NAS postgres[16943]: 2024-09-19 23:51:33.837 GMT [16943] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-20T07:51:34+08:00 Synology_NAS postgres[16943]: [3-1] 2024-09-19 23:51:34.039 GMT [16943] LOG:  ending log output to stderr
+2024-09-20T07:51:34+08:00 Synology_NAS postgres[16943]: [3-2] 2024-09-19 23:51:34.039 GMT [16943] HINT:  Future log output will go to log destination "syslog".
+2024-09-20T07:51:34+08:00 Synology_NAS postgres[16943]: 2024-09-19 23:51:34.039 GMT [16943] LOG:  ending log output to stderr
+2024-09-20T07:51:34+08:00 Synology_NAS postgres[16943]: 2024-09-19 23:51:34.039 GMT [16943] HINT:  Future log output will go to log destination "syslog".
+2024-09-20T07:51:34+08:00 Synology_NAS postgres[17081]: [4-1] 2024-09-19 23:51:34.145 GMT [17081] LOG:  database system was shut down at 2024-09-19 23:36:41 GMT
+2024-09-20T07:51:34+08:00 Synology_NAS postgres[16943]: [4-1] 2024-09-19 23:51:34.905 GMT [16943] LOG:  database system is ready to accept connections
+2024-09-20T07:51:35+08:00 Synology_NAS pgsql.sh[15445]: [pgsql] started.
+2024-09-20T07:51:35+08:00 Synology_NAS pgsql.sh[15445]: /run/postgresql:5432 - accepting connections
+2024-09-20T07:51:35+08:00 Synology_NAS pgsql.sh[15445]: [2024-09-20 07:51:35 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-20T11:28:56+08:00 Synology_NAS pgsql.sh[32675]: /volume3 is writable with
+2024-09-20T11:28:56+08:00 Synology_NAS pgsql.sh[32675]: summary status: [pool_normal]
+2024-09-20T11:28:56+08:00 Synology_NAS pgsql.sh[32675]: original status: [fs_normal]
+2024-09-20T11:28:56+08:00 Synology_NAS postgres[16943]: [5-1] 2024-09-20 03:28:56.753 GMT [16943] LOG:  received fast shutdown request
+2024-09-20T11:28:56+08:00 Synology_NAS postgres[16943]: [6-1] 2024-09-20 03:28:56.800 GMT [16943] LOG:  aborting any active transactions
+2024-09-20T11:28:56+08:00 Synology_NAS postgres[16943]: [7-1] 2024-09-20 03:28:56.808 GMT [16943] LOG:  background worker "logical replication launcher" (PID 17318) exited with exit code 1
+2024-09-20T11:28:56+08:00 Synology_NAS postgres[17315]: [4-1] 2024-09-20 03:28:56.808 GMT [17315] LOG:  shutting down
+2024-09-20T11:28:57+08:00 Synology_NAS postgres[16943]: [8-1] 2024-09-20 03:28:57.566 GMT [16943] LOG:  database system is shut down
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32692]: waiting for server to shut down.... done
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32692]: server stopped
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32675]: [pgsql] stopped.
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32675]: /run/postgresql:5432 - no response
+2024-09-20T11:28:57+08:00 Synology_NAS pgsql.sh[32675]: [2024-09-20 11:28:57 CST]: pgsql is stopped
+2024-09-20T11:34:51+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:51 CST]: Start PostgreSQL
+2024-09-20T11:34:54+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:54 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:54 CST]: Replacing parameter: ignore_system_indexes = off
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: zero_damaged_pages = off
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:55 CST]: Replacing parameter: max_connections = 2000
+2024-09-20T11:34:55+08:00 Synology_NAS pgsql.sh[15812]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: [1-1] 2024-09-20 03:34:55.472 GMT [17653] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: 2024-09-20 03:34:55.472 GMT [17653] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: [2-1] 2024-09-20 03:34:55.520 GMT [17653] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: 2024-09-20 03:34:55.520 GMT [17653] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: [3-1] 2024-09-20 03:34:55.691 GMT [17653] LOG:  ending log output to stderr
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: [3-2] 2024-09-20 03:34:55.691 GMT [17653] HINT:  Future log output will go to log destination "syslog".
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: 2024-09-20 03:34:55.691 GMT [17653] LOG:  ending log output to stderr
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: 2024-09-20 03:34:55.691 GMT [17653] HINT:  Future log output will go to log destination "syslog".
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17919]: [4-1] 2024-09-20 03:34:55.811 GMT [17919] LOG:  database system was shut down at 2024-09-20 03:28:57 GMT
+2024-09-20T11:34:55+08:00 Synology_NAS postgres[17653]: [4-1] 2024-09-20 03:34:55.935 GMT [17653] LOG:  database system is ready to accept connections
+2024-09-20T11:34:56+08:00 Synology_NAS pgsql.sh[15812]: [pgsql] started.
+2024-09-20T11:34:56+08:00 Synology_NAS pgsql.sh[15812]: /run/postgresql:5432 - accepting connections
+2024-09-20T11:34:56+08:00 Synology_NAS pgsql.sh[15812]: [2024-09-20 11:34:56 CST]: pgsql is ready after waiting 1 seconds...
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [5-1] 2024-09-26 17:47:05.096 GMT [18561] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [6-1] 2024-09-26 17:47:05.097 GMT [18561] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [7-1] 2024-09-26 17:47:05.818 GMT [18561] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [8-1] 2024-09-26 17:47:05.818 GMT [18561] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [9-1] 2024-09-26 17:47:05.818 GMT [18561] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [10-1] 2024-09-26 17:47:05.829 GMT [18561] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [11-1] 2024-09-26 17:47:05.829 GMT [18561] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [12-1] 2024-09-26 17:47:05.829 GMT [18561] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [13-1] 2024-09-26 17:47:05.829 GMT [18561] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [14-1] 2024-09-26 17:47:05.974 GMT [18561] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-09-27T01:47:05+08:00 Synology_NAS postgres[18561]: [15-1] 2024-09-26 17:47:05.977 GMT [18561] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-09-28T01:38:15+08:00 Synology_NAS postgres[5253]: [5-1] 2024-09-27 17:38:15.529 GMT [5253] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-09-28T01:38:15+08:00 Synology_NAS postgres[5253]: [6-1] 2024-09-27 17:38:15.529 GMT [5253] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [7-1] 2024-09-27 17:38:17.394 GMT [5253] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [8-1] 2024-09-27 17:38:17.394 GMT [5253] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [9-1] 2024-09-27 17:38:17.394 GMT [5253] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [10-1] 2024-09-27 17:38:17.395 GMT [5253] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [11-1] 2024-09-27 17:38:17.395 GMT [5253] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [12-1] 2024-09-27 17:38:17.395 GMT [5253] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [13-1] 2024-09-27 17:38:17.395 GMT [5253] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [14-1] 2024-09-27 17:38:17.396 GMT [5253] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-09-28T01:38:17+08:00 Synology_NAS postgres[5253]: [15-1] 2024-09-27 17:38:17.397 GMT [5253] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [5-1] 2024-09-28 17:38:25.855 GMT [6344] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [6-1] 2024-09-28 17:38:25.855 GMT [6344] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [7-1] 2024-09-28 17:38:25.990 GMT [6344] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [8-1] 2024-09-28 17:38:25.990 GMT [6344] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [9-1] 2024-09-28 17:38:25.990 GMT [6344] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [10-1] 2024-09-28 17:38:25.990 GMT [6344] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [11-1] 2024-09-28 17:38:25.990 GMT [6344] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [12-1] 2024-09-28 17:38:25.990 GMT [6344] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [13-1] 2024-09-28 17:38:25.990 GMT [6344] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [14-1] 2024-09-28 17:38:25.992 GMT [6344] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-09-29T01:38:25+08:00 Synology_NAS postgres[6344]: [15-1] 2024-09-28 17:38:25.992 GMT [6344] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-09-30T01:14:35+08:00 Synology_NAS postgres[9206]: [5-1] 2024-09-29 17:14:35.296 GMT [9206] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-09-30T01:14:35+08:00 Synology_NAS postgres[9206]: [6-1] 2024-09-29 17:14:35.296 GMT [9206] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [7-1] 2024-09-29 17:14:36.020 GMT [9206] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [8-1] 2024-09-29 17:14:36.020 GMT [9206] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [9-1] 2024-09-29 17:14:36.020 GMT [9206] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [10-1] 2024-09-29 17:14:36.020 GMT [9206] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [11-1] 2024-09-29 17:14:36.020 GMT [9206] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [12-1] 2024-09-29 17:14:36.020 GMT [9206] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [13-1] 2024-09-29 17:14:36.020 GMT [9206] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [14-1] 2024-09-29 17:14:36.021 GMT [9206] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-09-30T01:14:36+08:00 Synology_NAS postgres[9206]: [15-1] 2024-09-29 17:14:36.022 GMT [9206] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [5-1] 2024-09-30 17:21:49.174 GMT [16419] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [6-1] 2024-09-30 17:21:49.174 GMT [16419] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [7-1] 2024-09-30 17:21:49.303 GMT [16419] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [8-1] 2024-09-30 17:21:49.303 GMT [16419] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [9-1] 2024-09-30 17:21:49.303 GMT [16419] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [10-1] 2024-09-30 17:21:49.303 GMT [16419] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [11-1] 2024-09-30 17:21:49.303 GMT [16419] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [12-1] 2024-09-30 17:21:49.303 GMT [16419] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [13-1] 2024-09-30 17:21:49.303 GMT [16419] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [14-1] 2024-09-30 17:21:49.304 GMT [16419] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-01T01:21:49+08:00 Synology_NAS postgres[16419]: [15-1] 2024-09-30 17:21:49.305 GMT [16419] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [5-1] 2024-10-01 18:00:02.170 GMT [23776] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [6-1] 2024-10-01 18:00:02.170 GMT [23776] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [7-1] 2024-10-01 18:00:02.321 GMT [23776] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [8-1] 2024-10-01 18:00:02.321 GMT [23776] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [9-1] 2024-10-01 18:00:02.321 GMT [23776] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [10-1] 2024-10-01 18:00:02.321 GMT [23776] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [11-1] 2024-10-01 18:00:02.321 GMT [23776] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [12-1] 2024-10-01 18:00:02.321 GMT [23776] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [13-1] 2024-10-01 18:00:02.321 GMT [23776] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [14-1] 2024-10-01 18:00:02.322 GMT [23776] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-02T02:00:02+08:00 Synology_NAS postgres[23776]: [15-1] 2024-10-01 18:00:02.323 GMT [23776] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-03T01:39:15+08:00 Synology_NAS postgres[13322]: [5-1] 2024-10-02 17:39:15.955 GMT [13322] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-03T01:39:15+08:00 Synology_NAS postgres[13322]: [6-1] 2024-10-02 17:39:15.955 GMT [13322] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [7-1] 2024-10-02 17:39:16.087 GMT [13322] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [8-1] 2024-10-02 17:39:16.087 GMT [13322] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [9-1] 2024-10-02 17:39:16.087 GMT [13322] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [10-1] 2024-10-02 17:39:16.088 GMT [13322] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [11-1] 2024-10-02 17:39:16.088 GMT [13322] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [12-1] 2024-10-02 17:39:16.088 GMT [13322] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [13-1] 2024-10-02 17:39:16.088 GMT [13322] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [14-1] 2024-10-02 17:39:16.089 GMT [13322] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-03T01:39:16+08:00 Synology_NAS postgres[13322]: [15-1] 2024-10-02 17:39:16.089 GMT [13322] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [5-1] 2024-10-03 17:59:29.218 GMT [22272] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [6-1] 2024-10-03 17:59:29.218 GMT [22272] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [7-1] 2024-10-03 17:59:29.291 GMT [22272] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [8-1] 2024-10-03 17:59:29.291 GMT [22272] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [9-1] 2024-10-03 17:59:29.291 GMT [22272] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [10-1] 2024-10-03 17:59:29.292 GMT [22272] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [11-1] 2024-10-03 17:59:29.292 GMT [22272] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [12-1] 2024-10-03 17:59:29.292 GMT [22272] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [13-1] 2024-10-03 17:59:29.292 GMT [22272] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [14-1] 2024-10-03 17:59:29.293 GMT [22272] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-04T01:59:29+08:00 Synology_NAS postgres[22272]: [15-1] 2024-10-03 17:59:29.293 GMT [22272] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-05T01:14:41+08:00 Synology_NAS postgres[14984]: [5-1] 2024-10-04 17:14:41.974 GMT [14984] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-05T01:14:41+08:00 Synology_NAS postgres[14984]: [6-1] 2024-10-04 17:14:41.974 GMT [14984] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [7-1] 2024-10-04 17:14:42.007 GMT [14984] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [8-1] 2024-10-04 17:14:42.007 GMT [14984] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [9-1] 2024-10-04 17:14:42.007 GMT [14984] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [10-1] 2024-10-04 17:14:42.008 GMT [14984] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [11-1] 2024-10-04 17:14:42.008 GMT [14984] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [12-1] 2024-10-04 17:14:42.008 GMT [14984] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [13-1] 2024-10-04 17:14:42.008 GMT [14984] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [14-1] 2024-10-04 17:14:42.009 GMT [14984] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-05T01:14:42+08:00 Synology_NAS postgres[14984]: [15-1] 2024-10-04 17:14:42.009 GMT [14984] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [5-1] 2024-10-05 17:05:08.514 GMT [5318] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [6-1] 2024-10-05 17:05:08.514 GMT [5318] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [7-1] 2024-10-05 17:05:08.630 GMT [5318] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [8-1] 2024-10-05 17:05:08.630 GMT [5318] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [9-1] 2024-10-05 17:05:08.630 GMT [5318] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [10-1] 2024-10-05 17:05:08.631 GMT [5318] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [11-1] 2024-10-05 17:05:08.631 GMT [5318] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [12-1] 2024-10-05 17:05:08.631 GMT [5318] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [13-1] 2024-10-05 17:05:08.631 GMT [5318] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [14-1] 2024-10-05 17:05:08.632 GMT [5318] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-06T01:05:08+08:00 Synology_NAS postgres[5318]: [15-1] 2024-10-05 17:05:08.632 GMT [5318] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [5-1] 2024-10-05 17:34:09.175 GMT [10951] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [6-1] 2024-10-05 17:34:09.175 GMT [10951] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [7-1] 2024-10-05 17:34:09.223 GMT [10951] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [8-1] 2024-10-05 17:34:09.223 GMT [10951] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [9-1] 2024-10-05 17:34:09.223 GMT [10951] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [10-1] 2024-10-05 17:34:09.223 GMT [10951] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [11-1] 2024-10-05 17:34:09.223 GMT [10951] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [12-1] 2024-10-05 17:34:09.223 GMT [10951] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [13-1] 2024-10-05 17:34:09.223 GMT [10951] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [14-1] 2024-10-05 17:34:09.224 GMT [10951] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-06T01:34:09+08:00 Synology_NAS postgres[10951]: [15-1] 2024-10-05 17:34:09.225 GMT [10951] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-07T01:44:19+08:00 Yasuraokaa_Site postgres[1586]: [5-1] 2024-10-06 17:44:19.988 GMT [1586] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-07T01:44:19+08:00 Yasuraokaa_Site postgres[1586]: [6-1] 2024-10-06 17:44:19.988 GMT [1586] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [7-1] 2024-10-06 17:44:20.073 GMT [1586] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [8-1] 2024-10-06 17:44:20.073 GMT [1586] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [9-1] 2024-10-06 17:44:20.073 GMT [1586] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [10-1] 2024-10-06 17:44:20.074 GMT [1586] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [11-1] 2024-10-06 17:44:20.074 GMT [1586] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [12-1] 2024-10-06 17:44:20.074 GMT [1586] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [13-1] 2024-10-06 17:44:20.074 GMT [1586] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [14-1] 2024-10-06 17:44:20.075 GMT [1586] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-07T01:44:20+08:00 Yasuraokaa_Site postgres[1586]: [15-1] 2024-10-06 17:44:20.076 GMT [1586] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-08T01:05:31+08:00 Yasuraokaa_Site postgres[16614]: [5-1] 2024-10-07 17:05:31.606 GMT [16614] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-08T01:05:31+08:00 Yasuraokaa_Site postgres[16614]: [6-1] 2024-10-07 17:05:31.606 GMT [16614] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [7-1] 2024-10-07 17:05:32.044 GMT [16614] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [8-1] 2024-10-07 17:05:32.044 GMT [16614] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [9-1] 2024-10-07 17:05:32.044 GMT [16614] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [10-1] 2024-10-07 17:05:32.045 GMT [16614] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [11-1] 2024-10-07 17:05:32.045 GMT [16614] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [12-1] 2024-10-07 17:05:32.045 GMT [16614] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [13-1] 2024-10-07 17:05:32.045 GMT [16614] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [14-1] 2024-10-07 17:05:32.046 GMT [16614] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-08T01:05:32+08:00 Yasuraokaa_Site postgres[16614]: [15-1] 2024-10-07 17:05:32.047 GMT [16614] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [5-1] 2024-10-07 17:37:30.678 GMT [24928] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [6-1] 2024-10-07 17:37:30.679 GMT [24928] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [7-1] 2024-10-07 17:37:30.788 GMT [24928] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [8-1] 2024-10-07 17:37:30.789 GMT [24928] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [9-1] 2024-10-07 17:37:30.790 GMT [24928] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [10-1] 2024-10-07 17:37:30.792 GMT [24928] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [11-1] 2024-10-07 17:37:30.792 GMT [24928] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [12-1] 2024-10-07 17:37:30.793 GMT [24928] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [13-1] 2024-10-07 17:37:30.793 GMT [24928] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [14-1] 2024-10-07 17:37:30.796 GMT [24928] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-08T01:37:30+08:00 Yasuraokaa_Site postgres[24928]: [15-1] 2024-10-07 17:37:30.798 GMT [24928] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [5-1] 2024-10-08 17:08:42.587 GMT [24679] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [6-1] 2024-10-08 17:08:42.588 GMT [24679] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [7-1] 2024-10-08 17:08:42.620 GMT [24679] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [8-1] 2024-10-08 17:08:42.620 GMT [24679] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [9-1] 2024-10-08 17:08:42.621 GMT [24679] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [10-1] 2024-10-08 17:08:42.621 GMT [24679] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [11-1] 2024-10-08 17:08:42.621 GMT [24679] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [12-1] 2024-10-08 17:08:42.621 GMT [24679] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [13-1] 2024-10-08 17:08:42.621 GMT [24679] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [14-1] 2024-10-08 17:08:42.622 GMT [24679] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-09T01:08:42+08:00 Yasuraokaa_Site postgres[24679]: [15-1] 2024-10-08 17:08:42.622 GMT [24679] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site pgsql.sh[2717]: /volume3 is writable with
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site pgsql.sh[2717]: summary status: [pool_normal]
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site pgsql.sh[2717]: original status: [fs_normal]
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site postgres[17653]: [5-1] 2024-10-08 20:29:04.748 GMT [17653] LOG:  received fast shutdown request
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site postgres[17653]: [6-1] 2024-10-08 20:29:04.795 GMT [17653] LOG:  aborting any active transactions
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site postgres[17653]: [7-1] 2024-10-08 20:29:04.797 GMT [17653] LOG:  background worker "logical replication launcher" (PID 17929) exited with exit code 1
+2024-10-09T04:29:04+08:00 Yasuraokaa_Site postgres[17926]: [4-1] 2024-10-08 20:29:04.798 GMT [17926] LOG:  shutting down
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site postgres[17653]: [8-1] 2024-10-08 20:29:05.877 GMT [17653] LOG:  database system is shut down
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2770]: waiting for server to shut down..... done
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2770]: server stopped
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2717]: [pgsql] stopped.
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2717]: /run/postgresql:5432 - no response
+2024-10-09T04:29:05+08:00 Yasuraokaa_Site pgsql.sh[2717]: [2024-10-09 04:29:05 CST]: pgsql is stopped
+2024-10-09T04:33:35+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:35 CST]: Start PostgreSQL
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: ignore_system_indexes = off
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: zero_damaged_pages = off
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:39 CST]: Replacing parameter: max_connections = 2000
+2024-10-09T04:33:39+08:00 Yasuraokaa_Site pgsql.sh[15609]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: [1-1] 2024-10-08 20:33:40.060 GMT [18409] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: 2024-10-08 20:33:40.060 GMT [18409] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: [2-1] 2024-10-08 20:33:40.115 GMT [18409] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: 2024-10-08 20:33:40.115 GMT [18409] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: [3-1] 2024-10-08 20:33:40.285 GMT [18409] LOG:  ending log output to stderr
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: [3-2] 2024-10-08 20:33:40.285 GMT [18409] HINT:  Future log output will go to log destination "syslog".
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: 2024-10-08 20:33:40.285 GMT [18409] LOG:  ending log output to stderr
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: 2024-10-08 20:33:40.285 GMT [18409] HINT:  Future log output will go to log destination "syslog".
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18628]: [4-1] 2024-10-08 20:33:40.384 GMT [18628] LOG:  database system was shut down at 2024-10-08 20:29:05 GMT
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site postgres[18409]: [4-1] 2024-10-08 20:33:40.627 GMT [18409] LOG:  database system is ready to accept connections
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site pgsql.sh[15609]: [pgsql] started.
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site pgsql.sh[15609]: /run/postgresql:5432 - accepting connections
+2024-10-09T04:33:40+08:00 Yasuraokaa_Site pgsql.sh[15609]: [2024-10-09 04:33:40 CST]: pgsql is ready after waiting 1 seconds...
+2024-10-10T01:47:32+08:00 Yasuraokaa_Site postgres[7416]: [5-1] 2024-10-09 17:47:32.473 GMT [7416] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-10T01:47:32+08:00 Yasuraokaa_Site postgres[7416]: [6-1] 2024-10-09 17:47:32.514 GMT [7416] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [7-1] 2024-10-09 17:47:33.471 GMT [7416] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [8-1] 2024-10-09 17:47:33.471 GMT [7416] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [9-1] 2024-10-09 17:47:33.471 GMT [7416] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [10-1] 2024-10-09 17:47:33.472 GMT [7416] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [11-1] 2024-10-09 17:47:33.472 GMT [7416] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [12-1] 2024-10-09 17:47:33.472 GMT [7416] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [13-1] 2024-10-09 17:47:33.472 GMT [7416] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [14-1] 2024-10-09 17:47:33.484 GMT [7416] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-10T01:47:33+08:00 Yasuraokaa_Site postgres[7416]: [15-1] 2024-10-09 17:47:33.487 GMT [7416] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [5-1] 2024-10-11 17:13:00.014 GMT [13824] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [6-1] 2024-10-11 17:13:00.015 GMT [13824] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [7-1] 2024-10-11 17:13:00.189 GMT [13824] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [8-1] 2024-10-11 17:13:00.189 GMT [13824] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [9-1] 2024-10-11 17:13:00.189 GMT [13824] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [10-1] 2024-10-11 17:13:00.190 GMT [13824] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [11-1] 2024-10-11 17:13:00.190 GMT [13824] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [12-1] 2024-10-11 17:13:00.190 GMT [13824] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [13-1] 2024-10-11 17:13:00.190 GMT [13824] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [14-1] 2024-10-11 17:13:00.210 GMT [13824] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-12T01:13:00+08:00 Yasuraokaa_Site postgres[13824]: [15-1] 2024-10-11 17:13:00.210 GMT [13824] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-13T01:45:13+08:00 Yasuraokaa_Site postgres[6038]: [5-1] 2024-10-12 17:45:13.453 GMT [6038] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-13T01:45:13+08:00 Yasuraokaa_Site postgres[6038]: [6-1] 2024-10-12 17:45:13.453 GMT [6038] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [7-1] 2024-10-12 17:45:14.235 GMT [6038] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [8-1] 2024-10-12 17:45:14.235 GMT [6038] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [9-1] 2024-10-12 17:45:14.235 GMT [6038] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [10-1] 2024-10-12 17:45:14.235 GMT [6038] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [11-1] 2024-10-12 17:45:14.235 GMT [6038] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [12-1] 2024-10-12 17:45:14.235 GMT [6038] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [13-1] 2024-10-12 17:45:14.235 GMT [6038] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [14-1] 2024-10-12 17:45:14.236 GMT [6038] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-13T01:45:14+08:00 Yasuraokaa_Site postgres[6038]: [15-1] 2024-10-12 17:45:14.237 GMT [6038] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [5-1] 2024-10-13 17:38:27.240 GMT [30495] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [6-1] 2024-10-13 17:38:27.241 GMT [30495] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [7-1] 2024-10-13 17:38:27.495 GMT [30495] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [8-1] 2024-10-13 17:38:27.495 GMT [30495] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [9-1] 2024-10-13 17:38:27.495 GMT [30495] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [10-1] 2024-10-13 17:38:27.496 GMT [30495] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [11-1] 2024-10-13 17:38:27.496 GMT [30495] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [12-1] 2024-10-13 17:38:27.496 GMT [30495] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [13-1] 2024-10-13 17:38:27.496 GMT [30495] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [14-1] 2024-10-13 17:38:27.497 GMT [30495] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-14T01:38:27+08:00 Yasuraokaa_Site postgres[30495]: [15-1] 2024-10-13 17:38:27.497 GMT [30495] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [5-1] 2024-10-14 17:12:40.038 GMT [16981] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [6-1] 2024-10-14 17:12:40.038 GMT [16981] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [7-1] 2024-10-14 17:12:40.775 GMT [16981] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [8-1] 2024-10-14 17:12:40.775 GMT [16981] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [9-1] 2024-10-14 17:12:40.775 GMT [16981] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [10-1] 2024-10-14 17:12:40.775 GMT [16981] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [11-1] 2024-10-14 17:12:40.775 GMT [16981] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [12-1] 2024-10-14 17:12:40.775 GMT [16981] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [13-1] 2024-10-14 17:12:40.775 GMT [16981] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [14-1] 2024-10-14 17:12:40.776 GMT [16981] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-15T01:12:40+08:00 Yasuraokaa_Site postgres[16981]: [15-1] 2024-10-14 17:12:40.777 GMT [16981] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [5-1] 2024-10-15 17:32:53.631 GMT [9251] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [6-1] 2024-10-15 17:32:53.631 GMT [9251] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [7-1] 2024-10-15 17:32:53.757 GMT [9251] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [8-1] 2024-10-15 17:32:53.757 GMT [9251] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [9-1] 2024-10-15 17:32:53.757 GMT [9251] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [10-1] 2024-10-15 17:32:53.757 GMT [9251] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [11-1] 2024-10-15 17:32:53.757 GMT [9251] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [12-1] 2024-10-15 17:32:53.757 GMT [9251] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [13-1] 2024-10-15 17:32:53.757 GMT [9251] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [14-1] 2024-10-15 17:32:53.758 GMT [9251] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-16T01:32:53+08:00 Yasuraokaa_Site postgres[9251]: [15-1] 2024-10-15 17:32:53.758 GMT [9251] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-17T01:59:06+08:00 Yasuraokaa_Site postgres[32624]: [5-1] 2024-10-16 17:59:06.945 GMT [32624] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-17T01:59:06+08:00 Yasuraokaa_Site postgres[32624]: [6-1] 2024-10-16 17:59:06.945 GMT [32624] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [7-1] 2024-10-16 17:59:07.085 GMT [32624] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [8-1] 2024-10-16 17:59:07.085 GMT [32624] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [9-1] 2024-10-16 17:59:07.085 GMT [32624] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [10-1] 2024-10-16 17:59:07.086 GMT [32624] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [11-1] 2024-10-16 17:59:07.086 GMT [32624] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [12-1] 2024-10-16 17:59:07.086 GMT [32624] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [13-1] 2024-10-16 17:59:07.086 GMT [32624] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [14-1] 2024-10-16 17:59:07.087 GMT [32624] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-17T01:59:07+08:00 Yasuraokaa_Site postgres[32624]: [15-1] 2024-10-16 17:59:07.088 GMT [32624] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [5-1] 2024-10-17 17:53:20.830 GMT [21349] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [6-1] 2024-10-17 17:53:20.830 GMT [21349] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [7-1] 2024-10-17 17:53:20.936 GMT [21349] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [8-1] 2024-10-17 17:53:20.936 GMT [21349] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [9-1] 2024-10-17 17:53:20.936 GMT [21349] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [10-1] 2024-10-17 17:53:20.937 GMT [21349] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [11-1] 2024-10-17 17:53:20.937 GMT [21349] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [12-1] 2024-10-17 17:53:20.937 GMT [21349] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [13-1] 2024-10-17 17:53:20.937 GMT [21349] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [14-1] 2024-10-17 17:53:20.938 GMT [21349] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-18T01:53:20+08:00 Yasuraokaa_Site postgres[21349]: [15-1] 2024-10-17 17:53:20.939 GMT [21349] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [5-1] 2024-10-18 17:22:33.202 GMT [7744] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [6-1] 2024-10-18 17:22:33.202 GMT [7744] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [7-1] 2024-10-18 17:22:33.277 GMT [7744] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [8-1] 2024-10-18 17:22:33.277 GMT [7744] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [9-1] 2024-10-18 17:22:33.277 GMT [7744] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [10-1] 2024-10-18 17:22:33.278 GMT [7744] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [11-1] 2024-10-18 17:22:33.278 GMT [7744] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [12-1] 2024-10-18 17:22:33.278 GMT [7744] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [13-1] 2024-10-18 17:22:33.278 GMT [7744] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [14-1] 2024-10-18 17:22:33.279 GMT [7744] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-19T01:22:33+08:00 Yasuraokaa_Site postgres[7744]: [15-1] 2024-10-18 17:22:33.279 GMT [7744] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [5-1] 2024-10-19 17:12:47.289 GMT [28499] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [6-1] 2024-10-19 17:12:47.289 GMT [28499] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [7-1] 2024-10-19 17:12:47.322 GMT [28499] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [8-1] 2024-10-19 17:12:47.322 GMT [28499] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [9-1] 2024-10-19 17:12:47.322 GMT [28499] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [10-1] 2024-10-19 17:12:47.322 GMT [28499] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [11-1] 2024-10-19 17:12:47.322 GMT [28499] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [12-1] 2024-10-19 17:12:47.322 GMT [28499] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [13-1] 2024-10-19 17:12:47.322 GMT [28499] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [14-1] 2024-10-19 17:12:47.323 GMT [28499] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-20T01:12:47+08:00 Yasuraokaa_Site postgres[28499]: [15-1] 2024-10-19 17:12:47.323 GMT [28499] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [5-1] 2024-10-20 17:21:00.328 GMT [16981] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [6-1] 2024-10-20 17:21:00.328 GMT [16981] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [7-1] 2024-10-20 17:21:00.361 GMT [16981] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [8-1] 2024-10-20 17:21:00.361 GMT [16981] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [9-1] 2024-10-20 17:21:00.361 GMT [16981] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [10-1] 2024-10-20 17:21:00.361 GMT [16981] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [11-1] 2024-10-20 17:21:00.361 GMT [16981] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [12-1] 2024-10-20 17:21:00.361 GMT [16981] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [13-1] 2024-10-20 17:21:00.361 GMT [16981] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [14-1] 2024-10-20 17:21:00.362 GMT [16981] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-21T01:21:00+08:00 Yasuraokaa_Site postgres[16981]: [15-1] 2024-10-20 17:21:00.362 GMT [16981] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [5-1] 2024-10-21 18:03:15.354 GMT [8987] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [6-1] 2024-10-21 18:03:15.354 GMT [8987] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [7-1] 2024-10-21 18:03:15.422 GMT [8987] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [8-1] 2024-10-21 18:03:15.422 GMT [8987] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [9-1] 2024-10-21 18:03:15.422 GMT [8987] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [10-1] 2024-10-21 18:03:15.422 GMT [8987] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [11-1] 2024-10-21 18:03:15.422 GMT [8987] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [12-1] 2024-10-21 18:03:15.422 GMT [8987] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [13-1] 2024-10-21 18:03:15.422 GMT [8987] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [14-1] 2024-10-21 18:03:15.423 GMT [8987] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-22T02:03:15+08:00 Yasuraokaa_Site postgres[8987]: [15-1] 2024-10-21 18:03:15.423 GMT [8987] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [5-1] 2024-10-22 17:35:27.934 GMT [28599] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [6-1] 2024-10-22 17:35:27.934 GMT [28599] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [7-1] 2024-10-22 17:35:27.985 GMT [28599] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [8-1] 2024-10-22 17:35:27.985 GMT [28599] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [9-1] 2024-10-22 17:35:27.985 GMT [28599] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [10-1] 2024-10-22 17:35:27.986 GMT [28599] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [11-1] 2024-10-22 17:35:27.986 GMT [28599] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [12-1] 2024-10-22 17:35:27.986 GMT [28599] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [13-1] 2024-10-22 17:35:27.986 GMT [28599] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [14-1] 2024-10-22 17:35:27.987 GMT [28599] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-23T01:35:27+08:00 Yasuraokaa_Site postgres[28599]: [15-1] 2024-10-22 17:35:27.987 GMT [28599] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [5-1] 2024-10-23 17:33:42.588 GMT [17595] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [6-1] 2024-10-23 17:33:42.588 GMT [17595] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [7-1] 2024-10-23 17:33:42.621 GMT [17595] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [8-1] 2024-10-23 17:33:42.621 GMT [17595] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [9-1] 2024-10-23 17:33:42.621 GMT [17595] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [10-1] 2024-10-23 17:33:42.621 GMT [17595] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [11-1] 2024-10-23 17:33:42.621 GMT [17595] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [12-1] 2024-10-23 17:33:42.621 GMT [17595] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [13-1] 2024-10-23 17:33:42.621 GMT [17595] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [14-1] 2024-10-23 17:33:42.622 GMT [17595] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-24T01:33:42+08:00 Yasuraokaa_Site postgres[17595]: [15-1] 2024-10-23 17:33:42.623 GMT [17595] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [5-1] 2024-10-24 17:51:55.278 GMT [30469] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [6-1] 2024-10-24 17:51:55.278 GMT [30469] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [7-1] 2024-10-24 17:51:55.359 GMT [30469] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [8-1] 2024-10-24 17:51:55.359 GMT [30469] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [9-1] 2024-10-24 17:51:55.359 GMT [30469] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [10-1] 2024-10-24 17:51:55.360 GMT [30469] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [11-1] 2024-10-24 17:51:55.360 GMT [30469] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [12-1] 2024-10-24 17:51:55.360 GMT [30469] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [13-1] 2024-10-24 17:51:55.360 GMT [30469] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [14-1] 2024-10-24 17:51:55.361 GMT [30469] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-25T01:51:55+08:00 Yasuraokaa_Site postgres[30469]: [15-1] 2024-10-24 17:51:55.361 GMT [30469] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [5-1] 2024-10-25 17:47:08.052 GMT [21071] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [6-1] 2024-10-25 17:47:08.052 GMT [21071] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [7-1] 2024-10-25 17:47:08.138 GMT [21071] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [8-1] 2024-10-25 17:47:08.138 GMT [21071] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [9-1] 2024-10-25 17:47:08.138 GMT [21071] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [10-1] 2024-10-25 17:47:08.138 GMT [21071] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [11-1] 2024-10-25 17:47:08.138 GMT [21071] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [12-1] 2024-10-25 17:47:08.138 GMT [21071] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [13-1] 2024-10-25 17:47:08.138 GMT [21071] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [14-1] 2024-10-25 17:47:08.140 GMT [21071] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-26T01:47:08+08:00 Yasuraokaa_Site postgres[21071]: [15-1] 2024-10-25 17:47:08.140 GMT [21071] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [5-1] 2024-10-26 17:22:21.005 GMT [32696] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [6-1] 2024-10-26 17:22:21.005 GMT [32696] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [7-1] 2024-10-26 17:22:21.037 GMT [32696] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [8-1] 2024-10-26 17:22:21.037 GMT [32696] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [9-1] 2024-10-26 17:22:21.037 GMT [32696] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [10-1] 2024-10-26 17:22:21.038 GMT [32696] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [11-1] 2024-10-26 17:22:21.038 GMT [32696] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [12-1] 2024-10-26 17:22:21.038 GMT [32696] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [13-1] 2024-10-26 17:22:21.038 GMT [32696] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [14-1] 2024-10-26 17:22:21.039 GMT [32696] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-27T01:22:21+08:00 Yasuraokaa_Site postgres[32696]: [15-1] 2024-10-26 17:22:21.039 GMT [32696] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [5-1] 2024-10-27 17:12:34.657 GMT [24924] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [6-1] 2024-10-27 17:12:34.658 GMT [24924] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [7-1] 2024-10-27 17:12:34.696 GMT [24924] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [8-1] 2024-10-27 17:12:34.696 GMT [24924] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [9-1] 2024-10-27 17:12:34.696 GMT [24924] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [10-1] 2024-10-27 17:12:34.696 GMT [24924] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [11-1] 2024-10-27 17:12:34.696 GMT [24924] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [12-1] 2024-10-27 17:12:34.696 GMT [24924] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [13-1] 2024-10-27 17:12:34.696 GMT [24924] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [14-1] 2024-10-27 17:12:34.697 GMT [24924] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-28T01:12:34+08:00 Yasuraokaa_Site postgres[24924]: [15-1] 2024-10-27 17:12:34.698 GMT [24924] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [5-1] 2024-10-28 17:17:47.263 GMT [22022] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [6-1] 2024-10-28 17:17:47.263 GMT [22022] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [7-1] 2024-10-28 17:17:47.296 GMT [22022] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [8-1] 2024-10-28 17:17:47.296 GMT [22022] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [9-1] 2024-10-28 17:17:47.296 GMT [22022] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [10-1] 2024-10-28 17:17:47.296 GMT [22022] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [11-1] 2024-10-28 17:17:47.296 GMT [22022] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [12-1] 2024-10-28 17:17:47.296 GMT [22022] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [13-1] 2024-10-28 17:17:47.296 GMT [22022] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [14-1] 2024-10-28 17:17:47.297 GMT [22022] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-29T01:17:47+08:00 Yasuraokaa_Site postgres[22022]: [15-1] 2024-10-28 17:17:47.297 GMT [22022] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [5-1] 2024-10-29 17:55:00.952 GMT [13972] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [6-1] 2024-10-29 17:55:00.952 GMT [13972] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [7-1] 2024-10-29 17:55:00.985 GMT [13972] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [8-1] 2024-10-29 17:55:00.985 GMT [13972] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [9-1] 2024-10-29 17:55:00.985 GMT [13972] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [10-1] 2024-10-29 17:55:00.985 GMT [13972] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [11-1] 2024-10-29 17:55:00.985 GMT [13972] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [12-1] 2024-10-29 17:55:00.985 GMT [13972] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [13-1] 2024-10-29 17:55:00.985 GMT [13972] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [14-1] 2024-10-29 17:55:00.986 GMT [13972] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-30T01:55:00+08:00 Yasuraokaa_Site postgres[13972]: [15-1] 2024-10-29 17:55:00.987 GMT [13972] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [5-1] 2024-10-30 17:17:13.163 GMT [1658] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [6-1] 2024-10-30 17:17:13.163 GMT [1658] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [7-1] 2024-10-30 17:17:13.196 GMT [1658] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [8-1] 2024-10-30 17:17:13.196 GMT [1658] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [9-1] 2024-10-30 17:17:13.196 GMT [1658] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [10-1] 2024-10-30 17:17:13.197 GMT [1658] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [11-1] 2024-10-30 17:17:13.197 GMT [1658] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [12-1] 2024-10-30 17:17:13.197 GMT [1658] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [13-1] 2024-10-30 17:17:13.197 GMT [1658] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [14-1] 2024-10-30 17:17:13.198 GMT [1658] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-10-31T01:17:13+08:00 Yasuraokaa_Site postgres[1658]: [15-1] 2024-10-30 17:17:13.198 GMT [1658] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [5-1] 2024-10-31 18:02:27.290 GMT [32748] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [6-1] 2024-10-31 18:02:27.290 GMT [32748] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [7-1] 2024-10-31 18:02:27.441 GMT [32748] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [8-1] 2024-10-31 18:02:27.441 GMT [32748] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [9-1] 2024-10-31 18:02:27.441 GMT [32748] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [10-1] 2024-10-31 18:02:27.442 GMT [32748] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [11-1] 2024-10-31 18:02:27.442 GMT [32748] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [12-1] 2024-10-31 18:02:27.442 GMT [32748] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [13-1] 2024-10-31 18:02:27.442 GMT [32748] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [14-1] 2024-10-31 18:02:27.443 GMT [32748] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-11-01T02:02:27+08:00 Yasuraokaa_Site postgres[32748]: [15-1] 2024-10-31 18:02:27.444 GMT [32748] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-11-02T01:06:39+08:00 Yasuraokaa_Site postgres[13058]: [5-1] 2024-11-01 17:06:39.765 GMT [13058] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-11-02T01:06:39+08:00 Yasuraokaa_Site postgres[13058]: [6-1] 2024-11-01 17:06:39.766 GMT [13058] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [7-1] 2024-11-01 17:06:40.283 GMT [13058] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [8-1] 2024-11-01 17:06:40.283 GMT [13058] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [9-1] 2024-11-01 17:06:40.284 GMT [13058] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [10-1] 2024-11-01 17:06:40.287 GMT [13058] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [11-1] 2024-11-01 17:06:40.287 GMT [13058] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [12-1] 2024-11-01 17:06:40.288 GMT [13058] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [13-1] 2024-11-01 17:06:40.288 GMT [13058] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [14-1] 2024-11-01 17:06:40.295 GMT [13058] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-11-02T01:06:40+08:00 Yasuraokaa_Site postgres[13058]: [15-1] 2024-11-01 17:06:40.298 GMT [13058] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [5-1] 2024-11-02 17:08:53.734 GMT [3922] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [6-1] 2024-11-02 17:08:53.735 GMT [3922] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [7-1] 2024-11-02 17:08:53.869 GMT [3922] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [8-1] 2024-11-02 17:08:53.870 GMT [3922] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [9-1] 2024-11-02 17:08:53.871 GMT [3922] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [10-1] 2024-11-02 17:08:53.873 GMT [3922] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [11-1] 2024-11-02 17:08:53.874 GMT [3922] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [12-1] 2024-11-02 17:08:53.875 GMT [3922] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [13-1] 2024-11-02 17:08:53.875 GMT [3922] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [14-1] 2024-11-02 17:08:53.882 GMT [3922] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-11-03T01:08:53+08:00 Yasuraokaa_Site postgres[3922]: [15-1] 2024-11-02 17:08:53.884 GMT [3922] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [5-1] 2024-11-03 17:06:06.538 GMT [21787] WARNING:  skipping "pg_authid" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [6-1] 2024-11-03 17:06:06.540 GMT [21787] WARNING:  skipping "pg_subscription" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [7-1] 2024-11-03 17:06:06.729 GMT [21787] WARNING:  skipping "pg_database" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [8-1] 2024-11-03 17:06:06.730 GMT [21787] WARNING:  skipping "pg_db_role_setting" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [9-1] 2024-11-03 17:06:06.730 GMT [21787] WARNING:  skipping "pg_tablespace" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [10-1] 2024-11-03 17:06:06.732 GMT [21787] WARNING:  skipping "pg_pltemplate" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [11-1] 2024-11-03 17:06:06.733 GMT [21787] WARNING:  skipping "pg_auth_members" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [12-1] 2024-11-03 17:06:06.734 GMT [21787] WARNING:  skipping "pg_shdepend" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [13-1] 2024-11-03 17:06:06.735 GMT [21787] WARNING:  skipping "pg_shdescription" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [14-1] 2024-11-03 17:06:06.741 GMT [21787] WARNING:  skipping "pg_replication_origin" --- only superuser can vacuum it
+2024-11-04T01:06:06+08:00 Yasuraokaa_Site postgres[21787]: [15-1] 2024-11-03 17:06:06.743 GMT [21787] WARNING:  skipping "pg_shseclabel" --- only superuser can vacuum it
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site pgsql.sh[24848]: /volume3 is writable with
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site pgsql.sh[24848]: summary status: [pool_normal]
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site pgsql.sh[24848]: original status: [fs_normal]
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site postgres[18409]: [5-1] 2024-11-04 16:53:44.719 GMT [18409] LOG:  received fast shutdown request
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site postgres[18409]: [6-1] 2024-11-04 16:53:44.775 GMT [18409] LOG:  aborting any active transactions
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site postgres[18409]: [7-1] 2024-11-04 16:53:44.793 GMT [18409] LOG:  background worker "logical replication launcher" (PID 18664) exited with exit code 1
+2024-11-05T00:53:44+08:00 Yasuraokaa_Site postgres[18661]: [4-1] 2024-11-04 16:53:44.796 GMT [18661] LOG:  shutting down
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site postgres[18409]: [8-1] 2024-11-04 16:53:46.006 GMT [18409] LOG:  database system is shut down
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24914]: waiting for server to shut down..... done
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24914]: server stopped
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24848]: [pgsql] stopped.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24848]: /run/postgresql:5432 - no response
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site pgsql.sh[24848]: [2024-11-05 00:53:46 CST]: pgsql is stopped
+2024-11-05T07:06:42+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:42 CST]: Start PostgreSQL
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: TimeZone = Asia/Taipei
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: ignore_system_indexes = off
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: shared_buffers = 524288kB
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: ignore_checksum_failure = off
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: effective_cache_size = 8002980kB
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: zero_damaged_pages = off
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:46 CST]: Replacing parameter: max_connections = 2000
+2024-11-05T07:06:46+08:00 Yasuraokaa_Site pgsql.sh[15675]: Failed to reset failed state of unit pgsql.service: Unit pgsql.service is not loaded.
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: [1-1] 2024-11-04 23:06:47.297 GMT [18423] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: 2024-11-04 23:06:47.297 GMT [18423] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: [2-1] 2024-11-04 23:06:47.364 GMT [18423] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: 2024-11-04 23:06:47.364 GMT [18423] LOG:  listening on Unix socket "/run/postgresql/.s.PGSQL.5432"
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: [3-1] 2024-11-04 23:06:47.543 GMT [18423] LOG:  ending log output to stderr
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: [3-2] 2024-11-04 23:06:47.543 GMT [18423] HINT:  Future log output will go to log destination "syslog".
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: 2024-11-04 23:06:47.543 GMT [18423] LOG:  ending log output to stderr
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18423]: 2024-11-04 23:06:47.543 GMT [18423] HINT:  Future log output will go to log destination "syslog".
+2024-11-05T07:06:47+08:00 Yasuraokaa_Site postgres[18623]: [4-1] 2024-11-04 23:06:47.607 GMT [18623] LOG:  database system was shut down at 2024-11-04 16:53:45 GMT
+2024-11-05T07:06:48+08:00 Yasuraokaa_Site postgres[18423]: [4-1] 2024-11-04 23:06:48.184 GMT [18423] LOG:  database system is ready to accept connections
+2024-11-05T07:06:48+08:00 Yasuraokaa_Site pgsql.sh[15675]: [pgsql] started.
+2024-11-05T07:06:48+08:00 Yasuraokaa_Site pgsql.sh[15675]: /run/postgresql:5432 - accepting connections
+2024-11-05T07:06:48+08:00 Yasuraokaa_Site pgsql.sh[15675]: [2024-11-05 07:06:48 CST]: pgsql is ready after waiting 1 seconds...

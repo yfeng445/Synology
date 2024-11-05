@@ -1,0 +1,98 @@
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin preinst
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End preinst ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/mkdir -p /volume1/@appstore/SynologyDrive -m 755
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/mkdir -p /volume1/@appstore/SynologyDrive -m 755 ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /volume1/@appstore/SynologyDrive
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /volume1/@appstore/SynologyDrive ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/package /volume1/@appstore/SynologyDrive
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/package /volume1/@appstore/SynologyDrive ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /var/packages/SynologyDrive
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /var/packages/SynologyDrive ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/mkdir -p /var/packages/SynologyDrive -m 755
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/mkdir -p /var/packages/SynologyDrive -m 755 ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/touch /var/packages/SynologyDrive/installing
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/touch /var/packages/SynologyDrive/installing ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/INFO /var/packages/SynologyDrive/INFO
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/INFO /var/packages/SynologyDrive/INFO ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /var/packages/SynologyDrive/scripts
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /var/packages/SynologyDrive/scripts ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/scripts /var/packages/SynologyDrive/scripts
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/scripts /var/packages/SynologyDrive/scripts ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /var/packages/SynologyDrive/WIZARD_UIFILES
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /var/packages/SynologyDrive/WIZARD_UIFILES ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/WIZARD_UIFILES /var/packages/SynologyDrive/WIZARD_UIFILES
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/WIZARD_UIFILES /var/packages/SynologyDrive/WIZARD_UIFILES ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /var/packages/SynologyDrive/conf
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /var/packages/SynologyDrive/conf ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/conf /var/packages/SynologyDrive/conf
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.ZcY0su/conf /var/packages/SynologyDrive/conf ret=[0]
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 Begin postinst
+cp: cannot stat '/var/packages/SynologyDrive/target/etc/postgresql': No such file or directory
+cp: cannot stat '/var/packages/SynologyDrive/target/etc/cstndb_ver.conf': No such file or directory
+2024/09/11 20:09:46	install SynologyDrive 3.5.0-26084 End postinst ret=[0]
+2024/09/11 20:09:48	install SynologyDrive 3.5.0-26084 Begin start-stop-status start
+2024/09/11 20:09:50	install SynologyDrive 3.5.0-26084 End start-stop-status start ret=[0]
+2024/09/11 20:20:43	uninstall SynologyDrive 3.5.0-26084 Begin start-stop-status stop
+2024/09/11 20:20:57	uninstall SynologyDrive 3.5.0-26084 End start-stop-status stop ret=[0]
+2024/09/11 20:20:58	uninstall SynologyDrive 3.5.0-26084 Begin preuninst
+2024/09/11 20:20:58 SynologyDrive db deletion starts...
+2024/09/11 20:20:58 SynologyDrive db deletion finished
+[Line 265] Not a json value: SynologyDrive
+[Line 295] Exec WebAPI:  api=SYNO.Finder.FileIndexing.Folder, version=1, method=delete, param={"owner":"SynologyDrive"}, runner=SYSTEM_ADMIN
+{
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/11 20:21:00	uninstall SynologyDrive 3.5.0-26084 End preuninst ret=[0]
+2024/09/11 20:21:00	uninstall SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /volume1/@appstore/SynologyDrive
+2024/09/11 20:21:00	uninstall SynologyDrive 3.5.0-26084 End /bin/rm -rf /volume1/@appstore/SynologyDrive ret=[0]
+2024/09/11 20:21:00	uninstall SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /volume1/@apptemp/SynologyDrive
+2024/09/11 20:21:00	uninstall SynologyDrive 3.5.0-26084 End /bin/rm -rf /volume1/@apptemp/SynologyDrive ret=[0]
+2024/09/11 20:21:00	uninstall SynologyDrive 3.5.0-26084 Begin postuninst
+2024/09/11 20:21:00	uninstall SynologyDrive 3.5.0-26084 End postuninst ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin preinst
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End preinst ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/mkdir -p /volume1/@appstore/SynologyDrive -m 755
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/mkdir -p /volume1/@appstore/SynologyDrive -m 755 ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /volume1/@appstore/SynologyDrive
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /volume1/@appstore/SynologyDrive ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/package /volume1/@appstore/SynologyDrive
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/package /volume1/@appstore/SynologyDrive ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /var/packages/SynologyDrive
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /var/packages/SynologyDrive ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/mkdir -p /var/packages/SynologyDrive -m 755
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/mkdir -p /var/packages/SynologyDrive -m 755 ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/touch /var/packages/SynologyDrive/installing
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/touch /var/packages/SynologyDrive/installing ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/INFO /var/packages/SynologyDrive/INFO
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/INFO /var/packages/SynologyDrive/INFO ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /var/packages/SynologyDrive/scripts
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /var/packages/SynologyDrive/scripts ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/scripts /var/packages/SynologyDrive/scripts
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/scripts /var/packages/SynologyDrive/scripts ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /var/packages/SynologyDrive/WIZARD_UIFILES
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /var/packages/SynologyDrive/WIZARD_UIFILES ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/WIZARD_UIFILES /var/packages/SynologyDrive/WIZARD_UIFILES
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/WIZARD_UIFILES /var/packages/SynologyDrive/WIZARD_UIFILES ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/rm -rf /var/packages/SynologyDrive/conf
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/rm -rf /var/packages/SynologyDrive/conf ret=[0]
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 Begin /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/conf /var/packages/SynologyDrive/conf
+2024/09/26 10:47:50	install SynologyDrive 3.5.0-26084 End /bin/mv -f /volume1/@tmp/synopkg/install.b5lBWg/conf /var/packages/SynologyDrive/conf ret=[0]
+2024/09/26 10:47:53	install SynologyDrive 3.5.0-26084 Begin postinst
+cp: cannot stat '/var/packages/SynologyDrive/target/etc/postgresql': No such file or directory
+cp: cannot stat '/var/packages/SynologyDrive/target/etc/cstndb_ver.conf': No such file or directory
+2024/09/26 10:47:54	install SynologyDrive 3.5.0-26084 End postinst ret=[0]
+2024/09/26 10:47:55	install SynologyDrive 3.5.0-26084 Begin start-stop-status start
+2024/09/26 10:47:58	install SynologyDrive 3.5.0-26084 End start-stop-status start ret=[0]
+2024/10/05 07:46:01	(system) trigger SynologyDrive 3.5.0-26084 Begin start-stop-status stop
+2024/10/05 07:46:10	(system) trigger SynologyDrive 3.5.0-26084 End start-stop-status stop ret=[0]
+2024/10/05 07:49:36	(system) trigger SynologyDrive 3.5.0-26084 Begin start-stop-status start
+2024/10/05 07:49:40	(system) trigger SynologyDrive 3.5.0-26084 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger SynologyDrive 3.5.0-26084 Begin start-stop-status stop
+2024/10/09 04:28:49	(system) trigger SynologyDrive 3.5.0-26084 End start-stop-status stop ret=[0]
+2024/10/09 04:34:19	(system) trigger SynologyDrive 3.5.0-26084 Begin start-stop-status start
+2024/10/09 04:34:32	(system) trigger SynologyDrive 3.5.0-26084 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger SynologyDrive 3.5.0-26084 Begin start-stop-status stop
+2024/11/05 00:53:31	(system) trigger SynologyDrive 3.5.0-26084 End start-stop-status stop ret=[0]
+2024/11/05 07:07:37	(system) trigger SynologyDrive 3.5.0-26084 Begin start-stop-status start
+2024/11/05 07:07:51	(system) trigger SynologyDrive 3.5.0-26084 End start-stop-status start ret=[0]

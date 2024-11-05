@@ -1,0 +1,292 @@
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin preinst
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End preinst ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/mkdir -p /usr/local/packages/@appstore/SupportService -m 755
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/mkdir -p /usr/local/packages/@appstore/SupportService -m 755 ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/rm -rf /usr/local/packages/@appstore/SupportService
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/rm -rf /usr/local/packages/@appstore/SupportService ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/mv -f /run/synopkg/tmp/install.IcKx6v/package /usr/local/packages/@appstore/SupportService
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/mv -f /run/synopkg/tmp/install.IcKx6v/package /usr/local/packages/@appstore/SupportService ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/rm -rf /var/packages/SupportService
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/rm -rf /var/packages/SupportService ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/mkdir -p /var/packages/SupportService -m 755
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/mkdir -p /var/packages/SupportService -m 755 ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/touch /var/packages/SupportService/installing
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/touch /var/packages/SupportService/installing ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/mv -f /run/synopkg/tmp/install.IcKx6v/INFO /var/packages/SupportService/INFO
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/mv -f /run/synopkg/tmp/install.IcKx6v/INFO /var/packages/SupportService/INFO ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/rm -rf /var/packages/SupportService/scripts
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/rm -rf /var/packages/SupportService/scripts ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/mv -f /run/synopkg/tmp/install.IcKx6v/scripts /var/packages/SupportService/scripts
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/mv -f /run/synopkg/tmp/install.IcKx6v/scripts /var/packages/SupportService/scripts ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/rm -rf /var/packages/SupportService/conf
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/rm -rf /var/packages/SupportService/conf ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin /bin/mv -f /run/synopkg/tmp/install.IcKx6v/conf /var/packages/SupportService/conf
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End /bin/mv -f /run/synopkg/tmp/install.IcKx6v/conf /var/packages/SupportService/conf ret=[0]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 Begin postinst
+SetFastSupport: [no]
+2024/09/08 17:16:53	install SupportService 1.1.0-21017 End postinst ret=[0]
+2024/09/08 17:16:58	(system) trigger SupportService 1.1.0-21017 Begin start-stop-status start
+Failed to LoadSessionCookie
+2024/09/08 17:16:58	(system) trigger SupportService 1.1.0-21017 End start-stop-status start ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 Begin start-stop-status stop
+Failed to SaveSessionCookie
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 End start-stop-status stop ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 Begin preupgrade
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 End preupgrade ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 Begin preuninst
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 End preuninst ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 Begin /bin/rm -rf /usr/local/packages/@appstore/SupportService
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 End /bin/rm -rf /usr/local/packages/@appstore/SupportService ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 Begin /bin/rm -rf /usr/local/packages/@apptemp/SupportService
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 End /bin/rm -rf /usr/local/packages/@apptemp/SupportService ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 Begin postuninst
+2024/09/08 17:17:47	upgrade SupportService 1.1.0-21017 End postuninst ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin preinst
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End preinst ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/mkdir -p /usr/local/packages/@appstore/SupportService -m 755
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/mkdir -p /usr/local/packages/@appstore/SupportService -m 755 ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/rm -rf /usr/local/packages/@appstore/SupportService
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/rm -rf /usr/local/packages/@appstore/SupportService ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/mv -f /run/synopkg/tmp/install.yQmiBC/package /usr/local/packages/@appstore/SupportService
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/mv -f /run/synopkg/tmp/install.yQmiBC/package /usr/local/packages/@appstore/SupportService ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/rm -rf /var/packages/SupportService
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/rm -rf /var/packages/SupportService ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/mkdir -p /var/packages/SupportService -m 755
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/mkdir -p /var/packages/SupportService -m 755 ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/touch /var/packages/SupportService/installing
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/touch /var/packages/SupportService/installing ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/mv -f /run/synopkg/tmp/install.yQmiBC/INFO /var/packages/SupportService/INFO
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/mv -f /run/synopkg/tmp/install.yQmiBC/INFO /var/packages/SupportService/INFO ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/rm -rf /var/packages/SupportService/scripts
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/rm -rf /var/packages/SupportService/scripts ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/mv -f /run/synopkg/tmp/install.yQmiBC/scripts /var/packages/SupportService/scripts
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/mv -f /run/synopkg/tmp/install.yQmiBC/scripts /var/packages/SupportService/scripts ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/rm -rf /var/packages/SupportService/conf
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/rm -rf /var/packages/SupportService/conf ret=[0]
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 Begin /bin/mv -f /run/synopkg/tmp/install.yQmiBC/conf /var/packages/SupportService/conf
+2024/09/08 17:17:47	upgrade SupportService 2.0.1-21035 End /bin/mv -f /run/synopkg/tmp/install.yQmiBC/conf /var/packages/SupportService/conf ret=[0]
+2024/09/08 17:17:48	upgrade SupportService 2.0.1-21035 Begin postinst
+2024/09/08 17:17:48	upgrade SupportService 2.0.1-21035 End postinst ret=[0]
+2024/09/08 17:17:48	upgrade SupportService 2.0.1-21035 Begin postupgrade
+2024/09/08 17:17:48	upgrade SupportService 2.0.1-21035 End postupgrade ret=[0]
+2024/09/08 17:17:48	upgrade SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/08 17:17:48	upgrade SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/09 08:24:45	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/09 08:24:45	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/10 07:08:53	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/10 07:08:53	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/11 19:57:37	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/11 19:57:37	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/11 20:05:38	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/11 20:05:38	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/12 00:26:24	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/12 00:26:24	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/12 00:30:24	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/12 00:30:24	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/14 22:43:06	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/14 22:43:06	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/14 23:16:47	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/14 23:16:47	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/15 00:50:04	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/15 00:50:05	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/15 01:14:14	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/15 01:14:14	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/15 01:22:01	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+ln: failed to create symbolic link '/usr/lib/security/pam_syno_support.so': File exists
+ln: failed to create symbolic link '/etc/pam.d/supportui': File exists
+2024/09/15 01:22:01	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/15 01:30:54	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+ln: failed to create symbolic link '/usr/lib/security/pam_syno_support.so': File exists
+ln: failed to create symbolic link '/etc/pam.d/supportui': File exists
+2024/09/15 01:30:54	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/15 05:06:11	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+ln: failed to create symbolic link '/usr/lib/security/pam_syno_support.so': File exists
+ln: failed to create symbolic link '/etc/pam.d/supportui': File exists
+2024/09/15 05:06:11	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/15 05:15:09	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+ln: failed to create symbolic link '/usr/lib/security/pam_syno_support.so': File exists
+ln: failed to create symbolic link '/etc/pam.d/supportui': File exists
+2024/09/15 05:15:09	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/16 05:35:26	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/16 05:35:26	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/16 05:39:35	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/16 05:39:35	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/16 19:28:48	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/16 19:28:48	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/16 19:32:59	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/16 19:32:59	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/17 04:54:30	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/17 04:54:30	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/17 04:58:37	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/17 04:58:37	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/17 05:46:37	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/17 05:46:37	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/17 05:50:48	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/17 05:50:48	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/17 10:41:53	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/17 10:41:54	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/17 10:46:01	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/17 10:46:02	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/20 07:36:41	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/20 07:36:42	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/20 07:51:19	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/20 07:51:19	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/09/20 11:29:03	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/09/20 11:29:03	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/09/20 11:34:38	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/09/20 11:34:38	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/10/09 04:29:15	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/10/09 04:29:16	(system) trigger SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/10/09 04:33:21	(system) trigger SupportService 2.0.1-21035 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/10/09 04:33:21	(system) trigger SupportService 2.0.1-21035 End start-stop-status start ret=[0]
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 End start-stop-status stop ret=[0]
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 Begin preupgrade
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 End preupgrade ret=[0]
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 Begin preuninst
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 End preuninst ret=[0]
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 Begin /bin/rm -rf /usr/local/packages/@appstore/SupportService
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 End /bin/rm -rf /usr/local/packages/@appstore/SupportService ret=[0]
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 Begin /bin/rm -rf /usr/local/packages/@apptemp/SupportService
+2024/10/09 15:17:34	upgrade SupportService 2.0.1-21035 End /bin/rm -rf /usr/local/packages/@apptemp/SupportService ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.1-21035 Begin postuninst
+2024/10/09 15:17:35	upgrade SupportService 2.0.1-21035 End postuninst ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin preinst
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End preinst ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/mkdir -p /usr/local/packages/@appstore/SupportService -m 755
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/mkdir -p /usr/local/packages/@appstore/SupportService -m 755 ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/rm -rf /usr/local/packages/@appstore/SupportService
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/rm -rf /usr/local/packages/@appstore/SupportService ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/mv -f /volume1/@tmp/synopkg/install.9KZyys/package /usr/local/packages/@appstore/SupportService
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/mv -f /volume1/@tmp/synopkg/install.9KZyys/package /usr/local/packages/@appstore/SupportService ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/rm -rf /var/packages/SupportService
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/rm -rf /var/packages/SupportService ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/mkdir -p /var/packages/SupportService -m 755
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/mkdir -p /var/packages/SupportService -m 755 ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/touch /var/packages/SupportService/installing
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/touch /var/packages/SupportService/installing ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/mv -f /volume1/@tmp/synopkg/install.9KZyys/INFO /var/packages/SupportService/INFO
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/mv -f /volume1/@tmp/synopkg/install.9KZyys/INFO /var/packages/SupportService/INFO ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/rm -rf /var/packages/SupportService/scripts
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/rm -rf /var/packages/SupportService/scripts ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/mv -f /volume1/@tmp/synopkg/install.9KZyys/scripts /var/packages/SupportService/scripts
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/mv -f /volume1/@tmp/synopkg/install.9KZyys/scripts /var/packages/SupportService/scripts ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/rm -rf /var/packages/SupportService/conf
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/rm -rf /var/packages/SupportService/conf ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin /bin/mv -f /volume1/@tmp/synopkg/install.9KZyys/conf /var/packages/SupportService/conf
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 End /bin/mv -f /volume1/@tmp/synopkg/install.9KZyys/conf /var/packages/SupportService/conf ret=[0]
+2024/10/09 15:17:35	upgrade SupportService 2.0.2-21051 Begin postinst
+2024/10/09 15:17:36	upgrade SupportService 2.0.2-21051 End postinst ret=[0]
+2024/10/09 15:17:36	upgrade SupportService 2.0.2-21051 Begin postupgrade
+2024/10/09 15:17:36	upgrade SupportService 2.0.2-21051 End postupgrade ret=[0]
+2024/10/09 15:17:36	upgrade SupportService 2.0.2-21051 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/10/09 15:17:36	upgrade SupportService 2.0.2-21051 End start-stop-status start ret=[0]
+2024/11/05 00:53:46	(system) trigger SupportService 2.0.2-21051 Begin start-stop-status stop
+Failed to SaveSessionCookie
+[pkg-support-service-remote-action-client] stopped.
+[pkg-support-service-online-updater] stopped.
+2024/11/05 00:53:46	(system) trigger SupportService 2.0.2-21051 End start-stop-status stop ret=[0]
+2024/11/05 07:06:37	(system) trigger SupportService 2.0.2-21051 Begin start-stop-status start
+Failed to LoadSessionCookie
+[pkg-support-service-remote-action-client] restarted.
+[pkg-support-service-online-updater] started.
+2024/11/05 07:06:37	(system) trigger SupportService 2.0.2-21051 End start-stop-status start ret=[0]

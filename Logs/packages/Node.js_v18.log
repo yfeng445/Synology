@@ -1,0 +1,38 @@
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin preinst
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End preinst ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/mkdir -p /volume1/@appstore/Node.js_v18 -m 755
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/mkdir -p /volume1/@appstore/Node.js_v18 -m 755 ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/rm -rf /volume1/@appstore/Node.js_v18
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/rm -rf /volume1/@appstore/Node.js_v18 ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/mv -f /volume1/@tmp/synopkg/install.dMGufA/package /volume1/@appstore/Node.js_v18
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/mv -f /volume1/@tmp/synopkg/install.dMGufA/package /volume1/@appstore/Node.js_v18 ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/rm -rf /var/packages/Node.js_v18
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/rm -rf /var/packages/Node.js_v18 ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/mkdir -p /var/packages/Node.js_v18 -m 755
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/mkdir -p /var/packages/Node.js_v18 -m 755 ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/touch /var/packages/Node.js_v18/installing
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/touch /var/packages/Node.js_v18/installing ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/mv -f /volume1/@tmp/synopkg/install.dMGufA/INFO /var/packages/Node.js_v18/INFO
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/mv -f /volume1/@tmp/synopkg/install.dMGufA/INFO /var/packages/Node.js_v18/INFO ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/rm -rf /var/packages/Node.js_v18/scripts
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/rm -rf /var/packages/Node.js_v18/scripts ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/mv -f /volume1/@tmp/synopkg/install.dMGufA/scripts /var/packages/Node.js_v18/scripts
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/mv -f /volume1/@tmp/synopkg/install.dMGufA/scripts /var/packages/Node.js_v18/scripts ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/rm -rf /var/packages/Node.js_v18/conf
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/rm -rf /var/packages/Node.js_v18/conf ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin /bin/mv -f /volume1/@tmp/synopkg/install.dMGufA/conf /var/packages/Node.js_v18/conf
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End /bin/mv -f /volume1/@tmp/synopkg/install.dMGufA/conf /var/packages/Node.js_v18/conf ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin postinst
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End postinst ret=[0]
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 Begin start-stop-status start
+2024/09/11 20:09:23	install Node.js_v18 18.18.2-1011 End start-stop-status start ret=[0]
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 Begin start-stop-status stop
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 End start-stop-status stop ret=[0]
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 Begin preuninst
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 End preuninst ret=[0]
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 Begin /bin/rm -rf /volume1/@appstore/Node.js_v18
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 End /bin/rm -rf /volume1/@appstore/Node.js_v18 ret=[0]
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 Begin /bin/rm -rf /volume1/@apptemp/Node.js_v18
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 End /bin/rm -rf /volume1/@apptemp/Node.js_v18 ret=[0]
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 Begin postuninst
+2024/09/11 20:28:29	uninstall Node.js_v18 18.18.2-1011 End postuninst ret=[0]

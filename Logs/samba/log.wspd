@@ -1,0 +1,2 @@
+../../source3/rpc_server/wspd.c:641: [2024/09/11 20:20:58.981312, all 0, pid=23989] wspd_sig_term_handler
+  wspd_sig_term_handler: got sigterm!!

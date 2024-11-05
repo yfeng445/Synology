@@ -1,0 +1,196 @@
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin preinst
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End preinst ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/mkdir -p /usr/local/packages/@appstore/HybridShare -m 755
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/mkdir -p /usr/local/packages/@appstore/HybridShare -m 755 ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/rm -rf /usr/local/packages/@appstore/HybridShare
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/rm -rf /usr/local/packages/@appstore/HybridShare ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/mv -f /run/synopkg/tmp/install.fA5s8D/package /usr/local/packages/@appstore/HybridShare
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/mv -f /run/synopkg/tmp/install.fA5s8D/package /usr/local/packages/@appstore/HybridShare ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/rm -rf /var/packages/HybridShare
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/rm -rf /var/packages/HybridShare ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/mkdir -p /var/packages/HybridShare -m 755
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/mkdir -p /var/packages/HybridShare -m 755 ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/touch /var/packages/HybridShare/installing
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/touch /var/packages/HybridShare/installing ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/mv -f /run/synopkg/tmp/install.fA5s8D/INFO /var/packages/HybridShare/INFO
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/mv -f /run/synopkg/tmp/install.fA5s8D/INFO /var/packages/HybridShare/INFO ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/rm -rf /var/packages/HybridShare/scripts
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/rm -rf /var/packages/HybridShare/scripts ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/mv -f /run/synopkg/tmp/install.fA5s8D/scripts /var/packages/HybridShare/scripts
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/mv -f /run/synopkg/tmp/install.fA5s8D/scripts /var/packages/HybridShare/scripts ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/rm -rf /var/packages/HybridShare/conf
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/rm -rf /var/packages/HybridShare/conf ret=[0]
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 Begin /bin/mv -f /run/synopkg/tmp/install.fA5s8D/conf /var/packages/HybridShare/conf
+2024/09/08 17:17:03	install HybridShare 1.4.1-1512 End /bin/mv -f /run/synopkg/tmp/install.fA5s8D/conf /var/packages/HybridShare/conf ret=[0]
+2024/09/08 17:17:04	install HybridShare 1.4.1-1512 Begin postinst
+2024/09/08 17:17:04	install HybridShare 1.4.1-1512 End postinst ret=[0]
+2024/09/08 17:17:06	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status prestart
+2024/09/08 17:17:06	(system) trigger HybridShare 1.4.1-1512 End start-stop-status prestart ret=[0]
+2024/09/08 17:17:07	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status start
+2024/09/08 17:17:07	(system) trigger HybridShare 1.4.1-1512 End start-stop-status start ret=[0]
+2024/09/09 08:24:43	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/09 08:24:44	(system) trigger HybridShare 1.4.1-1512 End start-stop-status stop ret=[0]
+2024/09/10 07:08:25	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status prestart
+2024/09/10 07:08:25	(system) trigger HybridShare 1.4.1-1512 End start-stop-status prestart ret=[0]
+2024/09/10 07:08:26	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status start
+2024/09/10 07:08:27	(system) trigger HybridShare 1.4.1-1512 End start-stop-status start ret=[0]
+2024/09/11 19:57:35	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/11 19:57:36	(system) trigger HybridShare 1.4.1-1512 End start-stop-status stop ret=[0]
+2024/09/11 20:05:42	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status prestart
+2024/09/11 20:05:42	(system) trigger HybridShare 1.4.1-1512 End start-stop-status prestart ret=[0]
+2024/09/11 20:05:44	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status start
+2024/09/11 20:05:44	(system) trigger HybridShare 1.4.1-1512 End start-stop-status start ret=[0]
+2024/09/12 00:26:20	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/12 00:26:22	(system) trigger HybridShare 1.4.1-1512 End start-stop-status stop ret=[0]
+2024/09/12 00:30:33	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status prestart
+2024/09/12 00:30:33	(system) trigger HybridShare 1.4.1-1512 End start-stop-status prestart ret=[0]
+2024/09/12 00:30:34	(system) trigger HybridShare 1.4.1-1512 Begin start-stop-status start
+2024/09/12 00:30:34	(system) trigger HybridShare 1.4.1-1512 End start-stop-status start ret=[0]
+2024/09/12 10:40:45	upgrade HybridShare 1.4.1-1512 Begin start-stop-status prestop
+2024/09/12 10:40:45	upgrade HybridShare 1.4.1-1512 End start-stop-status prestop ret=[0]
+2024/09/12 10:40:45	upgrade HybridShare 1.4.1-1512 Begin start-stop-status stop
+2024/09/12 10:40:45	upgrade HybridShare 1.4.1-1512 End start-stop-status stop ret=[0]
+2024/09/12 10:40:56	upgrade HybridShare 1.4.1-1512 Begin preupgrade
+/volume1/@tmp/synopkg/install.rtQFEQ/package/usr/local/bin/synoc2fspkgtool: Symbol `_ZTVN8c2fs_pkg18C2ApiServerHandlerE' has different size in shared object, consider re-linking
+/volume1/@tmp/synopkg/install.rtQFEQ/package/usr/local/bin/synoc2fspkgtool: Symbol `_ZTVN8c2fs_pkg18C2ApiServerHandlerE' has different size in shared object, consider re-linking
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/12 10:40:56	upgrade HybridShare 1.4.1-1512 End preupgrade ret=[0]
+2024/09/12 10:40:56	upgrade HybridShare 1.4.1-1512 Begin preuninst
+2024/09/12 10:40:56	upgrade HybridShare 1.4.1-1512 End preuninst ret=[0]
+2024/09/12 10:40:57	upgrade HybridShare 1.4.1-1512 Begin /bin/rm -rf /usr/local/packages/@appstore/HybridShare
+2024/09/12 10:40:57	upgrade HybridShare 1.4.1-1512 End /bin/rm -rf /usr/local/packages/@appstore/HybridShare ret=[0]
+2024/09/12 10:40:57	upgrade HybridShare 1.4.1-1512 Begin /bin/rm -rf /usr/local/packages/@apptemp/HybridShare
+2024/09/12 10:40:57	upgrade HybridShare 1.4.1-1512 End /bin/rm -rf /usr/local/packages/@apptemp/HybridShare ret=[0]
+2024/09/12 10:40:57	upgrade HybridShare 1.4.1-1512 Begin postuninst
+2024/09/12 10:40:57	upgrade HybridShare 1.4.1-1512 End postuninst ret=[0]
+2024/09/12 10:40:57	upgrade HybridShare 1.4.2-1728 Begin preinst
+2024/09/12 10:40:57	upgrade HybridShare 1.4.2-1728 End preinst ret=[0]
+2024/09/12 10:40:57	upgrade HybridShare 1.4.2-1728 Begin /bin/mkdir -p /usr/local/packages/@appstore/HybridShare -m 755
+2024/09/12 10:40:57	upgrade HybridShare 1.4.2-1728 End /bin/mkdir -p /usr/local/packages/@appstore/HybridShare -m 755 ret=[0]
+2024/09/12 10:40:57	upgrade HybridShare 1.4.2-1728 Begin /bin/rm -rf /usr/local/packages/@appstore/HybridShare
+2024/09/12 10:40:57	upgrade HybridShare 1.4.2-1728 End /bin/rm -rf /usr/local/packages/@appstore/HybridShare ret=[0]
+2024/09/12 10:40:57	upgrade HybridShare 1.4.2-1728 Begin /bin/mv -f /volume1/@tmp/synopkg/install.rtQFEQ/package /usr/local/packages/@appstore/HybridShare
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/mv -f /volume1/@tmp/synopkg/install.rtQFEQ/package /usr/local/packages/@appstore/HybridShare ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin /bin/rm -rf /var/packages/HybridShare
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/rm -rf /var/packages/HybridShare ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin /bin/mkdir -p /var/packages/HybridShare -m 755
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/mkdir -p /var/packages/HybridShare -m 755 ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin /bin/touch /var/packages/HybridShare/installing
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/touch /var/packages/HybridShare/installing ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin /bin/mv -f /volume1/@tmp/synopkg/install.rtQFEQ/INFO /var/packages/HybridShare/INFO
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/mv -f /volume1/@tmp/synopkg/install.rtQFEQ/INFO /var/packages/HybridShare/INFO ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin /bin/rm -rf /var/packages/HybridShare/scripts
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/rm -rf /var/packages/HybridShare/scripts ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin /bin/mv -f /volume1/@tmp/synopkg/install.rtQFEQ/scripts /var/packages/HybridShare/scripts
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/mv -f /volume1/@tmp/synopkg/install.rtQFEQ/scripts /var/packages/HybridShare/scripts ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin /bin/rm -rf /var/packages/HybridShare/conf
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/rm -rf /var/packages/HybridShare/conf ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin /bin/mv -f /volume1/@tmp/synopkg/install.rtQFEQ/conf /var/packages/HybridShare/conf
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End /bin/mv -f /volume1/@tmp/synopkg/install.rtQFEQ/conf /var/packages/HybridShare/conf ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin postinst
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 End postinst ret=[0]
+2024/09/12 10:40:58	upgrade HybridShare 1.4.2-1728 Begin postupgrade
+2024/09/12 10:40:59	upgrade HybridShare 1.4.2-1728 End postupgrade ret=[0]
+2024/09/12 10:40:59	upgrade HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/12 10:40:59	upgrade HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/12 10:41:03	upgrade HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/12 10:41:03	upgrade HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/14 22:42:42	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/14 22:42:43	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/14 23:17:01	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/14 23:17:01	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/14 23:17:06	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/14 23:17:06	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/15 00:49:58	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/15 00:49:59	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/15 01:14:25	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/15 01:14:25	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/15 01:14:29	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/15 01:14:29	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/15 01:22:12	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/15 01:22:12	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/15 01:22:13	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/15 01:22:14	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/15 01:31:06	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/15 01:31:06	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/15 01:31:08	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/15 01:31:08	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/15 05:06:23	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/15 05:06:23	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/15 05:06:28	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/15 05:06:30	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/15 05:09:39	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/15 05:09:40	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/15 05:15:27	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/15 05:15:27	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/15 05:15:36	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/15 05:15:40	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/16 05:35:16	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/16 05:35:16	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/16 05:39:48	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/16 05:39:48	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/16 05:39:51	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/16 05:39:51	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/16 19:28:24	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/16 19:28:25	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/16 19:33:09	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/16 19:33:10	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/16 19:33:15	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/16 19:33:16	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/17 04:54:16	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/17 04:54:17	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/17 04:58:50	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/17 04:58:50	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/17 04:58:52	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/17 04:58:52	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/17 05:46:13	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/17 05:46:14	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/17 05:50:58	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/17 05:50:58	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/17 05:51:04	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/17 05:51:04	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/17 10:41:29	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/17 10:41:30	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/17 10:46:13	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/17 10:46:13	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/17 10:46:15	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/17 10:46:16	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/20 07:36:31	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/20 07:36:32	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/20 07:51:31	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/20 07:51:32	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/20 07:51:36	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/20 07:51:36	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/09/20 11:28:39	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/09/20 11:28:40	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/09/20 11:34:52	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/09/20 11:34:52	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/09/20 11:34:54	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/09/20 11:34:55	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/10/09 04:28:34	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/10/09 04:33:36	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/10/09 04:33:36	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/10/09 04:33:46	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/10/09 04:33:47	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status stop
+[pkg-c2fs-accountd.socket] stopped.
+2024/11/05 00:53:14	(system) trigger HybridShare 1.4.2-1728 End start-stop-status stop ret=[0]
+2024/11/05 07:06:43	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status prestart
+2024/11/05 07:06:44	(system) trigger HybridShare 1.4.2-1728 End start-stop-status prestart ret=[0]
+2024/11/05 07:06:48	(system) trigger HybridShare 1.4.2-1728 Begin start-stop-status start
+2024/11/05 07:06:48	(system) trigger HybridShare 1.4.2-1728 End start-stop-status start ret=[0]

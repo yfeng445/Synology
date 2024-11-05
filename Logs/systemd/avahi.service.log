@@ -1,0 +1,229 @@
+2024-09-08T17:16:48-07:00 SynologyNAS avahi.sh[9510]: AFP Time Machine Status: Disable
+2024-09-08T17:16:48-07:00 SynologyNAS avahi.sh[9510]: SMB Time Machine Status: Disable
+2024-09-08T17:16:49-07:00 SynologyNAS avahi-daemon[9652]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-08T17:19:35-07:00 Synology_NAS avahi.sh[23181]: AFP Time Machine Status: Disable
+2024-09-08T17:19:35-07:00 Synology_NAS avahi.sh[23181]: SMB Time Machine Status: Disable
+2024-09-08T17:19:35-07:00 Synology_NAS avahi.sh[23238]: AFP Time Machine Status: Disable
+2024-09-08T17:19:35-07:00 Synology_NAS avahi.sh[23238]: SMB Time Machine Status: Disable
+2024-09-08T17:19:35-07:00 Synology_NAS avahi-daemon[23289]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-09T08:24:45+08:00 Synology_NAS avahi.sh[26582]: AFP Time Machine Status: Disable
+2024-09-09T08:24:45+08:00 Synology_NAS avahi.sh[26582]: SMB Time Machine Status: Disable
+2024-09-10T07:08:51+08:00 Synology_NAS avahi.sh[8738]: AFP Time Machine Status: Disable
+2024-09-10T07:08:51+08:00 Synology_NAS avahi.sh[8738]: SMB Time Machine Status: Disable
+2024-09-10T07:08:51+08:00 Synology_NAS avahi-daemon[8979]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-11T19:57:37+08:00 Synology_NAS avahi.sh[928]: AFP Time Machine Status: Disable
+2024-09-11T19:57:37+08:00 Synology_NAS avahi.sh[928]: SMB Time Machine Status: Disable
+2024-09-11T20:05:35+08:00 Synology_NAS avahi.sh[8953]: AFP Time Machine Status: Disable
+2024-09-11T20:05:35+08:00 Synology_NAS avahi.sh[8953]: SMB Time Machine Status: Disable
+2024-09-11T20:05:36+08:00 Synology_NAS avahi-daemon[9214]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-11T20:28:50+08:00 Synology_NAS avahi.sh[6381]: AFP Time Machine Status: Disable
+2024-09-11T20:28:50+08:00 Synology_NAS avahi.sh[6394]: AFP Time Machine Status: Disable
+2024-09-11T20:28:50+08:00 Synology_NAS avahi-daemon[6407]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-12T00:26:24+08:00 Synology_NAS avahi.sh[18458]: AFP Time Machine Status: Disable
+2024-09-12T00:26:24+08:00 Synology_NAS avahi.sh[18458]: SMB Time Machine Status: Disable
+2024-09-12T00:30:20+08:00 Synology_NAS avahi.sh[9327]: AFP Time Machine Status: Disable
+2024-09-12T00:30:20+08:00 Synology_NAS avahi.sh[9327]: SMB Time Machine Status: Disable
+2024-09-12T00:30:21+08:00 Synology_NAS avahi-daemon[9594]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-13T15:58:01+08:00 Synology_NAS avahi.sh[29334]: AFP Time Machine Status: Disable
+2024-09-13T15:58:01+08:00 Synology_NAS avahi.sh[29590]: AFP Time Machine Status: Disable
+2024-09-13T15:58:01+08:00 Synology_NAS avahi-daemon[29638]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-14T22:43:06+08:00 Synology_NAS avahi.sh[10114]: AFP Time Machine Status: Disable
+2024-09-14T22:43:06+08:00 Synology_NAS avahi.sh[10114]: SMB Time Machine Status: Disable
+2024-09-14T23:16:46+08:00 Synology_NAS avahi.sh[9500]: AFP Time Machine Status: Disable
+2024-09-14T23:16:46+08:00 Synology_NAS avahi.sh[9500]: SMB Time Machine Status: Disable
+2024-09-14T23:16:46+08:00 Synology_NAS avahi-daemon[10323]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-14T23:16:56+08:00 Synology_NAS avahi.sh[13853]: AFP Time Machine Status: Disable
+2024-09-14T23:16:56+08:00 Synology_NAS avahi.sh[13853]: SMB Time Machine Status: Disable
+2024-09-14T23:16:56+08:00 Synology_NAS avahi.sh[13870]: AFP Time Machine Status: Disable
+2024-09-14T23:16:56+08:00 Synology_NAS avahi.sh[13870]: SMB Time Machine Status: Disable
+2024-09-14T23:16:56+08:00 Synology_NAS avahi-daemon[13952]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T00:05:51+08:00 Synology_NAS avahi.sh[13986]: AFP Time Machine Status: Disable
+2024-09-15T00:05:52+08:00 Synology_NAS avahi.sh[13999]: AFP Time Machine Status: Disable
+2024-09-15T00:05:52+08:00 Synology_NAS avahi-daemon[14012]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T00:05:53+08:00 Synology_NAS avahi.sh[14463]: AFP Time Machine Status: Disable
+2024-09-15T00:05:53+08:00 Synology_NAS avahi.sh[14476]: AFP Time Machine Status: Disable
+2024-09-15T00:05:53+08:00 Synology_NAS avahi-daemon[14489]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T00:50:04+08:00 Synology_NAS avahi.sh[26340]: AFP Time Machine Status: Disable
+2024-09-15T00:50:04+08:00 Synology_NAS avahi.sh[26340]: SMB Time Machine Status: Disable
+2024-09-15T01:14:11+08:00 Synology_NAS avahi.sh[9559]: AFP Time Machine Status: Disable
+2024-09-15T01:14:11+08:00 Synology_NAS avahi.sh[9559]: SMB Time Machine Status: Disable
+2024-09-15T01:14:12+08:00 Synology_NAS avahi-daemon[9844]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T01:21:59+08:00 Synology_NAS avahi.sh[9579]: AFP Time Machine Status: Disable
+2024-09-15T01:21:59+08:00 Synology_NAS avahi.sh[9579]: SMB Time Machine Status: Disable
+2024-09-15T01:21:59+08:00 Synology_NAS avahi-daemon[9846]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T01:22:08+08:00 Synology_NAS avahi.sh[14155]: AFP Time Machine Status: Disable
+2024-09-15T01:22:08+08:00 Synology_NAS avahi.sh[14155]: SMB Time Machine Status: Disable
+2024-09-15T01:22:08+08:00 Synology_NAS avahi.sh[14207]: AFP Time Machine Status: Disable
+2024-09-15T01:22:08+08:00 Synology_NAS avahi.sh[14207]: SMB Time Machine Status: Disable
+2024-09-15T01:22:08+08:00 Synology_NAS avahi-daemon[14223]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T01:30:52+08:00 Synology_NAS avahi.sh[9824]: AFP Time Machine Status: Disable
+2024-09-15T01:30:53+08:00 Synology_NAS avahi.sh[9824]: SMB Time Machine Status: Disable
+2024-09-15T01:30:53+08:00 Synology_NAS avahi-daemon[10123]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T01:31:02+08:00 Synology_NAS avahi.sh[14191]: AFP Time Machine Status: Disable
+2024-09-15T01:31:02+08:00 Synology_NAS avahi.sh[14191]: SMB Time Machine Status: Disable
+2024-09-15T01:31:02+08:00 Synology_NAS avahi.sh[14249]: AFP Time Machine Status: Disable
+2024-09-15T01:31:02+08:00 Synology_NAS avahi.sh[14249]: SMB Time Machine Status: Disable
+2024-09-15T01:31:02+08:00 Synology_NAS avahi-daemon[14295]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T05:06:03+08:00 Synology_NAS avahi.sh[8820]: AFP Time Machine Status: Disable
+2024-09-15T05:06:03+08:00 Synology_NAS avahi.sh[8820]: SMB Time Machine Status: Disable
+2024-09-15T05:06:04+08:00 Synology_NAS avahi-daemon[9094]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T05:06:19+08:00 Synology_NAS avahi.sh[12462]: AFP Time Machine Status: Disable
+2024-09-15T05:06:19+08:00 Synology_NAS avahi.sh[12462]: SMB Time Machine Status: Disable
+2024-09-15T05:06:19+08:00 Synology_NAS avahi.sh[12509]: AFP Time Machine Status: Disable
+2024-09-15T05:06:19+08:00 Synology_NAS avahi.sh[12509]: SMB Time Machine Status: Disable
+2024-09-15T05:06:19+08:00 Synology_NAS avahi-daemon[12525]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-15T05:15:05+08:00 Synology_NAS avahi.sh[9553]: AFP Time Machine Status: Disable
+2024-09-15T05:15:05+08:00 Synology_NAS avahi.sh[9553]: SMB Time Machine Status: Disable
+2024-09-15T05:15:06+08:00 Synology_NAS avahi-daemon[9785]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-16T05:35:26+08:00 Synology_NAS avahi.sh[10585]: AFP Time Machine Status: Disable
+2024-09-16T05:35:26+08:00 Synology_NAS avahi.sh[10585]: SMB Time Machine Status: Disable
+2024-09-16T05:39:33+08:00 Synology_NAS avahi.sh[9563]: AFP Time Machine Status: Disable
+2024-09-16T05:39:34+08:00 Synology_NAS avahi.sh[9563]: SMB Time Machine Status: Disable
+2024-09-16T05:39:34+08:00 Synology_NAS avahi-daemon[9830]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-16T05:39:44+08:00 Synology_NAS avahi.sh[14014]: AFP Time Machine Status: Disable
+2024-09-16T05:39:44+08:00 Synology_NAS avahi.sh[14014]: SMB Time Machine Status: Disable
+2024-09-16T05:39:44+08:00 Synology_NAS avahi.sh[14029]: AFP Time Machine Status: Disable
+2024-09-16T05:39:44+08:00 Synology_NAS avahi.sh[14029]: SMB Time Machine Status: Disable
+2024-09-16T05:39:44+08:00 Synology_NAS avahi-daemon[14044]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-16T19:28:48+08:00 Synology_NAS avahi.sh[17602]: AFP Time Machine Status: Disable
+2024-09-16T19:28:48+08:00 Synology_NAS avahi.sh[17602]: SMB Time Machine Status: Disable
+2024-09-16T19:32:56+08:00 Synology_NAS avahi.sh[9566]: AFP Time Machine Status: Disable
+2024-09-16T19:32:56+08:00 Synology_NAS avahi.sh[9566]: SMB Time Machine Status: Disable
+2024-09-16T19:32:56+08:00 Synology_NAS avahi-daemon[9844]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-16T19:33:06+08:00 Synology_NAS avahi.sh[13935]: AFP Time Machine Status: Disable
+2024-09-16T19:33:06+08:00 Synology_NAS avahi.sh[13935]: SMB Time Machine Status: Disable
+2024-09-16T19:33:06+08:00 Synology_NAS avahi.sh[13953]: AFP Time Machine Status: Disable
+2024-09-16T19:33:06+08:00 Synology_NAS avahi.sh[13953]: SMB Time Machine Status: Disable
+2024-09-16T19:33:06+08:00 Synology_NAS avahi-daemon[13971]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-17T04:54:30+08:00 Synology_NAS avahi.sh[20362]: AFP Time Machine Status: Disable
+2024-09-17T04:54:30+08:00 Synology_NAS avahi.sh[20362]: SMB Time Machine Status: Disable
+2024-09-17T04:58:34+08:00 Synology_NAS avahi.sh[9562]: AFP Time Machine Status: Disable
+2024-09-17T04:58:35+08:00 Synology_NAS avahi.sh[9562]: SMB Time Machine Status: Disable
+2024-09-17T04:58:35+08:00 Synology_NAS avahi-daemon[9812]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-17T04:58:46+08:00 Synology_NAS avahi.sh[13943]: AFP Time Machine Status: Disable
+2024-09-17T04:58:46+08:00 Synology_NAS avahi.sh[13943]: SMB Time Machine Status: Disable
+2024-09-17T04:58:46+08:00 Synology_NAS avahi.sh[13961]: AFP Time Machine Status: Disable
+2024-09-17T04:58:46+08:00 Synology_NAS avahi.sh[13961]: SMB Time Machine Status: Disable
+2024-09-17T04:58:46+08:00 Synology_NAS avahi-daemon[13997]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-17T05:46:37+08:00 Synology_NAS avahi.sh[1826]: AFP Time Machine Status: Disable
+2024-09-17T05:46:37+08:00 Synology_NAS avahi.sh[1826]: SMB Time Machine Status: Disable
+2024-09-17T05:50:44+08:00 Synology_NAS avahi.sh[9551]: AFP Time Machine Status: Disable
+2024-09-17T05:50:44+08:00 Synology_NAS avahi.sh[9551]: SMB Time Machine Status: Disable
+2024-09-17T05:50:45+08:00 Synology_NAS avahi-daemon[9834]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-17T05:50:55+08:00 Synology_NAS avahi.sh[13973]: AFP Time Machine Status: Disable
+2024-09-17T05:50:55+08:00 Synology_NAS avahi.sh[13973]: SMB Time Machine Status: Disable
+2024-09-17T05:50:55+08:00 Synology_NAS avahi.sh[13996]: AFP Time Machine Status: Disable
+2024-09-17T05:50:55+08:00 Synology_NAS avahi.sh[13996]: SMB Time Machine Status: Disable
+2024-09-17T05:50:55+08:00 Synology_NAS avahi-daemon[14024]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-17T10:41:53+08:00 Synology_NAS avahi.sh[3764]: AFP Time Machine Status: Disable
+2024-09-17T10:41:53+08:00 Synology_NAS avahi.sh[3764]: SMB Time Machine Status: Disable
+2024-09-17T10:45:59+08:00 Synology_NAS avahi.sh[9575]: AFP Time Machine Status: Disable
+2024-09-17T10:45:59+08:00 Synology_NAS avahi.sh[9575]: SMB Time Machine Status: Disable
+2024-09-17T10:46:00+08:00 Synology_NAS avahi-daemon[9748]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-17T10:46:09+08:00 Synology_NAS avahi.sh[13942]: AFP Time Machine Status: Disable
+2024-09-17T10:46:09+08:00 Synology_NAS avahi.sh[13942]: SMB Time Machine Status: Disable
+2024-09-17T10:46:09+08:00 Synology_NAS avahi.sh[13962]: AFP Time Machine Status: Disable
+2024-09-17T10:46:09+08:00 Synology_NAS avahi.sh[13962]: SMB Time Machine Status: Disable
+2024-09-17T10:46:09+08:00 Synology_NAS avahi-daemon[13988]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-20T07:36:41+08:00 Synology_NAS avahi.sh[8331]: AFP Time Machine Status: Disable
+2024-09-20T07:36:41+08:00 Synology_NAS avahi.sh[8331]: SMB Time Machine Status: Disable
+2024-09-20T07:51:17+08:00 Synology_NAS avahi.sh[9694]: AFP Time Machine Status: Disable
+2024-09-20T07:51:17+08:00 Synology_NAS avahi.sh[9694]: SMB Time Machine Status: Disable
+2024-09-20T07:51:17+08:00 Synology_NAS avahi-daemon[10030]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-20T10:34:45+08:00 Synology_NAS avahi.sh[32713]: AFP Time Machine Status: Disable
+2024-09-20T10:34:45+08:00 Synology_NAS avahi.sh[32726]: AFP Time Machine Status: Disable
+2024-09-20T10:34:45+08:00 Synology_NAS avahi-daemon[32740]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-20T11:29:03+08:00 Synology_NAS avahi.sh[507]: AFP Time Machine Status: Disable
+2024-09-20T11:29:03+08:00 Synology_NAS avahi.sh[507]: SMB Time Machine Status: Disable
+2024-09-20T11:34:35+08:00 Synology_NAS avahi.sh[9742]: AFP Time Machine Status: Disable
+2024-09-20T11:34:36+08:00 Synology_NAS avahi.sh[9742]: SMB Time Machine Status: Disable
+2024-09-20T11:34:36+08:00 Synology_NAS avahi-daemon[10012]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-20T11:34:48+08:00 Synology_NAS avahi.sh[14587]: AFP Time Machine Status: Disable
+2024-09-20T11:34:48+08:00 Synology_NAS avahi.sh[14587]: SMB Time Machine Status: Disable
+2024-09-20T11:34:48+08:00 Synology_NAS avahi.sh[14635]: AFP Time Machine Status: Disable
+2024-09-20T11:34:48+08:00 Synology_NAS avahi.sh[14635]: SMB Time Machine Status: Disable
+2024-09-20T11:34:48+08:00 Synology_NAS avahi-daemon[14665]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-21T07:05:11+08:00 Synology_NAS avahi.sh[30512]: AFP Time Machine Status: Disable
+2024-09-21T07:05:11+08:00 Synology_NAS avahi.sh[30526]: AFP Time Machine Status: Disable
+2024-09-21T07:05:11+08:00 Synology_NAS avahi-daemon[30538]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-21T07:05:19+08:00 Synology_NAS avahi.sh[31002]: AFP Time Machine Status: Disable
+2024-09-21T07:05:20+08:00 Synology_NAS avahi.sh[31016]: AFP Time Machine Status: Disable
+2024-09-21T07:05:20+08:00 Synology_NAS avahi-daemon[31028]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-09-23T23:45:48+08:00 Synology_NAS avahi.sh[10480]: AFP Time Machine Status: Disable
+2024-09-23T23:45:48+08:00 Synology_NAS avahi.sh[10507]: AFP Time Machine Status: Disable
+2024-09-26T12:37:22+08:00 Synology_NAS avahi.sh[27961]: AFP Time Machine Status: Disable
+2024-09-26T12:37:22+08:00 Synology_NAS avahi.sh[27974]: AFP Time Machine Status: Disable
+2024-09-29T13:21:52+08:00 Synology_NAS avahi.sh[24399]: AFP Time Machine Status: Disable
+2024-09-29T13:21:52+08:00 Synology_NAS avahi.sh[24437]: AFP Time Machine Status: Disable
+2024-10-05T01:52:34+08:00 Synology_NAS avahi.sh[10948]: AFP Time Machine Status: Disable
+2024-10-05T01:52:34+08:00 Synology_NAS avahi.sh[10963]: AFP Time Machine Status: Disable
+2024-10-05T02:38:48+08:00 Synology_NAS avahi.sh[30717]: AFP Time Machine Status: Disable
+2024-10-05T02:38:48+08:00 Synology_NAS avahi.sh[30751]: AFP Time Machine Status: Disable
+2024-10-05T02:46:08+08:00 Synology_NAS avahi.sh[6806]: AFP Time Machine Status: Disable
+2024-10-05T02:46:08+08:00 Synology_NAS avahi.sh[6819]: AFP Time Machine Status: Disable
+2024-10-05T03:47:23+08:00 Synology_NAS avahi.sh[4805]: AFP Time Machine Status: Disable
+2024-10-05T03:47:23+08:00 Synology_NAS avahi.sh[4824]: AFP Time Machine Status: Disable
+2024-10-05T07:48:21+08:00 Synology_NAS avahi.sh[5935]: AFP Time Machine Status: Disable
+2024-10-05T07:48:21+08:00 Synology_NAS avahi.sh[5961]: AFP Time Machine Status: Disable
+2024-10-05T07:48:22+08:00 Synology_NAS avahi-daemon[6039]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-05T07:50:13+08:00 Synology_NAS avahi.sh[13034]: AFP Time Machine Status: Disable
+2024-10-05T07:50:13+08:00 Synology_NAS avahi.sh[13050]: AFP Time Machine Status: Disable
+2024-10-05T08:01:25+08:00 Synology_NAS avahi.sh[21082]: AFP Time Machine Status: Disable
+2024-10-05T08:01:25+08:00 Synology_NAS avahi.sh[21098]: AFP Time Machine Status: Disable
+2024-10-05T08:01:30+08:00 Synology_NAS avahi.sh[21884]: AFP Time Machine Status: Disable
+2024-10-05T08:01:31+08:00 Synology_NAS avahi.sh[21897]: AFP Time Machine Status: Disable
+2024-10-05T08:01:41+08:00 Synology_NAS avahi.sh[22090]: AFP Time Machine Status: Disable
+2024-10-05T08:01:41+08:00 Synology_NAS avahi.sh[22106]: AFP Time Machine Status: Disable
+2024-10-05T08:01:47+08:00 Synology_NAS avahi.sh[23123]: AFP Time Machine Status: Disable
+2024-10-05T08:01:47+08:00 Synology_NAS avahi.sh[23148]: AFP Time Machine Status: Disable
+2024-10-05T08:01:47+08:00 Synology_NAS avahi-daemon[23161]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-05T08:32:13+08:00 Synology_NAS avahi.sh[13206]: AFP Time Machine Status: Disable
+2024-10-05T08:32:13+08:00 Synology_NAS avahi.sh[13223]: AFP Time Machine Status: Disable
+2024-10-05T08:35:35+08:00 Synology_NAS avahi.sh[16170]: AFP Time Machine Status: Disable
+2024-10-05T08:35:35+08:00 Synology_NAS avahi.sh[16183]: AFP Time Machine Status: Disable
+2024-10-05T08:35:35+08:00 Synology_NAS avahi-daemon[16428]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-05T22:11:23+08:00 Synology_NAS avahi.sh[19880]: AFP Time Machine Status: Disable
+2024-10-05T22:11:23+08:00 Synology_NAS avahi.sh[19908]: AFP Time Machine Status: Disable
+2024-10-05T22:11:24+08:00 Synology_NAS avahi-daemon[19941]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-05T22:30:48+08:00 Synology_NAS avahi.sh[26557]: AFP Time Machine Status: Disable
+2024-10-05T22:30:48+08:00 Synology_NAS avahi.sh[26631]: AFP Time Machine Status: Disable
+2024-10-05T22:30:48+08:00 Synology_NAS avahi-daemon[26646]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-05T23:26:06+08:00 Synology_NAS avahi.sh[17492]: AFP Time Machine Status: Disable
+2024-10-05T23:26:06+08:00 Synology_NAS avahi.sh[17569]: AFP Time Machine Status: Disable
+2024-10-05T23:26:06+08:00 Synology_NAS avahi-daemon[17584]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-06T06:04:07+08:00 Synology_NAS avahi.sh[28743]: AFP Time Machine Status: Disable
+2024-10-06T06:04:07+08:00 Synology_NAS avahi.sh[28776]: AFP Time Machine Status: Disable
+2024-10-06T06:04:08+08:00 Synology_NAS avahi-daemon[28811]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-06T06:04:38+08:00 Synology_NAS avahi.sh[30204]: AFP Time Machine Status: Disable
+2024-10-06T06:04:38+08:00 Synology_NAS avahi.sh[30225]: AFP Time Machine Status: Disable
+2024-10-06T06:04:38+08:00 Synology_NAS avahi-daemon[30257]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-06T06:05:23+08:00 Synology_NAS avahi.sh[31563]: AFP Time Machine Status: Disable
+2024-10-06T06:05:23+08:00 Synology_NAS avahi.sh[31590]: AFP Time Machine Status: Disable
+2024-10-06T06:05:23+08:00 Synology_NAS avahi-daemon[31621]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-06T06:13:29+08:00 Synology_NAS avahi.sh[5430]: AFP Time Machine Status: Disable
+2024-10-06T06:13:29+08:00 Synology_NAS avahi.sh[5443]: AFP Time Machine Status: Disable
+2024-10-06T06:13:30+08:00 Synology_NAS avahi-daemon[5491]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-06T06:13:51+08:00 Synology_NAS avahi.sh[5978]: AFP Time Machine Status: Disable
+2024-10-06T06:13:51+08:00 Synology_NAS avahi.sh[6013]: AFP Time Machine Status: Disable
+2024-10-06T06:13:51+08:00 Synology_NAS avahi-daemon[6042]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-06T06:15:14+08:00 Yasuraokaa_Site avahi.sh[7058]: AFP Time Machine Status: Disable
+2024-10-06T06:15:14+08:00 Yasuraokaa_Site avahi.sh[7058]: SMB Time Machine Status: Disable
+2024-10-06T06:15:15+08:00 Yasuraokaa_Site avahi.sh[7183]: AFP Time Machine Status: Disable
+2024-10-06T06:15:16+08:00 Yasuraokaa_Site avahi.sh[7183]: SMB Time Machine Status: Disable
+2024-10-06T06:15:16+08:00 Yasuraokaa_Site avahi-daemon[7339]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-06T06:19:30+08:00 Yasuraokaa_Site avahi.sh[10435]: AFP Time Machine Status: Disable
+2024-10-06T06:19:30+08:00 Yasuraokaa_Site avahi.sh[10523]: AFP Time Machine Status: Disable
+2024-10-06T06:19:30+08:00 Yasuraokaa_Site avahi-daemon[10536]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-06T06:26:20+08:00 Yasuraokaa_Site avahi.sh[15509]: AFP Time Machine Status: Disable
+2024-10-06T06:26:20+08:00 Yasuraokaa_Site avahi.sh[15550]: AFP Time Machine Status: Disable
+2024-10-06T06:26:20+08:00 Yasuraokaa_Site avahi-daemon[15580]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site avahi.sh[3112]: AFP Time Machine Status: Disable
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site avahi.sh[3112]: SMB Time Machine Status: Disable
+2024-10-09T04:33:18+08:00 Yasuraokaa_Site avahi.sh[9832]: AFP Time Machine Status: Disable
+2024-10-09T04:33:18+08:00 Yasuraokaa_Site avahi.sh[9832]: SMB Time Machine Status: Disable
+2024-10-09T04:33:19+08:00 Yasuraokaa_Site avahi-daemon[10241]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site avahi.sh[25076]: AFP Time Machine Status: Disable
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site avahi.sh[25076]: SMB Time Machine Status: Disable
+2024-11-05T07:06:35+08:00 Yasuraokaa_Site avahi.sh[9892]: AFP Time Machine Status: Disable
+2024-11-05T07:06:35+08:00 Yasuraokaa_Site avahi.sh[9892]: SMB Time Machine Status: Disable
+2024-11-05T07:06:36+08:00 Yasuraokaa_Site avahi-daemon[10192]: cname_load_conf failed:/var/tmp/nginx/avahi-aliases.conf

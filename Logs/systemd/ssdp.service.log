@@ -1,0 +1,1055 @@
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10536]: INTERFACE=" -i eth0 -i eth1"
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10536]: [nginx] reloaded.
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: --
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: Register [DSM] to ssdpd
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: Request on [eth0]
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: (15): upnp:rootdevice
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: (23): Synology/DSM/10.0.0.223
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: Connected.
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: ----
+2024-09-08T17:16:53-07:00 SynologyNAS ssdp.sh[10707]: done.
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23186]: [nginx] reloaded.
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23376]: INTERFACE=" -i eth0 -i eth1"
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23376]: [nginx] reloaded.
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: --
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: Register [DSM] to ssdpd
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: Request on [eth0]
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: (15): upnp:rootdevice
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: (23): Synology/DSM/10.0.0.223
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: Connected.
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: ----
+2024-09-08T17:19:35-07:00 Synology_NAS ssdp.sh[23469]: done.
+2024-09-09T08:24:45+08:00 Synology_NAS ssdp.sh[26583]: [nginx] reloaded.
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10856]: INTERFACE=" -i eth0 -i eth1"
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10856]: [nginx] reloaded.
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: --
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: Register [DSM] to ssdpd
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: Request on [eth0]
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: (15): upnp:rootdevice
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: (23): Synology/DSM/10.0.0.223
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: Connected.
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: ----
+2024-09-10T07:08:22+08:00 Synology_NAS ssdp.sh[10935]: done.
+2024-09-11T19:57:37+08:00 Synology_NAS ssdp.sh[932]: [nginx] reloaded.
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11125]: INTERFACE=" -i eth0 -i eth1"
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11125]: [nginx] reloaded.
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: --
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: Register [DSM] to ssdpd
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: Request on [eth0]
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: (15): upnp:rootdevice
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: (23): Synology/DSM/10.0.0.223
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: Connected.
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: ----
+2024-09-11T20:05:39+08:00 Synology_NAS ssdp.sh[11235]: done.
+2024-09-12T00:26:24+08:00 Synology_NAS ssdp.sh[18454]: [nginx] reloaded.
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12731]: INTERFACE=" -i eth0 -i eth1"
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12731]: [nginx] reloaded.
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: --
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: Register [DSM] to ssdpd
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: Request on [eth0]
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: (15): upnp:rootdevice
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: (23): Synology/DSM/10.0.0.223
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: Connected.
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: ----
+2024-09-12T00:30:29+08:00 Synology_NAS ssdp.sh[12824]: done.
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26151]: [nginx] reloaded.
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26316]: INTERFACE=" -i eth0 -i eth1"
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26316]: [nginx] reloaded.
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: --
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: Register [DSM] to ssdpd
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: Request on [eth0]
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: (15): upnp:rootdevice
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: (23): Synology/DSM/10.0.0.223
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: Connected.
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: Request on [eth1]
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: (15): upnp:rootdevice
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: (26): Synology/DSM/169.254.89.82
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: (48): http://169.254.89.82:5000/ssdp/desc-DSM-eth1.xml
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: Connected.
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: ----
+2024-09-13T15:31:45+08:00 Synology_NAS ssdp.sh[26389]: done.
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26751]: [nginx] reloaded.
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26850]: INTERFACE=" -i eth0 -i eth1"
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26850]: [nginx] reloaded.
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: --
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: Register [DSM] to ssdpd
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: Request on [eth0]
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: (15): upnp:rootdevice
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: (23): Synology/DSM/10.0.0.223
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: Connected.
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: ----
+2024-09-13T15:32:13+08:00 Synology_NAS ssdp.sh[26931]: done.
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27396]: [nginx] reloaded.
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27465]: INTERFACE=" -i eth0 -i eth1"
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27465]: [nginx] reloaded.
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: --
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: Register [DSM] to ssdpd
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: Request on [eth0]
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: (15): upnp:rootdevice
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: (23): Synology/DSM/10.0.0.223
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: Connected.
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: Request on [eth1]
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: (15): upnp:rootdevice
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: (26): Synology/DSM/169.254.89.82
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: (48): http://169.254.89.82:5000/ssdp/desc-DSM-eth1.xml
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: Connected.
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: ----
+2024-09-13T15:32:34+08:00 Synology_NAS ssdp.sh[27562]: done.
+2024-09-13T15:58:01+08:00 Synology_NAS ssdp.sh[29572]: [nginx] reloaded.
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[29749]: INTERFACE=" -i eth0 -i eth1"
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[29946]: [nginx] reloaded.
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30005]: INTERFACE=" -i eth0 -i eth1"
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30005]: [nginx] reloaded.
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: --
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: Register [DSM] to ssdpd
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: Request on [eth0]
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: (15): upnp:rootdevice
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: (23): Synology/DSM/10.0.0.223
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: Connected.
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: Request on [eth1]
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: (15): upnp:rootdevice
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: (23): Synology/DSM/10.0.0.224
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: Connected.
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: ----
+2024-09-13T15:58:02+08:00 Synology_NAS ssdp.sh[30111]: done.
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3511]: [nginx] reloaded.
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3553]: INTERFACE=" -i eth0 -i eth1"
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3553]: [nginx] reloaded.
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: --
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: Register [DSM] to ssdpd
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: Request on [eth1]
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: (15): upnp:rootdevice
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: (23): Synology/DSM/10.0.0.224
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: Connected.
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: ----
+2024-09-13T16:10:25+08:00 Synology_NAS ssdp.sh[3625]: done.
+2024-09-13T16:10:31+08:00 Synology_NAS ssdp.sh[4042]: [nginx] reloaded.
+2024-09-13T16:10:32+08:00 Synology_NAS ssdp.sh[4189]: INTERFACE=" -i eth0 -i eth1"
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4189]: [nginx] reloaded.
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: --
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: Register [DSM] to ssdpd
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: Request on [eth0]
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: (15): upnp:rootdevice
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: (23): Synology/DSM/10.0.0.223
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: Connected.
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: Request on [eth1]
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: (15): upnp:rootdevice
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: (23): Synology/DSM/10.0.0.224
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: Connected.
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: ----
+2024-09-13T16:10:34+08:00 Synology_NAS ssdp.sh[4305]: done.
+2024-09-14T22:43:06+08:00 Synology_NAS ssdp.sh[10115]: [nginx] reloaded.
+2024-09-14T23:16:56+08:00 Synology_NAS ssdp.sh[13895]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[13895]: [nginx] reloaded.
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: --
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: Register [DSM] to ssdpd
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: Request on [eth0]
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: (15): upnp:rootdevice
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: Connected.
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: Request on [eth1]
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: (15): upnp:rootdevice
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: Connected.
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: ----
+2024-09-14T23:16:57+08:00 Synology_NAS ssdp.sh[14185]: done.
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20097]: [nginx] reloaded.
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20186]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20186]: [nginx] reloaded.
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: --
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: Register [DSM] to ssdpd
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: Request on [eth0]
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: (15): upnp:rootdevice
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: Connected.
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: ----
+2024-09-14T23:18:57+08:00 Synology_NAS ssdp.sh[20269]: done.
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20712]: [nginx] reloaded.
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20789]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20789]: [nginx] reloaded.
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: --
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: Register [DSM] to ssdpd
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: Request on [eth0]
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: (15): upnp:rootdevice
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: Connected.
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: Request on [eth1]
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: (15): upnp:rootdevice
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: Connected.
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: ----
+2024-09-14T23:19:37+08:00 Synology_NAS ssdp.sh[20880]: done.
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21585]: [nginx] reloaded.
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21683]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21683]: [nginx] reloaded.
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: --
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: Register [DSM] to ssdpd
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: Request on [eth0]
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: (15): upnp:rootdevice
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: Connected.
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: ----
+2024-09-14T23:28:44+08:00 Synology_NAS ssdp.sh[21767]: done.
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22208]: [nginx] reloaded.
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22300]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22300]: [nginx] reloaded.
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: --
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: Register [DSM] to ssdpd
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: Request on [eth0]
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: (15): upnp:rootdevice
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: Connected.
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: Request on [eth1]
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: (15): upnp:rootdevice
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: Connected.
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: ----
+2024-09-14T23:29:13+08:00 Synology_NAS ssdp.sh[22387]: done.
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[22919]: [nginx] reloaded.
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23017]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23017]: [nginx] reloaded.
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: --
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: Register [DSM] to ssdpd
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: Request on [eth0]
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: (15): upnp:rootdevice
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: Connected.
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: ----
+2024-09-14T23:32:42+08:00 Synology_NAS ssdp.sh[23090]: done.
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23347]: [nginx] reloaded.
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23449]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23449]: [nginx] reloaded.
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: --
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: Register [DSM] to ssdpd
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: Request on [eth0]
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: (15): upnp:rootdevice
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: Connected.
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: Request on [eth1]
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: (15): upnp:rootdevice
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: Connected.
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: ----
+2024-09-14T23:32:44+08:00 Synology_NAS ssdp.sh[23517]: done.
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[23947]: [nginx] reloaded.
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24074]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24074]: [nginx] reloaded.
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: --
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: Register [DSM] to ssdpd
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: Request on [eth0]
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: (15): upnp:rootdevice
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: Connected.
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: ----
+2024-09-14T23:33:06+08:00 Synology_NAS ssdp.sh[24140]: done.
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24561]: [nginx] reloaded.
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24659]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24659]: [nginx] reloaded.
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: --
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: Register [DSM] to ssdpd
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: Request on [eth0]
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: (15): upnp:rootdevice
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: Connected.
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: Request on [eth1]
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: (15): upnp:rootdevice
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: Connected.
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: ----
+2024-09-14T23:34:12+08:00 Synology_NAS ssdp.sh[24722]: done.
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25002]: [nginx] reloaded.
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25112]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25112]: [nginx] reloaded.
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: --
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: Register [DSM] to ssdpd
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: Request on [eth0]
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: (15): upnp:rootdevice
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: Connected.
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: ----
+2024-09-14T23:34:14+08:00 Synology_NAS ssdp.sh[25183]: done.
+2024-09-14T23:39:32+08:00 Synology_NAS ssdp.sh[25764]: [nginx] reloaded.
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25899]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25899]: [nginx] reloaded.
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: --
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: Register [DSM] to ssdpd
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: Request on [eth0]
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: (15): upnp:rootdevice
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: Connected.
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: Request on [eth1]
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: (15): upnp:rootdevice
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: Connected.
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: ----
+2024-09-14T23:39:33+08:00 Synology_NAS ssdp.sh[25968]: done.
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26334]: [nginx] reloaded.
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26446]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26446]: [nginx] reloaded.
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: --
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: Register [DSM] to ssdpd
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: Request on [eth0]
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: (15): upnp:rootdevice
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: Connected.
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: ----
+2024-09-14T23:39:54+08:00 Synology_NAS ssdp.sh[26512]: done.
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[26965]: [nginx] reloaded.
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27061]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27061]: [nginx] reloaded.
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: --
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: Register [DSM] to ssdpd
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: Request on [eth0]
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: (15): upnp:rootdevice
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: Connected.
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: Request on [eth1]
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: (15): upnp:rootdevice
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: Connected.
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: ----
+2024-09-14T23:40:40+08:00 Synology_NAS ssdp.sh[27146]: done.
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27383]: [nginx] reloaded.
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27480]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27480]: [nginx] reloaded.
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: --
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: Register [DSM] to ssdpd
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: Request on [eth0]
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: (15): upnp:rootdevice
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: Connected.
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: ----
+2024-09-14T23:40:43+08:00 Synology_NAS ssdp.sh[27534]: done.
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28067]: [nginx] reloaded.
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28145]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28145]: [nginx] reloaded.
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: --
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: Register [DSM] to ssdpd
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: Request on [eth0]
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: (15): upnp:rootdevice
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: Connected.
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: Request on [eth1]
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: (15): upnp:rootdevice
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: Connected.
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: ----
+2024-09-14T23:43:22+08:00 Synology_NAS ssdp.sh[28245]: done.
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28505]: [nginx] reloaded.
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28604]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28604]: [nginx] reloaded.
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: --
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: Register [DSM] to ssdpd
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: Request on [eth0]
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: (15): upnp:rootdevice
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: Connected.
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: ----
+2024-09-14T23:43:24+08:00 Synology_NAS ssdp.sh[28675]: done.
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29134]: [nginx] reloaded.
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29223]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29223]: [nginx] reloaded.
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: --
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: Register [DSM] to ssdpd
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: Request on [eth0]
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: (15): upnp:rootdevice
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: Connected.
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: Request on [eth1]
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: (15): upnp:rootdevice
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: Connected.
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: ----
+2024-09-14T23:44:29+08:00 Synology_NAS ssdp.sh[29298]: done.
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29709]: [nginx] reloaded.
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29812]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29812]: [nginx] reloaded.
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: --
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: Register [DSM] to ssdpd
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: Request on [eth0]
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: (15): upnp:rootdevice
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: Connected.
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: ----
+2024-09-14T23:44:46+08:00 Synology_NAS ssdp.sh[29888]: done.
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30330]: [nginx] reloaded.
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30427]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30427]: [nginx] reloaded.
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: --
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: Register [DSM] to ssdpd
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: Request on [eth0]
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: (15): upnp:rootdevice
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: Connected.
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: Request on [eth1]
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: (15): upnp:rootdevice
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: Connected.
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: ----
+2024-09-14T23:45:11+08:00 Synology_NAS ssdp.sh[30515]: done.
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30774]: [nginx] reloaded.
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30867]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30867]: [nginx] reloaded.
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: --
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: Register [DSM] to ssdpd
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: Request on [eth0]
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: (15): upnp:rootdevice
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: Connected.
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: ----
+2024-09-14T23:45:14+08:00 Synology_NAS ssdp.sh[30946]: done.
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31391]: [nginx] reloaded.
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31463]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31463]: [nginx] reloaded.
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: --
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: Register [DSM] to ssdpd
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: Request on [eth0]
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: (15): upnp:rootdevice
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: Connected.
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: Request on [eth1]
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: (15): upnp:rootdevice
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: Connected.
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: ----
+2024-09-14T23:45:52+08:00 Synology_NAS ssdp.sh[31567]: done.
+2024-09-14T23:55:05+08:00 Synology_NAS ssdp.sh[32307]: [nginx] reloaded.
+2024-09-14T23:55:05+08:00 Synology_NAS ssdp.sh[32416]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32416]: [nginx] reloaded.
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: --
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: Register [DSM] to ssdpd
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: Request on [eth0]
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: (15): upnp:rootdevice
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: Connected.
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: ----
+2024-09-14T23:55:06+08:00 Synology_NAS ssdp.sh[32477]: done.
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[32753]: [nginx] reloaded.
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[378]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[378]: [nginx] reloaded.
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: --
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: Register [DSM] to ssdpd
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: Request on [eth0]
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: (15): upnp:rootdevice
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: Connected.
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: Request on [eth1]
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: (15): upnp:rootdevice
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: Connected.
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: ----
+2024-09-14T23:55:08+08:00 Synology_NAS ssdp.sh[459]: done.
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[878]: [nginx] reloaded.
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[969]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[969]: [nginx] reloaded.
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: --
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: Register [DSM] to ssdpd
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: Request on [eth0]
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: (15): upnp:rootdevice
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: Connected.
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: ----
+2024-09-14T23:55:29+08:00 Synology_NAS ssdp.sh[1039]: done.
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1465]: [nginx] reloaded.
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1563]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1563]: [nginx] reloaded.
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: --
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: Register [DSM] to ssdpd
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: Request on [eth0]
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: (15): upnp:rootdevice
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: Connected.
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: Request on [eth1]
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: (15): upnp:rootdevice
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: Connected.
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: ----
+2024-09-14T23:55:44+08:00 Synology_NAS ssdp.sh[1651]: done.
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2130]: [nginx] reloaded.
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2241]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2241]: [nginx] reloaded.
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: --
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: Register [DSM] to ssdpd
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: Request on [eth1]
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: (15): upnp:rootdevice
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: Connected.
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: ----
+2024-09-14T23:57:27+08:00 Synology_NAS ssdp.sh[2301]: done.
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2738]: [nginx] reloaded.
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2837]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2837]: [nginx] reloaded.
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: --
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: Register [DSM] to ssdpd
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: Request on [eth0]
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: (15): upnp:rootdevice
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: Connected.
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: Request on [eth1]
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: (15): upnp:rootdevice
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: Connected.
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: ----
+2024-09-14T23:58:23+08:00 Synology_NAS ssdp.sh[2909]: done.
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3316]: [nginx] reloaded.
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3433]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3433]: [nginx] reloaded.
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: --
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: Register [DSM] to ssdpd
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: Request on [eth1]
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: (15): upnp:rootdevice
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: Connected.
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: ----
+2024-09-14T23:58:37+08:00 Synology_NAS ssdp.sh[3504]: done.
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[3938]: [nginx] reloaded.
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4033]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4033]: [nginx] reloaded.
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: --
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: Register [DSM] to ssdpd
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: Request on [eth0]
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: (15): upnp:rootdevice
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: Connected.
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: Request on [eth1]
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: (15): upnp:rootdevice
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: Connected.
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: ----
+2024-09-14T23:58:43+08:00 Synology_NAS ssdp.sh[4119]: done.
+2024-09-14T23:59:52+08:00 Synology_NAS ssdp.sh[5217]: [nginx] reloaded.
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5312]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5312]: [nginx] reloaded.
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: --
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: Register [DSM] to ssdpd
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: Request on [eth1]
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: (15): upnp:rootdevice
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: Connected.
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: ----
+2024-09-14T23:59:53+08:00 Synology_NAS ssdp.sh[5370]: done.
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[5828]: [nginx] reloaded.
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[5929]: INTERFACE=" -i eth0 -i eth1"
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[5929]: [nginx] reloaded.
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: --
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: Register [DSM] to ssdpd
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: Request on [eth0]
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: (15): upnp:rootdevice
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: (23): Synology/DSM/10.0.0.223
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: Connected.
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: Request on [eth1]
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: (15): upnp:rootdevice
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: (23): Synology/DSM/10.0.0.224
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: Connected.
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: ----
+2024-09-14T23:59:59+08:00 Synology_NAS ssdp.sh[6017]: done.
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12236]: [nginx] reloaded.
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12477]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12477]: [nginx] reloaded.
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: --
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: Register [DSM] to ssdpd
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: Request on [eth1]
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: (15): upnp:rootdevice
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: (23): Synology/DSM/10.0.0.224
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: Connected.
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: ----
+2024-09-15T00:05:21+08:00 Synology_NAS ssdp.sh[12534]: done.
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[12897]: [nginx] reloaded.
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13006]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13006]: [nginx] reloaded.
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: --
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: Register [DSM] to ssdpd
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: Request on [eth0]
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: (15): upnp:rootdevice
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: (23): Synology/DSM/10.0.0.223
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: (45): http://10.0.0.223:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: Connected.
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: Request on [eth1]
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: (15): upnp:rootdevice
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: (23): Synology/DSM/10.0.0.224
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: Connected.
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: ----
+2024-09-15T00:05:27+08:00 Synology_NAS ssdp.sh[13082]: done.
+2024-09-15T00:50:04+08:00 Synology_NAS ssdp.sh[26337]: [nginx] reloaded.
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[13958]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[13958]: [nginx] reloaded.
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: --
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: Register [DSM] to ssdpd
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: Request on [eth0]
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: (15): upnp:rootdevice
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: (23): Synology/DSM/10.0.0.224
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: Connected.
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: Request on [eth1]
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: (15): upnp:rootdevice
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: (23): Synology/DSM/10.0.0.224
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: Connected.
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: ----
+2024-09-15T01:14:21+08:00 Synology_NAS ssdp.sh[14054]: done.
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13787]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13787]: [nginx] reloaded.
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: --
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: Register [DSM] to ssdpd
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: Request on [eth0]
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: (15): upnp:rootdevice
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: (23): Synology/DSM/10.0.0.224
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: Connected.
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: Request on [eth1]
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: (15): upnp:rootdevice
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: (23): Synology/DSM/10.0.0.224
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: Connected.
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: ----
+2024-09-15T01:22:07+08:00 Synology_NAS ssdp.sh[13941]: done.
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14196]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14196]: [nginx] reloaded.
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: --
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: Register [DSM] to ssdpd
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: Request on [eth0]
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: (15): upnp:rootdevice
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: (23): Synology/DSM/10.0.0.224
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: Connected.
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: Request on [eth1]
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: (15): upnp:rootdevice
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf2::upnp:rootdevice
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: (23): Synology/DSM/10.0.0.224
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth1.xml
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: Connected.
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: ----
+2024-09-15T01:31:02+08:00 Synology_NAS ssdp.sh[14305]: done.
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12089]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12089]: [nginx] reloaded.
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: --
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: Register [DSM] to ssdpd
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: Request on [eth0]
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: (15): upnp:rootdevice
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: (23): Synology/DSM/10.0.0.224
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: Connected.
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: ----
+2024-09-15T05:06:18+08:00 Synology_NAS ssdp.sh[12164]: done.
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14116]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14116]: [nginx] reloaded.
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: --
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: Register [DSM] to ssdpd
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: Request on [eth0]
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: (15): upnp:rootdevice
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: (23): Synology/DSM/10.0.0.224
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: Connected.
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: ----
+2024-09-15T05:15:22+08:00 Synology_NAS ssdp.sh[14251]: done.
+2024-09-15T16:12:36+08:00 Synology_NAS ssdp.sh[24116]: [nginx] reloaded.
+2024-09-15T16:12:37+08:00 Synology_NAS ssdp.sh[24250]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T16:12:37+08:00 Synology_NAS ssdp.sh[24250]: [nginx] reloaded.
+2024-09-15T16:12:37+08:00 Synology_NAS ssdp.sh[24297]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T16:12:37+08:00 Synology_NAS ssdp.sh[24297]: Invalid IFaces in [DSM] section, or no active interface (0). Skip.
+2024-09-15T16:12:37+08:00 Synology_NAS ssdp.sh[24297]: --
+2024-09-15T16:12:37+08:00 Synology_NAS ssdp.sh[24297]: Register [DSM] to ssdpd
+2024-09-15T16:12:37+08:00 Synology_NAS ssdp.sh[24297]: done.
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24531]: [nginx] reloaded.
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24634]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24634]: [nginx] reloaded.
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: --
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: Register [DSM] to ssdpd
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: Request on [eth0]
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: (15): upnp:rootdevice
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: (23): Synology/DSM/10.0.0.224
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: Connected.
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: ----
+2024-09-15T16:12:39+08:00 Synology_NAS ssdp.sh[24699]: done.
+2024-09-15T16:13:23+08:00 Synology_NAS ssdp.sh[25218]: [nginx] reloaded.
+2024-09-15T16:13:23+08:00 Synology_NAS ssdp.sh[25331]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T16:13:23+08:00 Synology_NAS ssdp.sh[25331]: [nginx] reloaded.
+2024-09-15T16:13:23+08:00 Synology_NAS ssdp.sh[25403]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T16:13:23+08:00 Synology_NAS ssdp.sh[25403]: Invalid IFaces in [DSM] section, or no active interface (0). Skip.
+2024-09-15T16:13:23+08:00 Synology_NAS ssdp.sh[25403]: --
+2024-09-15T16:13:23+08:00 Synology_NAS ssdp.sh[25403]: Register [DSM] to ssdpd
+2024-09-15T16:13:23+08:00 Synology_NAS ssdp.sh[25403]: done.
+2024-09-15T16:13:28+08:00 Synology_NAS ssdp.sh[25833]: [nginx] reloaded.
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[25936]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[25936]: [nginx] reloaded.
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: --
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: Register [DSM] to ssdpd
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: Request on [eth0]
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: (15): upnp:rootdevice
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: (23): Synology/DSM/10.0.0.224
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: Connected.
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: ----
+2024-09-15T16:13:29+08:00 Synology_NAS ssdp.sh[26012]: done.
+2024-09-15T16:13:40+08:00 Synology_NAS ssdp.sh[26430]: [nginx] reloaded.
+2024-09-15T16:13:40+08:00 Synology_NAS ssdp.sh[26532]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T16:13:40+08:00 Synology_NAS ssdp.sh[26532]: [nginx] reloaded.
+2024-09-15T16:13:40+08:00 Synology_NAS ssdp.sh[26613]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T16:13:40+08:00 Synology_NAS ssdp.sh[26613]: Invalid IFaces in [DSM] section, or no active interface (0). Skip.
+2024-09-15T16:13:40+08:00 Synology_NAS ssdp.sh[26613]: --
+2024-09-15T16:13:40+08:00 Synology_NAS ssdp.sh[26613]: Register [DSM] to ssdpd
+2024-09-15T16:13:40+08:00 Synology_NAS ssdp.sh[26613]: done.
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27021]: [nginx] reloaded.
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27121]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27121]: [nginx] reloaded.
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: --
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: Register [DSM] to ssdpd
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: Request on [eth0]
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: (15): upnp:rootdevice
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: (23): Synology/DSM/10.0.0.224
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: Connected.
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: ----
+2024-09-15T16:13:49+08:00 Synology_NAS ssdp.sh[27189]: done.
+2024-09-15T16:14:59+08:00 Synology_NAS ssdp.sh[28062]: [nginx] reloaded.
+2024-09-15T16:14:59+08:00 Synology_NAS ssdp.sh[28160]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T16:14:59+08:00 Synology_NAS ssdp.sh[28160]: [nginx] reloaded.
+2024-09-15T16:14:59+08:00 Synology_NAS ssdp.sh[28243]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T16:14:59+08:00 Synology_NAS ssdp.sh[28243]: Invalid IFaces in [DSM] section, or no active interface (0). Skip.
+2024-09-15T16:14:59+08:00 Synology_NAS ssdp.sh[28243]: --
+2024-09-15T16:14:59+08:00 Synology_NAS ssdp.sh[28243]: Register [DSM] to ssdpd
+2024-09-15T16:14:59+08:00 Synology_NAS ssdp.sh[28243]: done.
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28664]: [nginx] reloaded.
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28769]: INTERFACE=" -i eth0 -i eth1"
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28769]: [nginx] reloaded.
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: --
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: Register [DSM] to ssdpd
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: Request on [eth0]
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: (15): upnp:rootdevice
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: (23): Synology/DSM/10.0.0.224
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: Connected.
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: ----
+2024-09-15T16:15:06+08:00 Synology_NAS ssdp.sh[28834]: done.
+2024-09-16T05:35:26+08:00 Synology_NAS ssdp.sh[10606]: [nginx] reloaded.
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13756]: INTERFACE=" -i eth0 -i eth1"
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13756]: [nginx] reloaded.
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: --
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: Register [DSM] to ssdpd
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: Request on [eth0]
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: (15): upnp:rootdevice
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: (23): Synology/DSM/10.0.0.224
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: Connected.
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: ----
+2024-09-16T05:39:44+08:00 Synology_NAS ssdp.sh[13870]: done.
+2024-09-16T19:28:48+08:00 Synology_NAS ssdp.sh[17601]: [nginx] reloaded.
+2024-09-16T19:33:05+08:00 Synology_NAS ssdp.sh[13815]: INTERFACE=" -i eth0 -i eth1"
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[13815]: [nginx] reloaded.
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: --
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: Register [DSM] to ssdpd
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: Request on [eth0]
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: (15): upnp:rootdevice
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: (23): Synology/DSM/10.0.0.224
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: Connected.
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: ----
+2024-09-16T19:33:06+08:00 Synology_NAS ssdp.sh[14051]: done.
+2024-09-17T04:54:30+08:00 Synology_NAS ssdp.sh[20363]: [nginx] reloaded.
+2024-09-17T04:58:46+08:00 Synology_NAS ssdp.sh[13994]: INTERFACE=" -i eth0 -i eth1"
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[13994]: [nginx] reloaded.
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: --
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: Register [DSM] to ssdpd
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: Request on [eth0]
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: (15): upnp:rootdevice
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: (23): Synology/DSM/10.0.0.224
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: Connected.
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: ----
+2024-09-17T04:58:47+08:00 Synology_NAS ssdp.sh[14256]: done.
+2024-09-17T05:46:37+08:00 Synology_NAS ssdp.sh[1834]: [nginx] reloaded.
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[13839]: INTERFACE=" -i eth0 -i eth1"
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[13839]: [nginx] reloaded.
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: --
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: Register [DSM] to ssdpd
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: Request on [eth0]
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: (15): upnp:rootdevice
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: (23): Synology/DSM/10.0.0.224
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: Connected.
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: ----
+2024-09-17T05:50:55+08:00 Synology_NAS ssdp.sh[14042]: done.
+2024-09-17T10:41:53+08:00 Synology_NAS ssdp.sh[3769]: [nginx] reloaded.
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[13817]: INTERFACE=" -i eth0 -i eth1"
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[13817]: [nginx] reloaded.
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: --
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: Register [DSM] to ssdpd
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: Request on [eth0]
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: (15): upnp:rootdevice
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: (23): Synology/DSM/10.0.0.224
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: Connected.
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: ----
+2024-09-17T10:46:09+08:00 Synology_NAS ssdp.sh[14008]: done.
+2024-09-20T07:36:41+08:00 Synology_NAS ssdp.sh[8332]: [nginx] reloaded.
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14098]: INTERFACE=" -i eth0 -i eth1"
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14098]: [nginx] reloaded.
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: --
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: Register [DSM] to ssdpd
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: Request on [eth0]
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: (15): upnp:rootdevice
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: (23): Synology/DSM/10.0.0.224
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: Connected.
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: ----
+2024-09-20T07:51:27+08:00 Synology_NAS ssdp.sh[14220]: done.
+2024-09-20T11:29:03+08:00 Synology_NAS ssdp.sh[505]: [nginx] reloaded.
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14596]: INTERFACE=" -i eth0 -i eth1"
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14596]: [nginx] reloaded.
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: --
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: Register [DSM] to ssdpd
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: Request on [eth0]
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: (15): upnp:rootdevice
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: (23): Synology/DSM/10.0.0.224
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: Connected.
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: ----
+2024-09-20T11:34:48+08:00 Synology_NAS ssdp.sh[14877]: done.
+2024-10-06T06:15:16+08:00 Yasuraokaa_Site ssdp.sh[7051]: [nginx] reloaded.
+2024-10-06T06:15:16+08:00 Yasuraokaa_Site ssdp.sh[7351]: INTERFACE=" -i eth0 -i eth1"
+2024-10-06T06:15:20+08:00 Yasuraokaa_Site ssdp.sh[7351]: [nginx] reloaded.
+2024-10-06T06:15:20+08:00 Yasuraokaa_Site ssdp.sh[7513]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: --
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: Register [DSM] to ssdpd
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: Request on [eth0]
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: (15): upnp:rootdevice
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: (23): Synology/DSM/10.0.0.224
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: Connected.
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: ----
+2024-10-06T06:15:21+08:00 Yasuraokaa_Site ssdp.sh[7513]: done.
+2024-10-09T04:29:15+08:00 Yasuraokaa_Site ssdp.sh[3111]: [nginx] reloaded.
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[14943]: INTERFACE=" -i eth0 -i eth1"
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[14943]: [nginx] reloaded.
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: --
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: Register [DSM] to ssdpd
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: Request on [eth0]
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: (15): upnp:rootdevice
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: (23): Synology/DSM/10.0.0.224
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: Connected.
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: ----
+2024-10-09T04:33:33+08:00 Yasuraokaa_Site ssdp.sh[15041]: done.
+2024-11-05T00:53:46+08:00 Yasuraokaa_Site ssdp.sh[25083]: [nginx] reloaded.
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15018]: INTERFACE=" -i eth0 -i eth1"
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15018]: [nginx] reloaded.
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: /usr/syno/bin/reg_ssdp_service /usr/syno/etc/ssdp/ssdp.conf
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: --
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: Register [DSM] to ssdpd
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: Request on [eth0]
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: (15): upnp:rootdevice
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: (58): uuid:73796E6F-6473-6D00-0000-a8b8e0031bf1::upnp:rootdevice
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: (23): Synology/DSM/10.0.0.224
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: (45): http://10.0.0.224:5000/ssdp/desc-DSM-eth0.xml
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: Connected.
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: ----
+2024-11-05T07:06:39+08:00 Yasuraokaa_Site ssdp.sh[15131]: done.

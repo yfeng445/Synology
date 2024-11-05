@@ -1,0 +1,2 @@
+2024-09-15T01:30:54+08:00 Synology_NAS synomibgrpcclient[11216]: sock_connect.cpp:51 (11216, 0) Failed to connect server [err: No such file or directory]
+2024-09-15T01:30:54+08:00 Synology_NAS synomibgrpcclient[11216]: /run/synoscgi-fastapi.sock APIRunner.cpp:1866 connection broken

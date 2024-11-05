@@ -1,0 +1,71 @@
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin preinst
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End preinst ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/mkdir -p /volume1/@appstore/StorageAnalyzer -m 755
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/mkdir -p /volume1/@appstore/StorageAnalyzer -m 755 ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/rm -rf /volume1/@appstore/StorageAnalyzer
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/rm -rf /volume1/@appstore/StorageAnalyzer ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZKWiVz/package /volume1/@appstore/StorageAnalyzer
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/mv -f /volume1/@tmp/synopkg/install.ZKWiVz/package /volume1/@appstore/StorageAnalyzer ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/rm -rf /var/packages/StorageAnalyzer
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/rm -rf /var/packages/StorageAnalyzer ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/mkdir -p /var/packages/StorageAnalyzer -m 755
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/mkdir -p /var/packages/StorageAnalyzer -m 755 ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/touch /var/packages/StorageAnalyzer/installing
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/touch /var/packages/StorageAnalyzer/installing ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZKWiVz/INFO /var/packages/StorageAnalyzer/INFO
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/mv -f /volume1/@tmp/synopkg/install.ZKWiVz/INFO /var/packages/StorageAnalyzer/INFO ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/rm -rf /var/packages/StorageAnalyzer/scripts
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/rm -rf /var/packages/StorageAnalyzer/scripts ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZKWiVz/scripts /var/packages/StorageAnalyzer/scripts
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/mv -f /volume1/@tmp/synopkg/install.ZKWiVz/scripts /var/packages/StorageAnalyzer/scripts ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/rm -rf /var/packages/StorageAnalyzer/conf
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/rm -rf /var/packages/StorageAnalyzer/conf ret=[0]
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 Begin /bin/mv -f /volume1/@tmp/synopkg/install.ZKWiVz/conf /var/packages/StorageAnalyzer/conf
+2024/09/21 10:56:11	install StorageAnalyzer 2.1.0-0620 End /bin/mv -f /volume1/@tmp/synopkg/install.ZKWiVz/conf /var/packages/StorageAnalyzer/conf ret=[0]
+2024/09/21 10:56:23	install StorageAnalyzer 2.1.0-0620 Begin postinst
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+2024/09/21 10:56:23	install StorageAnalyzer 2.1.0-0620 End postinst ret=[0]
+2024/09/21 10:56:27	install StorageAnalyzer 2.1.0-0620 Begin start-stop-status start
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+[pkg-StorageAnalyzer-GenerateGlobalData.service] started with no block.
+2024/09/21 10:56:27	install StorageAnalyzer 2.1.0-0620 End start-stop-status start ret=[0]
+2024/10/05 07:46:01	(system) trigger StorageAnalyzer 2.1.0-0620 Begin start-stop-status stop
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+synoreport: no process found
+2024/10/05 07:46:09	(system) trigger StorageAnalyzer 2.1.0-0620 End start-stop-status stop ret=[0]
+2024/10/05 07:48:35	(system) trigger StorageAnalyzer 2.1.0-0620 Begin start-stop-status start
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+[pkg-StorageAnalyzer-GenerateGlobalData.service] started with no block.
+2024/10/05 07:48:39	(system) trigger StorageAnalyzer 2.1.0-0620 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger StorageAnalyzer 2.1.0-0620 Begin start-stop-status stop
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+synoreport: no process found
+2024/10/09 04:28:36	(system) trigger StorageAnalyzer 2.1.0-0620 End start-stop-status stop ret=[0]
+2024/10/09 04:33:39	(system) trigger StorageAnalyzer 2.1.0-0620 Begin start-stop-status start
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+[pkg-StorageAnalyzer-GenerateGlobalData.service] started with no block.
+2024/10/09 04:33:40	(system) trigger StorageAnalyzer 2.1.0-0620 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger StorageAnalyzer 2.1.0-0620 Begin start-stop-status stop
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+synoreport: no process found
+2024/11/05 00:53:16	(system) trigger StorageAnalyzer 2.1.0-0620 End start-stop-status stop ret=[0]
+2024/11/05 07:06:47	(system) trigger StorageAnalyzer 2.1.0-0620 Begin start-stop-status start
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+Copyright (c) 2003-2023 Synology Inc. All rights reserved.
+
+[pkg-StorageAnalyzer-GenerateGlobalData.service] started with no block.
+2024/11/05 07:06:47	(system) trigger StorageAnalyzer 2.1.0-0620 End start-stop-status start ret=[0]

@@ -1,0 +1,907 @@
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin preinst
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End preinst ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/mkdir -p /usr/local/packages/@appstore/OAuthService -m 755
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/mkdir -p /usr/local/packages/@appstore/OAuthService -m 755 ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/rm -rf /usr/local/packages/@appstore/OAuthService
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/rm -rf /usr/local/packages/@appstore/OAuthService ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/mv -f /run/synopkg/tmp/install.ALiV8j/package /usr/local/packages/@appstore/OAuthService
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/mv -f /run/synopkg/tmp/install.ALiV8j/package /usr/local/packages/@appstore/OAuthService ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/rm -rf /var/packages/OAuthService
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/rm -rf /var/packages/OAuthService ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/mkdir -p /var/packages/OAuthService -m 755
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/mkdir -p /var/packages/OAuthService -m 755 ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/touch /var/packages/OAuthService/installing
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/touch /var/packages/OAuthService/installing ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/mv -f /run/synopkg/tmp/install.ALiV8j/INFO /var/packages/OAuthService/INFO
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/mv -f /run/synopkg/tmp/install.ALiV8j/INFO /var/packages/OAuthService/INFO ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/rm -rf /var/packages/OAuthService/scripts
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/rm -rf /var/packages/OAuthService/scripts ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/mv -f /run/synopkg/tmp/install.ALiV8j/scripts /var/packages/OAuthService/scripts
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/mv -f /run/synopkg/tmp/install.ALiV8j/scripts /var/packages/OAuthService/scripts ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/rm -rf /var/packages/OAuthService/conf
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/rm -rf /var/packages/OAuthService/conf ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin /bin/mv -f /run/synopkg/tmp/install.ALiV8j/conf /var/packages/OAuthService/conf
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End /bin/mv -f /run/synopkg/tmp/install.ALiV8j/conf /var/packages/OAuthService/conf ret=[0]
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 Begin postinst
+2024/09/08 17:17:04	install OAuthService 1.1.4-0101 End postinst ret=[0]
+2024/09/08 17:17:06	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/08 17:17:06	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/09 08:24:43	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/09 08:24:43	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/10 07:08:25	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/10 07:08:26	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/11 19:57:35	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/11 19:57:35	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/11 20:05:42	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/11 20:05:42	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/12 00:26:20	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/12 00:26:22	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/12 00:30:33	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 169.254.89.82/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/12 00:30:34	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/14 22:42:42	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/14 22:42:42	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/14 23:17:01	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/14 23:17:01	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/15 00:49:58	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.223/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/15 00:49:58	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/15 01:14:26	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/15 01:14:26	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/15 01:22:12	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+/bin/mkdir: cannot create directory '/usr/syno/synoman/oauth': File exists
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/15 01:22:12	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/15 01:31:07	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+/bin/mkdir: cannot create directory '/usr/syno/synoman/oauth': File exists
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/15 01:31:09	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/15 05:06:24	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+/bin/mkdir: cannot create directory '/usr/syno/synoman/oauth': File exists
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/15 05:06:25	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/15 05:09:40	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAU2024/09/15 05:15:27	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/15 05:15:31	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/16 05:35:16	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/16 05:35:16	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/16 05:39:49	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/16 05:39:49	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/16 19:28:24	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/16 19:28:25	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/16 19:33:10	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/16 19:33:10	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/17 04:54:16	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/17 04:54:16	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/17 04:58:51	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/17 04:58:51	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/17 05:46:13	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/17 05:46:14	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/17 05:50:59	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/17 05:50:59	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/17 10:41:29	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/17 10:41:30	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/17 10:46:13	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/17 10:46:13	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/20 07:36:31	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/20 07:36:32	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/20 07:51:32	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/20 07:51:32	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/09/20 11:28:39	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/09/20 11:28:39	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/09/20 11:34:53	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/09/20 11:34:53	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/10/09 04:28:33	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/10/09 04:28:34	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/10/09 04:33:37	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/10/09 04:33:38	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
+2024/11/05 00:53:14	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status stop
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":false,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : false,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+2024/11/05 00:53:15	(system) trigger OAuthService 1.1.4-0101 End start-stop-status stop ret=[0]
+2024/11/05 07:06:44	(system) trigger OAuthService 1.1.4-0101 Begin start-stop-status start
+Error: in prepare, no such table: oauth_meta
+nginx: [warn] duplicate extension "wasm", content type: "application/wasm", previous content type: "application/wasm" in /etc/nginx/mime.types:101
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+nginx: [warn] low address bits of 10.0.0.224/24 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:2
+nginx: [warn] low address bits of 10.0.0.224/16 are meaningless in /etc/nginx/conf.d/dsm.ssdp.conf:3
+[Line 265] Not a json value: OAuthService
+[Line 295] Exec WebAPI:  api=SYNO.Core.OAuth.Server, version=1, method=set, param={"enabled":true,"endpoint":"","expect":{"data":{"scope":"{scope}","username":"{userName}"}},"id":"OAuthService","params":"api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"}, runner=SYSTEM_ADMIN
+{
+   "data" : {
+      "enabled" : true,
+      "endpoint" : "",
+      "expect" : {
+         "data" : {
+            "scope" : "{scope}",
+            "username" : "{userName}"
+         }
+      },
+      "header" : "",
+      "id" : "OAuthService",
+      "params" : "api=SYNO.OAUTH.Token&version=1&method=verify&access_token={access_token}"
+   },
+   "httpd_restart" : false,
+   "success" : true
+}
+2024/11/05 07:06:44	(system) trigger OAuthService 1.1.4-0101 End start-stop-status start ret=[0]
