@@ -1,70 +1,44 @@
-2024-11-03T03:20:56+08:00 Yasuraokaa_Site su[21617]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-03T03:21:00+08:00 Yasuraokaa_Site su[22321]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-04T17:44:30+08:00 Yasuraokaa_Site su[6895]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-04T18:00:31+08:00 Yasuraokaa_Site su[9306]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-04T18:00:35+08:00 Yasuraokaa_Site su[10025]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:39:50+08:00 Yasuraokaa_Site su[17559]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:39:52+08:00 Yasuraokaa_Site su[17872]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:44:04+08:00 Yasuraokaa_Site sshd[19084]: pam_unix(sshd:session): session opened for user Yasuraokaa by (uid=0)
-2024-11-05T00:45:49+08:00 Yasuraokaa_Site sudo[19578]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:46:15+08:00 Yasuraokaa_Site sudo[19726]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:46:22+08:00 Yasuraokaa_Site sudo[19759]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:47:41+08:00 Yasuraokaa_Site sudo[20209]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:48:11+08:00 Yasuraokaa_Site sudo[20349]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:48:11+08:00 Yasuraokaa_Site sudo[20351]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:48:11+08:00 Yasuraokaa_Site sudo[20353]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:48:11+08:00 Yasuraokaa_Site sudo[20355]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:48:11+08:00 Yasuraokaa_Site sudo[20357]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:49:02+08:00 Yasuraokaa_Site sudo[20554]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:49:02+08:00 Yasuraokaa_Site sudo[20556]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T00:53:15+08:00 Yasuraokaa_Site su[22865]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:53:15+08:00 Yasuraokaa_Site su[22944]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:53:15+08:00 Yasuraokaa_Site su[22949]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:53:15+08:00 Yasuraokaa_Site su[22955]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:53:16+08:00 Yasuraokaa_Site su[23231]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:53:17+08:00 Yasuraokaa_Site su[23354]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T00:53:18+08:00 Yasuraokaa_Site su[23514]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T07:06:48+08:00 Yasuraokaa_Site su[19087]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T07:06:49+08:00 Yasuraokaa_Site sudo[19796]: pam_unix(sudo:session): session opened for user SynologyApplicationService by (uid=0)
-2024-11-05T07:06:49+08:00 Yasuraokaa_Site sudo[19818]: pam_unix(sudo:session): session opened for user SynologyApplicationService by (uid=0)
-2024-11-05T07:06:54+08:00 Yasuraokaa_Site su[20858]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:06:59+08:00 Yasuraokaa_Site su[21433]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:06:59+08:00 Yasuraokaa_Site su[21437]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:06:59+08:00 Yasuraokaa_Site su[21444]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:01+08:00 Yasuraokaa_Site su[21632]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21639]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21643]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21667]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21671]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21676]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21680]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21684]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21688]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21692]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21696]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21700]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:02+08:00 Yasuraokaa_Site su[21730]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:03+08:00 Yasuraokaa_Site su[21734]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:03+08:00 Yasuraokaa_Site su[21758]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:03+08:00 Yasuraokaa_Site su[21765]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:03+08:00 Yasuraokaa_Site su[21769]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:03+08:00 Yasuraokaa_Site su[21773]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:03+08:00 Yasuraokaa_Site su[21781]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:04+08:00 Yasuraokaa_Site su[21804]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:04+08:00 Yasuraokaa_Site su[21812]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:04+08:00 Yasuraokaa_Site su[21817]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:04+08:00 Yasuraokaa_Site su[21821]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:04+08:00 Yasuraokaa_Site su[21825]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:07:04+08:00 Yasuraokaa_Site su[21829]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
-2024-11-05T07:35:26+08:00 Yasuraokaa_Site su[30502]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T07:35:26+08:00 Yasuraokaa_Site su[31129]: pam_unix(su-l:session): session opened for user mysql by (uid=0)
-2024-11-05T07:36:46+08:00 Yasuraokaa_Site sshd[31678]: pam_unix(sshd:session): session opened for user Yasuraokaa by (uid=0)
-2024-11-05T07:37:47+08:00 Yasuraokaa_Site sudo[31903]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T07:40:08+08:00 Yasuraokaa_Site sudo[32464]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T07:43:31+08:00 Yasuraokaa_Site sudo[906]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T07:43:31+08:00 Yasuraokaa_Site sudo[908]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T07:45:09+08:00 Yasuraokaa_Site sudo[1363]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T07:45:39+08:00 Yasuraokaa_Site sudo[1462]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T07:46:42+08:00 Yasuraokaa_Site sudo[1720]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T07:49:04+08:00 Yasuraokaa_Site sudo[2198]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
-2024-11-05T07:50:06+08:00 Yasuraokaa_Site sudo[2375]: pam_unix(sudo:session): session opened for user root by Yasuraokaa(uid=1026)
+2024-09-10T07:25:27+08:00 Synology_NAS synoscgi_SYNO.API.Auth_7_login[13748]: pam_unix(webui:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=10.0.0.147  user=Allen
+2024-09-11T20:09:11+08:00 Synology_NAS su[16510]: pam_unix(su:session): session opened for user postgres by (uid=0)
+2024-09-11T20:09:14+08:00 Synology_NAS su[16510]: pam_unix(su:session): session closed for user postgres
+2024-09-11T20:09:27+08:00 Synology_NAS sudo[18978]:     root : PWD=/ ; USER=SynologyApplicationService ; COMMAND=/usr/bin/psql -lqt
+2024-09-11T20:10:04+08:00 Synology_NAS synoscimprofile[21731]: ../..//include/converter/../dao/BaseDao.h:21 ERROR: setresuid(-1, 0, -1) [Operation not permitted]
+2024-09-11T20:10:07+08:00 Synology_NAS synoscimprofile[7168]: SYSTEM:	Last message '../..//include/conve' repeated 14 times, suppressed by syslog-ng on Synology_NAS
+2024-09-11T20:10:07+08:00 Synology_NAS su[22021]: pam_unix(su:session): session opened for user postgres by (uid=0)
+2024-09-11T20:10:08+08:00 Synology_NAS su[22021]: pam_unix(su:session): session closed for user postgres
+2024-09-11T20:10:08+08:00 Synology_NAS su[22042]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:07+08:00 Synology_NAS su[22021]: pam_unix(su:session): session opened for user postgres by (uid=0)
+2024-09-11T20:10:08+08:00 Synology_NAS su[22042]: pam_unix(su:session): session closed for user office
+2024-09-11T20:10:08+08:00 Synology_NAS su[22045]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:08+08:00 Synology_NAS su[22045]: pam_unix(su:session): session closed for user office
+2024-09-11T20:10:08+08:00 Synology_NAS su[22050]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:08+08:00 Synology_NAS su[22045]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:08+08:00 Synology_NAS su[22050]: pam_unix(su:session): session closed for user office
+2024-09-11T20:10:08+08:00 Synology_NAS su[22066]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:08+08:00 Synology_NAS su[22066]: pam_unix(su:session): session closed for user office
+2024-09-11T20:10:10+08:00 Synology_NAS su[22100]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:08+08:00 Synology_NAS su[22066]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:10+08:00 Synology_NAS su[22100]: pam_unix(su:session): session closed for user office
+2024-09-11T20:10:28+08:00 Synology_NAS su[22581]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:28+08:00 Synology_NAS su[22581]: pam_unix(su:session): session closed for user office
+2024-09-11T20:10:32+08:00 Synology_NAS su[23098]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:28+08:00 Synology_NAS su[22581]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:32+08:00 Synology_NAS su[23098]: pam_unix(su:session): session closed for user office
+2024-09-11T20:10:32+08:00 Synology_NAS su[23127]: pam_unix(su:session): session opened for user office by (uid=0)
+2024-09-11T20:10:32+08:00 Synology_NAS su[23127]: pam_unix(su:session): session closed for user office
+2024-09-11T20:29:58+08:00 Synology_NAS su[8088]: pam_unix(su:session): session opened for user postgres by (uid=0)
+2024-09-12T00:25:05+08:00 Synology_NAS synoscgi_SYNO.API.Auth_7_login[16979]: pam_unix(webui:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=10.0.0.95  user=Allen
+2024-09-15T00:00:47+08:00 Synology_NAS synoscgi_SYNO.Core.User.PasswordConfirm_2_auth[4907]: pam_unix(confirm:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=Allen
+2024-09-15T05:06:24+08:00 Synology_NAS su[14188]: pam_unix(su:session): session opened for user postgres by (uid=0)
+2024-09-15T05:06:31+08:00 Synology_NAS su[14188]: pam_unix(su:session): session closed for user postgres
+2024-09-15T05:16:21+08:00 Synology_NAS su[19407]: pam_unix(su:session): session opened for user DownloadStation by (uid=0)
+2024-09-23T23:27:45+08:00 Synology_NAS sshd[2159]: fatal: userauth_finish: Connection reset by peer [preauth]
+2024-09-23T23:29:24+08:00 Synology_NAS sudo[2593]:    Allen : TTY=pts/0 ; PWD=/ ; USER=root ; COMMAND=/bin/systemctl status docker
+2024-09-23T23:29:24+08:00 Synology_NAS sudo[2593]: pam_unix(sudo:session): session opened for user root by Allen(uid=1026)
+2024-09-23T23:29:24+08:00 Synology_NAS sudo[2593]: pam_unix(sudo:session): session closed for user root
+2024-09-23T23:50:52+08:00 Synology_NAS sshd[2202]: pam_unix(sshd:session): session closed for user Allen
+2024-09-28T12:20:34+08:00 Synology_NAS synoscimprofile[7605]: SYSTEM:	Last message '../..//include/conve' repeated 14 times, suppressed by syslog-ng on Synology_NAS
+2024-09-28T12:58:30+08:00 Synology_NAS sudo[28611]:    Allen : TTY=pts/0 ; PWD=/volume1/docker ; USER=root ; COMMAND=/bin/su
+2024-09-28T12:58:30+08:00 Synology_NAS sudo[28611]: pam_unix(sudo:session): session opened for user root by Allen(uid=1026)
+2024-09-28T12:58:30+08:00 Synology_NAS su[28666]: pam_unix(su:session): session opened for user root by Allen(uid=0)
+2024-09-28T13:07:31+08:00 Synology_NAS sshd[26961]: pam_unix(sshd:session): session closed for user Allen
